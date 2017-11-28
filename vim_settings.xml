@@ -1,10 +1,28 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/web/gsk/resources/assets/sass/_partial.scss" timestamp="1511860990373">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/forum/tests/Feature/ReadThreadsTest.php" timestamp="1510663325703">
         <mark key="[" line="43" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/web/gsk/resources/assets/sass/_nav.scss" timestamp="1511860717914">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/web/gsk/resources/views/frontend/footer.blade.php" timestamp="1511790498846">
+        <mark key="'" line="2" column="20" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/git/web/gsk_old/.env" timestamp="1510665871034">
         <mark key="[" line="14" column="20" />
@@ -25,27 +43,65 @@
     </filemarks>
     <jumps>
       <jump line="4" column="0" filename="$USER_HOME$/git/web/gsk_old/.env.example" />
+      <jump line="2" column="20" filename="$USER_HOME$/git/web/gsk/resources/views/frontend/footer.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLy90cmFuc2Zvcm06IHNjYWxlKC0xLCAtMSkgdHJhbnNsYXRlWCgwKTsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy90cmFuc2Zvcm06IHNjYWxlKC0xLCAtMSkgdHJhbnNsYXRlWCgwKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLy90cmFuc2Zvcm06IHNjYWxlKC0xLCAtMSkgdHJhbnNsYXRlWCgwKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLy9wb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIC8vbWFyZ2luOiAwOwogICAgICAvL2xpbmUtaGVpZ2h0OiAxOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vdHJhbnNmb3JtLW9yaWdpbjogbGVmdCB0b3A7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vdHJhbnNmb3JtOiByb3RhdGUoOTBkZWcpIHRyYW5zbGF0ZSgwcHgsIC0yNTBweCk7Cg==</text>
+      </register>
+      <register name="7" type="8">
+        <text>col-md-4
+col-md-4
+col-md-4</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/aligner-item/col-md-4/g</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>transparent</text>
+      </register>
+      <register name="/" type="4">
+        <text>aligner-item</text>
       </register>
     </registers>
     <search>
+      <last-search>aligner-item</last-search>
+      <last-pattern>aligner-item</last-pattern>
+      <last-replace>col-md-4</last-replace>
+      <last-substitute>aligner-item</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>aligner-item</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/aligner-item/col-md-4/g</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -57,8 +113,20 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
