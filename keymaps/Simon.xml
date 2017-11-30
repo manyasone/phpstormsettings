@@ -46,14 +46,23 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="IntroduceVariable" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="altGraph tab" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
@@ -66,6 +75,12 @@
   </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="altGraph h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="altGraph v" />
   </action>
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
