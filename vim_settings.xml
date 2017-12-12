@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/web/gsk/resources/assets/sass/_partial.scss" timestamp="1511865643644">
@@ -9,6 +9,12 @@
         <mark key="]" line="24" column="10" />
         <mark key="^" line="24" column="10" />
         <mark key="." line="24" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/forum/tests/Feature/ParticipateInThreadsTest.php" timestamp="1513067522993">
+        <mark key="[" line="63" column="27" />
+        <mark key="]" line="63" column="27" />
+        <mark key="^" line="63" column="26" />
+        <mark key="." line="63" column="27" />
       </file>
       <file name="$USER_HOME$/projects/forum/tests/Feature/ReadThreadsTest.php" timestamp="1510663325703">
         <mark key="[" line="43" column="35" />
@@ -47,6 +53,13 @@
         <mark key="^" line="17" column="19" />
         <mark key="." line="25" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/forum/app/Http/Controllers/RepliesController.php" timestamp="1513067853463">
+        <mark key="'" line="70" column="3" />
+        <mark key="[" line="95" column="5" />
+        <mark key="]" line="69" column="3" />
+        <mark key="." line="69" column="3" />
+        <mark key="^" line="69" column="3" />
+      </file>
       <file name="$USER_HOME$/git/web/gsk/routes/frontend.php" timestamp="1511276089093">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -75,19 +88,21 @@
       <jump line="22" column="2" filename="$USER_HOME$/git/web/gsk/resources/assets/sass/_partial.scss" />
       <jump line="12" column="0" filename="$USER_HOME$/git/web/gsk/resources/assets/sass/_partial.scss" />
       <jump line="13" column="10" filename="$USER_HOME$/git/web/gsk/resources/assets/sass/_partial.scss" />
+      <jump line="72" column="8" filename="$USER_HOME$/projects/forum/app/Http/Controllers/RepliesController.php" />
+      <jump line="70" column="3" filename="$USER_HOME$/projects/forum/app/Http/Controllers/RepliesController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGMmJhM2ZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgJi1jb2xvci1hIHsKCiAgICAmLXRpdGxlIHsKICAgICAgYmFja2dyb3VuZDogJHBhcnRpYWwtYS1iZzsKICAgICAgY29sb3I6ICRwYXJ0aWFsLWEtdGV4dDsKICAgIH0KICAgICYtc2VwYXJhdG9yIHsKICAgICAgYmFja2dyb3VuZDogJHBhcnRpYWwtc2VwYXJhdG9yLWJnOwogICAgfQogIH0KICAK</text>
+        <text encoding="base64">CiAgICAgICAgJHRoaXMtPmRlbGV0ZSgiL3JlcGxpZXMveyAkcmVwbHktPmlkIH0iKQogICAgICAgICAgICAtPmFzc2VydFJlZGlyZWN0KCdsb2dpbicpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

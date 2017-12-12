@@ -25,6 +25,16 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="x" />
   </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollDownAndMove">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorScrollUp" />
+  <action id="EditorScrollUpAndMove">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="ExpressionTypeInfo" />
