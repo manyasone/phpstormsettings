@@ -23,12 +23,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/forum/app/Http/Controllers/FavoritesController.php" timestamp="1513088193438">
+      <file name="$USER_HOME$/projects/forum/app/Http/Controllers/FavoritesController.php" timestamp="1513089867683">
         <mark key="'" line="0" column="1" />
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="22" column="3" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="22" column="3" />
-        <mark key="." line="22" column="3" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/resources/views/layouts/row.blade.php" timestamp="1511865347312">
         <mark key="[" line="0" column="45" />
@@ -36,16 +36,30 @@
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/forum/resources/assets/js/pages/Thread.vue" timestamp="1513093862267">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/forum/resources/views/layouts/app.blade.php" timestamp="1513081845405">
         <mark key="'" line="5" column="42" />
         <mark key="[" line="22" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/forum/resources/assets/js/app.js" timestamp="1513073564392">
+      <file name="$USER_HOME$/projects/forum/resources/assets/js/app.js" timestamp="1513093523766">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="18" column="45" />
-        <mark key="]" line="18" column="45" />
-        <mark key="." line="18" column="45" />
-        <mark key="^" line="18" column="19" />
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="46" />
+        <mark key="^" line="20" column="45" />
+        <mark key="." line="20" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/forum/resources/assets/js/components/Replies.vue" timestamp="1513093959235">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/forum/app/Providers/AuthServiceProvider.php" timestamp="1513071614615">
         <mark key="'" line="0" column="0" />
@@ -61,18 +75,25 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/forum/resources/assets/js/components/Favorite.vue" timestamp="1513088115296">
-        <mark key="'" line="1" column="26" />
-        <mark key="[" line="30" column="39" />
-        <mark key="]" line="30" column="39" />
-        <mark key="." line="30" column="39" />
+      <file name="$USER_HOME$/projects/forum/resources/assets/js/components/Favorite.vue" timestamp="1513092531113">
+        <mark key="'" line="42" column="15" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/forum/app/Favoritable.php" timestamp="1513088476268">
-        <mark key="'" line="12" column="11" />
-        <mark key="[" line="25" column="46" />
-        <mark key="]" line="25" column="32" />
-        <mark key="." line="25" column="32" />
-        <mark key="^" line="25" column="32" />
+      <file name="$USER_HOME$/projects/forum/resources/views/threads/show.blade.php" timestamp="1513093620204">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="68" column="9" />
+        <mark key="^" line="68" column="0" />
+        <mark key="." line="68" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/forum/app/Favoritable.php" timestamp="1513091732890">
+        <mark key="'" line="32" column="69" />
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="32" column="69" />
+        <mark key="." line="32" column="69" />
+        <mark key="^" line="32" column="69" />
       </file>
       <file name="$USER_HOME$/projects/forum/routes/web.php" timestamp="1513088562710">
         <mark key="'" line="27" column="35" />
@@ -81,9 +102,9 @@
         <mark key="." line="31" column="42" />
         <mark key="^" line="31" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/forum/app/Reply.php" timestamp="1513087753598">
+      <file name="$USER_HOME$/projects/forum/app/Reply.php" timestamp="1513090057783">
         <mark key="'" line="30" column="5" />
-        <mark key="[" line="14" column="0" />
+        <mark key="[" line="15" column="9" />
         <mark key="]" line="30" column="3" />
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="3" />
@@ -113,18 +134,16 @@
         <mark key="." line="20" column="30" />
         <mark key="^" line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/forum/resources/assets/js/components/Reply.vue" timestamp="1513085136739">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
+      <file name="$USER_HOME$/projects/forum/resources/assets/js/components/Reply.vue" timestamp="1513095143624">
+        <mark key="'" line="29" column="0" />
+        <mark key="^" line="6" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/forum/resources/views/threads/reply.blade.php" timestamp="1513086740736">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="9" column="20" />
-        <mark key="^" line="9" column="20" />
+      <file name="$USER_HOME$/projects/forum/resources/views/threads/reply.blade.php" timestamp="1513094027900">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="34" column="7" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/forum/tests/Feature/ParticipateInThreadsTest.php" timestamp="1513075677280">
         <mark key="'" line="71" column="8" />
@@ -163,6 +182,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/forum/resources/views/profiles/show.blade.php" timestamp="1513092281354">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="12" column="23" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="4" column="0" filename="$USER_HOME$/git/web/gsk_old/.env.example" />
@@ -188,11 +213,9 @@
       <jump line="5" column="42" filename="$USER_HOME$/projects/forum/resources/views/layouts/app.blade.php" />
       <jump line="7" column="16" filename="$USER_HOME$/projects/forum/resources/views/threads/reply.blade.php" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/forum/resources/views/threads/reply.blade.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/Reply.vue" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/Reply.vue" />
       <jump line="26" column="12" filename="$USER_HOME$/projects/forum/resources/views/threads/reply.blade.php" />
-      <jump line="0" column="28" filename="$USER_HOME$/projects/forum/resources/views/threads/reply.blade.php" />
       <jump line="70" column="0" filename="$USER_HOME$/projects/forum/tests/Feature/ParticipateInThreadsTest.php" />
       <jump line="69" column="0" filename="$USER_HOME$/projects/forum/tests/Feature/ParticipateInThreadsTest.php" />
       <jump line="71" column="8" filename="$USER_HOME$/projects/forum/tests/Feature/ParticipateInThreadsTest.php" />
@@ -212,7 +235,6 @@
       <jump line="26" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Reply.vue" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Reply.vue" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Reply.vue" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Reply.vue" />
       <jump line="14" column="14" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Favorite.vue" />
       <jump line="27" column="35" filename="$USER_HOME$/projects/forum/routes/web.php" />
       <jump line="0" column="1" filename="$USER_HOME$/projects/forum/app/Http/Controllers/FavoritesController.php" />
@@ -223,55 +245,70 @@
       <jump line="11" column="0" filename="$USER_HOME$/projects/forum/app/Favoritable.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/forum/app/Favoritable.php" />
       <jump line="12" column="11" filename="$USER_HOME$/projects/forum/app/Favoritable.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/app.js" />
+      <jump line="40" column="15" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Favorite.vue" />
+      <jump line="5" column="15" filename="$USER_HOME$/projects/forum/app/Favoritable.php" />
+      <jump line="25" column="69" filename="$USER_HOME$/projects/forum/app/Favoritable.php" />
+      <jump line="1" column="4" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Replies.vue" />
+      <jump line="11" column="12" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Replies.vue" />
+      <jump line="2" column="21" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Replies.vue" />
+      <jump line="9" column="4" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Replies.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/pages/Thread.vue" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/forum/resources/views/threads/show.blade.php" />
+      <jump line="11" column="33" filename="$USER_HOME$/projects/forum/resources/views/threads/reply.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/forum/resources/views/threads/reply.blade.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Reply.vue" />
+      <jump line="7" column="48" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Reply.vue" />
+      <jump line="29" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Reply.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cG9zdCgncmVwbGllcy8nIC4gJHJlcGx5LT5pZCAuICcvZmF2b3JpdGVzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJwYW5lbC1mb290ZXIgbGV2ZWwiPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>{</text>
+        <text>each</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmYXZvcml0ZSgpCiAgICB7CiAgICAgICAgJGF0dHJpYnV0ZXMgPSBbJ3VzZXJfaWQnID0+IGF1dGgoKS0+aWQoKV07CiAgICAgICAgCiAgICAgICAgaWYgKCEkdGhpcy0+ZmF2b3JpdGVzKCktPndoZXJlKCRhdHRyaWJ1dGVzKS0+ZXhpc3RzKCkpIHsKICAgICAgICAgICAgJHRoaXMtPmZhdm9yaXRlcygpLT5jcmVhdGUoJGF0dHJpYnV0ZXMpOyAgCiAgICAgICAgfQogICAgfQoK</text>
+        <text encoding="base64">PHJlcGx5IDphdHRyaWJ1dGVzPSJ7eyAkcmVwbHkgfX0iIGlubGluZS10ZW1wbGF0ZSB2LWNsb2FrPgogICAgPGRpdiBpZD0icmVwbHkte3sgJHJlcGx5LT5pZCB9fSIgY2xhc3M9InBhbmVsIHBhbmVsLWRlZmF1bHQiPgogICAgICAgIDxkaXYgY2xhc3M9InBhbmVsLWhlYWRpbmciPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJsZXZlbCI+CgogICAgICAgICAgICAgICAgPGg1IGNsYXNzPSJmbGV4Ij4KICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyByb3V0ZSgncHJvZmlsZScsICRyZXBseS0+dXNlcil9fSI+CiAgICAgICAgICAgICAgICAgICAgICAgIHt7ICRyZXBseS0+dXNlci0+bmFtZSB9fQogICAgICAgICAgICAgICAgICAgIDwvYT4gc2FpZCB7eyAkcmVwbHktPmNyZWF0ZWRfYXQtPmRpZmZGb3JIdW1hbnMoKX19CiAgICAgICAgICAgICAgICA8L2g1PgoKICAgICAgICAgICAgICAgIEBpZihBdXRoOjpjaGVjaygpKQogICAgICAgICAgICAgICAgICAgPGZhdm9yaXRlIDpyZXBseT0ie3sgJHJlcGx5IH19Ij48L2Zhdm9yaXRlPgogICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzPSJwYW5lbC1ib2R5Ij4KICAgICAgICAgICAgPGRpdiB2LWlmPSJlZGl0aW5nIj4KICAgICAgICAgICAgICAgIDx0ZXh0YXJlYSBjbGFzcz0iZm9ybS1jb250cm9sIiB2LW1vZGVsPSJib2R5Ij48L3RleHRhcmVhPgoKICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4teHMgYnRuLXByaW1hcnkiIEBjbGljaz0idXBkYXRlIj5VcGRhdGU8L2J1dHRvbj4KICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4teHMgYnRuLWxpbmsiIEBjbGljaz0iZWRpdGluZyA9IGZhbHNlIj5DYW5jZWw8L2J1dHRvbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgdi1lbHNlIHYtdGV4dD0iYm9keSI+PC9kaXY+CiAgICAgICAgPC9kaXY+CgogICAgICAgIEBjYW4oJ3VwZGF0ZScsICRyZXBseSkKICAgICAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwtZm9vdGVyIGxldmVsIj4KICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4teHMgbXItMSIgQGNsaWNrPSJlZGl0aW5nID0gdHJ1ZSI+RWRpdDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi14cyBidG4tZGFuZ2VyIiBAY2xpY2s9ImRlc3Ryb3kiPkRlbGV0ZTwvYnV0dG9uPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICBAZW5kY2FuCiAgICA8L2Rpdj4KPC9yZXBseT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cG9zdCgncmVwbGllcy8nIC4gJHJlcGx5LT5pZCAuICcvZmF2b3JpdGVzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJwYW5lbC1mb290ZXIgbGV2ZWwiPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3tkYXRhLnVzZXIubmFtZX19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISR0aGlzLT5mYXZvcml0ZXMoKS0+d2hlcmUoJGF0dHJpYnV0ZXMpLT5leGlzdHMoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2E+IHNhaWQge3sgJHJlcGx5LmNyZWF0ZWRfYXQtPn19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFjaygpOwo=</text>
+        <text encoding="base64">ICAgIDwvcmVwbHk+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxyZXBseSA6YXR0cmlidXRlcz0ie3sgJHJlcGx5IH19IiBpbmxpbmUtdGVtcGxhdGUgdi1jbG9haz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVwbHktPnVuZmF2b3JpdGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZmF2b3JpdGVzQ291bnQrKzsK</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudDogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZmF2b3JpdGVzQ291bnQrKzsK</text>
+        <text encoding="base64">CjxzdHlsZSBzY29wZWQ+Cgo8L3N0eWxlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZmF2b3JpdGVzQ291bnQrKzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/aligner-item/col-md-4/g</text>
       </register>
     </registers>
     <search>
-      <last-search>{</last-search>
+      <last-search>each</last-search>
       <last-offset />
-      <last-pattern>{</last-pattern>
+      <last-pattern>each</last-pattern>
       <last-replace>col-md-4</last-replace>
       <last-substitute>aligner-item</last-substitute>
       <last-dir>-1</last-dir>
@@ -283,6 +320,7 @@
         <entry encoding="base64">XDxGMmJhM2ZcPg==</entry>
         <entry>]</entry>
         <entry>{</entry>
+        <entry>each</entry>
       </history-search>
       <history-cmd>
         <entry>%s/aligner-item/col-md-4/g</entry>
@@ -327,6 +365,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
