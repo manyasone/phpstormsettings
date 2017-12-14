@@ -36,6 +36,12 @@
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
       </file>
+      <file name="$USER_HOME$/git/web/foodahoo/database/seeds/UsersTableSeeder.php" timestamp="1513256694053">
+        <mark key="[" line="27" column="63" />
+        <mark key="]" line="27" column="63" />
+        <mark key="." line="27" column="63" />
+        <mark key="^" line="27" column="44" />
+      </file>
       <file name="$USER_HOME$/projects/forum/resources/assets/js/pages/Thread.vue" timestamp="1513093862267">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="31" />
@@ -101,6 +107,9 @@
         <mark key="." line="31" column="42" />
         <mark key="^" line="31" column="41" />
       </file>
+      <file name="/Dummy.txt" timestamp="1513256558137">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/forum/app/Reply.php" timestamp="1513090057783">
         <mark key="'" line="30" column="5" />
         <mark key="[" line="15" column="9" />
@@ -153,22 +162,12 @@
         <mark key="." line="103" column="18" />
         <mark key="^" line="103" column="18" />
       </file>
-      <file name="$USER_HOME$/git/web/gsk/resources/assets/sass/_global.scss" timestamp="1511865064070">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/forum/app/Http/Controllers/RepliesController.php" timestamp="1513083919945">
         <mark key="'" line="86" column="47" />
         <mark key="[" line="100" column="24" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
         <mark key="^" line="86" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/forum/resources/views/profiles/activities/created_favorite.blade.php" timestamp="1513072970879">
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="19" column="9" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/routes/frontend.php" timestamp="1511276089093">
         <mark key="[" line="15" column="0" />
@@ -188,6 +187,10 @@
         <mark key="]" line="21" column="23" />
         <mark key="." line="21" column="23" />
         <mark key="^" line="12" column="23" />
+      </file>
+      <file name="$USER_HOME$/git/web/foodahoo/resources/views/vendor/backpack/base/inc/sidebar.blade.php" timestamp="1513256555316">
+        <mark key="[" line="29" column="86" />
+        <mark key="]" line="29" column="100" />
       </file>
     </filemarks>
     <jumps>
@@ -264,17 +267,17 @@
       <jump line="3" column="33" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Replies.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>4915123807876</text>
       </register>
       <register name="-" type="4">
-        <text>V</text>
+        <text>4915123807876</text>
       </register>
       <register name="/" type="4">
         <text>each</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHJlcGx5IDphdHRyaWJ1dGVzPSJ7eyAkcmVwbHkgfX0iIGlubGluZS10ZW1wbGF0ZSB2LWNsb2FrPgogICAgPGRpdiBpZD0icmVwbHkte3sgJHJlcGx5LT5pZCB9fSIgY2xhc3M9InBhbmVsIHBhbmVsLWRlZmF1bHQiPgogICAgICAgIDxkaXYgY2xhc3M9InBhbmVsLWhlYWRpbmciPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJsZXZlbCI+CgogICAgICAgICAgICAgICAgPGg1IGNsYXNzPSJmbGV4Ij4KICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyByb3V0ZSgncHJvZmlsZScsICRyZXBseS0+dXNlcil9fSI+CiAgICAgICAgICAgICAgICAgICAgICAgIHt7ICRyZXBseS0+dXNlci0+bmFtZSB9fQogICAgICAgICAgICAgICAgICAgIDwvYT4gc2FpZCB7eyAkcmVwbHktPmNyZWF0ZWRfYXQtPmRpZmZGb3JIdW1hbnMoKX19CiAgICAgICAgICAgICAgICA8L2g1PgoKICAgICAgICAgICAgICAgIEBpZihBdXRoOjpjaGVjaygpKQogICAgICAgICAgICAgICAgICAgPGZhdm9yaXRlIDpyZXBseT0ie3sgJHJlcGx5IH19Ij48L2Zhdm9yaXRlPgogICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzPSJwYW5lbC1ib2R5Ij4KICAgICAgICAgICAgPGRpdiB2LWlmPSJlZGl0aW5nIj4KICAgICAgICAgICAgICAgIDx0ZXh0YXJlYSBjbGFzcz0iZm9ybS1jb250cm9sIiB2LW1vZGVsPSJib2R5Ij48L3RleHRhcmVhPgoKICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4teHMgYnRuLXByaW1hcnkiIEBjbGljaz0idXBkYXRlIj5VcGRhdGU8L2J1dHRvbj4KICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4teHMgYnRuLWxpbmsiIEBjbGljaz0iZWRpdGluZyA9IGZhbHNlIj5DYW5jZWw8L2J1dHRvbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgdi1lbHNlIHYtdGV4dD0iYm9keSI+PC9kaXY+CiAgICAgICAgPC9kaXY+CgogICAgICAgIEBjYW4oJ3VwZGF0ZScsICRyZXBseSkKICAgICAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwtZm9vdGVyIGxldmVsIj4KICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4teHMgbXItMSIgQGNsaWNrPSJlZGl0aW5nID0gdHJ1ZSI+RWRpdDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi14cyBidG4tZGFuZ2VyIiBAY2xpY2s9ImRlc3Ryb3kiPkRlbGV0ZTwvYnV0dG9uPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICBAZW5kY2FuCiAgICA8L2Rpdj4KPC9yZXBseT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgWydQZXRlcicsICdXYXNzZXJtYW5uJywgJ3BldGVyLndhc3Nlcm1hbm5Ad2ViZmFjdG9yLmRlJywgJys0OTE1MTIzODA3ODc2J10sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgfSk7Cg==</text>
