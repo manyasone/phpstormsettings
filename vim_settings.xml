@@ -265,6 +265,7 @@
       <jump line="29" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Reply.vue" />
       <jump line="2" column="23" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Replies.vue" />
       <jump line="3" column="33" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Replies.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/foodahoo/app/Http/Requests/Admin/ShopCrudRequest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -373,6 +374,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
