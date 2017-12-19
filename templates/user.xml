@@ -34,7 +34,7 @@
       <option name="VUE_TEMPLATE" value="true" />
     </context>
   </template>
-  <template name="vuedata" value="data() {&#10;    return {&#10;       $END$ &#10;    };&#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="vuedata" value="data() {&#10;    return {&#10;       $END$ &#10;    };&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JSX_HTML" value="false" />
