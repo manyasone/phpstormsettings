@@ -43,7 +43,7 @@
       <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
     </context>
   </template>
-  <template name="funfun" value="function ($PARAM$) {&#10;   $END$&#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="funfun" value="function ($PARAM$) {&#10;   $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
@@ -62,7 +62,7 @@
       <option name="PHP String Literal" value="false" />
     </context>
   </template>
-  <template name="testclass" value="&lt;?php&#10;&#10;namespace Tests\$FOLDER$;&#10;&#10;use Tests\TestCase;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;&#10;class $NAME$ extends TestCase&#10;{&#10;    use RefreshDatabase;&#10;&#10;    /** @test */&#10;    function $TEST$()&#10;    {&#10;        $END$&#10;    }&#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="testclass" value="&lt;?php&#10;&#10;namespace Tests\$FOLDER$;&#10;&#10;use Tests\TestCase;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;&#10;class $NAME$ extends TestCase&#10;{&#10;    use RefreshDatabase;&#10;&#10;    /** @test */&#10;    function $TEST$()&#10;    {&#10;        $END$&#10;    }&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="FOLDER" expression="" defaultValue="&quot;Feature&quot;" alwaysStopAt="true" />
     <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <variable name="TEST" expression="" defaultValue="&quot;it_&quot;" alwaysStopAt="true" />

@@ -1,32 +1,14 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/web/gsk/resources/assets/sass/_partial.scss" timestamp="1511865643644">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="24" column="10" />
-        <mark key="]" line="24" column="10" />
-        <mark key="^" line="24" column="10" />
-        <mark key="." line="24" column="10" />
-      </file>
       <file name="$USER_HOME$/projects/forum/app/Policies/ReplyPolicy.php" timestamp="1513071589818">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="12" />
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/forum/resources/assets/js/mixins/collection.js" timestamp="1513778137234">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/forum/resources/assets/js/Reply.vue" timestamp="1513073629398">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/forum/app/Http/Controllers/FavoritesController.php" timestamp="1513089867683">
         <mark key="'" line="0" column="1" />
@@ -40,6 +22,103 @@
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/forum/resources/views/layouts/app.blade.php" timestamp="1513774450251">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="27" column="81" />
+        <mark key="." line="27" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/forum/app/Providers/AuthServiceProvider.php" timestamp="1513773976381">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+        <mark key="^" line="17" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/forum/resources/views/threads/show.blade.php" timestamp="1513846749909">
+        <mark key="'" line="3" column="85" />
+        <mark key="[" line="42" column="49" />
+        <mark key="]" line="48" column="13" />
+        <mark key="." line="48" column="13" />
+        <mark key="^" line="48" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/forum/database/migrations/2017_11_07_105018_create_threads_table.php" timestamp="1513785335520">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/forum/routes/web.php" timestamp="1513844789857">
+        <mark key="'" line="28" column="35" />
+        <mark key="[" line="30" column="94" />
+        <mark key="]" line="30" column="57" />
+        <mark key="." line="30" column="57" />
+        <mark key="^" line="30" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/forum/storage/framework/views/59c3abe528ed85d90ca550e6691555f20979d71a.php" timestamp="1513698456426">
+        <mark key="[" line="35" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/forum/resources/assets/js/components/SubscribeButton.vue" timestamp="1513846680045">
+        <mark key="'" line="1" column="32" />
+        <mark key="[" line="10" column="69" />
+        <mark key="]" line="10" column="69" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="1" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/forum/tests/Feature/FavoritesTest.php" timestamp="1513088869564">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/forum/resources/views/layouts/nav.blade.php" timestamp="1513783456474">
+        <mark key="[" line="35" column="60" />
+        <mark key="]" line="35" column="60" />
+        <mark key="." line="35" column="60" />
+        <mark key="^" line="35" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/forum/app/ThreadSubscription.php" timestamp="1513788862867">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/config/permission.php" timestamp="1513258186515">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="53" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/forum/tests/Feature/ChannelTest.php" timestamp="1513790501459">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/gsk/routes/frontend.php" timestamp="1511276089093">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/forum/resources/assets/js/bootstrap.js" timestamp="1513774687662">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="42" column="64" />
+        <mark key="]" line="42" column="71" />
+        <mark key="^" line="42" column="71" />
+        <mark key="." line="42" column="71" />
+      </file>
+      <file name="$USER_HOME$/git/web/gsk/resources/assets/sass/_partial.scss" timestamp="1511865643644">
+        <mark key="'" line="13" column="10" />
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="24" column="10" />
+        <mark key="^" line="24" column="10" />
+        <mark key="." line="24" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/forum/resources/assets/js/Reply.vue" timestamp="1513073629398">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/foodahoo/database/seeds/UsersTableSeeder.php" timestamp="1513257686965">
         <mark key="'" line="0" column="0" />
@@ -55,24 +134,18 @@
         <mark key="." line="82" column="38" />
         <mark key="^" line="82" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/forum/resources/assets/js/pages/Thread.vue" timestamp="1513267369000">
-        <mark key="'" line="10" column="31" />
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="10" column="32" />
-        <mark key="." line="10" column="32" />
-        <mark key="^" line="10" column="34" />
+      <file name="$USER_HOME$/projects/forum/resources/assets/js/pages/Thread.vue" timestamp="1513845890998">
+        <mark key="'" line="2" column="11" />
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+        <mark key="^" line="2" column="43" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/database/seeds/UsersTableSeeder.php" timestamp="1513257870938">
         <mark key="[" line="38" column="17" />
         <mark key="]" line="38" column="17" />
         <mark key="." line="38" column="17" />
         <mark key="^" line="38" column="23" />
-      </file>
-      <file name="$USER_HOME$/projects/forum/resources/views/layouts/app.blade.php" timestamp="1513774450251">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="81" />
-        <mark key="." line="27" column="27" />
       </file>
       <file name="$USER_HOME$/projects/forum/resources/assets/js/app.js" timestamp="1513778404784">
         <mark key="'" line="8" column="0" />
@@ -88,13 +161,6 @@
         <mark key="^" line="40" column="19" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/forum/app/Providers/AuthServiceProvider.php" timestamp="1513773976381">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="17" column="37" />
-        <mark key="." line="17" column="37" />
-        <mark key="^" line="17" column="17" />
-      </file>
       <file name="$USER_HOME$/git/web/gsk/resources/views/frontend/footer.blade.php" timestamp="1511790498846">
         <mark key="'" line="2" column="20" />
         <mark key="[" line="0" column="12" />
@@ -109,8 +175,11 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="36" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/forum/tests/Feature/SubscribeToThreadsTest.php" timestamp="1513790422476">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/projects/forum/tests/Feature/SubscribeToThreadsTest.php" timestamp="1513845162750">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="24" column="57" />
+        <mark key="." line="24" column="57" />
+        <mark key="^" line="24" column="57" />
       </file>
       <file name="$USER_HOME$/projects/forum/resources/assets/js/components/Favorite.vue" timestamp="1513092531113">
         <mark key="'" line="42" column="15" />
@@ -118,39 +187,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/forum/resources/views/threads/show.blade.php" timestamp="1513775807882">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="30" column="29" />
-        <mark key="]" line="30" column="29" />
-        <mark key="." line="30" column="29" />
-      </file>
-      <file name="$USER_HOME$/projects/forum/database/migrations/2017_11_07_105018_create_threads_table.php" timestamp="1513785335520">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="35" />
-        <mark key="^" line="20" column="35" />
-      </file>
       <file name="$USER_HOME$/projects/forum/app/Favoritable.php" timestamp="1513091732890">
         <mark key="'" line="32" column="69" />
         <mark key="[" line="6" column="1" />
         <mark key="]" line="32" column="69" />
         <mark key="." line="32" column="69" />
         <mark key="^" line="32" column="69" />
-      </file>
-      <file name="$USER_HOME$/projects/forum/routes/web.php" timestamp="1513776111704">
-        <mark key="'" line="28" column="35" />
-        <mark key="[" line="26" column="68" />
-        <mark key="]" line="26" column="68" />
-        <mark key="." line="26" column="68" />
-        <mark key="^" line="26" column="72" />
-      </file>
-      <file name="$USER_HOME$/projects/forum/storage/framework/views/59c3abe528ed85d90ca550e6691555f20979d71a.php" timestamp="1513698456426">
-        <mark key="[" line="35" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/forum/resources/assets/js/components/NewReply.vue" timestamp="1513782186651">
-        <mark key="[" line="39" column="58" />
-        <mark key="]" line="39" column="58" />
-        <mark key="." line="39" column="27" />
       </file>
       <file name="/Dummy.txt" timestamp="1513788234846">
         <mark key="[" line="0" column="0" />
@@ -175,41 +217,24 @@
         <mark key="^" line="17" column="19" />
         <mark key="." line="25" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/forum/tests/Feature/FavoritesTest.php" timestamp="1513088869564">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/forum/app/Http/Controllers/ThreadsController.php" timestamp="1513777880396">
         <mark key="'" line="13" column="53" />
         <mark key="[" line="87" column="36" />
         <mark key="]" line="87" column="36" />
         <mark key="." line="87" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/forum/database/migrations/2017_12_20_164421_create_thread_subscriptions_table.php" timestamp="1513788405313">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="32" />
-        <mark key="^" line="24" column="32" />
-        <mark key="." line="24" column="32" />
+      <file name="$USER_HOME$/projects/forum/database/migrations/2017_12_20_164421_create_thread_subscriptions_table.php" timestamp="1513846165854">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="20" column="52" />
+        <mark key="]" line="20" column="48" />
+        <mark key="^" line="20" column="48" />
+        <mark key="." line="20" column="48" />
       </file>
       <file name="$USER_HOME$/projects/forum/database/seeds/DatabaseSeeder.php" timestamp="1513790241253">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="26" column="12" />
         <mark key="." line="26" column="12" />
         <mark key="^" line="26" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/forum/resources/views/layouts/nav.blade.php" timestamp="1513783456474">
-        <mark key="[" line="35" column="60" />
-        <mark key="]" line="35" column="60" />
-        <mark key="." line="35" column="60" />
-        <mark key="^" line="35" column="55" />
-      </file>
-      <file name="$USER_HOME$/projects/forum/app/ThreadSubscription.php" timestamp="1513788862867">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/forum/tests/Unit/ThreadTest.php" timestamp="1513789186204">
         <mark key="'" line="54" column="0" />
@@ -246,12 +271,6 @@
         <mark key="." line="103" column="25" />
         <mark key="^" line="103" column="25" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/config/permission.php" timestamp="1513258186515">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="53" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/forum/app/Http/Controllers/RepliesController.php" timestamp="1513782253723">
         <mark key="'" line="30" column="5" />
         <mark key="[" line="24" column="45" />
@@ -259,21 +278,18 @@
         <mark key="." line="22" column="35" />
         <mark key="^" line="22" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/forum/tests/Feature/ChannelTest.php" timestamp="1513790501459">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="19" column="0" />
+      <file name="$USER_HOME$/projects/forum/app/Http/Controllers/ThreadSubscriptionsController.php" timestamp="1513844739594">
+        <mark key="'" line="0" column="1" />
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="9" column="43" />
+        <mark key="." line="9" column="43" />
+        <mark key="^" line="9" column="43" />
       </file>
       <file name="$USER_HOME$/projects/forum/resources/assets/js/components/Paginator.vue" timestamp="1513782353405">
         <mark key="'" line="9" column="22" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/gsk/routes/frontend.php" timestamp="1511276089093">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/gsk_old/.env.example" timestamp="1510665832330">
         <mark key="'" line="4" column="0" />
@@ -288,26 +304,14 @@
         <mark key="." line="21" column="23" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/forum/resources/assets/js/bootstrap.js" timestamp="1513774687662">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="42" column="64" />
-        <mark key="]" line="42" column="71" />
-        <mark key="^" line="42" column="71" />
-        <mark key="." line="42" column="71" />
-      </file>
-      <file name="$USER_HOME$/git/web/gsk/config/permission.php" timestamp="1513258361449">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="88" column="2" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/forum/resources/views/threads/SubscribeButton.vue" timestamp="1513845343102">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="7" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="14" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Favorite.vue" />
-      <jump line="27" column="35" filename="$USER_HOME$/projects/forum/routes/web.php" />
-      <jump line="0" column="1" filename="$USER_HOME$/projects/forum/app/Http/Controllers/FavoritesController.php" />
-      <jump line="28" column="5" filename="$USER_HOME$/projects/forum/app/Reply.php" />
-      <jump line="15" column="56" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Favorite.vue" />
-      <jump line="1" column="26" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Favorite.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/forum/tests/Feature/FavoritesTest.php" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/forum/app/Favoritable.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/forum/app/Favoritable.php" />
@@ -320,7 +324,6 @@
       <jump line="11" column="12" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Replies.vue" />
       <jump line="9" column="4" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Replies.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/pages/Thread.vue" />
-      <jump line="3" column="0" filename="$USER_HOME$/projects/forum/resources/views/threads/show.blade.php" />
       <jump line="11" column="33" filename="$USER_HOME$/projects/forum/resources/views/threads/reply.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/forum/resources/views/threads/reply.blade.php" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Reply.vue" />
@@ -341,7 +344,6 @@
       <jump line="16" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/bootstrap.js" />
       <jump line="1" column="4" filename="$USER_HOME$/projects/forum/resources/assets/js/components/NewReply.vue" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/components/NewReply.vue" />
-      <jump line="46" column="16" filename="$USER_HOME$/projects/forum/resources/views/threads/show.blade.php" />
       <jump line="13" column="4" filename="$USER_HOME$/projects/forum/resources/assets/js/components/NewReply.vue" />
       <jump line="3" column="8" filename="$USER_HOME$/projects/forum/resources/assets/js/components/NewReply.vue" />
       <jump line="7" column="21" filename="$USER_HOME$/projects/forum/resources/assets/js/components/NewReply.vue" />
@@ -402,28 +404,37 @@
       <jump line="63" column="4" filename="$USER_HOME$/projects/forum/tests/Unit/ThreadTest.php" />
       <jump line="54" column="0" filename="$USER_HOME$/projects/forum/tests/Unit/ThreadTest.php" />
       <jump line="75" column="0" filename="$USER_HOME$/projects/forum/app/Thread.php" />
+      <jump line="18" column="29" filename="$USER_HOME$/projects/forum/tests/Feature/SubscribeToThreadsTest.php" />
+      <jump line="0" column="1" filename="$USER_HOME$/projects/forum/app/Http/Controllers/ThreadSubscriptionsController.php" />
+      <jump line="46" column="16" filename="$USER_HOME$/projects/forum/resources/views/threads/show.blade.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/components/SubscribeButton.vue" />
+      <jump line="3" column="85" filename="$USER_HOME$/projects/forum/resources/views/threads/show.blade.php" />
+      <jump line="2" column="11" filename="$USER_HOME$/projects/forum/resources/assets/js/pages/Thread.vue" />
+      <jump line="37" column="0" filename="$USER_HOME$/projects/forum/database/migrations/2017_12_20_164421_create_thread_subscriptions_table.php" />
+      <jump line="1" column="32" filename="$USER_HOME$/projects/forum/resources/assets/js/components/SubscribeButton.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzXEZlYXR1cmU7Cgp1c2UgVGVzdHNcVGVzdENhc2U7CnVzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cVGVzdGluZ1xSZWZyZXNoRGF0YWJhc2U7CgpjbGFzcyBDaGFubmVsVGVzdCBleHRlbmRzIFRlc3RDYXNlCnsKICAgIHVzZSBSZWZyZXNoRGF0YWJhc2U7CgogICAgLyoqIEB0ZXN0ICovCiAgICBmdW5jdGlvbiBhX2NoYW5uZWxfY29uc2lzdHNfb2ZfdGhyZWFkcygpCiAgICB7CiAgICAgICAgJGNoYW5uZWwgPSBjcmVhdGUoJ0FwcFxDaGFubmVsJyk7CiAgICAgICAgJHRocmVhZCA9IGNyZWF0ZSgnQXBwXFRocmVhZCcsIFsnY2hhbm5lbF9pZCcgPT4gJGNoYW5uZWwtPmlkXSk7CgogICAgICAgICR0aGlzLT5hc3NlcnRUcnVlKCRjaGFubmVsLT50aHJlYWRzLT5jb250YWlucygkdGhyZWFkKSk7CiAgICB9Cn0=</text>
+        <text>active ? 'btn-primary' : 'btn-default'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KS0+</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>Count</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzXEZlYXR1cmU7Cgp1c2UgVGVzdHNcVGVzdENhc2U7CnVzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cVGVzdGluZ1xSZWZyZXNoRGF0YWJhc2U7CgpjbGFzcyBDaGFubmVsVGVzdCBleHRlbmRzIFRlc3RDYXNlCnsKICAgIHVzZSBSZWZyZXNoRGF0YWJhc2U7CgogICAgLyoqIEB0ZXN0ICovCiAgICBmdW5jdGlvbiBhX2NoYW5uZWxfY29uc2lzdHNfb2ZfdGhyZWFkcygpCiAgICB7CiAgICAgICAgJGNoYW5uZWwgPSBjcmVhdGUoJ0FwcFxDaGFubmVsJyk7CiAgICAgICAgJHRocmVhZCA9IGNyZWF0ZSgnQXBwXFRocmVhZCcsIFsnY2hhbm5lbF9pZCcgPT4gJGNoYW5uZWwtPmlkXSk7CgogICAgICAgICR0aGlzLT5hc3NlcnRUcnVlKCRjaGFubmVsLT50aHJlYWRzLT5jb250YWlucygkdGhyZWFkKSk7CiAgICB9Cn0=</text>
+        <text>active ? 'btn-primary' : 'btn-default'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhKCkgewogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgYWN0aXZlOiBmYWxzZQogICAgICAgICAgICB9CiAgICAgICAgfSwK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>SubscribeButton
+SubscribeButton</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuYW1lOiAic3Vic2NyaWJlLWJ1dHRvbiIsCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
@@ -432,19 +443,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2lnbkluKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLWRlZmF1bHQiPlN1YnNjcmliZTwvYnV0dG9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMSwgJHRocmVhZC0+c3Vic2NyaXB0aW9ucyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAkcmVwbHktPnRocmVhZC0+aW5jcmVtZW50cygncmVwbGllc19jb3VudCcpOwo=</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gKCkKICAgIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
