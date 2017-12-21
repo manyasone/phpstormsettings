@@ -1,6 +1,6 @@
 <templateSet group="user">
   <template name="test" value="/** @test */&#10;function $NAME$()&#10;{&#10;    $END$&#10;}" description="PHP Unit Test" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="snakeCase(String)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
     </context>
@@ -69,6 +69,12 @@
     <context>
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="construct" value="public function __construct($PARAMS$) {&#10;    $END$&#10;}" description="PHP Constructor" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
     </context>
   </template>
 </templateSet>
