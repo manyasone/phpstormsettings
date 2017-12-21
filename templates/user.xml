@@ -34,7 +34,7 @@
       <option name="VUE_TEMPLATE" value="true" />
     </context>
   </template>
-  <template name="vuedata" value="data() {&#10;    return {&#10;       $END$ &#10;    };&#10;}" description="" toReformat="true" toShortenFQNames="true">
+  <template name="vuedata" value="data() {&#10;    return {&#10;       $END$ &#10;    };&#10;}" description="Vue data" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JSX_HTML" value="false" />
@@ -43,7 +43,7 @@
       <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
     </context>
   </template>
-  <template name="funfun" value="function ($PARAM$) {&#10;   $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
+  <template name="funfun" value="function ($PARAM$) {&#10;   $END$&#10;}" description="PHP Closure" toReformat="true" toShortenFQNames="true">
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
@@ -52,7 +52,7 @@
       <option name="PHP String Literal" value="false" />
     </context>
   </template>
-  <template name="fun" value="$ACCESS$ function $NAME$($PARAM$) &#10;{&#10;   $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
+  <template name="fun" value="$ACCESS$ function $NAME$($PARAM$) &#10;{&#10;   $END$&#10;}" description="PHP Function" toReformat="true" toShortenFQNames="true">
     <variable name="ACCESS" expression="" defaultValue="&quot;public&quot;" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
@@ -62,7 +62,7 @@
       <option name="PHP String Literal" value="false" />
     </context>
   </template>
-  <template name="testclass" value="&lt;?php&#10;&#10;namespace Tests\$FOLDER$;&#10;&#10;use Tests\TestCase;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;&#10;class $NAME$ extends TestCase&#10;{&#10;    use RefreshDatabase;&#10;&#10;    /** @test */&#10;    function $TEST$()&#10;    {&#10;        $END$&#10;    }&#10;}" description="" toReformat="true" toShortenFQNames="true">
+  <template name="testclass" value="&lt;?php&#10;&#10;namespace Tests\$FOLDER$;&#10;&#10;use Tests\TestCase;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;&#10;class $NAME$ extends TestCase&#10;{&#10;    use RefreshDatabase;&#10;&#10;    /** @test */&#10;    function $TEST$()&#10;    {&#10;        $END$&#10;    }&#10;}" description="PHP Feature Test class" toReformat="true" toShortenFQNames="true">
     <variable name="FOLDER" expression="" defaultValue="&quot;Feature&quot;" alwaysStopAt="true" />
     <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <variable name="TEST" expression="" defaultValue="&quot;it_&quot;" alwaysStopAt="true" />
@@ -73,6 +73,11 @@
   </template>
   <template name="construct" value="public function __construct($PARAMS$) {&#10;    $END$&#10;}" description="PHP Constructor" toReformat="true" toShortenFQNames="true">
     <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="setup" value="protected function setUp()&#10;{&#10;    parent::setUp(); &#10;    $END$&#10;}" description="Setup PHP Unit Test Class" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP Class Member" value="true" />
     </context>
