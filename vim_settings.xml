@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/forum/app/Http/Controllers/UserNotificationsController.php" timestamp="1513867134151">
@@ -182,12 +182,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/forum/resources/assets/js/components/UserNotifications.vue" timestamp="1513866542085">
-        <mark key="'" line="3" column="33" />
-        <mark key="[" line="21" column="56" />
-        <mark key="]" line="21" column="56" />
-        <mark key="^" line="21" column="57" />
-        <mark key="." line="21" column="56" />
+      <file name="$USER_HOME$/projects/forum/resources/assets/js/components/UserNotifications.vue" timestamp="1516013421234">
+        <mark key="'" line="22" column="66" />
+        <mark key="[" line="7" column="91" />
+        <mark key="]" line="7" column="91" />
+        <mark key="^" line="7" column="95" />
+        <mark key="." line="7" column="91" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/resources/views/frontend/footer.blade.php" timestamp="1511790498846">
         <mark key="'" line="2" column="20" />
@@ -354,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="7" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Replies.vue" />
       <jump line="26" column="24" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Replies.vue" />
       <jump line="36" column="73" filename="$USER_HOME$/projects/forum/tests/Feature/ReadThreadsTest.php" />
       <jump line="94" column="8" filename="$USER_HOME$/projects/forum/tests/Feature/ReadThreadsTest.php" />
@@ -454,13 +453,14 @@
       <jump line="6" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/components/UserNotifications.vue" />
       <jump line="3" column="33" filename="$USER_HOME$/projects/forum/resources/assets/js/components/UserNotifications.vue" />
       <jump line="110" column="20" filename="$USER_HOME$/projects/forum/app/Thread.php" />
+      <jump line="22" column="66" filename="$USER_HOME$/projects/forum/resources/assets/js/components/UserNotifications.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>end-of-line</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>end-of-line</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>addReply</text>
