@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/forum/app/Http/Controllers/UserNotificationsController.php" timestamp="1513867134151">
@@ -29,6 +29,9 @@
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/web/gsk/config/database.php" timestamp="1516263521661">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/forum/resources/views/layouts/app.blade.php" timestamp="1513774450251">
         <mark key="'" line="9" column="0" />
@@ -375,7 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="19" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Replies.vue" />
       <jump line="9" column="22" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Paginator.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Replies.vue" />
       <jump line="98" column="6" filename="$USER_HOME$/projects/forum/tests/Feature/ReadThreadsTest.php" />
@@ -475,6 +477,7 @@
       <jump line="50" column="0" filename="$USER_HOME$/git/web/gsk/vendor/backpack/crud/tests/config/database/migrations/2017_09_08_000000_create_user_roles_table.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/gsk/vendor/backpack/crud/tests/config/database/migrations/2017_09_08_000000_create_user_roles_table.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/gsk/database/migrations/2018_01_15_125717_create_user_roles_table.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/gsk/config/database.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -484,7 +487,7 @@
         <text>15123807876</text>
       </register>
       <register name="/" type="4">
-        <text>license</text>
+        <text>strict</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlc1xTY2hlbWE7CnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNjaGVtYVxCbHVlcHJpbnQ7CnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXE1pZ3JhdGlvbnNcTWlncmF0aW9uOwoKY2xhc3MgQ3JlYXRlVXNlclJvbGVzVGFibGUgZXh0ZW5kcyBNaWdyYXRpb24KewogICAgLyoqCiAgICAgKiBSdW4gdGhlIG1pZ3JhdGlvbnMuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB1cCgpCiAgICB7CiAgICAgICAgU2NoZW1hOjpjcmVhdGUoJ3JvbGVzJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnbmFtZScpLT51bmlxdWUoKTsKICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXBzKCk7CiAgICAgICAgfSk7CgogICAgICAgIFNjaGVtYTo6Y3JlYXRlKCd1c2VyX3JvbGUnLCBmdW5jdGlvbiAoQmx1ZXByaW50ICR0YWJsZSkgewogICAgICAgICAgICAkdGFibGUtPmludGVnZXIoJ3VzZXJfaWQnKS0+bGVuZ3RoKDEwKS0+dW5zaWduZWQoKTsKICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdyb2xlX2lkJyktPmxlbmd0aCgxMCktPnVuc2lnbmVkKCk7CiAgICAgICAgICAgICR0YWJsZS0+dGltZXN0YW1wcygpOwoKICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCd1c2VyX2lkJykKICAgICAgICAgICAgICAgIC0+cmVmZXJlbmNlcygnaWQnKQogICAgICAgICAgICAgICAgLT5vbigndXNlcnMnKQogICAgICAgICAgICAgICAgLT5vbkRlbGV0ZSgnY2FzY2FkZScpOwoKICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdyb2xlX2lkJykKICAgICAgICAgICAgICAgIC0+cmVmZXJlbmNlcygnaWQnKQogICAgICAgICAgICAgICAgLT5vbigncm9sZXMnKQogICAgICAgICAgICAgICAgLT5vbkRlbGV0ZSgnY2FzY2FkZScpOwoKICAgICAgICAgICAgJHRhYmxlLT5wcmltYXJ5KFsndXNlcl9pZCcsICdyb2xlX2lkJ10pOwogICAgICAgIH0pOwogICAgfQoKICAgIC8qKgogICAgICogUmV2ZXJzZSB0aGUgbWlncmF0aW9ucy4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGRvd24oKQogICAgewogICAgICAgIFNjaGVtYTo6ZHJvcCgndXNlcl9yb2xlJyk7CiAgICAgICAgU2NoZW1hOjpkcm9wKCdyb2xlcycpOwogICAgfQp9Cg==</text>
@@ -526,9 +529,9 @@ end-of-line</text>
       </register>
     </registers>
     <search>
-      <last-search>license</last-search>
+      <last-search>strict</last-search>
       <last-offset />
-      <last-pattern>license</last-pattern>
+      <last-pattern>strict</last-pattern>
       <last-replace>col-md-4</last-replace>
       <last-substitute>aligner-item</last-substitute>
       <last-dir>1</last-dir>
@@ -536,7 +539,6 @@ end-of-line</text>
     </search>
     <history>
       <history-search>
-        <entry>Window.</entry>
         <entry>csrf</entry>
         <entry>Edit</entry>
         <entry>store</entry>
@@ -556,6 +558,7 @@ end-of-line</text>
         <entry>addReply</entry>
         <entry>admin</entry>
         <entry>license</entry>
+        <entry>strict</entry>
       </history-search>
       <history-cmd>
         <entry>%s/aligner-item/col-md-4/g</entry>
