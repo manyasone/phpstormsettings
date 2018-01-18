@@ -85,6 +85,13 @@
       <file name="$USER_HOME$/projects/forum/storage/framework/views/59c3abe528ed85d90ca550e6691555f20979d71a.php" timestamp="1513698456426">
         <mark key="[" line="35" column="9" />
       </file>
+      <file name="$USER_HOME$/git/web/hsk/config/database.php" timestamp="1516263551688">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="64" column="24" />
+        <mark key="]" line="64" column="27" />
+        <mark key="." line="64" column="27" />
+        <mark key="^" line="64" column="27" />
+      </file>
       <file name="$USER_HOME$/git/web/foodahoo/app/Models/User.php" timestamp="1516017314786">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="30" column="97" />
@@ -378,7 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="22" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Paginator.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/components/Replies.vue" />
       <jump line="98" column="6" filename="$USER_HOME$/projects/forum/tests/Feature/ReadThreadsTest.php" />
       <jump line="104" column="8" filename="$USER_HOME$/projects/forum/tests/Feature/ReadThreadsTest.php" />
@@ -478,13 +484,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/web/gsk/vendor/backpack/crud/tests/config/database/migrations/2017_09_08_000000_create_user_roles_table.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/gsk/database/migrations/2018_01_15_125717_create_user_roles_table.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/gsk/config/database.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/hsk/config/database.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlc1xTY2hlbWE7CnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNjaGVtYVxCbHVlcHJpbnQ7CnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXE1pZ3JhdGlvbnNcTWlncmF0aW9uOwoKY2xhc3MgQ3JlYXRlVXNlclJvbGVzVGFibGUgZXh0ZW5kcyBNaWdyYXRpb24KewogICAgLyoqCiAgICAgKiBSdW4gdGhlIG1pZ3JhdGlvbnMuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB1cCgpCiAgICB7CiAgICAgICAgU2NoZW1hOjpjcmVhdGUoJ3VzZXJfcm9sZXMnLCBmdW5jdGlvbiAoQmx1ZXByaW50ICR0YWJsZSkgewogICAgICAgICAgICAkdGFibGUtPmluY3JlbWVudHMoJ2lkJyk7CiAgICAgICAgICAgICR0YWJsZS0+dGltZXN0YW1wcygpOwogICAgICAgIH0pOwogICAgfQoKICAgIC8qKgogICAgICogUmV2ZXJzZSB0aGUgbWlncmF0aW9ucy4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGRvd24oKQogICAgewogICAgICAgIFNjaGVtYTo6ZHJvcElmRXhpc3RzKCd1c2VyX3JvbGVzJyk7CiAgICB9Cn0K</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>15123807876</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>strict</text>
