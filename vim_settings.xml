@@ -33,28 +33,16 @@
         <mark key="^" line="34" column="51" />
         <mark key="." line="34" column="50" />
       </file>
-      <file name="$USER_HOME$/git/web/foodahoo/database/migrations/2016_11_25_105335_create_shop_user_table.php" timestamp="1516621054141">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="21" column="90" />
-      </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/TagCrudController.php" timestamp="1516623987090">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="46" column="7" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/foodahoo/app/Http/Requests/Admin/MarketRequest.php" timestamp="1516612986514">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="30" column="46" />
-      </file>
       <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_17_120000_create_companies_table.php" timestamp="1516619486888">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/foodahoo/app/Http/Controllers/Admin/CategoryCrudController.php" timestamp="1516611740792">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="71" column="32" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/app/Models/User.php" timestamp="1516017326665">
         <mark key="[" line="21" column="0" />
@@ -169,6 +157,12 @@
       <file name="$USER_HOME$/projects/forum/.gitignore" timestamp="1513869579743">
         <mark key="[" line="11" column="1" />
       </file>
+      <file name="$USER_HOME$/git/web/hma/tests/Feature/CompanyCrudTest.php" timestamp="1516627556240">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="25" column="31" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/hma/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1516283362982">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -195,6 +189,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/hma/tests/Feature/ContactCrudTest.php" timestamp="1516627714817">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="26" />
+        <mark key="." line="25" column="26" />
+        <mark key="^" line="24" column="30" />
+      </file>
       <file name="$USER_HOME$/git/web/gsk/routes/frontend.php" timestamp="1511276089093">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -205,10 +205,6 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="45" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/foodahoo/resources/views/vendor/backpack/base/inc/sidebar.blade.php" timestamp="1516616430357">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="87" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/resources/assets/sass/_partial.scss" timestamp="1516008102860">
         <mark key="[" line="50" column="5" />
@@ -257,6 +253,9 @@
       <file name="$USER_HOME$/projects/forum/tests/TestCase.php" timestamp="1516286744331">
         <mark key="[" line="20" column="28" />
       </file>
+      <file name="$USER_HOME$/git/web/hma/app/Models/Contact.php" timestamp="1516627828831">
+        <mark key="[" line="21" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/forum/tests/Unit/ReplyTest.php" timestamp="1516622945754">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="16" column="57" />
@@ -278,9 +277,9 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/CompanyCrudController.php" timestamp="1516623931480">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="36" column="13" />
+      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/CompanyCrudController.php" timestamp="1516627873232">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="100" column="9" />
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
@@ -318,10 +317,6 @@
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/forum/tests/Feature/ParticipateInThreadsTest.php" timestamp="1516617902588">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="83" />
-      </file>
       <file name="$USER_HOME$/git/web/hma/tests/TestCase.php" timestamp="1516616190927">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -340,11 +335,16 @@
         <mark key="^" line="59" column="10" />
         <mark key="." line="59" column="10" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/routes/admin.php" timestamp="1516619949498">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
+      <file name="$USER_HOME$/git/web/hma/routes/admin.php" timestamp="1516627791105">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
         <mark key="^" line="14" column="55" />
+      </file>
+      <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_17_124407_create_contacts_table.php" timestamp="1516627655690">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/forum/resources/views/threads/SubscribeButton.vue" timestamp="1513845343102">
         <mark key="[" line="5" column="20" />
@@ -469,46 +469,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+c2V0RnJvbURiKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>tag</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+YWRkRmllbGRzKFsKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICA9PiAnbmFtZScsCiAgICAgICAgICAgICAgICAndHlwZScgID0+ICd0ZXh0JywKICAgICAgICAgICAgICAgICdsYWJlbCcgPT4gJ05hbWUnCiAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICR0aGlzLT5jcnVkLT5hZGRDb2x1bW5zKFsKICAgICAgICAgICBbCiAgICAgICAgICAgICAgICduYW1lJyA9PiAnbmFtZScsCiAgICAgICAgICAgICAgICd0eXBlJyA9PiAndGV4dF93aXRoX2xpbmsnLAogICAgICAgICAgICAgICAnbGFiZWwnID0+ICdOYW1lJwogICAgICAgICAgIF0sCiAgICAgICAgICAgWwogICAgICAgICAgICAgICAnbmFtZScgPT4gJ3N0cmVldCcsCiAgICAgICAgICAgICAgICdsYWJlbCcgPT4gJ1N0cmHDn2UnCiAgICAgICAgICAgXSwKICAgICAgICAgICBbCiAgICAgICAgICAgICAgICduYW1lJyA9PiAnY2l0eScsCiAgICAgICAgICAgICAgICdsYWJlbCcgPT4gJ09ydCcKICAgICAgICAgICBdLAogICAgICAgICAgIFsKICAgICAgICAgICAgICAgJ25hbWUnID0+ICd0YWdzJywKICAgICAgICAgICAgICAgJ3R5cGUnID0+ICdzZWxlY3RfbXVsdGlwbGUnLAogICAgICAgICAgICAgICAnZW50aXR5JyA9PiAndGFncycsCiAgICAgICAgICAgICAgICdhdHRyaWJ1dGUnID0+ICduYW1lJywKICAgICAgICAgICAgICAgJ21vZGVsJyA9PiAnQXBwXE1vZGVsc1xUYWcnLAogICAgICAgICAgICAgICAnbGFiZWwnID0+ICdUYWdzJywKICAgICAgICAgICAgICAgJ3Bpdm90JyA9PiB0cnVlCiAgICAgICAgICAgXSwKCiAgICAgICBdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+c2V0RnJvbURiKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5jcnVkLT5zZXRGcm9tRGIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGFibGUtPnN0cmluZygncGhvbmUnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ21vYmlsZScpLT5udWxsYWJsZSgpOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3N1cm5hbWUnKS0+bnVsbGFibGUoKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAvKiogQHRlc3QgKi8KICAgIGZ1bmN0aW9uIGFfc2lnbmVkX2luX3VzZXJfY2FuX3NlZV9jb21wYW55X3RhZ3MoKQogICAgewogICAgICAgICR0aGlzLT5nZXQoJy93ZmNtcy9jb21wYW55JykKICAgICAgICAgICAgIC0+YXNzZXJ0U2VlKCdUYWdzJyk7CiAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2ZvcmVuYW1lJyktPm51bGxhYmxlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGFncy0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFncyA9IFRhZzo6YWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgIHVzZSBSZWZyZXNoRGF0YWJhc2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChcQ29tcGFuaWVzVGFibGVTZWVkZXI6OmNsYXNzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5jcnVkLT5zZXRGcm9tRGIoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/name/surname/g</text>
