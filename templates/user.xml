@@ -62,9 +62,10 @@
       <option name="PHP String Literal" value="false" />
     </context>
   </template>
-  <template name="testclass" value="&lt;?php&#10;&#10;namespace Tests\$FOLDER$;&#10;&#10;use Tests\TestCase;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;&#10;class $NAME$ extends TestCase&#10;{&#10;    use RefreshDatabase;&#10;&#10;    /** @test */&#10;    function $TEST$()&#10;    {&#10;        $END$&#10;    }&#10;}" description="PHP Feature Test class" toReformat="true" toShortenFQNames="true">
+  <template name="testclass" value="&lt;?php&#10;&#10;namespace Tests\$FOLDER$;&#10;&#10;use Tests\TestCase;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;&#10;class $NAME$ extends TestCase&#10;{&#10;    use RefreshDatabase;&#10;&#10;    protected function setUp() &#10;    {&#10;        parent::setUp();&#10;      &#10;        $SIGN_IN$ &#10;    }   &#10;    &#10;    /** @test */&#10;    function $TEST$()&#10;    {&#10;        $END$&#10;    }&#10;}" description="PHP Feature Test class" toReformat="true" toShortenFQNames="true">
     <variable name="FOLDER" expression="" defaultValue="&quot;Feature&quot;" alwaysStopAt="true" />
     <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="SIGN_IN" expression="" defaultValue="&quot;$this-&gt;signIn();&quot;" alwaysStopAt="true" />
     <variable name="TEST" expression="" defaultValue="&quot;it_&quot;" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
