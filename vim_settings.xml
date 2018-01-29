@@ -3,54 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Auth/RegisterController.php" timestamp="1516274759794">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="36" />
-        <mark key="^" line="9" column="39" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/git/web/hma/database/seeds/CompaniesSeeder.php" timestamp="1516715407595">
+        <mark key="[" line="44" column="24" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="24" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/app/Models/Tag.php" timestamp="1516621620189">
-        <mark key="[" line="40" column="5" />
-        <mark key="]" line="37" column="28" />
-        <mark key="." line="37" column="28" />
-        <mark key="^" line="37" column="28" />
+      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/PriorityCrudController.php" timestamp="1516716291590">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="45" column="10" />
+        <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/database/seeds/CompaniesSeeder.php" timestamp="1516703421674">
-        <mark key="[" line="35" column="59" />
-        <mark key="]" line="35" column="59" />
-        <mark key="^" line="46" column="1" />
-        <mark key="." line="35" column="59" />
+      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/TagCrudController.php" timestamp="1516716328887">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="45" column="10" />
+        <mark key="." line="46" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1516705700127">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/phpunit.xml" timestamp="1516614748456">
-        <mark key="[" line="10" column="16" />
-      </file>
-      <file name="$USER_HOME$/git/web/gsk/resources/views/layouts/row.blade.php" timestamp="1511865347312">
-        <mark key="[" line="0" column="45" />
-        <mark key="]" line="0" column="44" />
-        <mark key="." line="0" column="44" />
-        <mark key="^" line="0" column="44" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/resources/views/vendor/backpack/base/inc/sidebar.blade.php" timestamp="1516639283140">
-        <mark key="'" line="38" column="49" />
-        <mark key="[" line="38" column="48" />
-        <mark key="]" line="39" column="49" />
-        <mark key="^" line="39" column="49" />
-        <mark key="." line="39" column="49" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/TagCrudController.php" timestamp="1516636087354">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="53" />
-        <mark key="^" line="34" column="52" />
-        <mark key="." line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/ContactCrudController.php" timestamp="1516639347876">
-        <mark key="[" line="43" column="9" />
-        <mark key="]" line="43" column="8" />
-        <mark key="." line="43" column="8" />
-        <mark key="^" line="43" column="8" />
+      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/StatusCrudController.php" timestamp="1516716302105">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_17_120000_create_companies_table.php" timestamp="1516619486888">
         <mark key="[" line="20" column="0" />
@@ -67,305 +38,142 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/database/seeds/TagsTableSeeder.php" timestamp="1516621933348">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="16" column="51" />
-        <mark key="." line="15" column="24" />
-        <mark key="^" line="15" column="24" />
-      </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/Auth/MyAccountController.php" timestamp="1516284858799">
         <mark key="[" line="50" column="9" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/CrudController.php" timestamp="1516708916755">
-        <mark key="'" line="26" column="35" />
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="28" column="27" />
-        <mark key="^" line="28" column="8" />
-        <mark key="." line="28" column="27" />
+      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/CrudController.php" timestamp="1516713999845">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="79" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/routes/backpack/base.php" timestamp="1516613704460">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/forum/database/migrations/2017_11_07_105018_create_threads_table.php" timestamp="1513785335520">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="35" />
-        <mark key="^" line="20" column="35" />
+      <file name="$USER_HOME$/git/web/hma/app/Models/Job.php" timestamp="1516715134797">
+        <mark key="[" line="53" column="36" />
+        <mark key="]" line="53" column="42" />
+        <mark key="^" line="53" column="42" />
+        <mark key="." line="53" column="42" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/app/Models/Job.php" timestamp="1516708241554">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="60" column="4" />
-        <mark key="^" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/git/web/hma/database/factories/JobFactory.php" timestamp="1516714786627">
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/forum/tests/utilities/functions.php" timestamp="1516286713402">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_23_144552_create_contact_job_table.php" timestamp="1516715190389">
+        <mark key="'" line="18" column="27" />
+        <mark key="[" line="20" column="61" />
+        <mark key="]" line="20" column="61" />
+        <mark key="." line="20" column="61" />
       </file>
-      <file name="$USER_HOME$/git/web/foodahoo/app/Models/Market/Market.php" timestamp="1516613337689">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="13" />
-        <mark key="^" line="83" column="4" />
-        <mark key="." line="83" column="4" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/database/factories/TagFactory.php" timestamp="1516620290631">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="27" />
-      </file>
-      <file name="$USER_HOME$/projects/forum/routes/web.php" timestamp="1513862682888">
-        <mark key="[" line="38" column="42" />
-        <mark key="]" line="38" column="42" />
-        <mark key="." line="38" column="42" />
-        <mark key="^" line="38" column="79" />
-      </file>
-      <file name="$USER_HOME$/projects/forum/storage/framework/views/59c3abe528ed85d90ca550e6691555f20979d71a.php" timestamp="1513698456426">
-        <mark key="[" line="35" column="9" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/database/factories/JobFactory.php" timestamp="1516703686583">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_22_120840_create_tags_table.php" timestamp="1516619752087">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="31" />
-        <mark key="^" line="17" column="31" />
-        <mark key="." line="17" column="31" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/tests/Feature/CompanyTest.php" timestamp="1516622840625">
-        <mark key="[" line="41" column="40" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="32" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/web/foodahoo/routes/backpack/base.php" timestamp="1516270105846">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="54" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="3" column="4" />
+      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/UserCrudController.php" timestamp="1516716337377">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="45" column="11" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Auth/MyAccountController.php" timestamp="1516274860964">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/app/Models/Status.php" timestamp="1516694404447">
-        <mark key="[" line="21" column="30" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/resources/lang/de/user.php" timestamp="1516616666370">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="9" column="1" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="6" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/app/Models/User.php" timestamp="1516283160445">
-        <mark key="[" line="94" column="23" />
-        <mark key="]" line="94" column="23" />
-        <mark key="." line="94" column="23" />
-        <mark key="^" line="93" column="4" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_22_123729_create_company_tag_table.php" timestamp="1516628995933">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="20" column="88" />
-        <mark key="." line="20" column="61" />
-        <mark key="^" line="18" column="31" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/database/factories/ContactFactory.php" timestamp="1516628854572">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="60" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="13" column="18" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/app/Models/Company.php" timestamp="1516640316378">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="44" column="4" />
-        <mark key="^" line="41" column="45" />
-        <mark key="." line="41" column="45" />
+      <file name="$USER_HOME$/git/web/hma/app/Models/Company.php" timestamp="1516712243403">
+        <mark key="[" line="64" column="36" />
+        <mark key="]" line="64" column="36" />
+        <mark key="^" line="64" column="35" />
+        <mark key="." line="64" column="36" />
       </file>
       <file name="$USER_HOME$/git/web/hma/vendor/backpack/crud/src/resources/views/columns/select_multiple.blade.php" timestamp="1516709590273">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/forum/.gitignore" timestamp="1513869579743">
-        <mark key="[" line="11" column="1" />
-      </file>
       <file name="$USER_HOME$/git/web/hma/tests/Feature/CompanyCrudTest.php" timestamp="1516638665006">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="31" column="31" />
         <mark key="." line="45" column="15" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1516283362982">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="19" column="32" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/resources/lang/en/auth.php" timestamp="1516272457469">
-        <mark key="[" line="18" column="2" />
-      </file>
-      <file name="$USER_HOME$/git/web/persofleet/config/permission.php" timestamp="1513258186515">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="53" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/composer.json" timestamp="1516289686442">
-        <mark key="[" line="44" column="5" />
-        <mark key="]" line="44" column="5" />
-        <mark key="." line="44" column="5" />
-        <mark key="^" line="44" column="5" />
       </file>
       <file name="$USER_HOME$/git/web/hma/database/factories/CompanyFactory.php" timestamp="1516621363432">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/tests/Feature/ContactCrudTest.php" timestamp="1516639592076">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="44" column="40" />
-        <mark key="." line="42" column="55" />
-        <mark key="^" line="42" column="55" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_22_144931_create_company_contact_table.php" timestamp="1516709751895">
+      <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_22_144931_create_company_contact_table.php" timestamp="1516715160234">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="96" />
         <mark key="." line="21" column="74" />
         <mark key="^" line="21" column="74" />
       </file>
-      <file name="$USER_HOME$/git/web/foodahoo/app/Http/Controllers/Admin/SuggestionCrudController.php" timestamp="1516708805824">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="39" />
-      </file>
-      <file name="$USER_HOME$/git/web/gsk/routes/frontend.php" timestamp="1511276089093">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/database/seeds/DatabaseSeeder.php" timestamp="1516702340273">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="13" column="8" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_23_131541_create_company_job_table.php" timestamp="1516709760487">
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="21" column="97" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_23_131541_create_company_job_table.php" timestamp="1516712347378">
+        <mark key="'" line="19" column="17" />
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="45" />
+        <mark key="." line="19" column="45" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/resources/assets/sass/_partial.scss" timestamp="1516008102860">
         <mark key="[" line="50" column="5" />
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/resources/lang/de/crud.php" timestamp="1516640925906">
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="26" column="23" />
-        <mark key="^" line="26" column="28" />
-        <mark key="." line="26" column="23" />
-      </file>
-      <file name="$USER_HOME$/git/web/gsk/resources/views/layouts/partial.blade.php" timestamp="1516007900026">
-        <mark key="[" line="11" column="63" />
-        <mark key="]" line="4" column="56" />
-        <mark key="^" line="4" column="60" />
-        <mark key="." line="4" column="56" />
+      <file name="$USER_HOME$/git/web/hma/resources/lang/de/crud.php" timestamp="1516713192776">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="34" column="23" />
+        <mark key="." line="34" column="23" />
+        <mark key="^" line="34" column="33" />
       </file>
       <file name="$USER_HOME$/git/web/hma/vendor/backpack/crud/src/resources/views/fields/select.blade.php" timestamp="1516709545481">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/database/factories/UserFactory.php" timestamp="1516628847293">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="56" />
-        <mark key="." line="23" column="43" />
-        <mark key="^" line="23" column="43" />
-      </file>
       <file name="$USER_HOME$/git/web/hma/database/seeds/UsersTableSeeder.php" timestamp="1516623282870">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="2" column="31" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/database/factories/PriorityFactory.php" timestamp="1516640140859">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="6" column="36" />
-        <mark key="." line="6" column="36" />
-        <mark key="^" line="6" column="36" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/Auth/RegisterController.php" timestamp="1516283495546">
         <mark key="[" line="47" column="27" />
         <mark key="]" line="47" column="27" />
         <mark key="." line="47" column="27" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/tests/Feature/JobCrudTest.php" timestamp="1516708016986">
-        <mark key="[" line="29" column="38" />
-        <mark key="]" line="29" column="53" />
-        <mark key="." line="29" column="53" />
-        <mark key="^" line="29" column="53" />
+      <file name="$USER_HOME$/git/web/hma/tests/Feature/JobCrudTest.php" timestamp="1516715073033">
+        <mark key="[" line="32" column="44" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/JobCrudController.php" timestamp="1516709608639">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/JobCrudController.php" timestamp="1516716260145">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="120" column="11" />
+        <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_17_134306_create_jobs_table.php" timestamp="1516638728641">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_17_134306_create_jobs_table.php" timestamp="1516711153623">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/tests/Feature/TagTest.php" timestamp="1516620235929">
         <mark key="[" line="28" column="12" />
         <mark key="]" line="28" column="42" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/forum/tests/TestCase.php" timestamp="1516286744331">
-        <mark key="[" line="20" column="28" />
-      </file>
       <file name="$USER_HOME$/git/web/hma/app/Models/Contact.php" timestamp="1516634843287">
         <mark key="[" line="39" column="25" />
         <mark key="]" line="39" column="8" />
         <mark key="." line="39" column="8" />
-      </file>
-      <file name="$USER_HOME$/projects/forum/tests/Unit/ReplyTest.php" timestamp="1516622945754">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="16" column="57" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/app/Http/Requests/UserRequest.php" timestamp="1516277081203">
-        <mark key="[" line="28" column="12" />
-        <mark key="]" line="28" column="10" />
-        <mark key="^" line="28" column="10" />
-        <mark key="." line="28" column="10" />
       </file>
       <file name="$USER_HOME$/git/web/hma/tests/Unit/ContactTest.php" timestamp="1516629471990">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516641034012">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/gsk/resources/assets/sass/_nav.scss" timestamp="1511860717914">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="17" />
-        <mark key="^" line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/CompanyCrudController.php" timestamp="1516640429130">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="61" column="13" />
-        <mark key="." line="64" column="32" />
-        <mark key="^" line="64" column="32" />
+      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/CompanyCrudController.php" timestamp="1516716153768">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="39" column="13" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/database/migrations/2018_01_15_125717_create_user_roles_table.php" timestamp="1516017627385">
         <mark key="[" line="0" column="0" />
@@ -377,104 +185,23 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/forum/database/seeds/DatabaseSeeder.php" timestamp="1513868724452">
-        <mark key="[" line="36" column="65" />
-        <mark key="]" line="36" column="65" />
-        <mark key="." line="36" column="65" />
-        <mark key="^" line="35" column="64" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/tests/Unit/CompanyTest.php" timestamp="1516623501195">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="19" column="28" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/vendor/backpack/crud/src/resources/views/columns/select.blade.php" timestamp="1516709569191">
+      <file name="$USER_HOME$/git/web/hma/vendor/backpack/crud/src/resources/views/columns/select.blade.php" timestamp="1516710864896">
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="32" />
-        <mark key="^" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/database/seeds/CompaniesTableSeeder.php" timestamp="1516622086116">
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="23" column="18" />
-        <mark key="." line="23" column="18" />
-        <mark key="^" line="23" column="18" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/resources/views/vendor/backpack/base/auth/register.blade.php" timestamp="1516272686305">
-        <mark key="[" line="15" column="87" />
-        <mark key="]" line="17" column="49" />
-        <mark key="^" line="17" column="49" />
-        <mark key="." line="17" column="49" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/database/seeds/JobsTableSeeder.php" timestamp="1516702289486">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="35" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/tests/TestCase.php" timestamp="1516616190927">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="4" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/vendor/backpack/base/src/app/Http/Controllers/Auth/MyAccountController.php" timestamp="1516280470976">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/foodahoo/app/Http/Controllers/Admin/MarketCrudController.php" timestamp="1516618181296">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="58" column="13" />
-        <mark key="^" line="59" column="10" />
-        <mark key="." line="59" column="10" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/routes/admin.php" timestamp="1516694534448">
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="18" column="16" />
-        <mark key="." line="18" column="16" />
-        <mark key="^" line="17" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/web/hma/database/factories/StatusFactory.php" timestamp="1516640053998">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="8" column="29" />
-      </file>
       <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_17_124407_create_contacts_table.php" timestamp="1516629402342">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/forum/resources/views/threads/SubscribeButton.vue" timestamp="1513845343102">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="6" column="7" />
-        <mark key="." line="6" column="7" />
-        <mark key="^" line="6" column="7" />
-      </file>
-      <file name="$USER_HOME$/projects/forum/resources/views/profiles/show.blade.php" timestamp="1513092281354">
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="23" />
-        <mark key="^" line="12" column="23" />
-      </file>
-      <file name="$USER_HOME$/projects/forum/database/factories/ReplyFactory.php" timestamp="1513867652293">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="16" column="17" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="16" column="17" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="4" filename="$USER_HOME$/projects/forum/tests/Feature/SubscribeToThreadsTest.php" />
-      <jump line="34" column="0" filename="$USER_HOME$/projects/forum/tests/Feature/SubscribeToThreadsTest.php" />
-      <jump line="17" column="8" filename="$USER_HOME$/projects/forum/tests/Feature/SubscribeToThreadsTest.php" />
-      <jump line="17" column="28" filename="$USER_HOME$/projects/forum/resources/assets/js/components/SubscribeButton.vue" />
-      <jump line="31" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/components/SubscribeButton.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/forum/resources/assets/js/components/SubscribeButton.vue" />
-      <jump line="61" column="20" filename="$USER_HOME$/projects/forum/app/Thread.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/forum/app/Notifications/ThreadWasUpdated.php" />
       <jump line="31" column="24" filename="$USER_HOME$/projects/forum/app/Notifications/ThreadWasUpdated.php" />
       <jump line="20" column="8" filename="$USER_HOME$/projects/forum/app/Notifications/ThreadWasUpdated.php" />
       <jump line="23" column="0" filename="$USER_HOME$/projects/forum/app/Notifications/ThreadWasUpdated.php" />
@@ -567,69 +294,73 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/web/hma/tests/Feature/JobCrudTest.php" />
       <jump line="11" column="7" filename="$USER_HOME$/git/web/hma/database/factories/JobFactory.php" />
       <jump line="26" column="35" filename="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/CrudController.php" />
+      <jump line="19" column="17" filename="$USER_HOME$/git/web/hma/database/migrations/2018_01_23_131541_create_company_job_table.php" />
+      <jump line="67" column="28" filename="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/JobCrudController.php" />
+      <jump line="69" column="12" filename="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/JobCrudController.php" />
+      <jump line="70" column="12" filename="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/JobCrudController.php" />
+      <jump line="72" column="12" filename="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/JobCrudController.php" />
+      <jump line="18" column="27" filename="$USER_HOME$/git/web/hma/database/migrations/2018_01_23_144552_create_contact_job_table.php" />
+      <jump line="43" column="16" filename="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/TagCrudController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/UserCrudController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdjb21wYW55X2lkJyktPnVuc2lnbmVkKCk7CiAgICAgICAgICAgICR0YWJsZS0+aW50ZWdlcignY29udGFjdF9pZCcpLT51bnNpZ25lZCgpOwogICAgICAgICAgICAkdGFibGUtPmZvcmVpZ24oJ2NvbXBhbnlfaWQnKS0+cmVmZXJlbmNlcygnaWQnKS0+b24oJ2NvbXBhbmllcycpLT5vbkRlbGV0ZSgnY2FzY2FkZScpOwogICAgICAgICAgICAkdGFibGUtPmZvcmVpZ24oJ2NvbnRhY3RfaWQnKS0+cmVmZXJlbmNlcygnaWQnKS0+b24oJ2NvbnRhY3RzJyktPm9uRGVsZXRlKCdjYXNjYWRlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+c2V0RnJvbURiKCk7CgogICAgICAgIC8vIC0tLS0tLSBDUlVEIEZJRUxEUwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRGaWVsZCgkb3B0aW9ucywgJ3VwZGF0ZS9jcmVhdGUvYm90aCcpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRGaWVsZHMoJGFycmF5X29mX2FycmF5cywgJ3VwZGF0ZS9jcmVhdGUvYm90aCcpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5yZW1vdmVGaWVsZCgnbmFtZScsICd1cGRhdGUvY3JlYXRlL2JvdGgnKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlRmllbGRzKCRhcnJheV9vZl9uYW1lcywgJ3VwZGF0ZS9jcmVhdGUvYm90aCcpOwoKICAgICAgICAvLyAtLS0tLS0gQ1JVRCBDT0xVTU5TCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENvbHVtbigpOyAvLyBhZGQgYSBzaW5nbGUgY29sdW1uLCBhdCB0aGUgZW5kIG9mIHRoZSBzdGFjawogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDb2x1bW5zKCk7IC8vIGFkZCBtdWx0aXBsZSBjb2x1bW5zLCBhdCB0aGUgZW5kIG9mIHRoZSBzdGFjawogICAgICAgIC8vICR0aGlzLT5jcnVkLT5yZW1vdmVDb2x1bW4oJ2NvbHVtbl9uYW1lJyk7IC8vIHJlbW92ZSBhIGNvbHVtbiBmcm9tIHRoZSBzdGFjawogICAgICAgIC8vICR0aGlzLT5jcnVkLT5yZW1vdmVDb2x1bW5zKFsnY29sdW1uX25hbWVfMScsICdjb2x1bW5fbmFtZV8yJ10pOyAvLyByZW1vdmUgYW4gYXJyYXkgb2YgY29sdW1ucyBmcm9tIHRoZSBzdGFjawogICAgICAgIC8vICR0aGlzLT5jcnVkLT5zZXRDb2x1bW5EZXRhaWxzKCdjb2x1bW5fbmFtZScsIFsnYXR0cmlidXRlJyA9PiAndmFsdWUnXSk7IC8vIGFkanVzdHMgdGhlIHByb3BlcnRpZXMgb2YgdGhlIHBhc3NlZCBpbiBjb2x1bW4gKGJ5IG5hbWUpCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPnNldENvbHVtbnNEZXRhaWxzKFsnY29sdW1uXzEnLCAnY29sdW1uXzInXSwgWydhdHRyaWJ1dGUnID0+ICd2YWx1ZSddKTsKCiAgICAgICAgLy8gLS0tLS0tIENSVUQgQlVUVE9OUwogICAgICAgIC8vIHBvc3NpYmxlIHBvc2l0aW9uczogJ2JlZ2lubmluZycgYW5kICdlbmQnOyBkZWZhdWx0cyB0byAnYmVnaW5uaW5nJyBmb3IgdGhlICdsaW5lJyBzdGFjaywgJ2VuZCcgZm9yIHRoZSBvdGhlcnM7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZEJ1dHRvbigkc3RhY2ssICRuYW1lLCAkdHlwZSwgJGNvbnRlbnQsICRwb3NpdGlvbik7IC8vIGFkZCBhIGJ1dHRvbjsgcG9zc2libGUgdHlwZXMgYXJlOiB2aWV3LCBtb2RlbF9mdW5jdGlvbgogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRCdXR0b25Gcm9tTW9kZWxGdW5jdGlvbigkc3RhY2ssICRuYW1lLCAkbW9kZWxfZnVuY3Rpb25fbmFtZSwgJHBvc2l0aW9uKTsgLy8gYWRkIGEgYnV0dG9uIHdob3NlIEhUTUwgaXMgcmV0dXJuZWQgYnkgYSBtZXRob2QgaW4gdGhlIENSVUQgbW9kZWwKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQnV0dG9uRnJvbVZpZXcoJHN0YWNrLCAkbmFtZSwgJHZpZXcsICRwb3NpdGlvbik7IC8vIGFkZCBhIGJ1dHRvbiB3aG9zZSBIVE1MIGlzIGluIGEgdmlldyBwbGFjZWQgYXQgcmVzb3VyY2VzXHZpZXdzXHZlbmRvclxiYWNrcGFja1xjcnVkXGJ1dHRvbnMKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlQnV0dG9uKCRuYW1lKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlQnV0dG9uRnJvbVN0YWNrKCRuYW1lLCAkc3RhY2spOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5yZW1vdmVBbGxCdXR0b25zKCk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPnJlbW92ZUFsbEJ1dHRvbnNGcm9tU3RhY2soJ2xpbmUnKTsKCiAgICAgICAgLy8gLS0tLS0tIENSVUQgQUNDRVNTCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFsbG93QWNjZXNzKFsnbGlzdCcsICdjcmVhdGUnLCAndXBkYXRlJywgJ3Jlb3JkZXInLCAnZGVsZXRlJ10pOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5kZW55QWNjZXNzKFsnbGlzdCcsICdjcmVhdGUnLCAndXBkYXRlJywgJ3Jlb3JkZXInLCAnZGVsZXRlJ10pOwoKICAgICAgICAvLyAtLS0tLS0gQ1JVRCBSRU9SREVSCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmVuYWJsZVJlb3JkZXIoJ2xhYmVsX25hbWUnLCBNQVhfVFJFRV9MRVZFTCk7CiAgICAgICAgLy8gTk9URTogeW91IGFsc28gbmVlZCB0byBkbyBhbGxvdyBhY2Nlc3MgdG8gdGhlIHJpZ2h0IHVzZXJzOiAkdGhpcy0+Y3J1ZC0+YWxsb3dBY2Nlc3MoJ3Jlb3JkZXInKTsKCiAgICAgICAgLy8gLS0tLS0tIENSVUQgREVUQUlMUyBST1cKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+ZW5hYmxlRGV0YWlsc1JvdygpOwogICAgICAgIC8vIE5PVEU6IHlvdSBhbHNvIG5lZWQgdG8gZG8gYWxsb3cgYWNjZXNzIHRvIHRoZSByaWdodCB1c2VyczogJHRoaXMtPmNydWQtPmFsbG93QWNjZXNzKCdkZXRhaWxzX3JvdycpOwogICAgICAgIC8vIE5PVEU6IHlvdSBhbHNvIG5lZWQgdG8gZG8gb3ZlcndyaXRlIHRoZSBzaG93RGV0YWlsc1JvdygkaWQpIG1ldGhvZCBpbiB5b3VyIEVudGl0eUNydWRDb250cm9sbGVyIHRvIHNob3cgd2hhdGV2ZXIgeW91J2QgbGlrZSBpbiB0aGUgZGV0YWlscyByb3cgT1Igb3ZlcndyaXRlIHRoZSB2aWV3cy9iYWNrcGFjay9jcnVkL2RldGFpbHNfcm93LmJsYWRlLnBocAoKICAgICAgICAvLyAtLS0tLS0gUkVWSVNJT05TCiAgICAgICAgLy8gWW91IGFsc28gbmVlZCB0byB1c2UgXFZlbnR1cmVjcmFmdFxSZXZpc2lvbmFibGVcUmV2aXNpb25hYmxlVHJhaXQ7CiAgICAgICAgLy8gUGxlYXNlIGNoZWNrIG91dDogaHR0cHM6Ly9sYXJhdmVsLWJhY2twYWNrLnJlYWRtZS5pby9kb2NzL2NydWQjcmV2aXNpb25zCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFsbG93QWNjZXNzKCdyZXZpc2lvbnMnKTsKCiAgICAgICAgLy8gLS0tLS0tIEFKQVggVEFCTEUgVklFVwogICAgICAgIC8vIFBsZWFzZSBub3RlIHRoZSBkcmF3YmFja3Mgb2YgdGhpcyB0aG91Z2g6CiAgICAgICAgLy8gLSAxLW4gYW5kIG4tbiBjb2x1bW5zIGFyZSBub3Qgc2VhcmNoYWJsZQogICAgICAgIC8vIC0gZGF0ZSBhbmQgZGF0ZXRpbWUgY29sdW1ucyB3b24ndCBiZSBzb3J0YWJsZSBhbnltb3JlCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmVuYWJsZUFqYXhUYWJsZSgpOwoKICAgICAgICAvLyAtLS0tLS0gREFUQVRBQkxFIEVYUE9SVCBCVVRUT05TCiAgICAgICAgLy8gU2hvdyBleHBvcnQgdG8gUERGLCBDU1YsIFhMUyBhbmQgUHJpbnQgYnV0dG9ucyBvbiB0aGUgdGFibGUgdmlldy4KICAgICAgICAvLyBEb2VzIG5vdCB3b3JrIHdlbGwgd2l0aCBBSkFYIGRhdGF0YWJsZXMuCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmVuYWJsZUV4cG9ydEJ1dHRvbnMoKTsKCiAgICAgICAgLy8gLS0tLS0tIEFEVkFOQ0VEIFFVRVJJRVMKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ2xhdXNlKCdhY3RpdmUnKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ2xhdXNlKCd0eXBlJywgJ2NhcicpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDbGF1c2UoJ3doZXJlJywgJ25hbWUnLCAnPT0nLCAnY2FyJyk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENsYXVzZSgnd2hlcmVOYW1lJywgJ2NhcicpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDbGF1c2UoJ3doZXJlSGFzJywgJ3Bvc3RzJywgZnVuY3Rpb24oJHF1ZXJ5KSB7CiAgICAgICAgLy8gICAgICRxdWVyeS0+YWN0aXZlUG9zdHMoKTsKICAgICAgICAvLyB9KTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ2xhdXNlKCd3aXRob3V0R2xvYmFsU2NvcGVzJyk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENsYXVzZSgnd2l0aG91dEdsb2JhbFNjb3BlJywgVmlzaWJsZVNjb3BlOjpjbGFzcyk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPndpdGgoKTsgLy8gZWFnZXIgbG9hZCByZWxhdGlvbnNoaXBzCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPm9yZGVyQnkoKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+Z3JvdXBCeSgpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5saW1pdCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>toArray</text>
+        <text>ddFields</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBcPg==</text>
+        <text>company</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdjb21wYW55X2lkJyktPnVuc2lnbmVkKCk7CiAgICAgICAgICAgICR0YWJsZS0+aW50ZWdlcignY29udGFjdF9pZCcpLT51bnNpZ25lZCgpOwogICAgICAgICAgICAkdGFibGUtPmZvcmVpZ24oJ2NvbXBhbnlfaWQnKS0+cmVmZXJlbmNlcygnaWQnKS0+b24oJ2NvbXBhbmllcycpLT5vbkRlbGV0ZSgnY2FzY2FkZScpOwogICAgICAgICAgICAkdGFibGUtPmZvcmVpZ24oJ2NvbnRhY3RfaWQnKS0+cmVmZXJlbmNlcygnaWQnKS0+b24oJ2NvbnRhY3RzJyktPm9uRGVsZXRlKCdjYXNjYWRlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+YWRkRmllbGRzKFsKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICA9PiAnbmFtZScsCiAgICAgICAgICAgICAgICAndHlwZScgID0+ICd0ZXh0JywKICAgICAgICAgICAgICAgICdsYWJlbCcgPT4gdHJhbnMoJ2NydWQuZmllbGRzLm5hbWUnKSwKICAgICAgICAgICAgXSwKICAgICAgICBdKTsKICAgICAgICAKICAgICAgICAkdGhpcy0+Y3J1ZC0+YWRkQ29sdW1ucyhbCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICduYW1lJyA9PiAnbmFtZScsCiAgICAgICAgICAgICAgICAndHlwZScgPT4gJ3RleHRfd2l0aF9saW5rJywKICAgICAgICAgICAgICAgICdsYWJlbCcgPT4gdHJhbnMoJ2NydWQuZmllbGRzLm5hbWUnKSwKICAgICAgICAgICAgXSwKICAgICAgICBdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU2luZ2xlU2VsZWN0KCdjb21wYW55Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+c2V0RnJvbURiKCk7CgogICAgICAgIC8vIC0tLS0tLSBDUlVEIEZJRUxEUwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRGaWVsZCgkb3B0aW9ucywgJ3VwZGF0ZS9jcmVhdGUvYm90aCcpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRGaWVsZHMoJGFycmF5X29mX2FycmF5cywgJ3VwZGF0ZS9jcmVhdGUvYm90aCcpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5yZW1vdmVGaWVsZCgnbmFtZScsICd1cGRhdGUvY3JlYXRlL2JvdGgnKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlRmllbGRzKCRhcnJheV9vZl9uYW1lcywgJ3VwZGF0ZS9jcmVhdGUvYm90aCcpOwoKICAgICAgICAvLyAtLS0tLS0gQ1JVRCBDT0xVTU5TCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENvbHVtbigpOyAvLyBhZGQgYSBzaW5nbGUgY29sdW1uLCBhdCB0aGUgZW5kIG9mIHRoZSBzdGFjawogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDb2x1bW5zKCk7IC8vIGFkZCBtdWx0aXBsZSBjb2x1bW5zLCBhdCB0aGUgZW5kIG9mIHRoZSBzdGFjawogICAgICAgIC8vICR0aGlzLT5jcnVkLT5yZW1vdmVDb2x1bW4oJ2NvbHVtbl9uYW1lJyk7IC8vIHJlbW92ZSBhIGNvbHVtbiBmcm9tIHRoZSBzdGFjawogICAgICAgIC8vICR0aGlzLT5jcnVkLT5yZW1vdmVDb2x1bW5zKFsnY29sdW1uX25hbWVfMScsICdjb2x1bW5fbmFtZV8yJ10pOyAvLyByZW1vdmUgYW4gYXJyYXkgb2YgY29sdW1ucyBmcm9tIHRoZSBzdGFjawogICAgICAgIC8vICR0aGlzLT5jcnVkLT5zZXRDb2x1bW5EZXRhaWxzKCdjb2x1bW5fbmFtZScsIFsnYXR0cmlidXRlJyA9PiAndmFsdWUnXSk7IC8vIGFkanVzdHMgdGhlIHByb3BlcnRpZXMgb2YgdGhlIHBhc3NlZCBpbiBjb2x1bW4gKGJ5IG5hbWUpCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPnNldENvbHVtbnNEZXRhaWxzKFsnY29sdW1uXzEnLCAnY29sdW1uXzInXSwgWydhdHRyaWJ1dGUnID0+ICd2YWx1ZSddKTsKCiAgICAgICAgLy8gLS0tLS0tIENSVUQgQlVUVE9OUwogICAgICAgIC8vIHBvc3NpYmxlIHBvc2l0aW9uczogJ2JlZ2lubmluZycgYW5kICdlbmQnOyBkZWZhdWx0cyB0byAnYmVnaW5uaW5nJyBmb3IgdGhlICdsaW5lJyBzdGFjaywgJ2VuZCcgZm9yIHRoZSBvdGhlcnM7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZEJ1dHRvbigkc3RhY2ssICRuYW1lLCAkdHlwZSwgJGNvbnRlbnQsICRwb3NpdGlvbik7IC8vIGFkZCBhIGJ1dHRvbjsgcG9zc2libGUgdHlwZXMgYXJlOiB2aWV3LCBtb2RlbF9mdW5jdGlvbgogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRCdXR0b25Gcm9tTW9kZWxGdW5jdGlvbigkc3RhY2ssICRuYW1lLCAkbW9kZWxfZnVuY3Rpb25fbmFtZSwgJHBvc2l0aW9uKTsgLy8gYWRkIGEgYnV0dG9uIHdob3NlIEhUTUwgaXMgcmV0dXJuZWQgYnkgYSBtZXRob2QgaW4gdGhlIENSVUQgbW9kZWwKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQnV0dG9uRnJvbVZpZXcoJHN0YWNrLCAkbmFtZSwgJHZpZXcsICRwb3NpdGlvbik7IC8vIGFkZCBhIGJ1dHRvbiB3aG9zZSBIVE1MIGlzIGluIGEgdmlldyBwbGFjZWQgYXQgcmVzb3VyY2VzXHZpZXdzXHZlbmRvclxiYWNrcGFja1xjcnVkXGJ1dHRvbnMKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlQnV0dG9uKCRuYW1lKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlQnV0dG9uRnJvbVN0YWNrKCRuYW1lLCAkc3RhY2spOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5yZW1vdmVBbGxCdXR0b25zKCk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPnJlbW92ZUFsbEJ1dHRvbnNGcm9tU3RhY2soJ2xpbmUnKTsKCiAgICAgICAgLy8gLS0tLS0tIENSVUQgQUNDRVNTCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFsbG93QWNjZXNzKFsnbGlzdCcsICdjcmVhdGUnLCAndXBkYXRlJywgJ3Jlb3JkZXInLCAnZGVsZXRlJ10pOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5kZW55QWNjZXNzKFsnbGlzdCcsICdjcmVhdGUnLCAndXBkYXRlJywgJ3Jlb3JkZXInLCAnZGVsZXRlJ10pOwoKICAgICAgICAvLyAtLS0tLS0gQ1JVRCBSRU9SREVSCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmVuYWJsZVJlb3JkZXIoJ2xhYmVsX25hbWUnLCBNQVhfVFJFRV9MRVZFTCk7CiAgICAgICAgLy8gTk9URTogeW91IGFsc28gbmVlZCB0byBkbyBhbGxvdyBhY2Nlc3MgdG8gdGhlIHJpZ2h0IHVzZXJzOiAkdGhpcy0+Y3J1ZC0+YWxsb3dBY2Nlc3MoJ3Jlb3JkZXInKTsKCiAgICAgICAgLy8gLS0tLS0tIENSVUQgREVUQUlMUyBST1cKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+ZW5hYmxlRGV0YWlsc1JvdygpOwogICAgICAgIC8vIE5PVEU6IHlvdSBhbHNvIG5lZWQgdG8gZG8gYWxsb3cgYWNjZXNzIHRvIHRoZSByaWdodCB1c2VyczogJHRoaXMtPmNydWQtPmFsbG93QWNjZXNzKCdkZXRhaWxzX3JvdycpOwogICAgICAgIC8vIE5PVEU6IHlvdSBhbHNvIG5lZWQgdG8gZG8gb3ZlcndyaXRlIHRoZSBzaG93RGV0YWlsc1JvdygkaWQpIG1ldGhvZCBpbiB5b3VyIEVudGl0eUNydWRDb250cm9sbGVyIHRvIHNob3cgd2hhdGV2ZXIgeW91J2QgbGlrZSBpbiB0aGUgZGV0YWlscyByb3cgT1Igb3ZlcndyaXRlIHRoZSB2aWV3cy9iYWNrcGFjay9jcnVkL2RldGFpbHNfcm93LmJsYWRlLnBocAoKICAgICAgICAvLyAtLS0tLS0gUkVWSVNJT05TCiAgICAgICAgLy8gWW91IGFsc28gbmVlZCB0byB1c2UgXFZlbnR1cmVjcmFmdFxSZXZpc2lvbmFibGVcUmV2aXNpb25hYmxlVHJhaXQ7CiAgICAgICAgLy8gUGxlYXNlIGNoZWNrIG91dDogaHR0cHM6Ly9sYXJhdmVsLWJhY2twYWNrLnJlYWRtZS5pby9kb2NzL2NydWQjcmV2aXNpb25zCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFsbG93QWNjZXNzKCdyZXZpc2lvbnMnKTsKCiAgICAgICAgLy8gLS0tLS0tIEFKQVggVEFCTEUgVklFVwogICAgICAgIC8vIFBsZWFzZSBub3RlIHRoZSBkcmF3YmFja3Mgb2YgdGhpcyB0aG91Z2g6CiAgICAgICAgLy8gLSAxLW4gYW5kIG4tbiBjb2x1bW5zIGFyZSBub3Qgc2VhcmNoYWJsZQogICAgICAgIC8vIC0gZGF0ZSBhbmQgZGF0ZXRpbWUgY29sdW1ucyB3b24ndCBiZSBzb3J0YWJsZSBhbnltb3JlCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmVuYWJsZUFqYXhUYWJsZSgpOwoKICAgICAgICAvLyAtLS0tLS0gREFUQVRBQkxFIEVYUE9SVCBCVVRUT05TCiAgICAgICAgLy8gU2hvdyBleHBvcnQgdG8gUERGLCBDU1YsIFhMUyBhbmQgUHJpbnQgYnV0dG9ucyBvbiB0aGUgdGFibGUgdmlldy4KICAgICAgICAvLyBEb2VzIG5vdCB3b3JrIHdlbGwgd2l0aCBBSkFYIGRhdGF0YWJsZXMuCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmVuYWJsZUV4cG9ydEJ1dHRvbnMoKTsKCiAgICAgICAgLy8gLS0tLS0tIEFEVkFOQ0VEIFFVRVJJRVMKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ2xhdXNlKCdhY3RpdmUnKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ2xhdXNlKCd0eXBlJywgJ2NhcicpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDbGF1c2UoJ3doZXJlJywgJ25hbWUnLCAnPT0nLCAnY2FyJyk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENsYXVzZSgnd2hlcmVOYW1lJywgJ2NhcicpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDbGF1c2UoJ3doZXJlSGFzJywgJ3Bvc3RzJywgZnVuY3Rpb24oJHF1ZXJ5KSB7CiAgICAgICAgLy8gICAgICRxdWVyeS0+YWN0aXZlUG9zdHMoKTsKICAgICAgICAvLyB9KTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ2xhdXNlKCd3aXRob3V0R2xvYmFsU2NvcGVzJyk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENsYXVzZSgnd2l0aG91dEdsb2JhbFNjb3BlJywgVmlzaWJsZVNjb3BlOjpjbGFzcyk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPndpdGgoKTsgLy8gZWFnZXIgbG9hZCByZWxhdGlvbnNoaXBzCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPm9yZGVyQnkoKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+Z3JvdXBCeSgpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5saW1pdCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkdW1wKCRlbnRyeS0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">CgoKICAgICAgICAvLyAtLS0tLS0gQ1JVRCBGSUVMRFMKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkRmllbGQoJG9wdGlvbnMsICd1cGRhdGUvY3JlYXRlL2JvdGgnKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkRmllbGRzKCRhcnJheV9vZl9hcnJheXMsICd1cGRhdGUvY3JlYXRlL2JvdGgnKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlRmllbGQoJ25hbWUnLCAndXBkYXRlL2NyZWF0ZS9ib3RoJyk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPnJlbW92ZUZpZWxkcygkYXJyYXlfb2ZfbmFtZXMsICd1cGRhdGUvY3JlYXRlL2JvdGgnKTsKCiAgICAgICAgLy8gLS0tLS0tIENSVUQgQ09MVU1OUwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDb2x1bW4oKTsgLy8gYWRkIGEgc2luZ2xlIGNvbHVtbiwgYXQgdGhlIGVuZCBvZiB0aGUgc3RhY2sKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ29sdW1ucygpOyAvLyBhZGQgbXVsdGlwbGUgY29sdW1ucywgYXQgdGhlIGVuZCBvZiB0aGUgc3RhY2sKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlQ29sdW1uKCdjb2x1bW5fbmFtZScpOyAvLyByZW1vdmUgYSBjb2x1bW4gZnJvbSB0aGUgc3RhY2sKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlQ29sdW1ucyhbJ2NvbHVtbl9uYW1lXzEnLCAnY29sdW1uX25hbWVfMiddKTsgLy8gcmVtb3ZlIGFuIGFycmF5IG9mIGNvbHVtbnMgZnJvbSB0aGUgc3RhY2sKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+c2V0Q29sdW1uRGV0YWlscygnY29sdW1uX25hbWUnLCBbJ2F0dHJpYnV0ZScgPT4gJ3ZhbHVlJ10pOyAvLyBhZGp1c3RzIHRoZSBwcm9wZXJ0aWVzIG9mIHRoZSBwYXNzZWQgaW4gY29sdW1uIChieSBuYW1lKQogICAgICAgIC8vICR0aGlzLT5jcnVkLT5zZXRDb2x1bW5zRGV0YWlscyhbJ2NvbHVtbl8xJywgJ2NvbHVtbl8yJ10sIFsnYXR0cmlidXRlJyA9PiAndmFsdWUnXSk7CgogICAgICAgIC8vIC0tLS0tLSBDUlVEIEJVVFRPTlMKICAgICAgICAvLyBwb3NzaWJsZSBwb3NpdGlvbnM6ICdiZWdpbm5pbmcnIGFuZCAnZW5kJzsgZGVmYXVsdHMgdG8gJ2JlZ2lubmluZycgZm9yIHRoZSAnbGluZScgc3RhY2ssICdlbmQnIGZvciB0aGUgb3RoZXJzOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRCdXR0b24oJHN0YWNrLCAkbmFtZSwgJHR5cGUsICRjb250ZW50LCAkcG9zaXRpb24pOyAvLyBhZGQgYSBidXR0b247IHBvc3NpYmxlIHR5cGVzIGFyZTogdmlldywgbW9kZWxfZnVuY3Rpb24KICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQnV0dG9uRnJvbU1vZGVsRnVuY3Rpb24oJHN0YWNrLCAkbmFtZSwgJG1vZGVsX2Z1bmN0aW9uX25hbWUsICRwb3NpdGlvbik7IC8vIGFkZCBhIGJ1dHRvbiB3aG9zZSBIVE1MIGlzIHJldHVybmVkIGJ5IGEgbWV0aG9kIGluIHRoZSBDUlVEIG1vZGVsCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZEJ1dHRvbkZyb21WaWV3KCRzdGFjaywgJG5hbWUsICR2aWV3LCAkcG9zaXRpb24pOyAvLyBhZGQgYSBidXR0b24gd2hvc2UgSFRNTCBpcyBpbiBhIHZpZXcgcGxhY2VkIGF0IHJlc291cmNlc1x2aWV3c1x2ZW5kb3JcYmFja3BhY2tcY3J1ZFxidXR0b25zCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPnJlbW92ZUJ1dHRvbigkbmFtZSk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPnJlbW92ZUJ1dHRvbkZyb21TdGFjaygkbmFtZSwgJHN0YWNrKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlQWxsQnV0dG9ucygpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5yZW1vdmVBbGxCdXR0b25zRnJvbVN0YWNrKCdsaW5lJyk7CgogICAgICAgIC8vIC0tLS0tLSBDUlVEIEFDQ0VTUwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hbGxvd0FjY2VzcyhbJ2xpc3QnLCAnY3JlYXRlJywgJ3VwZGF0ZScsICdyZW9yZGVyJywgJ2RlbGV0ZSddKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+ZGVueUFjY2VzcyhbJ2xpc3QnLCAnY3JlYXRlJywgJ3VwZGF0ZScsICdyZW9yZGVyJywgJ2RlbGV0ZSddKTsKCiAgICAgICAgLy8gLS0tLS0tIENSVUQgUkVPUkRFUgogICAgICAgIC8vICR0aGlzLT5jcnVkLT5lbmFibGVSZW9yZGVyKCdsYWJlbF9uYW1lJywgTUFYX1RSRUVfTEVWRUwpOwogICAgICAgIC8vIE5PVEU6IHlvdSBhbHNvIG5lZWQgdG8gZG8gYWxsb3cgYWNjZXNzIHRvIHRoZSByaWdodCB1c2VyczogJHRoaXMtPmNydWQtPmFsbG93QWNjZXNzKCdyZW9yZGVyJyk7CgogICAgICAgIC8vIC0tLS0tLSBDUlVEIERFVEFJTFMgUk9XCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmVuYWJsZURldGFpbHNSb3coKTsKICAgICAgICAvLyBOT1RFOiB5b3UgYWxzbyBuZWVkIHRvIGRvIGFsbG93IGFjY2VzcyB0byB0aGUgcmlnaHQgdXNlcnM6ICR0aGlzLT5jcnVkLT5hbGxvd0FjY2VzcygnZGV0YWlsc19yb3cnKTsKICAgICAgICAvLyBOT1RFOiB5b3UgYWxzbyBuZWVkIHRvIGRvIG92ZXJ3cml0ZSB0aGUgc2hvd0RldGFpbHNSb3coJGlkKSBtZXRob2QgaW4geW91ciBFbnRpdHlDcnVkQ29udHJvbGxlciB0byBzaG93IHdoYXRldmVyIHlvdSdkIGxpa2UgaW4gdGhlIGRldGFpbHMgcm93IE9SIG92ZXJ3cml0ZSB0aGUgdmlld3MvYmFja3BhY2svY3J1ZC9kZXRhaWxzX3Jvdy5ibGFkZS5waHAKCiAgICAgICAgLy8gLS0tLS0tIFJFVklTSU9OUwogICAgICAgIC8vIFlvdSBhbHNvIG5lZWQgdG8gdXNlIFxWZW50dXJlY3JhZnRcUmV2aXNpb25hYmxlXFJldmlzaW9uYWJsZVRyYWl0OwogICAgICAgIC8vIFBsZWFzZSBjaGVjayBvdXQ6IGh0dHBzOi8vbGFyYXZlbC1iYWNrcGFjay5yZWFkbWUuaW8vZG9jcy9jcnVkI3JldmlzaW9ucwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hbGxvd0FjY2VzcygncmV2aXNpb25zJyk7CgogICAgICAgIC8vIC0tLS0tLSBBSkFYIFRBQkxFIFZJRVcKICAgICAgICAvLyBQbGVhc2Ugbm90ZSB0aGUgZHJhd2JhY2tzIG9mIHRoaXMgdGhvdWdoOgogICAgICAgIC8vIC0gMS1uIGFuZCBuLW4gY29sdW1ucyBhcmUgbm90IHNlYXJjaGFibGUKICAgICAgICAvLyAtIGRhdGUgYW5kIGRhdGV0aW1lIGNvbHVtbnMgd29uJ3QgYmUgc29ydGFibGUgYW55bW9yZQogICAgICAgIC8vICR0aGlzLT5jcnVkLT5lbmFibGVBamF4VGFibGUoKTsKCiAgICAgICAgLy8gLS0tLS0tIERBVEFUQUJMRSBFWFBPUlQgQlVUVE9OUwogICAgICAgIC8vIFNob3cgZXhwb3J0IHRvIFBERiwgQ1NWLCBYTFMgYW5kIFByaW50IGJ1dHRvbnMgb24gdGhlIHRhYmxlIHZpZXcuCiAgICAgICAgLy8gRG9lcyBub3Qgd29yayB3ZWxsIHdpdGggQUpBWCBkYXRhdGFibGVzLgogICAgICAgIC8vICR0aGlzLT5jcnVkLT5lbmFibGVFeHBvcnRCdXR0b25zKCk7CgogICAgICAgIC8vIC0tLS0tLSBBRFZBTkNFRCBRVUVSSUVTCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENsYXVzZSgnYWN0aXZlJyk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENsYXVzZSgndHlwZScsICdjYXInKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ2xhdXNlKCd3aGVyZScsICduYW1lJywgJz09JywgJ2NhcicpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDbGF1c2UoJ3doZXJlTmFtZScsICdjYXInKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ2xhdXNlKCd3aGVyZUhhcycsICdwb3N0cycsIGZ1bmN0aW9uKCRxdWVyeSkgewogICAgICAgIC8vICAgICAkcXVlcnktPmFjdGl2ZVBvc3RzKCk7CiAgICAgICAgLy8gfSk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENsYXVzZSgnd2l0aG91dEdsb2JhbFNjb3BlcycpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDbGF1c2UoJ3dpdGhvdXRHbG9iYWxTY29wZScsIFZpc2libGVTY29wZTo6Y2xhc3MpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT53aXRoKCk7IC8vIGVhZ2VyIGxvYWQgcmVsYXRpb25zaGlwcwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5vcmRlckJ5KCk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmdyb3VwQnkoKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+bGltaXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRmaWVsZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRlbnRpdHlfbW9kZWwtPnRvQXJyYXkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+c2V0RnJvbURiKCk7CgogICAgICAgIC8vIC0tLS0tLSBDUlVEIEZJRUxEUwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRGaWVsZCgkb3B0aW9ucywgJ3VwZGF0ZS9jcmVhdGUvYm90aCcpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRGaWVsZHMoJGFycmF5X29mX2FycmF5cywgJ3VwZGF0ZS9jcmVhdGUvYm90aCcpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5yZW1vdmVGaWVsZCgnbmFtZScsICd1cGRhdGUvY3JlYXRlL2JvdGgnKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlRmllbGRzKCRhcnJheV9vZl9uYW1lcywgJ3VwZGF0ZS9jcmVhdGUvYm90aCcpOwoKICAgICAgICAvLyAtLS0tLS0gQ1JVRCBDT0xVTU5TCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENvbHVtbigpOyAvLyBhZGQgYSBzaW5nbGUgY29sdW1uLCBhdCB0aGUgZW5kIG9mIHRoZSBzdGFjawogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDb2x1bW5zKCk7IC8vIGFkZCBtdWx0aXBsZSBjb2x1bW5zLCBhdCB0aGUgZW5kIG9mIHRoZSBzdGFjawogICAgICAgIC8vICR0aGlzLT5jcnVkLT5yZW1vdmVDb2x1bW4oJ2NvbHVtbl9uYW1lJyk7IC8vIHJlbW92ZSBhIGNvbHVtbiBmcm9tIHRoZSBzdGFjawogICAgICAgIC8vICR0aGlzLT5jcnVkLT5yZW1vdmVDb2x1bW5zKFsnY29sdW1uX25hbWVfMScsICdjb2x1bW5fbmFtZV8yJ10pOyAvLyByZW1vdmUgYW4gYXJyYXkgb2YgY29sdW1ucyBmcm9tIHRoZSBzdGFjawogICAgICAgIC8vICR0aGlzLT5jcnVkLT5zZXRDb2x1bW5EZXRhaWxzKCdjb2x1bW5fbmFtZScsIFsnYXR0cmlidXRlJyA9PiAndmFsdWUnXSk7IC8vIGFkanVzdHMgdGhlIHByb3BlcnRpZXMgb2YgdGhlIHBhc3NlZCBpbiBjb2x1bW4gKGJ5IG5hbWUpCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPnNldENvbHVtbnNEZXRhaWxzKFsnY29sdW1uXzEnLCAnY29sdW1uXzInXSwgWydhdHRyaWJ1dGUnID0+ICd2YWx1ZSddKTsKCiAgICAgICAgLy8gLS0tLS0tIENSVUQgQlVUVE9OUwogICAgICAgIC8vIHBvc3NpYmxlIHBvc2l0aW9uczogJ2JlZ2lubmluZycgYW5kICdlbmQnOyBkZWZhdWx0cyB0byAnYmVnaW5uaW5nJyBmb3IgdGhlICdsaW5lJyBzdGFjaywgJ2VuZCcgZm9yIHRoZSBvdGhlcnM7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZEJ1dHRvbigkc3RhY2ssICRuYW1lLCAkdHlwZSwgJGNvbnRlbnQsICRwb3NpdGlvbik7IC8vIGFkZCBhIGJ1dHRvbjsgcG9zc2libGUgdHlwZXMgYXJlOiB2aWV3LCBtb2RlbF9mdW5jdGlvbgogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRCdXR0b25Gcm9tTW9kZWxGdW5jdGlvbigkc3RhY2ssICRuYW1lLCAkbW9kZWxfZnVuY3Rpb25fbmFtZSwgJHBvc2l0aW9uKTsgLy8gYWRkIGEgYnV0dG9uIHdob3NlIEhUTUwgaXMgcmV0dXJuZWQgYnkgYSBtZXRob2QgaW4gdGhlIENSVUQgbW9kZWwKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQnV0dG9uRnJvbVZpZXcoJHN0YWNrLCAkbmFtZSwgJHZpZXcsICRwb3NpdGlvbik7IC8vIGFkZCBhIGJ1dHRvbiB3aG9zZSBIVE1MIGlzIGluIGEgdmlldyBwbGFjZWQgYXQgcmVzb3VyY2VzXHZpZXdzXHZlbmRvclxiYWNrcGFja1xjcnVkXGJ1dHRvbnMKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlQnV0dG9uKCRuYW1lKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlQnV0dG9uRnJvbVN0YWNrKCRuYW1lLCAkc3RhY2spOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5yZW1vdmVBbGxCdXR0b25zKCk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPnJlbW92ZUFsbEJ1dHRvbnNGcm9tU3RhY2soJ2xpbmUnKTsKCiAgICAgICAgLy8gLS0tLS0tIENSVUQgQUNDRVNTCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFsbG93QWNjZXNzKFsnbGlzdCcsICdjcmVhdGUnLCAndXBkYXRlJywgJ3Jlb3JkZXInLCAnZGVsZXRlJ10pOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5kZW55QWNjZXNzKFsnbGlzdCcsICdjcmVhdGUnLCAndXBkYXRlJywgJ3Jlb3JkZXInLCAnZGVsZXRlJ10pOwoKICAgICAgICAvLyAtLS0tLS0gQ1JVRCBSRU9SREVSCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmVuYWJsZVJlb3JkZXIoJ2xhYmVsX25hbWUnLCBNQVhfVFJFRV9MRVZFTCk7CiAgICAgICAgLy8gTk9URTogeW91IGFsc28gbmVlZCB0byBkbyBhbGxvdyBhY2Nlc3MgdG8gdGhlIHJpZ2h0IHVzZXJzOiAkdGhpcy0+Y3J1ZC0+YWxsb3dBY2Nlc3MoJ3Jlb3JkZXInKTsKCiAgICAgICAgLy8gLS0tLS0tIENSVUQgREVUQUlMUyBST1cKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+ZW5hYmxlRGV0YWlsc1JvdygpOwogICAgICAgIC8vIE5PVEU6IHlvdSBhbHNvIG5lZWQgdG8gZG8gYWxsb3cgYWNjZXNzIHRvIHRoZSByaWdodCB1c2VyczogJHRoaXMtPmNydWQtPmFsbG93QWNjZXNzKCdkZXRhaWxzX3JvdycpOwogICAgICAgIC8vIE5PVEU6IHlvdSBhbHNvIG5lZWQgdG8gZG8gb3ZlcndyaXRlIHRoZSBzaG93RGV0YWlsc1JvdygkaWQpIG1ldGhvZCBpbiB5b3VyIEVudGl0eUNydWRDb250cm9sbGVyIHRvIHNob3cgd2hhdGV2ZXIgeW91J2QgbGlrZSBpbiB0aGUgZGV0YWlscyByb3cgT1Igb3ZlcndyaXRlIHRoZSB2aWV3cy9iYWNrcGFjay9jcnVkL2RldGFpbHNfcm93LmJsYWRlLnBocAoKICAgICAgICAvLyAtLS0tLS0gUkVWSVNJT05TCiAgICAgICAgLy8gWW91IGFsc28gbmVlZCB0byB1c2UgXFZlbnR1cmVjcmFmdFxSZXZpc2lvbmFibGVcUmV2aXNpb25hYmxlVHJhaXQ7CiAgICAgICAgLy8gUGxlYXNlIGNoZWNrIG91dDogaHR0cHM6Ly9sYXJhdmVsLWJhY2twYWNrLnJlYWRtZS5pby9kb2NzL2NydWQjcmV2aXNpb25zCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFsbG93QWNjZXNzKCdyZXZpc2lvbnMnKTsKCiAgICAgICAgLy8gLS0tLS0tIEFKQVggVEFCTEUgVklFVwogICAgICAgIC8vIFBsZWFzZSBub3RlIHRoZSBkcmF3YmFja3Mgb2YgdGhpcyB0aG91Z2g6CiAgICAgICAgLy8gLSAxLW4gYW5kIG4tbiBjb2x1bW5zIGFyZSBub3Qgc2VhcmNoYWJsZQogICAgICAgIC8vIC0gZGF0ZSBhbmQgZGF0ZXRpbWUgY29sdW1ucyB3b24ndCBiZSBzb3J0YWJsZSBhbnltb3JlCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmVuYWJsZUFqYXhUYWJsZSgpOwoKICAgICAgICAvLyAtLS0tLS0gREFUQVRBQkxFIEVYUE9SVCBCVVRUT05TCiAgICAgICAgLy8gU2hvdyBleHBvcnQgdG8gUERGLCBDU1YsIFhMUyBhbmQgUHJpbnQgYnV0dG9ucyBvbiB0aGUgdGFibGUgdmlldy4KICAgICAgICAvLyBEb2VzIG5vdCB3b3JrIHdlbGwgd2l0aCBBSkFYIGRhdGF0YWJsZXMuCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmVuYWJsZUV4cG9ydEJ1dHRvbnMoKTsKCiAgICAgICAgLy8gLS0tLS0tIEFEVkFOQ0VEIFFVRVJJRVMKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ2xhdXNlKCdhY3RpdmUnKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ2xhdXNlKCd0eXBlJywgJ2NhcicpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDbGF1c2UoJ3doZXJlJywgJ25hbWUnLCAnPT0nLCAnY2FyJyk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENsYXVzZSgnd2hlcmVOYW1lJywgJ2NhcicpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDbGF1c2UoJ3doZXJlSGFzJywgJ3Bvc3RzJywgZnVuY3Rpb24oJHF1ZXJ5KSB7CiAgICAgICAgLy8gICAgICRxdWVyeS0+YWN0aXZlUG9zdHMoKTsKICAgICAgICAvLyB9KTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ2xhdXNlKCd3aXRob3V0R2xvYmFsU2NvcGVzJyk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENsYXVzZSgnd2l0aG91dEdsb2JhbFNjb3BlJywgVmlzaWJsZVNjb3BlOjpjbGFzcyk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPndpdGgoKTsgLy8gZWFnZXIgbG9hZCByZWxhdGlvbnNoaXBzCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPm9yZGVyQnkoKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+Z3JvdXBCeSgpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5saW1pdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+d2l0aCgnY29tcGFueScpOwogICAgICAgICR0aGlzLT5jcnVkLT53aXRoKCdzdGF0dXMnKTsKICAgICAgICAkdGhpcy0+Y3J1ZC0+d2l0aCgncHJpb3JpdHknKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+ZW5hYmxlQWpheFRhYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAtLS0tLS0gQ1JVRCBGSUVMRFMKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkRmllbGQoJG9wdGlvbnMsICd1cGRhdGUvY3JlYXRlL2JvdGgnKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkRmllbGRzKCRhcnJheV9vZl9hcnJheXMsICd1cGRhdGUvY3JlYXRlL2JvdGgnKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlRmllbGQoJ25hbWUnLCAndXBkYXRlL2NyZWF0ZS9ib3RoJyk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPnJlbW92ZUZpZWxkcygkYXJyYXlfb2ZfbmFtZXMsICd1cGRhdGUvY3JlYXRlL2JvdGgnKTsKCiAgICAgICAgLy8gLS0tLS0tIENSVUQgQ09MVU1OUwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDb2x1bW4oKTsgLy8gYWRkIGEgc2luZ2xlIGNvbHVtbiwgYXQgdGhlIGVuZCBvZiB0aGUgc3RhY2sKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ29sdW1ucygpOyAvLyBhZGQgbXVsdGlwbGUgY29sdW1ucywgYXQgdGhlIGVuZCBvZiB0aGUgc3RhY2sKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlQ29sdW1uKCdjb2x1bW5fbmFtZScpOyAvLyByZW1vdmUgYSBjb2x1bW4gZnJvbSB0aGUgc3RhY2sKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlQ29sdW1ucyhbJ2NvbHVtbl9uYW1lXzEnLCAnY29sdW1uX25hbWVfMiddKTsgLy8gcmVtb3ZlIGFuIGFycmF5IG9mIGNvbHVtbnMgZnJvbSB0aGUgc3RhY2sKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+c2V0Q29sdW1uRGV0YWlscygnY29sdW1uX25hbWUnLCBbJ2F0dHJpYnV0ZScgPT4gJ3ZhbHVlJ10pOyAvLyBhZGp1c3RzIHRoZSBwcm9wZXJ0aWVzIG9mIHRoZSBwYXNzZWQgaW4gY29sdW1uIChieSBuYW1lKQogICAgICAgIC8vICR0aGlzLT5jcnVkLT5zZXRDb2x1bW5zRGV0YWlscyhbJ2NvbHVtbl8xJywgJ2NvbHVtbl8yJ10sIFsnYXR0cmlidXRlJyA9PiAndmFsdWUnXSk7CgogICAgICAgIC8vIC0tLS0tLSBDUlVEIEJVVFRPTlMKICAgICAgICAvLyBwb3NzaWJsZSBwb3NpdGlvbnM6ICdiZWdpbm5pbmcnIGFuZCAnZW5kJzsgZGVmYXVsdHMgdG8gJ2JlZ2lubmluZycgZm9yIHRoZSAnbGluZScgc3RhY2ssICdlbmQnIGZvciB0aGUgb3RoZXJzOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRCdXR0b24oJHN0YWNrLCAkbmFtZSwgJHR5cGUsICRjb250ZW50LCAkcG9zaXRpb24pOyAvLyBhZGQgYSBidXR0b247IHBvc3NpYmxlIHR5cGVzIGFyZTogdmlldywgbW9kZWxfZnVuY3Rpb24KICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQnV0dG9uRnJvbU1vZGVsRnVuY3Rpb24oJHN0YWNrLCAkbmFtZSwgJG1vZGVsX2Z1bmN0aW9uX25hbWUsICRwb3NpdGlvbik7IC8vIGFkZCBhIGJ1dHRvbiB3aG9zZSBIVE1MIGlzIHJldHVybmVkIGJ5IGEgbWV0aG9kIGluIHRoZSBDUlVEIG1vZGVsCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZEJ1dHRvbkZyb21WaWV3KCRzdGFjaywgJG5hbWUsICR2aWV3LCAkcG9zaXRpb24pOyAvLyBhZGQgYSBidXR0b24gd2hvc2UgSFRNTCBpcyBpbiBhIHZpZXcgcGxhY2VkIGF0IHJlc291cmNlc1x2aWV3c1x2ZW5kb3JcYmFja3BhY2tcY3J1ZFxidXR0b25zCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPnJlbW92ZUJ1dHRvbigkbmFtZSk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPnJlbW92ZUJ1dHRvbkZyb21TdGFjaygkbmFtZSwgJHN0YWNrKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlQWxsQnV0dG9ucygpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5yZW1vdmVBbGxCdXR0b25zRnJvbVN0YWNrKCdsaW5lJyk7CgogICAgICAgIC8vIC0tLS0tLSBDUlVEIEFDQ0VTUwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hbGxvd0FjY2VzcyhbJ2xpc3QnLCAnY3JlYXRlJywgJ3VwZGF0ZScsICdyZW9yZGVyJywgJ2RlbGV0ZSddKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+ZGVueUFjY2VzcyhbJ2xpc3QnLCAnY3JlYXRlJywgJ3VwZGF0ZScsICdyZW9yZGVyJywgJ2RlbGV0ZSddKTsKCiAgICAgICAgLy8gLS0tLS0tIENSVUQgUkVPUkRFUgogICAgICAgIC8vICR0aGlzLT5jcnVkLT5lbmFibGVSZW9yZGVyKCdsYWJlbF9uYW1lJywgTUFYX1RSRUVfTEVWRUwpOwogICAgICAgIC8vIE5PVEU6IHlvdSBhbHNvIG5lZWQgdG8gZG8gYWxsb3cgYWNjZXNzIHRvIHRoZSByaWdodCB1c2VyczogJHRoaXMtPmNydWQtPmFsbG93QWNjZXNzKCdyZW9yZGVyJyk7CgogICAgICAgIC8vIC0tLS0tLSBDUlVEIERFVEFJTFMgUk9XCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmVuYWJsZURldGFpbHNSb3coKTsKICAgICAgICAvLyBOT1RFOiB5b3UgYWxzbyBuZWVkIHRvIGRvIGFsbG93IGFjY2VzcyB0byB0aGUgcmlnaHQgdXNlcnM6ICR0aGlzLT5jcnVkLT5hbGxvd0FjY2VzcygnZGV0YWlsc19yb3cnKTsKICAgICAgICAvLyBOT1RFOiB5b3UgYWxzbyBuZWVkIHRvIGRvIG92ZXJ3cml0ZSB0aGUgc2hvd0RldGFpbHNSb3coJGlkKSBtZXRob2QgaW4geW91ciBFbnRpdHlDcnVkQ29udHJvbGxlciB0byBzaG93IHdoYXRldmVyIHlvdSdkIGxpa2UgaW4gdGhlIGRldGFpbHMgcm93IE9SIG92ZXJ3cml0ZSB0aGUgdmlld3MvYmFja3BhY2svY3J1ZC9kZXRhaWxzX3Jvdy5ibGFkZS5waHAKCiAgICAgICAgLy8gLS0tLS0tIFJFVklTSU9OUwogICAgICAgIC8vIFlvdSBhbHNvIG5lZWQgdG8gdXNlIFxWZW50dXJlY3JhZnRcUmV2aXNpb25hYmxlXFJldmlzaW9uYWJsZVRyYWl0OwogICAgICAgIC8vIFBsZWFzZSBjaGVjayBvdXQ6IGh0dHBzOi8vbGFyYXZlbC1iYWNrcGFjay5yZWFkbWUuaW8vZG9jcy9jcnVkI3JldmlzaW9ucwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hbGxvd0FjY2VzcygncmV2aXNpb25zJyk7CgogICAgICAgIC8vIC0tLS0tLSBBSkFYIFRBQkxFIFZJRVcKICAgICAgICAvLyBQbGVhc2Ugbm90ZSB0aGUgZHJhd2JhY2tzIG9mIHRoaXMgdGhvdWdoOgogICAgICAgIC8vIC0gMS1uIGFuZCBuLW4gY29sdW1ucyBhcmUgbm90IHNlYXJjaGFibGUKICAgICAgICAvLyAtIGRhdGUgYW5kIGRhdGV0aW1lIGNvbHVtbnMgd29uJ3QgYmUgc29ydGFibGUgYW55bW9yZQogICAgICAgIC8vICR0aGlzLT5jcnVkLT5lbmFibGVBamF4VGFibGUoKTsKCiAgICAgICAgLy8gLS0tLS0tIERBVEFUQUJMRSBFWFBPUlQgQlVUVE9OUwogICAgICAgIC8vIFNob3cgZXhwb3J0IHRvIFBERiwgQ1NWLCBYTFMgYW5kIFByaW50IGJ1dHRvbnMgb24gdGhlIHRhYmxlIHZpZXcuCiAgICAgICAgLy8gRG9lcyBub3Qgd29yayB3ZWxsIHdpdGggQUpBWCBkYXRhdGFibGVzLgogICAgICAgIC8vICR0aGlzLT5jcnVkLT5lbmFibGVFeHBvcnRCdXR0b25zKCk7CgogICAgICAgIC8vIC0tLS0tLSBBRFZBTkNFRCBRVUVSSUVTCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENsYXVzZSgnYWN0aXZlJyk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENsYXVzZSgndHlwZScsICdjYXInKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ2xhdXNlKCd3aGVyZScsICduYW1lJywgJz09JywgJ2NhcicpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDbGF1c2UoJ3doZXJlTmFtZScsICdjYXInKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ2xhdXNlKCd3aGVyZUhhcycsICdwb3N0cycsIGZ1bmN0aW9uKCRxdWVyeSkgewogICAgICAgIC8vICAgICAkcXVlcnktPmFjdGl2ZVBvc3RzKCk7CiAgICAgICAgLy8gfSk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENsYXVzZSgnd2l0aG91dEdsb2JhbFNjb3BlcycpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDbGF1c2UoJ3dpdGhvdXRHbG9iYWxTY29wZScsIFZpc2libGVTY29wZTo6Y2xhc3MpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT53aXRoKCk7IC8vIGVhZ2VyIGxvYWQgcmVsYXRpb25zaGlwcwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5vcmRlckJ5KCk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmdyb3VwQnkoKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+bGltaXQoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+d2l0aCgkbmFtZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwogICAgZnVuY3Rpb24gYV91c2VyX2Nhbl9zZWVfam9iX2RldGFpbHMoKQogICAgewogICAgICAgICR0aGlzLT5nZXQoIi93ZmNtcy9qb2IveyR0aGlzLT5qb2ItPmlkfS9lZGl0IikKICAgICAgICAgICAgIC0+YXNzZXJ0U2VlKCR0aGlzLT5qb2ItPmV4dHJhcy0+ZGVzY3JpcHRpb24pCiAgICAgICAgICAgICAtPmFzc2VydFNlZSgkdGhpcy0+am9iU3RhdHVzLT5uYW1lKQogICAgICAgICAgICAgLT5hc3NlcnRTZWUoJHRoaXMtPmpvYlByaW9yaXR5LT5uYW1lKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+c2V0RnJvbURiKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/name/surname/g</text>
+        <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBcPg==</last-search>
+      <last-search>company</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBcPg==</last-pattern>
-      <last-replace>surname</last-replace>
-      <last-substitute encoding="base64">XDxhcHBcPg==</last-substitute>
+      <last-pattern>company</last-pattern>
+      <last-replace>job</last-replace>
+      <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>popu</entry>
-        <entry>inc</entry>
-        <entry>Count</entry>
-        <entry>Subs</entry>
         <entry>Th</entry>
         <entry>/notifications</entry>
         <entry>user</entry>
@@ -646,6 +377,10 @@
         <entry>forename</entry>
         <entry>name</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
+        <entry>s</entry>
+        <entry>contact</entry>
+        <entry>status</entry>
+        <entry>company</entry>
       </history-search>
       <history-cmd>
         <entry>%s/aligner-item/col-md-4/g</entry>
@@ -664,6 +399,9 @@
         <entry>64gg</entry>
         <entry>s/forename/name</entry>
         <entry>s/name/surname/g</entry>
+        <entry>%s/contact/job/g</entry>
+        <entry>s/status/priority/g</entry>
+        <entry>%s/company/job/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -725,6 +463,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
