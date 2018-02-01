@@ -62,7 +62,7 @@
       <option name="PHP String Literal" value="false" />
     </context>
   </template>
-  <template name="testclass" value="&lt;?php&#10;&#10;namespace Tests\$FOLDER$;&#10;&#10;use Tests\TestCase;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;&#10;class $NAME$ extends TestCase&#10;{&#10;    use RefreshDatabase;&#10;&#10;    protected function setUp() &#10;    {&#10;        parent::setUp();&#10;      &#10;        $SIGN_IN$ &#10;    }   &#10;    &#10;    /** @test */&#10;    function $TEST$()&#10;    {&#10;        $END$&#10;    }&#10;}" description="PHP Feature Test class" toReformat="true" toShortenFQNames="true">
+  <template name="testclass" value="&lt;?php&#10;&#10;namespace Tests\$FOLDER$;&#10;&#10;use Tests\TestCase;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;&#10;class $NAME$ extends TestCase&#10;{&#10;   /*&#10;   |--------------------------------------------------------------------------&#10;   | CONFIG&#10;   |--------------------------------------------------------------------------&#10;   */&#10;   &#10;    use RefreshDatabase;&#10;&#10;    protected function setUp() &#10;    {&#10;        parent::setUp();&#10;      &#10;        $SIGN_IN$ &#10;    }   &#10;    &#10;    /*&#10;    |--------------------------------------------------------------------------&#10;    | TESTS&#10;    |--------------------------------------------------------------------------&#10;    */&#10;    &#10;    /** @test */&#10;    function $TEST$()&#10;    {&#10;        $END$&#10;    }&#10;}" description="PHP Feature Test class" toReformat="true" toShortenFQNames="true">
     <variable name="FOLDER" expression="" defaultValue="&quot;Feature&quot;" alwaysStopAt="true" />
     <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <variable name="SIGN_IN" expression="" defaultValue="&quot;$this-&gt;signIn();&quot;" alwaysStopAt="true" />
@@ -81,6 +81,16 @@
   <template name="setup" value="protected function setUp()&#10;{&#10;    parent::setUp(); &#10;    $END$&#10;}" description="Setup PHP Unit Test Class" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="testclass_crud" value="&lt;?php&#10;&#10;namespace Tests\$FOLDER$;&#10;&#10;use App\Models\Category;&#10;use App\Models\FileType;&#10;use Backpack\CRUD\Exception\AccessDeniedException;&#10;use Spatie\Permission\Contracts\Role;&#10;use Tests\TestCase;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;&#10;class $NAME$ extends TestCase&#10;{&#10;    use RefreshDatabase;&#10;&#10;   /*&#10;   |--------------------------------------------------------------------------&#10;   | CONFIG&#10;   |--------------------------------------------------------------------------&#10;   */&#10;    &#10;    private $route = 'wfcms/$ROUTE$';&#10;    private $class = $MODEL$::class;&#10;    &#10;    /** @var $model $MODEL$*/&#10;    private $model;&#10;&#10;    protected function setUp()&#10;    {&#10;        parent::setUp();&#10;&#10;        $this-&gt;signIn();&#10;&#10;        $this-&gt;model = create($this-&gt;class);&#10;    }&#10;&#10;    /*&#10;    |--------------------------------------------------------------------------&#10;    | TESTS&#10;    |--------------------------------------------------------------------------&#10;    */&#10;    &#10;    /** @test */&#10;    function a_user_can_see_$ROUTE$_columns()&#10;    {&#10;        $this-&gt;get(&quot;{$this-&gt;route}&quot;)&#10;             -&gt;assertSee(trans('titles.fields.name'));&#10;    }&#10;&#10;//    /** @test */&#10;//    function a_user_can_see_$ROUTE$_details()&#10;//    {&#10;//        $this-&gt;getEditRoute()&#10;//             -&gt;assertSee($this-&gt;model-&gt;name);&#10;//    }&#10;&#10;    /*&#10;    |--------------------------------------------------------------------------&#10;    | HELPERS&#10;    |--------------------------------------------------------------------------&#10;    */&#10;    &#10;    public function getEditRoute()&#10;    {&#10;        return $this-&gt;get(&quot;{$this-&gt;route}/{$this-&gt;model-&gt;id}/edit&quot;);&#10;    }&#10;}" description="Backpack Crud Test class" toReformat="true" toShortenFQNames="true">
+    <variable name="FOLDER" expression="" defaultValue="&quot;Crud&quot;" alwaysStopAt="true" />
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="ROUTE" expression="" defaultValue="&quot;route&quot;" alwaysStopAt="true" />
+    <variable name="MODEL" expression="" defaultValue="&quot;Model&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
     </context>
   </template>
 </templateSet>

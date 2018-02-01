@@ -117,10 +117,19 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="24" />
       </file>
+      <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/FileTypeCrudController.php" timestamp="1517478349757">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="68" column="34" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/hypno/database/factories/FileFactory.php" timestamp="1517476485200">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/web/hypno/tests/Crud/FileTypeCrudTest.php" timestamp="1517478000965">
+        <mark key="[" line="58" column="6" />
+        <mark key="o" line="33" column="41" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/resources/assets/sass/_partial.scss" timestamp="1516008102860">
         <mark key="[" line="50" column="5" />
@@ -133,19 +142,19 @@
         <mark key="." line="15" column="44" />
         <mark key="^" line="14" column="49" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/database/seeds/FileSeeder.php" timestamp="1517476925961">
-        <mark key="[" line="18" column="0" />
+      <file name="$USER_HOME$/git/web/hypno/database/seeds/FileSeeder.php" timestamp="1517478220412">
+        <mark key="[" line="22" column="1" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Models/EventType.php" timestamp="1517311326670">
         <mark key="[" line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/routes/admin.php" timestamp="1517405788601">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="26" />
+      <file name="$USER_HOME$/git/web/hypno/routes/admin.php" timestamp="1517478015538">
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="35" />
+        <mark key="^" line="17" column="23" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/JobCrudController.php" timestamp="1516716260145">
         <mark key="[" line="87" column="0" />
@@ -219,12 +228,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/tests/Crud/FileCrudTest.php" timestamp="1517475187035">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="46" column="40" />
-        <mark key="]" line="46" column="39" />
-        <mark key="." line="46" column="39" />
-        <mark key="^" line="46" column="39" />
+      <file name="$USER_HOME$/git/web/hypno/tests/Crud/FileCrudTest.php" timestamp="1517479875897">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="37" column="54" />
+        <mark key="]" line="37" column="59" />
+        <mark key="." line="37" column="59" />
+        <mark key="^" line="37" column="59" />
       </file>
       <file name="$USER_HOME$/git/web/hma/database/factories/EventTypeFactory.php" timestamp="1517241105082">
         <mark key="[" line="8" column="8" />
@@ -242,9 +251,8 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/TrackCrudController.php" timestamp="1517406133009">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="80" column="10" />
+      <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/TrackCrudController.php" timestamp="1517479253819">
+        <mark key="[" line="75" column="0" />
         <mark key="^" line="55" column="38" />
         <mark key="." line="75" column="27" />
       </file>
@@ -253,11 +261,11 @@
         <mark key="]" line="44" column="24" />
         <mark key="." line="44" column="24" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/resources/lang/de/titles.php" timestamp="1517414773157">
-        <mark key="[" line="43" column="33" />
-        <mark key="]" line="42" column="26" />
-        <mark key="." line="42" column="26" />
-        <mark key="^" line="43" column="8" />
+      <file name="$USER_HOME$/git/web/hypno/resources/lang/de/titles.php" timestamp="1517479604939">
+        <mark key="[" line="49" column="26" />
+        <mark key="]" line="49" column="26" />
+        <mark key="." line="49" column="26" />
+        <mark key="^" line="49" column="12" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/database/migrations/2018_02_01_101109_create_file_types_table.php" timestamp="1517476280290">
         <mark key="[" line="16" column="37" />
@@ -285,10 +293,15 @@
         <mark key="." line="11" column="25" />
         <mark key="^" line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/CategoryCrudController.php" timestamp="1517406099920">
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="51" column="33" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/CategoryCrudController.php" timestamp="1517478431212">
+        <mark key="[" line="40" column="48" />
+        <mark key="]" line="40" column="51" />
+        <mark key="." line="40" column="51" />
+        <mark key="^" line="40" column="51" />
+      </file>
+      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/TagCrudController.php" timestamp="1517478274828">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="45" column="10" />
       </file>
       <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_17_120000_create_companies_table.php" timestamp="1516619486888">
         <mark key="[" line="20" column="0" />
@@ -380,14 +393,11 @@
         <mark key="^" line="39" column="132" />
         <mark key="." line="39" column="132" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/resources/views/vendor/backpack/base/inc/sidebar.blade.php" timestamp="1517406926930">
-        <mark key="[" line="53" column="49" />
-        <mark key="]" line="53" column="52" />
-        <mark key="." line="53" column="52" />
-        <mark key="^" line="53" column="52" />
-      </file>
-      <file name="$USER_HOME$/git/web/hypno/vendor/symfony/routing/Router.php" timestamp="1517323396050">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/web/hypno/resources/views/vendor/backpack/base/inc/sidebar.blade.php" timestamp="1517480210020">
+        <mark key="[" line="51" column="40" />
+        <mark key="]" line="51" column="40" />
+        <mark key="^" line="51" column="40" />
+        <mark key="." line="51" column="40" />
       </file>
       <file name="$USER_HOME$/git/web/hma/resources/lang/de/crud.php" timestamp="1516713192776">
         <mark key="[" line="34" column="23" />
@@ -395,6 +405,7 @@
         <mark key="." line="34" column="23" />
         <mark key="^" line="34" column="33" />
       </file>
+      <file name="$USER_HOME$/git/web/hypno/app/Models/FileType.php" timestamp="1517477385519" />
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/EventCrudController.php" timestamp="1517310710719">
         <mark key="[" line="44" column="15" />
         <mark key="]" line="83" column="34" />
@@ -427,10 +438,6 @@
         <mark key="]" line="22" column="55" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/OrderCrudController.php" timestamp="1517475396665">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="34" />
-      </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/Auth/RegisterController.php" timestamp="1516283495546">
         <mark key="[" line="47" column="27" />
         <mark key="]" line="47" column="27" />
@@ -442,12 +449,13 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/FileCrudController.php" timestamp="1517475891524">
-        <mark key="e" line="42" column="43" />
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/FileCrudController.php" timestamp="1517479621619">
+        <mark key="e" line="43" column="43" />
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="63" column="41" />
+        <mark key="]" line="63" column="41" />
+        <mark key="." line="63" column="41" />
+        <mark key="^" line="99" column="47" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Models/Model.php" timestamp="1517236395606">
         <mark key="[" line="7" column="0" />
@@ -492,16 +500,10 @@
       <file name="$USER_HOME$/git/web/hypno/vendor/fzaninotto/faker/src/Faker/Provider/DateTime.php" timestamp="1517408869754">
         <mark key="[" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/vendor/fzaninotto/faker/src/Faker/Generator.php" timestamp="1517408383767">
-        <mark key="'" line="205" column="0" />
-      </file>
       <file name="$USER_HOME$/git/web/gsk/database/migrations/2018_01_15_125717_create_user_roles_table.php" timestamp="1516017627385">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="50" column="1" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/hypno/vendor/symfony/routing/RouteCollection.php" timestamp="1517323368850">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/database/migrations/2018_01_31_110548_create_tracks_table.php" timestamp="1517393782207">
         <mark key="[" line="21" column="0" />
@@ -550,7 +552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/gsk/database/seeds/UsersTableSeeder.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/foodahoo/config/backpack/base.php" />
       <jump line="59" column="48" filename="$USER_HOME$/git/web/foodahoo/config/backpack/base.php" />
       <jump line="24" column="12" filename="$USER_HOME$/git/web/gsk/vendor/backpack/crud/tests/config/database/migrations/2017_09_08_000000_create_user_roles_table.php" />
@@ -650,25 +651,26 @@
       <jump line="34" column="0" filename="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/FileCrudController.php" />
       <jump line="110" column="18" filename="$USER_HOME$/git/web/hypno/vendor/fzaninotto/faker/src/Faker/Generator.php" />
       <jump line="205" column="0" filename="$USER_HOME$/git/web/hypno/vendor/fzaninotto/faker/src/Faker/Generator.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/git/web/hypno/tests/Crud/FileCrudTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>tags</text>
       </register>
       <register name="-" type="4">
-        <text>day</text>
+        <text>tags</text>
       </register>
       <register name="/" type="4">
         <text>function time(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChGaWxlU2VlZGVyOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnc2l6ZScgICAgICAgID0+ICdHcsO2w59lJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgYmFja3BhY2tfdXJsKCd1c2VyJyl9fSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1hZGRyZXNzLWJvb2siPjwvaT4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+IHt7ICB0cmFucygndGl0bGVzLnVzZXIucGx1cmFsJykgfX0gIDwvc3Bhbj48L2E+CiAgICAgICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZmlsZVR5cGVzLT5yYW5kb20oKS0+aWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlJyAgPT4gJ3RleHQnCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -677,22 +679,22 @@
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZmlsZVR5cGVzLT5yYW5kb20oKS0+aWQpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gYXNzZXJ0U2VlKCkKICAgIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Z2V0KCcvd2ZjbXMvZmlsZScpLT5jb250ZW50KCktPik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAtLS0tLS0gQ1JVRCBGSUVMRFMKICAgICAgICAKICAgICAgICAkdGhpcy0+Y3J1ZC0+YWRkRmllbGRzKFsKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICA9PiAnbmFtZScsCiAgICAgICAgICAgICAgICAndHlwZScgID0+ICd0ZXh0JywKICAgICAgICAgICAgICAgICdsYWJlbCcgPT4gdHJhbnMoJ3RpdGxlcy5maWVsZHMubmFtZScpLAogICAgICAgICAgICBdLAogICAgICAgIF0pOwoKICAgICAgICAvLyAtLS0tLS0gQ1JVRCBDT0xVTU5TCiAgICAgICAgCiAgICAgICAgJHRoaXMtPmNydWQtPmFkZENvbHVtbnMoWwogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgPT4gJ25hbWUnLAogICAgICAgICAgICAgICAgJ3R5cGUnID0+ICd0ZXh0X3dpdGhfbGluaycsCiAgICAgICAgICAgICAgICAnbGFiZWwnID0+IHRyYW5zKCd0aXRsZXMuZmllbGRzLm5hbWUnKSwKICAgICAgICAgICAgXSwKICAgICAgICBdKTsKCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZEZpZWxkKCRvcHRpb25zLCAndXBkYXRlL2NyZWF0ZS9ib3RoJyk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZEZpZWxkcygkYXJyYXlfb2ZfYXJyYXlzLCAndXBkYXRlL2NyZWF0ZS9ib3RoJyk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPnJlbW92ZUZpZWxkKCduYW1lJywgJ3VwZGF0ZS9jcmVhdGUvYm90aCcpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5yZW1vdmVGaWVsZHMoJGFycmF5X29mX25hbWVzLCAndXBkYXRlL2NyZWF0ZS9ib3RoJyk7CgogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDb2x1bW4oKTsgLy8gYWRkIGEgc2luZ2xlIGNvbHVtbiwgYXQgdGhlIGVuZCBvZiB0aGUgc3RhY2sKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ29sdW1ucygpOyAvLyBhZGQgbXVsdGlwbGUgY29sdW1ucywgYXQgdGhlIGVuZCBvZiB0aGUgc3RhY2sKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlQ29sdW1uKCdjb2x1bW5fbmFtZScpOyAvLyByZW1vdmUgYSBjb2x1bW4gZnJvbSB0aGUgc3RhY2sKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlQ29sdW1ucyhbJ2NvbHVtbl9uYW1lXzEnLCAnY29sdW1uX25hbWVfMiddKTsgLy8gcmVtb3ZlIGFuIGFycmF5IG9mIGNvbHVtbnMgZnJvbSB0aGUgc3RhY2sKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+c2V0Q29sdW1uRGV0YWlscygnY29sdW1uX25hbWUnLCBbJ2F0dHJpYnV0ZScgPT4gJ3ZhbHVlJ10pOyAvLyBhZGp1c3RzIHRoZSBwcm9wZXJ0aWVzIG9mIHRoZSBwYXNzZWQgaW4gY29sdW1uIChieSBuYW1lKQogICAgICAgIC8vICR0aGlzLT5jcnVkLT5zZXRDb2x1bW5zRGV0YWlscyhbJ2NvbHVtbl8xJywgJ2NvbHVtbl8yJ10sIFsnYXR0cmlidXRlJyA9PiAndmFsdWUnXSk7CgogICAgICAgIC8vIC0tLS0tLSBDUlVEIEJVVFRPTlMKICAgICAgICAvLyBwb3NzaWJsZSBwb3NpdGlvbnM6ICdiZWdpbm5pbmcnIGFuZCAnZW5kJzsgZGVmYXVsdHMgdG8gJ2JlZ2lubmluZycgZm9yIHRoZSAnbGluZScgc3RhY2ssICdlbmQnIGZvciB0aGUgb3RoZXJzOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRCdXR0b24oJHN0YWNrLCAkbmFtZSwgJHR5cGUsICRjb250ZW50LCAkcG9zaXRpb24pOyAvLyBhZGQgYSBidXR0b247IHBvc3NpYmxlIHR5cGVzIGFyZTogdmlldywgbW9kZWxfZnVuY3Rpb24KICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQnV0dG9uRnJvbU1vZGVsRnVuY3Rpb24oJHN0YWNrLCAkbmFtZSwgJG1vZGVsX2Z1bmN0aW9uX25hbWUsICRwb3NpdGlvbik7IC8vIGFkZCBhIGJ1dHRvbiB3aG9zZSBIVE1MIGlzIHJldHVybmVkIGJ5IGEgbWV0aG9kIGluIHRoZSBDUlVEIG1vZGVsCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZEJ1dHRvbkZyb21WaWV3KCRzdGFjaywgJG5hbWUsICR2aWV3LCAkcG9zaXRpb24pOyAvLyBhZGQgYSBidXR0b24gd2hvc2UgSFRNTCBpcyBpbiBhIHZpZXcgcGxhY2VkIGF0IHJlc291cmNlc1x2aWV3c1x2ZW5kb3JcYmFja3BhY2tcY3J1ZFxidXR0b25zCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPnJlbW92ZUJ1dHRvbigkbmFtZSk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPnJlbW92ZUJ1dHRvbkZyb21TdGFjaygkbmFtZSwgJHN0YWNrKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+cmVtb3ZlQWxsQnV0dG9ucygpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5yZW1vdmVBbGxCdXR0b25zRnJvbVN0YWNrKCdsaW5lJyk7CgogICAgICAgIC8vIC0tLS0tLSBDUlVEIEFDQ0VTUwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hbGxvd0FjY2VzcyhbJ2xpc3QnLCAnY3JlYXRlJywgJ3VwZGF0ZScsICdyZW9yZGVyJywgJ2RlbGV0ZSddKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+ZGVueUFjY2VzcyhbJ2xpc3QnLCAnY3JlYXRlJywgJ3VwZGF0ZScsICdyZW9yZGVyJywgJ2RlbGV0ZSddKTsKCiAgICAgICAgLy8gLS0tLS0tIENSVUQgUkVPUkRFUgogICAgICAgIC8vICR0aGlzLT5jcnVkLT5lbmFibGVSZW9yZGVyKCdsYWJlbF9uYW1lJywgTUFYX1RSRUVfTEVWRUwpOwogICAgICAgIC8vIE5PVEU6IHlvdSBhbHNvIG5lZWQgdG8gZG8gYWxsb3cgYWNjZXNzIHRvIHRoZSByaWdodCB1c2VyczogJHRoaXMtPmNydWQtPmFsbG93QWNjZXNzKCdyZW9yZGVyJyk7CgogICAgICAgIC8vIC0tLS0tLSBDUlVEIERFVEFJTFMgUk9XCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmVuYWJsZURldGFpbHNSb3coKTsKICAgICAgICAvLyBOT1RFOiB5b3UgYWxzbyBuZWVkIHRvIGRvIGFsbG93IGFjY2VzcyB0byB0aGUgcmlnaHQgdXNlcnM6ICR0aGlzLT5jcnVkLT5hbGxvd0FjY2VzcygnZGV0YWlsc19yb3cnKTsKICAgICAgICAvLyBOT1RFOiB5b3UgYWxzbyBuZWVkIHRvIGRvIG92ZXJ3cml0ZSB0aGUgc2hvd0RldGFpbHNSb3coJGlkKSBtZXRob2QgaW4geW91ciBFbnRpdHlDcnVkQ29udHJvbGxlciB0byBzaG93IHdoYXRldmVyIHlvdSdkIGxpa2UgaW4gdGhlIGRldGFpbHMgcm93IE9SIG92ZXJ3cml0ZSB0aGUgdmlld3MvYmFja3BhY2svY3J1ZC9kZXRhaWxzX3Jvdy5ibGFkZS5waHAKCiAgICAgICAgLy8gLS0tLS0tIFJFVklTSU9OUwogICAgICAgIC8vIFlvdSBhbHNvIG5lZWQgdG8gdXNlIFxWZW50dXJlY3JhZnRcUmV2aXNpb25hYmxlXFJldmlzaW9uYWJsZVRyYWl0OwogICAgICAgIC8vIFBsZWFzZSBjaGVjayBvdXQ6IGh0dHBzOi8vbGFyYXZlbC1iYWNrcGFjay5yZWFkbWUuaW8vZG9jcy9jcnVkI3JldmlzaW9ucwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hbGxvd0FjY2VzcygncmV2aXNpb25zJyk7CgogICAgICAgIC8vIC0tLS0tLSBBSkFYIFRBQkxFIFZJRVcKICAgICAgICAvLyBQbGVhc2Ugbm90ZSB0aGUgZHJhd2JhY2tzIG9mIHRoaXMgdGhvdWdoOgogICAgICAgIC8vIC0gMS1uIGFuZCBuLW4gY29sdW1ucyBhcmUgbm90IHNlYXJjaGFibGUKICAgICAgICAvLyAtIGRhdGUgYW5kIGRhdGV0aW1lIGNvbHVtbnMgd29uJ3QgYmUgc29ydGFibGUgYW55bW9yZQogICAgICAgIC8vICR0aGlzLT5jcnVkLT5lbmFibGVBamF4VGFibGUoKTsKCiAgICAgICAgLy8gLS0tLS0tIERBVEFUQUJMRSBFWFBPUlQgQlVUVE9OUwogICAgICAgIC8vIFNob3cgZXhwb3J0IHRvIFBERiwgQ1NWLCBYTFMgYW5kIFByaW50IGJ1dHRvbnMgb24gdGhlIHRhYmxlIHZpZXcuCiAgICAgICAgLy8gRG9lcyBub3Qgd29yayB3ZWxsIHdpdGggQUpBWCBkYXRhdGFibGVzLgogICAgICAgIC8vICR0aGlzLT5jcnVkLT5lbmFibGVFeHBvcnRCdXR0b25zKCk7CgogICAgICAgIC8vIC0tLS0tLSBBRFZBTkNFRCBRVUVSSUVTCiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENsYXVzZSgnYWN0aXZlJyk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENsYXVzZSgndHlwZScsICdjYXInKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ2xhdXNlKCd3aGVyZScsICduYW1lJywgJz09JywgJ2NhcicpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDbGF1c2UoJ3doZXJlTmFtZScsICdjYXInKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+YWRkQ2xhdXNlKCd3aGVyZUhhcycsICdwb3N0cycsIGZ1bmN0aW9uKCRxdWVyeSkgewogICAgICAgIC8vICAgICAkcXVlcnktPmFjdGl2ZVBvc3RzKCk7CiAgICAgICAgLy8gfSk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmFkZENsYXVzZSgnd2l0aG91dEdsb2JhbFNjb3BlcycpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5hZGRDbGF1c2UoJ3dpdGhvdXRHbG9iYWxTY29wZScsIFZpc2libGVTY29wZTo6Y2xhc3MpOwogICAgICAgIC8vICR0aGlzLT5jcnVkLT53aXRoKCk7IC8vIGVhZ2VyIGxvYWQgcmVsYXRpb25zaGlwcwogICAgICAgIC8vICR0aGlzLT5jcnVkLT5vcmRlckJ5KCk7CiAgICAgICAgLy8gJHRoaXMtPmNydWQtPmdyb3VwQnkoKTsKICAgICAgICAvLyAkdGhpcy0+Y3J1ZC0+bGltaXQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+d2l0aCgndHJhY2tzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+c2V0RnJvbURiKCk7CgogICAgICAgIC8vIC0tLS0tLSBDUlVEIEZJRUxEUwoKICAgICAgICAvLyAtLS0tLS0gQ1JVRCBDT0xVTU5TCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJyAgICAgID0+ICd0cmFja3MnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyAgICAgPT4gdHJhbnMoJ3RpdGxlcy50cmFjay5wbHVyYWwnKSwKICAgICAgICAgICAgICAgICd0eXBlJyAgICAgID0+ICdzZWxlY3RfbXVsdGlwbGUnLAogICAgICAgICAgICAgICAgJ21vZGVsJyAgICAgPT4gVHJhY2s6OmNsYXNzLAogICAgICAgICAgICAgICAgJ2VudGl0eScgICAgPT4gJ3RyYWNrcycsCiAgICAgICAgICAgICAgICAnYXR0cmlidXRlJyA9PiAndGl0bGUnLAogICAgICAgICAgICAgICAgJ3Bpdm90JyAgICAgPT4gdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+c2V0RnJvbURiKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
