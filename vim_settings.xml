@@ -261,10 +261,11 @@
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/database/seeds/RolesTableSeeder.php" timestamp="1517388615131">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="70" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/git/web/hypno/database/seeds/RolesTableSeeder.php" timestamp="1517829121950">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="70" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
       </file>
       <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_17_124407_create_contacts_table.php" timestamp="1516629402342">
         <mark key="[" line="18" column="0" />
@@ -530,7 +531,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517499478353">
+      <file name="/Dummy.txt" timestamp="1517829087887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/EventTypeCrudController.php" timestamp="1517311532694">
@@ -587,19 +588,19 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/database/factories/RoleFactory.php" timestamp="1517388736918">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="17" />
+      <file name="$USER_HOME$/git/web/hypno/database/factories/RoleFactory.php" timestamp="1517829092782">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+        <mark key="^" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/tests/TestCase.php" timestamp="1517388984956">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="18" column="26" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/git/web/hypno/tests/TestCase.php" timestamp="1517829162382">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/database/seeds/UsersTableSeeder.php" timestamp="1517388442011">
-        <mark key="[" line="43" column="0" />
+      <file name="$USER_HOME$/git/web/hypno/database/seeds/UsersTableSeeder.php" timestamp="1517829103854">
+        <mark key="[" line="17" column="11" />
         <mark key="]" line="43" column="38" />
         <mark key="^" line="35" column="47" />
         <mark key="." line="35" column="47" />
@@ -610,6 +611,7 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="40" column="7" />
       </file>
+      <file name="$USER_HOME$/git/web/hypno/tests/Crud/UserCrudTest.php" timestamp="1517828891011" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/git/web/gsk/config/database.php" />
@@ -715,46 +717,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJ2ZpbGVfbmlnaHQnICA9PiAiaHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9kcmFjdWxhX2xpYnJpdm94L2RyYWN1bGFfMCIgLiAgKCRpICsgMSkgLiJfc3Rva2VyLm1wMyIsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YWRtaW5Sb2xlLT50b0FycmF5KCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>'https://archive.org/download/dracula_librivox/dracula_01_stoker.mp3',</text>
+        <text>role</text>
       </register>
       <register name="/" type="4">
         <text>disks</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;https://archive.org/download/dracula_librivox/dracula_0&quot; .  ($i + 1) .&quot;_stoker.mp3&quot;,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBSb2xlOjpmaXJzdE9yQ3JlYXRlKFsnbmFtZScgPT4gJ2FkbWluJ10sIFsnbmFtZScgPT4gJ2FkbWluJ10pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJ2ZpbGVfbmlnaHQnICA9PiAiaHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9kcmFjdWxhX2xpYnJpdm94L2RyYWN1bGFfMCIgLiAgKCRpICsgMSkgLiJfc3Rva2VyLm1wMyIsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YWRtaW5Sb2xlLT50b0FycmF5KCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJ2ZpbGVfZGF5JyAgICA9PiAiaHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9hbGljZV9pbl93b25kZXJsYW5kX2xpYnJpdm94L3dvbmRlcmxhbmRfY2hfMCIgLiAoMSArICgkaSAlIDEyKSkgLiIubXAzIiwK</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5hZG1pblJvbGUtPnNhdmUoKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">YXNzZXJ0Tm90TnVsbCgkZmlsZS0+dHlwZSk7CiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5hZG1pblJvbGUgPSBuZXcgUm9sZShbJ25hbWUnID0+ICdhZG1pbiddKTsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcm9sZSA9IG5ldyBSb2xlKFsnbmFtZScgPT4gJ2FkbWluJ10pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR0cmFja3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCAoJHJvbGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFRyYWNrOjp0cnVuY2F0ZSgpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICRyb2xlLT5uYW1lID0gJ2FkbWluJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRtb2RlbC0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJ2ZpbGVfbmlnaHQnICA9PiAiaHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9kcmFjdWxhX2xpYnJpdm94L2RyYWN1bGFfMCIgLiAgKCRpICsgMSkgLiJfc3Rva2VyLm1wMyIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJ2ZpbGVfZGF5JyAgICA9PiAiaHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9hbGljZV9pbl93b25kZXJsYW5kX2xpYnJpdm94L3dvbmRlcmxhbmRfY2hfMCIgLiAoMSArICgkaSAlIDEyKSkgLiIubXAzIiwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdHJhY2stPnRvQXJyYXkoKSk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">YXNzZXJ0Tm90TnVsbCgkZmlsZS0+dHlwZSk7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
