@@ -12,14 +12,6 @@
       <file name="/a.dummy" timestamp="1517476910036">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Models/Video.php" timestamp="1517833482506">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="74" column="4" />
-      </file>
-      <file name="$USER_HOME$/git/web/persofleet/database/migrations/2017_08_25_152258_create_files_table.php" timestamp="1517840150711">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="59" />
-      </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/ContactCrudController.php" timestamp="1517241731099">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -42,11 +34,11 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="26" column="12" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/app/Transformers/FileTransformer.php" timestamp="1517836976261">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="28" />
-        <mark key="." line="19" column="28" />
-        <mark key="^" line="22" column="32" />
+      <file name="$USER_HOME$/git/web/hypno/app/Transformers/FileTransformer.php" timestamp="1517907310047">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="41" />
+        <mark key="." line="20" column="27" />
+        <mark key="^" line="21" column="26" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/app/Models/User.php" timestamp="1516017326665">
         <mark key="[" line="21" column="0" />
@@ -102,10 +94,17 @@
         <mark key="]" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/config/backpack/permissionmanager.php" timestamp="1517321040541">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
+      <file name="$USER_HOME$/git/web/hypno/config/backpack/permissionmanager.php" timestamp="1517905414573">
+        <mark key="[" line="36" column="33" />
+        <mark key="]" line="36" column="33" />
+        <mark key="." line="36" column="37" />
+        <mark key="^" line="31" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/web/hypno/tests/Api/GetCategoriesTest.php" timestamp="1517908986288">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="79" column="10" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Models/Status.php" timestamp="1517233780684">
         <mark key="[" line="5" column="0" />
@@ -119,7 +118,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/app/Transformers/TrackTransformer.php" timestamp="1517839945472">
+      <file name="$USER_HOME$/git/web/hypno/app/Transformers/TrackTransformer.php" timestamp="1517908119857">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="23" />
         <mark key="." line="9" column="23" />
@@ -135,11 +134,16 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/database/factories/TrackFactory.php" timestamp="1517838561580">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="49" />
-        <mark key="." line="9" column="7" />
-        <mark key="^" line="9" column="7" />
+      <file name="$USER_HOME$/git/web/hypno/database/factories/TrackFactory.php" timestamp="1517906916325">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/web/hypno/resources/lang/de/validation.php" timestamp="1517905834072">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_22_144931_create_company_contact_table.php" timestamp="1516715160234">
         <mark key="[" line="18" column="0" />
@@ -164,11 +168,11 @@
         <mark key="]" line="68" column="34" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/database/factories/FileFactory.php" timestamp="1517840368298">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="15" />
+      <file name="$USER_HOME$/git/web/hypno/database/factories/FileFactory.php" timestamp="1517907261812">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
         <mark key="^" line="10" column="15" />
-        <mark key="." line="10" column="15" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/tests/utilities/functions.php" timestamp="1517483296552">
         <mark key="[" line="3" column="1" />
@@ -198,9 +202,9 @@
       <file name="$USER_HOME$/git/web/hma/app/Models/EventType.php" timestamp="1517311326670">
         <mark key="[" line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/routes/admin.php" timestamp="1517904567880">
+      <file name="$USER_HOME$/git/web/hypno/routes/admin.php" timestamp="1517904975359">
         <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="45" />
+        <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/tests/Feature/UserCrudTest.php" timestamp="1517389421657">
@@ -221,11 +225,15 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/vendor/backpack/permissionmanager/src/app/Http/Controllers/UserCrudController.php" timestamp="1517904241841">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="56" />
+      <file name="$USER_HOME$/git/web/hypno/vendor/backpack/permissionmanager/src/app/Http/Controllers/UserCrudController.php" timestamp="1517906237456">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="129" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/UserCrudController.php" timestamp="1517904514393" />
+      <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/UserCrudController.php" timestamp="1517906199793">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Api/v1/CategoryController.php" timestamp="1517395614001">
         <mark key="[" line="20" column="0" />
       </file>
@@ -247,19 +255,19 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/app/Transformers/CategoryTransformer.php" timestamp="1517839882917">
-        <mark key="'" line="35" column="26" />
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="25" column="25" />
-        <mark key="." line="10" column="15" />
+      <file name="$USER_HOME$/git/web/hypno/app/Transformers/CategoryTransformer.php" timestamp="1517909103286">
+        <mark key="'" line="36" column="26" />
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="36" column="14" />
+        <mark key="^" line="36" column="14" />
+        <mark key="." line="36" column="14" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/database/migrations/2018_01_31_134253_create_files_table.php" timestamp="1517840195151">
+      <file name="$USER_HOME$/git/web/hypno/database/migrations/2018_01_31_134253_create_files_table.php" timestamp="1517907107509">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="72" />
-        <mark key="]" line="23" column="50" />
-        <mark key="." line="23" column="50" />
-        <mark key="^" line="23" column="50" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="19" column="50" />
       </file>
       <file name="$USER_HOME$/git/web/hma/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php" timestamp="1516268312917">
         <mark key="[" line="30" column="0" />
@@ -277,12 +285,6 @@
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="28" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/app/Models/Track.php" timestamp="1517839175651">
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="27" column="63" />
-        <mark key="." line="27" column="63" />
-        <mark key="^" line="27" column="63" />
-      </file>
       <file name="$USER_HOME$/git/web/hypno/vendor/backpack/crud/src/CrudTrait.php" timestamp="1517834624888">
         <mark key="[" line="133" column="0" />
         <mark key="]" line="163" column="4" />
@@ -295,6 +297,12 @@
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
       </file>
+      <file name="$USER_HOME$/git/web/hypno/routes/backpack/permissionmanager.php" timestamp="1517905365073">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="13" column="46" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/hypno/database/seeds/RolesTableSeeder.php" timestamp="1517829121950">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="70" />
@@ -306,11 +314,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/tests/Crud/FileCrudTest.php" timestamp="1517838592948">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="32" column="36" />
-        <mark key="]" line="29" column="48" />
-        <mark key="." line="29" column="48" />
+      <file name="$USER_HOME$/git/web/hypno/tests/Crud/FileCrudTest.php" timestamp="1517907228848">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
         <mark key="^" line="29" column="48" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/database/migrations/2018_01_31_131109_create_file_types_table.php" timestamp="1517836394467">
@@ -326,20 +334,19 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/tests/ApiTestCase.php" timestamp="1517501776883">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="11" column="3" />
+      <file name="$USER_HOME$/git/web/hypno/tests/ApiTestCase.php" timestamp="1517908946249">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/database/seeds/CompaniesSeeder.php" timestamp="1516715407595">
         <mark key="[" line="44" column="24" />
         <mark key="]" line="44" column="24" />
         <mark key="." line="44" column="24" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/resources/lang/de/titles.php" timestamp="1517491208919">
-        <mark key="[" line="52" column="27" />
-        <mark key="]" line="52" column="27" />
+      <file name="$USER_HOME$/git/web/hypno/resources/lang/de/titles.php" timestamp="1517905652624">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="27" column="39" />
         <mark key="." line="52" column="27" />
         <mark key="^" line="51" column="27" />
       </file>
@@ -400,10 +407,6 @@
         <mark key="]" line="31" column="2" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Models/File.php" timestamp="1517837382743">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="61" />
-      </file>
       <file name="$USER_HOME$/git/web/hma/database/seeds/EventTypeSeeder.php" timestamp="1517241943905">
         <mark key="[" line="15" column="45" />
         <mark key="]" line="15" column="45" />
@@ -422,10 +425,17 @@
         <mark key="." line="19" column="68" />
         <mark key="^" line="23" column="42" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/app/Models/File.php" timestamp="1517837775592">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/git/web/hypno/app/Models/File.php" timestamp="1517907178467">
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="53" column="6" />
+        <mark key="." line="53" column="6" />
+        <mark key="^" line="53" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/web/hypno/resources/lang/de/permissionmanager.php" timestamp="1517906440378">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="26" column="40" />
+        <mark key="." line="26" column="32" />
+        <mark key="^" line="25" column="37" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Models/User.php" timestamp="1517236461631">
         <mark key="[" line="97" column="0" />
@@ -468,10 +478,10 @@
         <mark key="^" line="39" column="132" />
         <mark key="." line="39" column="132" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/resources/views/vendor/backpack/base/inc/sidebar.blade.php" timestamp="1517903811377">
-        <mark key="[" line="45" column="21" />
-        <mark key="]" line="32" column="15" />
-        <mark key="." line="32" column="15" />
+      <file name="$USER_HOME$/git/web/hypno/resources/views/vendor/backpack/base/inc/sidebar.blade.php" timestamp="1517905092462">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
         <mark key="^" line="32" column="15" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/app/Http/Requests/CategoryRequest.php" timestamp="1517839556091">
@@ -532,10 +542,10 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/FileCrudController.php" timestamp="1517837858243">
-        <mark key="[" line="36" column="28" />
-        <mark key="]" line="36" column="28" />
-        <mark key="." line="36" column="28" />
+      <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/FileCrudController.php" timestamp="1517907200687">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Models/Model.php" timestamp="1517236395606">
         <mark key="[" line="7" column="0" />
@@ -573,7 +583,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517841399953">
+      <file name="/Dummy.txt" timestamp="1517908260905">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/EventTypeCrudController.php" timestamp="1517311532694">
@@ -594,6 +604,10 @@
         <mark key="]" line="22" column="28" />
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/web/hypno/resources/lang/vendor/backpack/en/permissionmanager.php" timestamp="1517906294545">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="28" column="1" />
       </file>
       <file name="$USER_HOME$/git/web/hma/database/seeds/JobsTableSeeder.php" timestamp="1516702289486">
         <mark key="[" line="14" column="0" />
@@ -617,11 +631,19 @@
         <mark key="]" line="27" column="32" />
         <mark key="." line="27" column="32" />
       </file>
+      <file name="$USER_HOME$/git/web/hypno/resources/lang/vendor/backpack/de/permissionmanager.php" timestamp="1517906504314">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/hypno/public/.htaccess" timestamp="1517499729488">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="7" column="29" />
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/web/hypno/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/MakesHttpRequests.php" timestamp="1517908908558">
+        <mark key="[" line="252" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/app/File.php" timestamp="1517833326117">
         <mark key="[" line="19" column="0" />
@@ -751,23 +773,23 @@
       <jump line="12" column="0" filename="$USER_HOME$/git/web/hypno/routes/backpack/base.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIG5vdCBvdGhlcndpc2UgY29uZmlndXJlZCwgc2V0dXAgdGhlIGF1dGggcm91dGVzCiAgICBpZiAoY29uZmlnKCdiYWNrcGFjay5iYXNlLnNldHVwX2F1dGhfcm91dGVzJykpIHsKICAgICAgICAvLyBSZWdpc3RyYXRpb24gUm91dGVzLi4uCiAgICAgICAgUm91dGU6OmdldCgncmVnaXN0ZXInLCAnQXV0aFxSZWdpc3RlckNvbnRyb2xsZXJAc2hvd1JlZ2lzdHJhdGlvbkZvcm0nKS0+bmFtZSgnYmFja3BhY2suYXV0aC5yZWdpc3RlcicpOwogICAgICAgIFJvdXRlOjpwb3N0KCdyZWdpc3RlcicsICdBdXRoXFJlZ2lzdGVyQ29udHJvbGxlckByZWdpc3RlcicpOwogICAgfQoKICAgIC8vIGlmIG5vdCBvdGhlcndpc2UgY29uZmlndXJlZCwgc2V0dXAgdGhlICJteSBhY2NvdW50IiByb3V0ZXMKICAgIGlmIChjb25maWcoJ2JhY2twYWNrLmJhc2Uuc2V0dXBfbXlfYWNjb3VudF9yb3V0ZXMnKSkgewogICAgICAgIFJvdXRlOjpnZXQoJ2VkaXQtYWNjb3VudC1pbmZvJywgJ0F1dGhcTXlBY2NvdW50Q29udHJvbGxlckBnZXRBY2NvdW50SW5mb0Zvcm0nKS0+bmFtZSgnYmFja3BhY2suYWNjb3VudC5pbmZvJyk7CiAgICAgICAgUm91dGU6OnBvc3QoJ2VkaXQtYWNjb3VudC1pbmZvJywgJ0F1dGhcTXlBY2NvdW50Q29udHJvbGxlckBwb3N0QWNjb3VudEluZm9Gb3JtJyk7CiAgICAgICAgUm91dGU6OmdldCgnY2hhbmdlLXBhc3N3b3JkJywgJ0F1dGhcTXlBY2NvdW50Q29udHJvbGxlckBnZXRDaGFuZ2VQYXNzd29yZEZvcm0nKS0+bmFtZSgnYmFja3BhY2suYWNjb3VudC5wYXNzd29yZCcpOwogICAgICAgIFJvdXRlOjpwb3N0KCdjaGFuZ2UtcGFzc3dvcmQnLCAnQXV0aFxNeUFjY291bnRDb250cm9sbGVyQHBvc3RDaGFuZ2VQYXNzd29yZEZvcm0nKTsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>ollection</text>
       </register>
       <register name="-" type="4">
-        <text>Backpack\PermissionManager\app\Http\Controllers\</text>
+        <text>ollection</text>
       </register>
       <register name="/" type="4">
         <text>Builder</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Um91dGU6Omdyb3VwKFsKICAgICduYW1lc3BhY2UnID0+ICdBcHBcSHR0cFxDb250cm9sbGVyc1xBZG1pbicsCiAgICAnbWlkZGxld2FyZScgPT4gJ3dlYicsCiAgICAncHJlZml4JyA9PiBjb25maWcoJ2JhY2twYWNrLmJhc2Uucm91dGVfcHJlZml4JyksCl0sIGZ1bmN0aW9uICgpIHsKICAgIC8vIGlmIG5vdCBvdGhlcndpc2UgY29uZmlndXJlZCwgc2V0dXAgdGhlIGF1dGggcm91dGVzCiAgICBpZiAoY29uZmlnKCdiYWNrcGFjay5iYXNlLnNldHVwX2F1dGhfcm91dGVzJykpIHsKICAgICAgICAvLyBSZWdpc3RyYXRpb24gUm91dGVzLi4uCiAgICAgICAgUm91dGU6OmdldCgncmVnaXN0ZXInLCAnQXV0aFxSZWdpc3RlckNvbnRyb2xsZXJAc2hvd1JlZ2lzdHJhdGlvbkZvcm0nKS0+bmFtZSgnYmFja3BhY2suYXV0aC5yZWdpc3RlcicpOwogICAgICAgIFJvdXRlOjpwb3N0KCdyZWdpc3RlcicsICdBdXRoXFJlZ2lzdGVyQ29udHJvbGxlckByZWdpc3RlcicpOwogICAgfQoKICAgIC8vIGlmIG5vdCBvdGhlcndpc2UgY29uZmlndXJlZCwgc2V0dXAgdGhlICJteSBhY2NvdW50IiByb3V0ZXMKICAgIGlmIChjb25maWcoJ2JhY2twYWNrLmJhc2Uuc2V0dXBfbXlfYWNjb3VudF9yb3V0ZXMnKSkgewogICAgICAgIFJvdXRlOjpnZXQoJ2VkaXQtYWNjb3VudC1pbmZvJywgJ0F1dGhcTXlBY2NvdW50Q29udHJvbGxlckBnZXRBY2NvdW50SW5mb0Zvcm0nKS0+bmFtZSgnYmFja3BhY2suYWNjb3VudC5pbmZvJyk7CiAgICAgICAgUm91dGU6OnBvc3QoJ2VkaXQtYWNjb3VudC1pbmZvJywgJ0F1dGhcTXlBY2NvdW50Q29udHJvbGxlckBwb3N0QWNjb3VudEluZm9Gb3JtJyk7CiAgICAgICAgUm91dGU6OmdldCgnY2hhbmdlLXBhc3N3b3JkJywgJ0F1dGhcTXlBY2NvdW50Q29udHJvbGxlckBnZXRDaGFuZ2VQYXNzd29yZEZvcm0nKS0+bmFtZSgnYmFja3BhY2suYWNjb3VudC5wYXNzd29yZCcpOwogICAgICAgIFJvdXRlOjpwb3N0KCdjaGFuZ2UtcGFzc3dvcmQnLCAnQXV0aFxNeUFjY291bnRDb250cm9sbGVyQHBvc3RDaGFuZ2VQYXNzd29yZEZvcm0nKTsKICAgIH0KfSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">JHRoaXMtPmdldENhdGVnb3JpZXMoKS0+Ym9keS0+Y2F0ZWdvcmllc1swXS0+dHJhY2tzWzBd</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIG5vdCBvdGhlcndpc2UgY29uZmlndXJlZCwgc2V0dXAgdGhlIGF1dGggcm91dGVzCiAgICBpZiAoY29uZmlnKCdiYWNrcGFjay5iYXNlLnNldHVwX2F1dGhfcm91dGVzJykpIHsKICAgICAgICAvLyBSZWdpc3RyYXRpb24gUm91dGVzLi4uCiAgICAgICAgUm91dGU6OmdldCgncmVnaXN0ZXInLCAnQXV0aFxSZWdpc3RlckNvbnRyb2xsZXJAc2hvd1JlZ2lzdHJhdGlvbkZvcm0nKS0+bmFtZSgnYmFja3BhY2suYXV0aC5yZWdpc3RlcicpOwogICAgICAgIFJvdXRlOjpwb3N0KCdyZWdpc3RlcicsICdBdXRoXFJlZ2lzdGVyQ29udHJvbGxlckByZWdpc3RlcicpOwogICAgfQoKICAgIC8vIGlmIG5vdCBvdGhlcndpc2UgY29uZmlndXJlZCwgc2V0dXAgdGhlICJteSBhY2NvdW50IiByb3V0ZXMKICAgIGlmIChjb25maWcoJ2JhY2twYWNrLmJhc2Uuc2V0dXBfbXlfYWNjb3VudF9yb3V0ZXMnKSkgewogICAgICAgIFJvdXRlOjpnZXQoJ2VkaXQtYWNjb3VudC1pbmZvJywgJ0F1dGhcTXlBY2NvdW50Q29udHJvbGxlckBnZXRBY2NvdW50SW5mb0Zvcm0nKS0+bmFtZSgnYmFja3BhY2suYWNjb3VudC5pbmZvJyk7CiAgICAgICAgUm91dGU6OnBvc3QoJ2VkaXQtYWNjb3VudC1pbmZvJywgJ0F1dGhcTXlBY2NvdW50Q29udHJvbGxlckBwb3N0QWNjb3VudEluZm9Gb3JtJyk7CiAgICAgICAgUm91dGU6OmdldCgnY2hhbmdlLXBhc3N3b3JkJywgJ0F1dGhcTXlBY2NvdW50Q29udHJvbGxlckBnZXRDaGFuZ2VQYXNzd29yZEZvcm0nKS0+bmFtZSgnYmFja3BhY2suYWNjb3VudC5wYXNzd29yZCcpOwogICAgICAgIFJvdXRlOjpwb3N0KCdjaGFuZ2UtcGFzc3dvcmQnLCAnQXV0aFxNeUFjY291bnRDb250cm9sbGVyQHBvc3RDaGFuZ2VQYXNzd29yZEZvcm0nKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q1JVRDo6cmVzb3VyY2UoJ3VzZXInLCAnVXNlckNydWRDb250cm9sbGVyJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -776,22 +798,22 @@
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iaGVhZGVyIj57eyB0cmFucygnYmFja3BhY2s6OmJhc2UuYWRtaW5pc3RyYXRpb24nKSB9fTwvbGk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBpZihBdXRoOjp1c2VyKCktPmhhc1JvbGUoJ2FkbWluJykpCiAgICAgICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyB1cmwoY29uZmlnKCdiYWNrcGFjay5iYXNlLnJvdXRlX3ByZWZpeCcsICdhZG1pbicpIC4gJy9yb2xlJykgfX0iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWdyb3VwIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj4ge3sgdHJhbnMoJ3RpdGxlcy5yb2xlLnBsdXJhbCcpIH19IDwvc3Bhbj48L2E+CiAgICAgICAgICAgICAgICAgICAgPC9saT4KCiAgICAgICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyB1cmwoY29uZmlnKCdiYWNrcGFjay5iYXNlLnJvdXRlX3ByZWZpeCcsICdhZG1pbicpIC4gJy9wZXJtaXNzaW9uJykgfX0iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWtleSI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+IHt7IHRyYW5zKCd0aXRsZXMucGVybWlzc2lvbi5wbHVyYWwnKSB9fSA8L3NwYW4+PC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICBAZW5kaWYK</text>
+        <text encoding="base64">ICAgICAgICBmcmFjdGFsKCRkYXRhLCBuZXcgVHJhbnNmb3JtZXIsIG5ldyBBcnJheVNlcmlhbGl6ZXIpLT5wYXJzZUluY2x1ZGVzKFsnaW5jbHVkZTEnLCAnaW5jbHVkZTInXTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kYXRldGltZSgnZHVyYXRpb24nKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdHJhY2stPmZpbGVzWzBdLT5maWxlVHlwZS0+bmFtZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mbG9hdCgnc2l6ZScpLT51bnNpZ25lZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwogICAgZnVuY3Rpb24gYV9maWxlX2NvbnRhaW5zX3NlY29uZHMoKQogICAgewogICAgICAgICR0aGlzLT5jcmVhdGVUcmFjaygpOwoKICAgICAgICAkZmlsZSA9ICR0aGlzLT5nZXRDYXRlZ29yaWVzKCktPmJvZHktPmNhdGVnb3JpZXNbMF0tPnRyYWNrc1swXS0+ZmlsZXNbMF07CgogICAgICAgICR0aGlzLT5hc3NlcnROb3ROdWxsKCRmaWxlLT5zZWNvbmRzKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
