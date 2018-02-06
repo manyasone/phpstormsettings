@@ -214,11 +214,15 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/UserCrudController.php" timestamp="1517903084869">
-        <mark key="[" line="24" column="52" />
-        <mark key="]" line="24" column="52" />
-        <mark key="^" line="24" column="39" />
-        <mark key="." line="24" column="52" />
+      <file name="$USER_HOME$/git/web/hypno/vendor/backpack/permissionmanager/src/app/Http/Controllers/UserCrudController.php" timestamp="1517903545266">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="56" />
+      </file>
+      <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/UserCrudController.php" timestamp="1517903587755">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="40" />
+        <mark key="^" line="12" column="40" />
+        <mark key="." line="12" column="40" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Api/v1/CategoryController.php" timestamp="1517395614001">
         <mark key="[" line="20" column="0" />
@@ -552,6 +556,10 @@
         <mark key="]" line="28" column="42" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Administration/User/Controllers/UserCrudController.php" timestamp="1517903528946">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="55" />
+      </file>
       <file name="$USER_HOME$/git/web/hma/tests/Unit/ContactTest.php" timestamp="1516629471990">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -747,16 +755,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>auth()</text>
+        <text>Backpack\PermissionManager\app\Http\Controllers\</text>
       </register>
       <register name="-" type="4">
-        <text>auth()</text>
+        <text>Backpack\PermissionManager\app\Http\Controllers\</text>
       </register>
       <register name="/" type="4">
         <text>Builder</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA/PyBGaWxlVHlwZTo6aW5SYW5kb21PcmRlcigpLT5maXJzdCgpLT5pZAo=</text>
+      <register name="0" type="4">
+        <text>Backpack\PermissionManager\app\Http\Controllers</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
