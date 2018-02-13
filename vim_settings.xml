@@ -258,6 +258,9 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="18" column="10" />
       </file>
+      <file name="$USER_HOME$/git/app/jumpin/package.json" timestamp="1518448196933">
+        <mark key="'" line="12" column="48" />
+      </file>
       <file name="$USER_HOME$/git/web/hypno/app/Http/Requests/UserRequest.php" timestamp="1517839644170">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -489,6 +492,11 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="32" column="15" />
       </file>
+      <file name="$USER_HOME$/git/app/jumpin/src/models/location.ts" timestamp="1518510541758">
+        <mark key="]" line="13" column="35" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="35" />
+      </file>
       <file name="$USER_HOME$/git/web/hypno/app/Http/Requests/CategoryRequest.php" timestamp="1517839556091">
         <mark key="[" line="27" column="34" />
         <mark key="]" line="27" column="34" />
@@ -591,7 +599,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517908260905">
+      <file name="/Dummy.txt" timestamp="1518446657753">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/EventTypeCrudController.php" timestamp="1517311532694">
@@ -681,7 +689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="77" filename="$USER_HOME$/git/web/hma/resources/views/vendor/backpack/base/auth/account/update_info.blade.php" />
       <jump line="80" column="56" filename="$USER_HOME$/git/web/hma/resources/views/vendor/backpack/base/auth/account/update_info.blade.php" />
       <jump line="81" column="45" filename="$USER_HOME$/git/web/hma/resources/views/vendor/backpack/base/auth/account/update_info.blade.php" />
       <jump line="84" column="77" filename="$USER_HOME$/git/web/hma/resources/views/vendor/backpack/base/auth/account/update_info.blade.php" />
@@ -781,58 +788,59 @@
       <jump line="8" column="15" filename="$USER_HOME$/git/web/persofleet/app/Http/Transformers/Api/v1/TransformService.php" />
       <jump line="94" column="43" filename="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/CategoryCrudController.php" />
       <jump line="79" column="51" filename="$USER_HOME$/git/web/hypno/tests/Api/GetCategoriesTest.php" />
+      <jump line="12" column="48" filename="$USER_HOME$/git/app/jumpin/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbG9jYXRpb25zID0gW107CiAgICAgICAgICAgIGZvciAobGV0IGkgPSAxOyBpIDwgMjM7IGkrKykgewogICAgICAgICAgICAgICAgbG9jYXRpb25zLnB1c2gobmV3IExvY2F0aW9uKGkpKTsKICAgICAgICAgICAgfQogICAgICAgIHJldHVybiBsb2NhdGlvbnM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ValidatesRequest</text>
+        <text>LocationServiceProvider.initLocations();</text>
       </register>
       <register name="/" type="4">
-        <text>Builder</text>
+        <text>prett</text>
       </register>
-      <register name="0" type="4">
-        <text>make(User::class</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgbG9jYXRpb25zID0gW107CiAgICAgICAgZm9yIChsZXQgaSA9IDE7IGkgPCAyMzsgaSsrKSB7CiAgICAgICAgICAgIGxvY2F0aW9ucy5wdXNoKG5ldyBMb2NhdGlvbihpKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBsb2NhdGlvbnM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbG9jYXRpb25zID0gW107CiAgICAgICAgICAgIGZvciAobGV0IGkgPSAxOyBpIDwgMjM7IGkrKykgewogICAgICAgICAgICAgICAgbG9jYXRpb25zLnB1c2gobmV3IExvY2F0aW9uKGkpKTsKICAgICAgICAgICAgfQogICAgICAgIHJldHVybiBsb2NhdGlvbnM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTG9jYXRpb25TZXJ2aWNlUHJvdmlkZXIuaW5pdExvY2F0aW9ucygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxWYWxpZGF0aW9uXFZhbGlkYXRlc1JlcXVlc3RzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcVmFsaWRhdGlvblxDb25jZXJuc1xWYWxpZGF0ZXNBdHRyaWJ1dGVzOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZSBWYWxpZGF0ZXM7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">cHJpdmF0ZSBpbml0TG9jYXRpb25zKCk6TG9jYXRpb25bXSB7CiAgICAgICByZXR1cm4KICAgICAgICAgWwogICAgICAgICAgICBuZXcgTG9jYXRpb24oMSksCiAgICAgICAgICAgIG5ldyBMb2NhdGlvbigyKSwKICAgICAgICAgICAgbmV3IExvY2F0aW9uKDMpLAogICAgICAgICAgICBuZXcgTG9jYXRpb24oNCksCiAgICAgICAgICAgIG5ldyBMb2NhdGlvbig1KSwKICAgICAgICAgICAgbmV3IExvY2F0aW9uKDYpLAogICAgICAgICAgICBuZXcgTG9jYXRpb24oNyksCiAgICAgICAgICAgIG5ldyBMb2NhdGlvbig4KSwKICAgICAgICAgICAgbmV3IExvY2F0aW9uKDkpLAogICAgICAgICAgICBuZXcgTG9jYXRpb24oMTApLAogICAgICAgICAgICBuZXcgTG9jYXRpb24oMTEpLAogICAgICAgICAgICBuZXcgTG9jYXRpb24oMTIpLAogICAgICAgICAgICBuZXcgTG9jYXRpb24oMTMpLAogICAgICAgICAgICBuZXcgTG9jYXRpb24oMTQpLAogICAgICAgICAgICBuZXcgTG9jYXRpb24oMTUpLAogICAgICAgICAgICBuZXcgTG9jYXRpb24oMTYpLAogICAgICAgICAgICBuZXcgTG9jYXRpb24oMTcpLAogICAgICAgICAgICBuZXcgTG9jYXRpb24oMTgpLAogICAgICAgICAgICBuZXcgTG9jYXRpb24oMTkpLAogICAgICAgICAgICBuZXcgTG9jYXRpb24oMjApLAogICAgICAgICAgICBuZXcgTG9jYXRpb24oMjEpLAogICAgICAgICAgICBuZXcgTG9jYXRpb24oMjIpCiAgICAgICAgXTsKICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxWYWxpZGF0aW9uXFZhbGlkYXRlc1JlcXVlc3RzOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZnVuY3Rpb24oKSB7CiAgICAgICAgCiAgICB9CiAgICBmb3IgKGkgPSAwOyBpIDwgMjI7IGkrKykgewogICAgICAgIHRoaXMubG9jYXRpb25zLnNldChuZXcgTG9jYXRpb24oaSArIDEpKQp9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzZSBWYWxpZGF0ZXNSZXF1ZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IG1ha2UoVXNlcjo6Y2xhc3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlci0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxWYWxpZGF0aW9uXFZhbGlkYXRlc1JlcXVlc3RzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Builder</last-search>
+      <last-search>prett</last-search>
       <last-offset />
-      <last-pattern>Builder</last-pattern>
+      <last-pattern>prett</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -840,8 +848,6 @@
     </search>
     <history>
       <history-search>
-        <entry>admin</entry>
-        <entry>license</entry>
         <entry>strict</entry>
         <entry>show</entry>
         <entry>forename</entry>
@@ -860,6 +866,8 @@
         <entry>function time(</entry>
         <entry>disks</entry>
         <entry>Builder</entry>
+        <entry>prepare</entry>
+        <entry>prett</entry>
       </history-search>
       <history-cmd>
         <entry>%s/aligner-item/col-md-4/g</entry>
