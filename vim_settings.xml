@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/web/hypno/.gitignore" timestamp="1517318012856">
@@ -460,10 +460,10 @@
         <mark key="^" line="39" column="132" />
         <mark key="." line="39" column="132" />
       </file>
-      <file name="$USER_HOME$/git/app/jumpin/src/models/jumpin.ts" timestamp="1519141585154">
+      <file name="$USER_HOME$/git/app/jumpin/src/models/jumpin.ts" timestamp="1519312647084">
         <mark key="'" line="9" column="43" />
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="39" />
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="73" />
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="50" />
       </file>
@@ -788,8 +788,8 @@
       <jump line="41" column="47" filename="$USER_HOME$/git/app/jumpin/src/providers/location-service/location-service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtDYXRlZ29yeX0gZnJvbSAnLi9jYXRlZ29yeSc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>http://lorempizza.com/380/380</text>
       </register>
       <register name="-" type="4">
         <text>[</text>
@@ -797,8 +797,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXY+CiAgICAgICAge3sgbG9jYXRpb24/LnR5cGVzWzBdIH19CiAgICA8L2Rpdj4K</text>
+      <register name="0" type="4">
+        <text>http://lorempizza.com/380/380</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHtDYXRlZ29yeX0gZnJvbSAnLi9jYXRlZ29yeSc7Cg==</text>
