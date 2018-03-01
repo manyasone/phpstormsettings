@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1519834106301">
+      <file name="/a.dummy" timestamp="1519900995351">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/ContactCrudController.php" timestamp="1517241731099">
@@ -85,7 +85,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/foodahoo/app/Traits/OpeningHoursTrait.php" timestamp="1519837170956" />
       <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_22_144931_create_company_contact_table.php" timestamp="1516715160234">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="96" />
@@ -163,7 +162,13 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/_ide_helper.php" timestamp="1519830537786" />
+      <file name="$USER_HOME$/git/web/jumpin/tests/Crud/JumpinTypeCrudTest.php" timestamp="1519900651243">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="45" />
+        <mark key="^" line="45" column="58" />
+        <mark key="." line="45" column="58" />
+      </file>
       <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_17_134808_create_events_table.php" timestamp="1517308089165">
         <mark key="[" line="21" column="29" />
         <mark key="]" line="24" column="28" />
@@ -281,7 +286,6 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/vendor/spatie/laravel-tags/src/HasTags.php" timestamp="1519829926925" />
       <file name="$USER_HOME$/git/app/jumpin/src/pages/jumpin/jumpin.html" timestamp="1519813454086">
         <mark key="[" line="77" column="25" />
         <mark key="]" line="79" column="20" />
@@ -309,6 +313,9 @@
         <mark key="]" line="7" column="29" />
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_03_01_114001_create_jumpin_types_table.php" timestamp="1519901000642">
+        <mark key="[" line="15" column="6" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/database/factories/FrequencyFactory.php" timestamp="1519828153215">
         <mark key="[" line="7" column="31" />
@@ -528,11 +535,9 @@
         <mark key="^" line="23" column="74" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/tests/Crud/JumpinCrudTest.php" timestamp="1519835079620">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="59" column="55" />
+      <file name="$USER_HOME$/git/web/jumpin/tests/Crud/JumpinCrudTest.php" timestamp="1519900427860">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="34" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/tests/Crud/jumpin.php" timestamp="1519815937999">
         <mark key="[" line="38" column="34" />
@@ -767,6 +772,12 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="69" column="10" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_03_01_114330_create_jumpin_types_table.php" timestamp="1519901184330">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+      </file>
       <file name="$USER_HOME$/git/web/jumpin/database/factories/OpenHourFactory.php" timestamp="1519833569479">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="5" column="24" />
@@ -866,6 +877,13 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="54" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/database/factories/JumpinTypeFactory.php" timestamp="1519900728351">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+      </file>
       <file name="$USER_HOME$/git/app/jumpin/src/pages/search/search.ts" timestamp="1519139409864">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -882,7 +900,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/git/app/jumpin/src/pages/jumpin/jumpin.ts" timestamp="1519814236244" />
       <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/FileCrudController.php" timestamp="1517911862393">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -975,8 +992,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="49" filename="$USER_HOME$/git/web/hma/resources/views/vendor/backpack/base/inc/sidebar.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/hma/tests/Feature/JobCrudTest.php" />
       <jump line="11" column="7" filename="$USER_HOME$/git/web/hma/database/factories/JobFactory.php" />
       <jump line="26" column="35" filename="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/CrudController.php" />
       <jump line="19" column="17" filename="$USER_HOME$/git/web/hma/database/migrations/2018_01_23_131541_create_company_job_table.php" />
@@ -1075,28 +1090,30 @@
       <jump line="5" column="0" filename="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_28_165722_create_open_hours_table.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/app/Models/Hour.php" />
       <jump line="103" column="0" filename="$USER_HOME$/git/web/foodahoo/app/Http/Controllers/Admin/MarketCrudController.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/git/web/jumpin/tests/Crud/JumpinTypeCrudTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/database/factories/JumpinTypeFactory.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC8vVE9ETzogY2hlY2ssIGlmIGR1cmE=</text>
+        <text>parent_id</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vVE9ETzogY2hlY2ssIGlmIGR1cmE=</text>
+        <text>parent_id</text>
       </register>
       <register name="/" type="4">
         <text>Hour</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">YXJyYXlfcmFuZCgkbG9jYXRpb25zLT50b0FycmF5KCksIHJhbmQoMSwgMykp</text>
+        <text>a_superadmin_can_see_jumpin_types</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0bXAgPSBhcnJheV9yYW5kKCRsb2NhdGlvbnMtPnRvQXJyYXkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzaWduU3VwZXJhZG1pblJvbGUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR0bXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0bXAgPSBhcnJheV9yYW5kKCRsb2NhdGlvbnMtPnRvQXJyYXkoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFNjaGVtYTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR0bXApOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
@@ -1108,16 +1125,16 @@
         <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFNjaGVtYTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkanVtcGluLT50b0FycmF5KCkpOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFNjaGVtYTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdkZXNjcmlwdGlvbicsCiAgICAgICAgICAgICAgICAnbGFiZWwnID0+IHRyYW5zKCd2YWxpZGF0aW9uLmF0dHJpYnV0ZXMuZGVzY3JpcHRpb24nKSwKICAgICAgICAgICAgICAgICd0eXBlJyA9PiAndGV4dCcsCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICduYW1lJyA9PiAnbGltaXQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyA9PiB0cmFucygndmFsaWRhdGlvbi5hdHRyaWJ1dGVzLmxpbWl0JyksCiAgICAgICAgICAgICAgICAndHlwZScgPT4gJ251bWJlcicsCiAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkanVtcGluLT50b0FycmF5KCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdmcmVxdWVuY3lfaWQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyA9PiB0cmFucygnY3J1ZC5mcmVxdWVuY3kuc2luZ3VsYXInKSwKICAgICAgICAgICAgICAgICd0eXBlJyA9PiAnc2VsZWN0MicsCiAgICAgICAgICAgICAgICAnYXR0cmlidXRlJyA9PiAndGl0bGUnLAogICAgICAgICAgICAgICAgJ21vZGVsJyA9PiBGcmVxdWVuY3k6OmNsYXNzLAogICAgICAgICAgICAgICAgJ2VudGl0eScgPT4gJ2ZyZXF1ZW5jeScsCiAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdkZXNjcmlwdGlvbicsCiAgICAgICAgICAgICAgICAnbGFiZWwnID0+IHRyYW5zKCd2YWxpZGF0aW9uLmF0dHJpYnV0ZXMuZGVzY3JpcHRpb24nKSwKICAgICAgICAgICAgICAgICd0eXBlJyA9PiAndGV4dCcsCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICduYW1lJyA9PiAnbGltaXQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyA9PiB0cmFucygndmFsaWRhdGlvbi5hdHRyaWJ1dGVzLmxpbWl0JyksCiAgICAgICAgICAgICAgICAndHlwZScgPT4gJ251bWJlcicsCiAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdsaW1pdCcsCiAgICAgICAgICAgICAgICAnbGFiZWwnID0+IHRyYW5zKCd2YWxpZGF0aW9uLmF0dHJpYnV0ZXMubGltaXQnKSwKICAgICAgICAgICAgICAgICd0eXBlJyA9PiAnbnVtYmVyJywKICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdmcmVxdWVuY3lfaWQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyA9PiB0cmFucygnY3J1ZC5mcmVxdWVuY3kuc2luZ3VsYXInKSwKICAgICAgICAgICAgICAgICd0eXBlJyA9PiAnc2VsZWN0MicsCiAgICAgICAgICAgICAgICAnYXR0cmlidXRlJyA9PiAndGl0bGUnLAogICAgICAgICAgICAgICAgJ21vZGVsJyA9PiBGcmVxdWVuY3k6OmNsYXNzLAogICAgICAgICAgICAgICAgJ2VudGl0eScgPT4gJ2ZyZXF1ZW5jeScsCiAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
