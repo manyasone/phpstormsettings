@@ -57,6 +57,11 @@
   </action>
   <action id="GotoBookmark7" />
   <action id="GotoClass" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="windows" second-keystroke="b" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
