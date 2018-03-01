@@ -592,6 +592,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/git/app/guardian/package.json" timestamp="1519919285120">
+        <mark key="'" line="56" column="37" />
+        <mark key="[" line="55" column="5" />
+        <mark key="]" line="55" column="34" />
+      </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Models/JumpinDate.php" timestamp="1519836933116">
         <mark key="[" line="29" column="18" />
         <mark key="]" line="29" column="18" />
@@ -966,8 +971,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/hma/app/Models/Priority.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/hma/app/Models/Tag.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/hma/tests/Feature/OrderCrudTest.php" />
       <jump line="57" column="8" filename="$USER_HOME$/git/web/hma/tests/Feature/OrderCrudTest.php" />
       <jump line="220" column="4" filename="$USER_HOME$/git/web/hma/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
@@ -1066,19 +1069,21 @@
       <jump line="24" column="51" filename="$USER_HOME$/git/web/jumpin/tests/Crud/JumpinTypeCrudTest.php" />
       <jump line="25" column="8" filename="$USER_HOME$/git/app/jumpin/config.xml" />
       <jump line="102" column="35" filename="$USER_HOME$/git/app/jumpin/config.xml" />
+      <jump line="63" column="40" filename="$USER_HOME$/git/app/guardian/package.json" />
+      <jump line="56" column="37" filename="$USER_HOME$/git/app/guardian/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KCR0aGlzLT5sZXZlbCA+IDEgPyAkc3VmZml4IDogJycp</text>
+        <text>cordova-plugin-cocoalumberjack</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">KCR0aGlzLT5sZXZlbCA+IDEgPyAkc3VmZml4IDogJycp</text>
       </register>
       <register name="/" type="4">
-        <text>192</text>
+        <text>background-fe</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdqdW1waW5fdHlwZV9pZCcsCiAgICAgICAgICAgICAgICAnbGFiZWwnID0+IHRyYW5zKCdjcnVkLmZyZXF1ZW5jeS5zaW5ndWxhcicpLAogICAgICAgICAgICAgICAgJ3R5cGUnID0+ICdzZWxlY3QyJywKICAgICAgICAgICAgICAgICdhdHRyaWJ1dGUnID0+ICd0aXRsZScsCiAgICAgICAgICAgICAgICAnbW9kZWwnID0+IEp1bXBpblR5cGU6OmNsYXNzLAogICAgICAgICAgICAgICAgJ2VudGl0eScgPT4gJ2p1bXBpbl90eXBlJywKICAgICAgICAgICAgXSwK</text>
+      <register name="0" type="4">
+        <text>cordova-plugin-cocoalumberjack</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1115,9 +1120,9 @@
       </register>
     </registers>
     <search>
-      <last-search>192</last-search>
+      <last-search>background-fe</last-search>
       <last-offset />
-      <last-pattern>192</last-pattern>
+      <last-pattern>background-fe</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -1125,8 +1130,6 @@
     </search>
     <history>
       <history-search>
-        <entry>function time(</entry>
-        <entry>disks</entry>
         <entry>Builder</entry>
         <entry>prepare</entry>
         <entry>prett</entry>
@@ -1145,6 +1148,8 @@
         <entry>parent</entry>
         <entry>Parent</entry>
         <entry>192</entry>
+        <entry>coco</entry>
+        <entry>background-fe</entry>
       </history-search>
       <history-cmd>
         <entry>%s/aligner-item/col-md-4/g</entry>
