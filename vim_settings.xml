@@ -455,7 +455,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519837199491">
+      <file name="/Dummy.txt" timestamp="1519921107522">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/EventTypeCrudController.php" timestamp="1517311532694">
@@ -592,10 +592,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/app/guardian/package.json" timestamp="1519919285120">
-        <mark key="'" line="56" column="37" />
-        <mark key="[" line="55" column="5" />
-        <mark key="]" line="55" column="34" />
+      <file name="$USER_HOME$/git/app/guardian/package.json" timestamp="1519920891013">
+        <mark key="[" line="47" column="158" />
+        <mark key="]" line="47" column="101" />
+        <mark key="^" line="47" column="101" />
+        <mark key="." line="47" column="101" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Models/JumpinDate.php" timestamp="1519836933116">
         <mark key="[" line="29" column="18" />
@@ -971,17 +972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/hma/tests/Feature/OrderCrudTest.php" />
-      <jump line="57" column="8" filename="$USER_HOME$/git/web/hma/tests/Feature/OrderCrudTest.php" />
-      <jump line="220" column="4" filename="$USER_HOME$/git/web/hma/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
-      <jump line="1504" column="0" filename="$USER_HOME$/git/web/hma/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/web/hma/database/migrations/2018_01_23_144552_create_job_contacts_table.php" />
-      <jump line="9" column="0" filename="$USER_HOME$/git/web/hma/database/migrations/2018_01_23_131541_create_job_companies_table.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/hma/database/migrations/2018_01_22_123729_create_company_tags_table.php" />
-      <jump line="13" column="23" filename="$USER_HOME$/git/web/hma/resources/lang/de/titles.php" />
-      <jump line="11" column="4" filename="$USER_HOME$/git/web/hma/tests/Feature/PriorityCrudTest.php" />
-      <jump line="12" column="29" filename="$USER_HOME$/git/web/hma/tests/Feature/PriorityCrudTest.php" />
-      <jump line="23" column="58" filename="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/TagCrudController.php" />
       <jump line="14" column="0" filename="$USER_HOME$/git/web/hma/tests/Feature/CompanyCrudTest.php" />
       <jump line="29" column="38" filename="$USER_HOME$/git/web/hma/tests/Feature/PriorityCrudTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/hma/tests/Feature/PriorityCrudTest.php" />
@@ -1071,58 +1061,69 @@
       <jump line="102" column="35" filename="$USER_HOME$/git/app/jumpin/config.xml" />
       <jump line="63" column="40" filename="$USER_HOME$/git/app/guardian/package.json" />
       <jump line="56" column="37" filename="$USER_HOME$/git/app/guardian/package.json" />
+      <jump line="54" column="20" filename="$USER_HOME$/git/app/guardian/package.json" />
+      <jump line="117" column="26" filename="$USER_HOME$/git/app/guardian/package.json" />
+      <jump line="71" column="31" filename="$USER_HOME$/git/app/guardian/package.json" />
+      <jump line="77" column="0" filename="$USER_HOME$/git/app/guardian/package.json" />
+      <jump line="111" column="29" filename="$USER_HOME$/git/app/guardian/package.json" />
+      <jump line="26" column="19" filename="$USER_HOME$/git/app/guardian/package.json" />
+      <jump line="45" column="13" filename="$USER_HOME$/git/app/guardian/package.json" />
+      <jump line="115" column="26" filename="$USER_HOME$/git/app/guardian/package.json" />
+      <jump line="32" column="19" filename="$USER_HOME$/git/app/guardian/package.json" />
+      <jump line="124" column="9" filename="$USER_HOME$/git/app/guardian/package.json" />
+      <jump line="102" column="43" filename="$USER_HOME$/git/app/guardian/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cordova-plugin-cocoalumberjack</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiY29yZG92YS1wbHVnaW4tYmFja2dyb3VuZC1mZXRjaCI6ICJeNS4xLjEiLAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">KCR0aGlzLT5sZXZlbCA+IDEgPyAkc3VmZml4IDogJycp</text>
       </register>
       <register name="/" type="4">
-        <text>background-fe</text>
+        <text>lumberjack</text>
       </register>
       <register name="0" type="4">
         <text>cordova-plugin-cocoalumberjack</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiY29yZG92YS1wbHVnaW4tYmFja2dyb3VuZC1mZXRjaCI6ICJeNS4xLjEiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiY29yZG92YS1wbHVnaW4tY29jb2FsdW1iZXJqYWNrIjogIjAuMC40IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgZGQoJHRoaXMtPm1vZGVsLT5sZXZlbCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAiY29yZG92YS1iYWNrZ3JvdW5kLWdlb2xvY2F0aW9uIjogewovLyAgICAgICAgIkxJQ0VOU0UiOiAiN2RhMzFhM2MxMGJjZWFlMDgyYWI2ZmYwY2I2MDdlZjBkZDlkMGVmNDI4ODExMzIzMzRkZjJmMGQxYmJkODM1MCIsCi8vICAgICAgICAiR09PR0xFX0FQSV9WRVJTSU9OIjogIjExLjIuMCIsCi8vICAgICAgICAiQVBQQ09NUEFUX1ZFUlNJT04iOiAiMjcuMC4wIiwKLy8gICAgICAgICJMT0NBVElPTl9BTFdBWVNfQU5EX1dIRU5fSU5fVVNFX1VTQUdFX0RFU0NSSVBUSU9OIjogIkFsd2F5cyB1c2UgaXMgcmVxdWlyZWQgZm9yIGJhY2tncm91bmQgbG9jYXRpb24gdHJhY2tpbmciLAovLyAgICAgICAgIkxPQ0FUSU9OX0FMV0FZU19VU0FHRV9ERVNDUklQVElPTiI6ICJCYWNrZ3JvdW5kIGxvY2F0aW9uLXRyYWNraW5nIGlzIHJlcXVpcmVkIiwKLy8gICAgICAgICJMT0NBVElPTl9XSEVOX0lOX1VTRV9VU0FHRV9ERVNDUklQVElPTiI6ICJCYWNrZ3JvdW5kIGxvY2F0aW9uLXRyYWNraW5nIGlzIHJlcXVpcmVkIiwKLy8gICAgICAgICJNT1RJT05fVVNBR0VfREVTQ1JJUFRJT04iOiAiVXNpbmcgdGhlIGFjY2VsZXJvbWV0ZXIgaW5jcmVhc2VzIGJhdHRlcnktZWZmaWNpZW5jeSBieSBpbnRlbGxpZ2VudGx5IHRvZ2dsaW5nIGxvY2F0aW9uLXRyYWNraW5nIG9ubHkgd2hlbiB0aGUgZGV2aWNlIGlzIGRldGVjdGVkIHRvIGJlIG1vdmluZyIsCi8vICAgICAgICAiQkFDS0dST1VORF9NT0RFX0xPQ0FUSU9OIjogIjxzdHJpbmc+bG9jYXRpb248L3N0cmluZz4iCi8vICAgICAgfSwK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGFyZW50ID0gY3JlYXRlKEp1bXBpblR5cGU6OmNsYXNzKTsK</text>
+        <text encoding="base64">Ly8gICAgIkBpb25pYy1uYXRpdmUvZ2VvbG9jYXRpb24iOiAiXjQuNS4yIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBKdW1waW5UeXBlICR0aGlzICovCg==</text>
+        <text encoding="base64">ICAgICJwaG9uZWdhcC1wbHVnaW4tcHVzaCI6ICJeMi4xLjIiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5ncmFuZFBhcmVudCA9IGNyZWF0ZShKdW1waW5UeXBlOjpjbGFzcywgWyAndGl0bGUnID0+ICdncmFuZF9wYXJlbnQnIF0pOwo=</text>
+        <text encoding="base64">ICAgICJjb3Jkb3ZhLWJhY2tncm91bmQtZ2VvbG9jYXRpb24iOiAiaHR0cHM6Ly8yNTBmODViMmY3MDNiODE2NDRhODI5NWI4OTFiZGE4YmMyZGRjNjNjOngtb2F1dGgtYmFzaWNAZ2l0aHViLmNvbS90cmFuc2lzdG9yc29mdC9jb3Jkb3ZhLWJhY2tncm91bmQtZ2VvbG9jYXRpb24uZ2l0IiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRjaGlsZF9pZCAuICIgaXMgY2hpbGQgb2YgIi4gICRwYXJlbnQtPmlkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkdW1wKCRjaGlsZF9pZCAuICIgaXMgY2hpbGQgb2YgIi4gICRwYXJlbnQtPmlkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHBhcmVudF9pZCk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZGQoJHRoaXMtPm1vZGVsLT5sZXZlbCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>background-fe</last-search>
+      <last-search>lumberjack</last-search>
       <last-offset />
-      <last-pattern>background-fe</last-pattern>
+      <last-pattern>lumberjack</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -1130,11 +1131,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Builder</entry>
-        <entry>prepare</entry>
-        <entry>prett</entry>
-        <entry>onSelect</entry>
-        <entry>entry</entry>
         <entry>filter</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry>social-sharing</entry>
@@ -1150,6 +1146,11 @@
         <entry>192</entry>
         <entry>coco</entry>
         <entry>background-fe</entry>
+        <entry>jsonify</entry>
+        <entry>push</entry>
+        <entry>admob</entry>
+        <entry>geolocation</entry>
+        <entry>lumberjack</entry>
       </history-search>
       <history-cmd>
         <entry>%s/aligner-item/col-md-4/g</entry>
