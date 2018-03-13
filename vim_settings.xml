@@ -3,12 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/UserController.php" timestamp="1520873878010">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/UserController.php" timestamp="1520937281969">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1519917057745">
+      <file name="/a.dummy" timestamp="1520934830984">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/ContactCrudController.php" timestamp="1517241731099">
@@ -68,6 +69,12 @@
         <mark key="]" line="5" column="40" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/tests/Api/AuthTest.php" timestamp="1520935541250">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="7" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/hypno/database/seeds/DatabaseSeeder.php" timestamp="1520504751147">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -124,7 +131,7 @@
         <mark key="]" line="11" column="49" />
         <mark key="." line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/git/web/guardian/routes/api.php" timestamp="1520873773732">
+      <file name="$USER_HOME$/git/web/guardian/routes/api.php" timestamp="1520937223329">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="24" column="49" />
       </file>
@@ -140,20 +147,21 @@
         <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/composer.json" timestamp="1519816123450">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="46" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="46" />
         <mark key="^" line="47" column="5" />
-        <mark key="." line="48" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_28_123005_create_jumpins_table.php" timestamp="1519917047397">
         <mark key="[" line="24" column="29" />
         <mark key="]" line="24" column="29" />
         <mark key="." line="24" column="29" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/AuthController.php" timestamp="1520873362108">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/AuthController.php" timestamp="1520937140057">
+        <mark key="[" line="34" column="5" />
+        <mark key="]" line="36" column="41" />
+        <mark key="." line="36" column="41" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Http/Transformers/Api/v1/ModuleTransformer.php" timestamp="1517909374473">
         <mark key="[" line="14" column="0" />
@@ -165,10 +173,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Requests/Api/v1/SignupRequest.php" timestamp="1520872136968">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="13" />
-        <mark key="." line="26" column="13" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Requests/Api/v1/SignupRequest.php" timestamp="1520937189278">
+        <mark key="[" line="26" column="48" />
+        <mark key="]" line="26" column="48" />
+        <mark key="." line="26" column="48" />
         <mark key="^" line="27" column="19" />
       </file>
       <file name="$USER_HOME$/git/app/jumpin/src/pages/jump-in/jump-in.html" timestamp="1518709119867">
@@ -303,11 +311,13 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/git/web/guardian/app/Models/AppUser.php" timestamp="1520873214448" />
       <file name="$USER_HOME$/git/web/hypno/app/Models/File.php" timestamp="1517911869224">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1520936692346">
+        <mark key="[" line="17" column="35" />
       </file>
       <file name="$USER_HOME$/git/app/jumpin/src/pages/jumpin/jumpin.html" timestamp="1519813454086">
         <mark key="[" line="77" column="25" />
@@ -636,7 +646,7 @@
         <mark key="^" line="100" column="41" />
         <mark key="." line="100" column="41" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/database/factories/UserFactory.php" timestamp="1520872916779">
+      <file name="$USER_HOME$/git/web/jumpin/database/factories/UserFactory.php" timestamp="1520935558178">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -653,7 +663,7 @@
         <mark key="." line="45" column="55" />
         <mark key="^" line="45" column="55" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/routes/api.php" timestamp="1520873880554">
+      <file name="$USER_HOME$/git/web/jumpin/routes/api.php" timestamp="1520935023783">
         <mark key="e" line="19" column="19" />
         <mark key="[" line="19" column="16" />
         <mark key="]" line="19" column="16" />
@@ -719,6 +729,12 @@
         <mark key="[" line="7" column="7" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/vendor/backpack/permissionmanager/src/app/Http/Controllers/UserCrudController.php" timestamp="1520936834322">
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="27" />
+        <mark key="^" line="26" column="27" />
+        <mark key="." line="26" column="27" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Models/EventType.php" timestamp="1517311326670">
         <mark key="[" line="22" column="9" />
@@ -891,7 +907,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Models/User.php" timestamp="1519832979569">
+      <file name="$USER_HOME$/git/web/jumpin/app/Models/User.php" timestamp="1520934985452">
         <mark key="[" line="103" column="22" />
         <mark key="]" line="103" column="22" />
         <mark key="." line="103" column="22" />
@@ -1006,10 +1022,10 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/guardian/app/Http/Controllers/Api/v1/UserController.php" timestamp="1520873861753">
+      <file name="$USER_HOME$/git/web/guardian/app/Http/Controllers/Api/v1/UserController.php" timestamp="1520937355420">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="40" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="21" column="4" />
       </file>
       <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_17_134306_create_jobs_table.php" timestamp="1516711153623">
         <mark key="[" line="24" column="0" />
@@ -1052,10 +1068,10 @@
         <mark key="]" line="50" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/guardian/app/Http/Controllers/Api/v1/AuthController.php" timestamp="1520873303018">
+      <file name="$USER_HOME$/git/web/guardian/app/Http/Controllers/Api/v1/AuthController.php" timestamp="1520937204493">
         <mark key="'" line="85" column="35" />
-        <mark key="[" line="126" column="11" />
-        <mark key="]" line="189" column="4" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="90" column="21" />
       </file>
       <file name="$USER_HOME$/git/web/hma/database/seeds/JobsTableSeeder.php" timestamp="1516702289486">
         <mark key="[" line="14" column="0" />
@@ -1202,43 +1218,43 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>auth</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIEFwcFxUcmFuc2Zvcm1lcnNcQXBwVXNlclRyYW5zZm9ybWVyOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzaG93TWUoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+c2V0UmVzcG9uc2VQYXlsb2FkKFsndXNlcicgPT4gZnJhY3RhbCgkdGhpcy0+dXNlciwgbmV3IEFwcFVzZXJUcmFuc2Zvcm1lcildKQogICAgICAgICAgICAtPnJlc3BvbmRXaXRoU3VjY2VzcygpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzaG93TWUoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+c2V0UmVzcG9uc2VQYXlsb2FkKFsndXNlcicgPT4gZnJhY3RhbCgkdGhpcy0+dXNlciwgbmV3IEFwcFVzZXJUcmFuc2Zvcm1lcildKQogICAgICAgICAgICAgICAgICAgIC0+cmVzcG9uZFdpdGhTdWNjZXNzKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxIdHRwXENvbnRyb2xsZXJzXENvbnRyb2xsZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Um91dGU6Om1pZGRsZXdhcmUoJ2F1dGg6YXBpJyktPmdldCgnL3VzZXInLCBmdW5jdGlvbiAoUmVxdWVzdCAkcmVxdWVzdCkgewogICAgcmV0dXJuICRyZXF1ZXN0LT51c2VyKCk7Cn0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgncmVnaXN0ZXInKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY3JlZGVudGlhbHMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR1c2VyKTsK</text>
+        <text encoding="base64">CgogICAgICAgICAgICAkdG9rZW4gPSBKV1RBdXRoOjphdHRlbXB0KCRjcmVkZW50aWFscyk7CgogICAgICAgIGlmICghJHRva2VuKSB7CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+cmVzcG9uZFVuYXV0aG9yaXplZCgpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICR0aGlzLT5zZXRSZXNwb25zZUh0dHBIZWFkZXIoWwogICAgICAgICAgICAnand0LXRva2VuJyA9PiAkdG9rZW4KICAgICAgICBdKS0+cmVzcG9uZCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZChBdXRoOjp1c2VyKCktPnJlbWVtYmVyX3Rva2VuKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCR1c2VyID0gQXBwVXNlcjo6d2hlcmUoJ3Bob25lJywgJGNyZWRlbnRpYWxzWydwaG9uZSddKS0+Zmlyc3QoKSkgewogICAgICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zZXRSZXNwb25zZVN0YXR1c0NvZGUoNDA5KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLT5zZXRSZXNwb25zZU1lc3NhZ2UoJ2NvbmZsaWN0JykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0+cmVzcG9uZFdpdGhFcnJvcigpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
