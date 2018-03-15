@@ -325,6 +325,11 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/.env" timestamp="1521112804905">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="12" />
+      </file>
       <file name="$USER_HOME$/git/web/hypno/app/Models/File.php" timestamp="1517911869224">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
@@ -526,7 +531,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521111173918">
+      <file name="/Dummy.txt" timestamp="1521112458635">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/EventTypeCrudController.php" timestamp="1517311532694">
@@ -1055,6 +1060,7 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/tests/Unit/Services/ContactServiceTest.php" timestamp="1521112496233" />
       <file name="$USER_HOME$/git/web/hypno/database/factories/FileTypeFactory.php" timestamp="1517476421643">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="17" />
@@ -1285,11 +1291,11 @@
       <jump line="45" column="51" filename="$USER_HOME$/git/web/persofleet/app/Components/Administration/User/Requests/ChangePasswordRequest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBcVmFsaWRhdG9yOjpleHRlbmQoJ3VzZXJfcGFzc3dvcmQnLCAnQXBwXFZhbGlkYXRvcnNcVXNlclBhc3N3b3JkVmFsaWRhdG9yQHZhbGlkYXRlJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>smtp</text>
       </register>
       <register name="-" type="4">
-        <text>tmGdRJRgYQ</text>
+        <text>smtp</text>
       </register>
       <register name="/" type="4">
         <text>old_pass</text>
