@@ -267,6 +267,7 @@
       <file name="$USER_HOME$/git/web/hypno/database/migrations/2018_02_01_101109_create_file_types_table.php" timestamp="1517476280290">
         <mark key="[" line="16" column="37" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Modules/Controllers/ModuleCrudController.php" timestamp="1521118674847" />
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/PriorityCrudController.php" timestamp="1517239708870">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="109" />
@@ -531,7 +532,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521112458635">
+      <file name="/Dummy.txt" timestamp="1521118643762">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/EventTypeCrudController.php" timestamp="1517311532694">
@@ -1298,7 +1299,7 @@
         <text>smtp</text>
       </register>
       <register name="/" type="4">
-        <text>old_pass</text>
+        <text>tiny</text>
       </register>
       <register name="0" type="4">
         <text>'super_admin'</text>
@@ -1338,9 +1339,9 @@
       </register>
     </registers>
     <search>
-      <last-search>old_pass</last-search>
+      <last-search>tiny</last-search>
       <last-offset />
-      <last-pattern>old_pass</last-pattern>
+      <last-pattern>tiny</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -1348,8 +1349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>imageUrl</entry>
-        <entry>playtime</entry>
         <entry>authoriz</entry>
         <entry>showMe</entry>
         <entry>show</entry>
@@ -1368,6 +1367,8 @@
         <entry>Messages</entry>
         <entry>CustomMessa</entry>
         <entry>old_pass</entry>
+        <entry>Image</entry>
+        <entry>tiny</entry>
       </history-search>
       <history-cmd>
         <entry>%s/aligner-item/col-md-4/g</entry>
