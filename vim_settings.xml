@@ -267,12 +267,12 @@
       <file name="$USER_HOME$/git/web/hypno/database/migrations/2018_02_01_101109_create_file_types_table.php" timestamp="1517476280290">
         <mark key="[" line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Components/Modules/Controllers/ModuleCrudController.php" timestamp="1521119389858">
-        <mark key="'" line="193" column="7" />
-        <mark key="[" line="193" column="8" />
-        <mark key="]" line="193" column="7" />
-        <mark key="." line="193" column="7" />
-        <mark key="^" line="193" column="7" />
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Modules/Controllers/ModuleCrudController.php" timestamp="1521120195709">
+        <mark key="'" line="196" column="7" />
+        <mark key="[" line="101" column="34" />
+        <mark key="]" line="91" column="3" />
+        <mark key="." line="91" column="3" />
+        <mark key="^" line="91" column="3" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/PriorityCrudController.php" timestamp="1517239708870">
         <mark key="[" line="23" column="0" />
@@ -358,6 +358,11 @@
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/resources/assets/js/icon-picker/ionicon3.js" timestamp="1521121558559">
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="13" />
+        <mark key="." line="30" column="13" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_28_164000_create_user_jumpins_table.php" timestamp="1519832473876">
         <mark key="[" line="15" column="24" />
@@ -538,7 +543,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521119607312">
+      <file name="/Dummy.txt" timestamp="1521121612301">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/EventTypeCrudController.php" timestamp="1517311532694">
@@ -797,6 +802,7 @@
       <file name="$USER_HOME$/git/web/hma/app/Models/EventType.php" timestamp="1517311326670">
         <mark key="[" line="22" column="9" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/resources/views/vendor/backpack/crud/fields/icon_picker.blade.php" timestamp="1521121566501" />
       <file name="$USER_HOME$/git/app/jumpin/src/pages/main-view/main-view.ts" timestamp="1519811991946">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="67" column="4" />
@@ -896,6 +902,7 @@
         <mark key="]" line="66" column="42" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/public/css/ionicons.css" timestamp="1521121996520" />
       <file name="$USER_HOME$/git/web/hypno/database/seeds/RolesTableSeeder.php" timestamp="1517829121950">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="70" />
@@ -1299,7 +1306,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text>ios-add-circle</text>
       </register>
       <register name="-" type="4">
         <text>$</text>
@@ -1308,7 +1315,7 @@
         <text>summernote</text>
       </register>
       <register name="0" type="4">
-        <text>'super_admin'</text>
+        <text>ios-add-circle</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBcVmFsaWRhdG9yOjpleHRlbmQoJ3VzZXJfcGFzc3dvcmQnLCAnQXBwXFZhbGlkYXRvcnNcVXNlclBhc3N3b3JkVmFsaWRhdG9yQHZhbGlkYXRlJyk7Cg==</text>
