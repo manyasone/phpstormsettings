@@ -267,7 +267,13 @@
       <file name="$USER_HOME$/git/web/hypno/database/migrations/2018_02_01_101109_create_file_types_table.php" timestamp="1517476280290">
         <mark key="[" line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Components/Modules/Controllers/ModuleCrudController.php" timestamp="1521118674847" />
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Modules/Controllers/ModuleCrudController.php" timestamp="1521119389858">
+        <mark key="'" line="193" column="7" />
+        <mark key="[" line="193" column="8" />
+        <mark key="]" line="193" column="7" />
+        <mark key="." line="193" column="7" />
+        <mark key="^" line="193" column="7" />
+      </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/PriorityCrudController.php" timestamp="1517239708870">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="109" />
@@ -532,7 +538,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521118643762">
+      <file name="/Dummy.txt" timestamp="1521119607312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/EventTypeCrudController.php" timestamp="1517311532694">
@@ -1190,7 +1196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="28" filename="$USER_HOME$/git/web/hypno/tests/Api/CategoryTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/hypno/database/seeds/TrackSeeder.php" />
       <jump line="13" column="6" filename="$USER_HOME$/git/web/hypno/app/Models/Track.php" />
       <jump line="29" column="4" filename="$USER_HOME$/git/web/hypno/tests/Api/CategoryTest.php" />
@@ -1290,16 +1295,17 @@
       <jump line="6" column="0" filename="$USER_HOME$/git/web/persofleet/app/Components/Administration/User/Requests/ChangePasswordRequest.php" />
       <jump line="65" column="23" filename="$USER_HOME$/git/web/persofleet/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php" />
       <jump line="45" column="51" filename="$USER_HOME$/git/web/persofleet/app/Components/Administration/User/Requests/ChangePasswordRequest.php" />
+      <jump line="193" column="7" filename="$USER_HOME$/git/web/persofleet/app/Components/Modules/Controllers/ModuleCrudController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>smtp</text>
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text>smtp</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>tiny</text>
+        <text>summernote</text>
       </register>
       <register name="0" type="4">
         <text>'super_admin'</text>
@@ -1339,9 +1345,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tiny</last-search>
+      <last-search>summernote</last-search>
       <last-offset />
-      <last-pattern>tiny</last-pattern>
+      <last-pattern>summernote</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -1349,7 +1355,6 @@
     </search>
     <history>
       <history-search>
-        <entry>authoriz</entry>
         <entry>showMe</entry>
         <entry>show</entry>
         <entry>revision</entry>
@@ -1369,6 +1374,7 @@
         <entry>old_pass</entry>
         <entry>Image</entry>
         <entry>tiny</entry>
+        <entry>summernote</entry>
       </history-search>
       <history-cmd>
         <entry>%s/aligner-item/col-md-4/g</entry>
