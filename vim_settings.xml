@@ -331,6 +331,7 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/storage/debugbar/Xe8aebaee38929a1095afcfbcdf9bf50b.json" timestamp="1521567141274" />
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/Auth/MyAccountController.php" timestamp="1516284858799">
         <mark key="[" line="50" column="9" />
         <mark key="]" line="44" column="0" />
@@ -366,9 +367,6 @@
         <mark key="[" line="280" column="0" />
         <mark key="]" line="284" column="5" />
         <mark key="." line="279" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Mail/SendPasswordReset.php" timestamp="1521566564257">
-        <mark key="[" line="42" column="21" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/app/Models/File.php" timestamp="1517911869224">
         <mark key="[" line="94" column="0" />
@@ -407,6 +405,9 @@
       </file>
       <file name="$USER_HOME$/projects/guitab/src/renderer/components/LandingPage/SystemInformation.vue" timestamp="1521196054817">
         <mark key="[" line="39" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Notifications/UserMailInviteNotification.php" timestamp="1521567548519">
+        <mark key="[" line="55" column="24" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Models/Company.php" timestamp="1517233745940">
         <mark key="[" line="5" column="0" />
@@ -608,7 +609,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521566413053">
+      <file name="/Dummy.txt" timestamp="1521567345420">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/EventTypeCrudController.php" timestamp="1517311532694">
@@ -1119,17 +1120,17 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/resources/lang/de/mail.php" timestamp="1521566557980">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="22" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="5" column="22" />
+      <file name="$USER_HOME$/git/web/persofleet/resources/lang/de/mail.php" timestamp="1521567575989">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/resources/views/vendor/notifications/email.blade.php" timestamp="1521562435890">
-        <mark key="[" line="47" column="11" />
-        <mark key="]" line="47" column="10" />
-        <mark key="." line="47" column="10" />
-        <mark key="^" line="47" column="10" />
+      <file name="$USER_HOME$/git/web/persofleet/resources/views/vendor/notifications/email.blade.php" timestamp="1521566818182">
+        <mark key="[" line="47" column="12" />
+        <mark key="]" line="47" column="12" />
+        <mark key="." line="47" column="12" />
+        <mark key="^" line="47" column="13" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/vendor/tymon/jwt-auth/src/Commands/JWTGenerateCommand.php" timestamp="1521551623818">
         <mark key="[" line="38" column="20" />
@@ -1347,7 +1348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="8" filename="$USER_HOME$/git/web/jumpin/tests/Unit/JumpinUnitTest.php" />
       <jump line="5" column="0" filename="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_28_165722_create_open_hours_table.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/app/Models/Hour.php" />
       <jump line="103" column="0" filename="$USER_HOME$/git/web/foodahoo/app/Http/Controllers/Admin/MarketCrudController.php" />
@@ -1447,16 +1447,17 @@
       <jump line="89" column="1" filename="$USER_HOME$/git/web/persofleet/storage/logs/laravel.log" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/storage/logs/laravel.log" />
       <jump line="111" column="38" filename="$USER_HOME$/git/web/persofleet/storage/logs/laravel.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/vendor/backpack/base/src/routes/backpack/base.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Neuer Nutzer angelegt</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Neuer Nutzer angelegt</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>eager</text>
+        <text>subject</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">R3LDvMOfZSw8YnI+CkRlaW4gUGVyc29GbGVldC1UZWFtCg==</text>
@@ -1496,9 +1497,9 @@
       </register>
     </registers>
     <search>
-      <last-search>eager</last-search>
+      <last-search>subject</last-search>
       <last-offset />
-      <last-pattern>eager</last-pattern>
+      <last-pattern>subject</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>resolve</last-substitute>
       <last-dir>1</last-dir>
@@ -1506,8 +1507,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CustomMessa</entry>
-        <entry>old_pass</entry>
         <entry>Image</entry>
         <entry>tiny</entry>
         <entry>summernote</entry>
@@ -1526,6 +1525,8 @@
         <entry encoding="base64">XDx3ZmNtc1w+</entry>
         <entry>with</entry>
         <entry>eager</entry>
+        <entry>invite</entry>
+        <entry>subject</entry>
       </history-search>
       <history-cmd>
         <entry>%s/aligner-item/col-md-4/g</entry>
