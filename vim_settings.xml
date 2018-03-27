@@ -212,6 +212,9 @@
         <mark key="^" line="47" column="5" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/persotest/app/Models/Company/Company.php" timestamp="1522143810170">
+        <mark key="'" line="8" column="22" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/resources/assets/js/icon-picker/ionicon3-material.js" timestamp="1521470855067">
         <mark key="[" line="25" column="20" />
         <mark key="]" line="25" column="22" />
@@ -1567,8 +1570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="36" filename="$USER_HOME$/git/web/gsk/resources/views/layouts/section.blade.php" />
-      <jump line="4" column="54" filename="$USER_HOME$/git/web/gsk/resources/views/layouts/section.blade.php" />
       <jump line="7" column="48" filename="$USER_HOME$/git/web/gsk/resources/views/layouts/section.blade.php" />
       <jump line="8" column="42" filename="$USER_HOME$/git/web/gsk/resources/views/layouts/section.blade.php" />
       <jump line="17" column="7" filename="$USER_HOME$/git/web/gsk/resources/assets/sass/_variables.scss" />
@@ -1667,6 +1668,8 @@
       <jump line="197" column="16" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
       <jump line="170" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
       <jump line="76" column="8" filename="$USER_HOME$/git/app/jumpin/src/assets/i18n/de.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/persotest/app/Models/Company/Company.php" />
+      <jump line="8" column="22" filename="$USER_HOME$/git/web/persotest/app/Models/Company/Company.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1676,7 +1679,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>Filtername</text>
+        <text>Scope</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJ3NjaHVscHJvZ3JhbW0nLCBmdW5jdGlvbiAoKSB1c2UgKCRwYWdlKSB7CiAgICAgICAgcmV0dXJuIHZpZXcoJ2xheW91dHMucGFnZScsIGNvbXBhY3QoJ3BhZ2UnKSk7CiAgICB9KTsK</text>
@@ -1719,9 +1722,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Filtername</last-search>
+      <last-search>Scope</last-search>
       <last-offset />
-      <last-pattern>Filtername</last-pattern>
+      <last-pattern>Scope</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>resolve</last-substitute>
       <last-dir>1</last-dir>
@@ -1729,7 +1732,6 @@
     </search>
     <history>
       <history-search>
-        <entry>devtool</entry>
         <entry>loaders</entry>
         <entry>router</entry>
         <entry>287</entry>
@@ -1749,6 +1751,7 @@
         <entry>index</entry>
         <entry>nav</entry>
         <entry>Filtername</entry>
+        <entry>Scope</entry>
       </history-search>
       <history-cmd>
         <entry>%s/aligner-item/col-md-4/g</entry>
