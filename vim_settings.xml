@@ -20,7 +20,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1521721103979">
+      <file name="/a.dummy" timestamp="1522219869389">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/ContactCrudController.php" timestamp="1517241731099">
@@ -307,6 +307,12 @@
         <mark key="]" line="22" column="43" />
         <mark key="^" line="22" column="43" />
         <mark key="." line="22" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/web/hypno/app/Console/Commands/movefiles.php" timestamp="1522219901148">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/app/Services/Backend/PhpInfoService.php" timestamp="1520518988057">
         <mark key="[" line="4" column="20" />
@@ -1548,6 +1554,12 @@
         <mark key="." line="49" column="40" />
         <mark key="^" line="49" column="40" />
       </file>
+      <file name="$USER_HOME$/git/web/hypno/app/Console/Commands/hypnose:movefiles.php" timestamp="1522219815843">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="42" column="4" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="7" column="6" />
+      </file>
       <file name="$USER_HOME$/git/web/hma/database/seeds/JobsTableSeeder.php" timestamp="1516702289486">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="35" />
@@ -1710,17 +1722,17 @@
       <jump line="853" column="0" filename="$USER_HOME$/git/web/gsk/yarn.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$fo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIG5hbWUgYW5kIHNpZ25hdHVyZSBvZiB0aGUgY29uc29sZSBjb21tYW5kLgogICAgICoKICAgICAqIEB2YXIgc3RyaW5nCiAgICAgKi8KICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ21vdmVmaWxlcyc7CgogICAgLyoqCiAgICAgKiBUaGUgY29uc29sZSBjb21tYW5kIGRlc2NyaXB0aW9uLgogICAgICoKICAgICAqIEB2YXIgc3RyaW5nCiAgICAgKi8KICAgIHByb3RlY3RlZCAkZGVzY3JpcHRpb24gPSAnTW92ZXMgZmlsZXMgZnJvbSBwdWJsaWMvdHJhY2tzIHRvIHN0b3JhZ2UvYXBwL3B1YmxpYy90cmFja3MvY2F0ZWdvcnktJGlkJzsKCiAgICAvKioKICAgICAqIENyZWF0ZSBhIG5ldyBjb21tYW5kIGluc3RhbmNlLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoKQogICAgewogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoKTsKICAgIH0KCiAgICAvKioKICAgICAqIEV4ZWN1dGUgdGhlIGNvbnNvbGUgY29tbWFuZC4KICAgICAqCiAgICAgKiBAcmV0dXJuIG1peGVkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBoYW5kbGUoKQogICAgewogICAgICAgICRmaWxlcyA9IEZpbGU6OmdldCgnLi9wdWJsaWMvZmlsZXMnKTsKICAgICAgICBkZCgkZmlsZXMpOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>bootstrap</text>
       </register>
-      <register name="0" type="4">
-        <text>$fo</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIG5hbWUgYW5kIHNpZ25hdHVyZSBvZiB0aGUgY29uc29sZSBjb21tYW5kLgogICAgICoKICAgICAqIEB2YXIgc3RyaW5nCiAgICAgKi8KICAgIHByb3RlY3RlZCAkc2lnbmF0dXJlID0gJ21vdmVmaWxlcyc7CgogICAgLyoqCiAgICAgKiBUaGUgY29uc29sZSBjb21tYW5kIGRlc2NyaXB0aW9uLgogICAgICoKICAgICAqIEB2YXIgc3RyaW5nCiAgICAgKi8KICAgIHByb3RlY3RlZCAkZGVzY3JpcHRpb24gPSAnTW92ZXMgZmlsZXMgZnJvbSBwdWJsaWMvdHJhY2tzIHRvIHN0b3JhZ2UvYXBwL3B1YmxpYy90cmFja3MvY2F0ZWdvcnktJGlkJzsKCiAgICAvKioKICAgICAqIENyZWF0ZSBhIG5ldyBjb21tYW5kIGluc3RhbmNlLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoKQogICAgewogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoKTsKICAgIH0KCiAgICAvKioKICAgICAqIEV4ZWN1dGUgdGhlIGNvbnNvbGUgY29tbWFuZC4KICAgICAqCiAgICAgKiBAcmV0dXJuIG1peGVkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBoYW5kbGUoKQogICAgewogICAgICAgICRmaWxlcyA9IEZpbGU6OmdldCgnLi9wdWJsaWMvZmlsZXMnKTsKICAgICAgICBkZCgkZmlsZXMpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">JGZvbnQtc2l6ZS1iYXNlOiAwLjlyZW07CiRsaW5lLWhlaWdodC1iYXNlOiAxLjY7Cg==</text>
