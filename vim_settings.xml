@@ -367,7 +367,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522235736700">
+      <file name="/Dummy.txt" timestamp="1522242044330">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/EventTypeCrudController.php" timestamp="1517311532694">
@@ -572,12 +572,6 @@
         <mark key="[" line="1929" column="21" />
         <mark key="]" line="1929" column="42" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/app/Models/Track.php" timestamp="1522237369387">
-        <mark key="[" line="87" column="4" />
-        <mark key="]" line="87" column="10" />
-        <mark key="." line="87" column="10" />
-        <mark key="^" line="87" column="10" />
-      </file>
       <file name="$USER_HOME$/git/web/hypno/vendor/backpack/crud/src/CrudTrait.php" timestamp="1522235706428">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="156" column="0" />
@@ -686,6 +680,10 @@
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Models/Modules/Text.php" timestamp="1522242219423">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="48" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Models/OpenHour.php" timestamp="1519834182718">
         <mark key="[" line="20" column="0" />
@@ -887,8 +885,8 @@
       <jump line="4" column="0" filename="$USER_HOME$/git/web/hypno/app/Traits/UploadTrait.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>public</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3luY2hyb25pemVBdHRhY2htZW50cygkcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>public</text>
@@ -897,7 +895,7 @@
         <text>bootstrap</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlsZXMgPSBGaWxlOjphbGxGaWxlcygncHVibGljL3RyYWNrcycpOwoKICAgICAgICAvKiogQHZhciBGaWxlICRmaWxlICovCiAgICAgICAgZm9yZWFjaCAoJGZpbGVzIGFzICRmaWxlKSB7CiAgICAgICAgICAgICRkaXJuYW1lID0gRmlsZTo6ZGlybmFtZSgkZmlsZSk7CiAgICAgICAgICAgICRjYXRlZ29yeU5hbWUgPSB1Y3dvcmRzKEZpbGU6OmJhc2VuYW1lKCRkaXJuYW1lKSwgJy0nKTsKICAgICAgICAgICAgJGZpbGVOYW1lID0gRmlsZTo6bmFtZSgkZmlsZSk7CgogICAgICAgICAgICBpZiAoc3RyX2NvbnRhaW5zKCRmaWxlTmFtZSwgJ3RhZycpKSB7CiAgICAgICAgICAgICAgICAkZmlsZURheSA9ICRmaWxlOwogICAgICAgICAgICAgICAgJGZpbGVOaWdodCA9IHN0cl9yZXBsYWNlKCctdGFnLm1wMycsICctbmFjaHQubXAzJywgJGZpbGVEYXkpOwoKICAgICAgICAgICAgICAgICRjYXRlZ29yeSA9IENhdGVnb3J5Ojp3aGVyZVRpdGxlKCRjYXRlZ29yeU5hbWUpLT5maXJzdCgpID8/IGZhY3RvcnkoQ2F0ZWdvcnk6OmNsYXNzKS0+Y3JlYXRlKFsgJ3RpdGxlJyA9PiAkY2F0ZWdvcnlOYW1lIF0pOwoKICAgICAgICAgICAgICAgIC8qKiBAdmFyIFRyYWNrICR0cmFjayAqLwogICAgICAgICAgICAgICAgJHRyYWNrID0gZmFjdG9yeShUcmFjazo6Y2xhc3MpLT5tYWtlKFsKICAgICAgICAgICAgICAgICAgICAnY2F0ZWdvcnlfaWQnID0+ICRjYXRlZ29yeS0+aWQsCiAgICAgICAgICAgICAgICAgICAgJ3RpdGxlJyA9PiAkY2F0ZWdvcnlOYW1lIC4gJy0nIC4gdWN3b3JkcygkZmlsZU5hbWUsICctJyksCiAgICAgICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICAgICBpZiAoRmlsZTo6ZXhpc3RzKCRmaWxlRGF5KSkgewogICAgICAgICAgICAgICAgICAgICRmaWxlRGF5ID0gc3RyX3JlcGxhY2VfZmlyc3QoJ3B1YmxpYy8nLCAnJywgJGZpbGUpOwogICAgICAgICAgICAgICAgICAgICR0cmFjay0+c2V0RmlsZURheUF0dHJpYnV0ZSgkZmlsZURheSwgZmFsc2UpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKEZpbGU6OmV4aXN0cygkZmlsZU5pZ2h0KSkgewogICAgICAgICAgICAgICAgICAgICRmaWxlTmlnaHQgPSBzdHJfcmVwbGFjZV9maXJzdCgncHVibGljLycsICcnLCAkZmlsZU5pZ2h0KTsKCiAgICAgICAgICAgICAgICAgICAgJHRyYWNrLT5zZXRGaWxlTmlnaHRBdHRyaWJ1dGUoJGZpbGVOaWdodCwgZmFsc2UpOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICR0cmFjay0+c2F2ZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGR1bXAoVHJhY2s6OmFsbCgpLT50b0FycmF5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3luY2hyb25pemVBdHRhY2htZW50cygkcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkZGVzY3JpcHRpb24gPSAnTW92ZXMgZmlsZXMgZnJvbSBwdWJsaWMvdHJhY2tzIHRvIHN0b3JhZ2UvYXBwL3B1YmxpYy90cmFja3MvY2F0ZWdvcnktJGlkJzsK</text>
