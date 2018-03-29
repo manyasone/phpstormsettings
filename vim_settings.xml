@@ -111,8 +111,11 @@
         <mark key="]" line="5" column="40" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/database/migrations/2018_01_30_163509_create_categories_table.php" timestamp="1522235418544">
-        <mark key="[" line="17" column="35" />
+      <file name="$USER_HOME$/git/web/hypno/database/migrations/2018_01_30_163509_create_categories_table.php" timestamp="1522307111329">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/vendor/barryvdh/reflection-docblock/composer.lock" timestamp="1522158309436">
         <mark key="'" line="74" column="26" />
@@ -1712,11 +1715,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/git/web/hypno/app/Traits/UploadTrait.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRlc3RpbmF0aW9uX3BhdGggPSAidHJhY2tzLyIgLiBzdHJfc2x1ZygkdGhpcy0+Y2F0ZWdvcnktPnRpdGxlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>bootstrap</text>
