@@ -203,6 +203,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/noceanz_old/database/migrations/2016_06_29_095821_add_published_at_to_article_table.php" timestamp="1522324772529">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="46" />
+      </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/AuthController.php" timestamp="1521558120950">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="19" column="41" />
@@ -482,6 +486,10 @@
       <file name="$USER_HOME$/git/web/persofleet/app/Notifications/UserMailInviteNotification.php" timestamp="1521567548519">
         <mark key="[" line="55" column="24" />
       </file>
+      <file name="$USER_HOME$/git/web/foodahoo/app/Http/Controllers/Admin/ShopController.php" timestamp="1522330085919">
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="260" column="39" />
+      </file>
       <file name="$USER_HOME$/git/web/hma/app/Models/Company.php" timestamp="1517233745940">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="40" />
@@ -712,7 +720,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522329030755">
+      <file name="/Dummy.txt" timestamp="1522330062906">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/EventTypeCrudController.php" timestamp="1517311532694">
@@ -1021,12 +1029,12 @@
       <file name="$USER_HOME$/git/web/persofleet/resources/fonts/persoflicons/css/persoflicons.css" timestamp="1521124323880">
         <mark key="[" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/git/web/noceanz/app/Http/Controllers/Admin/ArticleCrudController.php" timestamp="1522329926976">
-        <mark key="'" line="24" column="60" />
-        <mark key="[" line="65" column="65" />
-        <mark key="]" line="66" column="30" />
-        <mark key="." line="66" column="30" />
-        <mark key="^" line="66" column="30" />
+      <file name="$USER_HOME$/git/web/noceanz/app/Http/Controllers/Admin/ArticleCrudController.php" timestamp="1522330090259">
+        <mark key="'" line="23" column="60" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="39" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="67" column="30" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" timestamp="1522327646151">
         <mark key="[" line="36" column="0" />
@@ -1156,11 +1164,11 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/git/web/noceanz/database/migrations/2018_03_29_133957_create_articles_table.php" timestamp="1522330028443">
+      <file name="$USER_HOME$/git/web/noceanz/database/migrations/2018_03_29_133957_create_articles_table.php" timestamp="1522330182567">
         <mark key="[" line="25" column="20" />
-        <mark key="]" line="25" column="23" />
-        <mark key="." line="25" column="23" />
-        <mark key="^" line="25" column="23" />
+        <mark key="]" line="25" column="27" />
+        <mark key="." line="25" column="27" />
+        <mark key="^" line="25" column="27" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/resources/assets/sass/app.scss" timestamp="1522218108230">
         <mark key="[" line="6" column="0" />
@@ -1443,6 +1451,10 @@
         <mark key="]" line="19" column="19" />
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Models/Modules/Text.php" timestamp="1522242780254">
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="61" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Models/OpenHour.php" timestamp="1519834182718">
         <mark key="[" line="20" column="0" />
@@ -1749,16 +1761,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>text</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>body</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnYXV0aG9yJyA9PiAnQXV0b3InLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjcm9wJyAgICAgICAgID0+IHRydWUsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
