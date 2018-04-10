@@ -8,10 +8,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/UserController.php" timestamp="1521481254443">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/UserController.php" timestamp="1523361265365">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="42" />
+        <mark key="." line="39" column="43" />
+        <mark key="^" line="15" column="46" />
       </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/ContactCrudController.php" timestamp="1517241731099">
         <mark key="[" line="30" column="0" />
@@ -216,11 +217,6 @@
         <mark key="[" line="1" column="19" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/AuthController.php" timestamp="1521558120950">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="19" column="41" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Http/Transformers/Api/v1/ModuleTransformer.php" timestamp="1517909374473">
         <mark key="[" line="14" column="0" />
@@ -1547,6 +1543,9 @@
         <mark key="." line="21" column="61" />
         <mark key="^" line="23" column="44" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/vendor/league/fractal/src/TransformerAbstract.php" timestamp="1523361019862">
+        <mark key="'" line="27" column="15" />
+      </file>
       <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_28_150914_create_jumpin_dates_table.php" timestamp="1521545210223">
         <mark key="[" line="24" column="73" />
         <mark key="]" line="25" column="77" />
@@ -1590,6 +1589,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="50" column="1" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Transformers/UserTransformer.php" timestamp="1523360554006">
+        <mark key="[" line="18" column="15" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/app/Http/Controllers/Admin/FrontendPageCrudController.php" timestamp="1521721856865">
         <mark key="[" line="49" column="35" />
@@ -1662,7 +1664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
       <jump line="199" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
       <jump line="10" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
       <jump line="14" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
@@ -1762,19 +1763,20 @@
       <jump line="434" column="20" filename="$USER_HOME$/git/web/iftal/app/Http/Controllers/Admin/EntryCrudController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/tests/Unit/JumpinUnitTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/tests/Crud/JumpinTypeCrudTest.php" />
+      <jump line="27" column="15" filename="$USER_HOME$/git/web/jumpin/vendor/league/fractal/src/TransformerAbstract.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>a_super</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChFbnRyaWVzVGFibGVTZWVkZXI6OmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnNldFJlc3BvbnNlUGF5bG9hZChbJ2RhdGEnID0+IGZyYWN0YWwoJHRoaXMtPnVzZXIsIG5ldyBVc2VyVHJhbnNmb3JtZXIsIG5ldyBBcnJheVNlcmlhbGl6ZXIoKSldKQogICAgICAgICAgICAgICAgICAgIC0+cmVzcG9uZFdpdGhTdWNjZXNzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1814,9 +1816,9 @@
       </register>
     </registers>
     <search>
-      <last-search>a_super</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>a_super</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>resolve</last-substitute>
       <last-dir>1</last-dir>
@@ -1824,7 +1826,6 @@
     </search>
     <history>
       <history-search>
-        <entry>form</entry>
         <entry>Form</entry>
         <entry>FormFacade</entry>
         <entry>collective</entry>
@@ -1844,6 +1845,7 @@
         <entry>checked</entry>
         <entry>revis</entry>
         <entry>a_super</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>%s/aligner-item/col-md-4/g</entry>
