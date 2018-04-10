@@ -123,8 +123,8 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="62" />
       </file>
-      <file name="$USER_HOME$/git/web/iftal/app/Models/Entry.php" timestamp="1523355036638">
-        <mark key="'" line="87" column="74" />
+      <file name="$USER_HOME$/git/web/iftal/app/Models/Entry.php" timestamp="1523357636604">
+        <mark key="'" line="72" column="1" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/database/factories/TrackFactory.php" timestamp="1522236929797">
         <mark key="[" line="17" column="0" />
@@ -857,6 +857,12 @@
         <mark key="." line="23" column="28" />
         <mark key="^" line="23" column="28" />
       </file>
+      <file name="$USER_HOME$/git/web/noceanz/database/seeds/JobsTableSeeder.php" timestamp="1522325795769">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+      </file>
       <file name="$USER_HOME$/git/web/gsk/app/Models/User.php" timestamp="1516017326665">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="98" />
@@ -1042,8 +1048,11 @@
         <mark key="]" line="42" column="22" />
         <mark key="." line="42" column="22" />
       </file>
-      <file name="$USER_HOME$/git/web/iftal/app/Http/Controllers/Admin/EntryCrudController.php" timestamp="1523263429534">
-        <mark key="'" line="473" column="12" />
+      <file name="$USER_HOME$/git/web/iftal/app/Http/Controllers/Admin/EntryCrudController.php" timestamp="1523357690065">
+        <mark key="'" line="434" column="20" />
+        <mark key="[" line="308" column="63" />
+        <mark key="]" line="308" column="71" />
+        <mark key="." line="308" column="63" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/resources/assets/sass/_partial.scss" timestamp="1516008102860">
         <mark key="[" line="50" column="5" />
@@ -1061,6 +1070,12 @@
         <mark key="]" line="16" column="55" />
         <mark key="." line="15" column="44" />
         <mark key="^" line="14" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/web/noceanz/config/app.php" timestamp="1522332467742">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/database/seeds/FileSeeder.php" timestamp="1517482088468">
         <mark key="[" line="7" column="7" />
@@ -1635,10 +1650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
-      <jump line="175" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
-      <jump line="179" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
-      <jump line="183" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
       <jump line="187" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
       <jump line="191" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
       <jump line="195" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
@@ -1735,6 +1746,10 @@
       <jump line="462" column="12" filename="$USER_HOME$/git/web/iftal/app/Http/Controllers/Admin/EntryCrudController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/iftal/app/Models/Entry.php" />
       <jump line="87" column="74" filename="$USER_HOME$/git/web/iftal/app/Models/Entry.php" />
+      <jump line="168" column="12" filename="$USER_HOME$/git/web/iftal/app/Http/Controllers/Admin/EntryCrudController.php" />
+      <jump line="308" column="70" filename="$USER_HOME$/git/web/iftal/app/Http/Controllers/Admin/EntryCrudController.php" />
+      <jump line="72" column="1" filename="$USER_HOME$/git/web/iftal/app/Models/Entry.php" />
+      <jump line="434" column="20" filename="$USER_HOME$/git/web/iftal/app/Http/Controllers/Admin/EntryCrudController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1744,7 +1759,7 @@
         <text>nullable</text>
       </register>
       <register name="/" type="4">
-        <text>scope</text>
+        <text>revis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChFbnRyaWVzVGFibGVTZWVkZXI6OmNsYXNzKTsK</text>
@@ -1787,9 +1802,9 @@
       </register>
     </registers>
     <search>
-      <last-search>scope</last-search>
+      <last-search>revis</last-search>
       <last-offset />
-      <last-pattern>scope</last-pattern>
+      <last-pattern>revis</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>resolve</last-substitute>
       <last-dir>1</last-dir>
@@ -1797,10 +1812,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nav</entry>
-        <entry>Filtername</entry>
-        <entry>Scope</entry>
-        <entry>show</entry>
         <entry encoding="base64">XDxGcm9udGVuZFBhZ2VcPg==</entry>
         <entry>form</entry>
         <entry>Form</entry>
@@ -1817,6 +1828,10 @@
         <entry>forRow</entry>
         <entry>ForRow</entry>
         <entry>scope</entry>
+        <entry>check</entry>
+        <entry>update(</entry>
+        <entry>checked</entry>
+        <entry>revis</entry>
       </history-search>
       <history-cmd>
         <entry>%s/aligner-item/col-md-4/g</entry>
