@@ -203,6 +203,11 @@
         <mark key="." line="22" column="29" />
         <mark key="^" line="19" column="28" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Requests/LocationTypeRequest.php" timestamp="1523354382205">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="38" />
+        <mark key="." line="27" column="38" />
+      </file>
       <file name="$USER_HOME$/git/app/jumpin/src/pages/quickvotes/quickvotes.html" timestamp="1519908971706">
         <mark key="[" line="11" column="32" />
         <mark key="]" line="11" column="49" />
@@ -435,10 +440,10 @@
         <mark key="." line="11" column="25" />
         <mark key="^" line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Requests/JumpinTypeRequest.php" timestamp="1521539889486">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="64" />
-        <mark key="." line="17" column="64" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Requests/JumpinTypeRequest.php" timestamp="1523354357273">
+        <mark key="[" line="30" column="37" />
+        <mark key="]" line="30" column="38" />
+        <mark key="." line="30" column="38" />
         <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_17_120000_create_companies_table.php" timestamp="1516619486888">
@@ -926,12 +931,6 @@
         <mark key="." line="23" column="28" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/git/web/noceanz/database/seeds/JobsTableSeeder.php" timestamp="1522325795769">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-      </file>
       <file name="$USER_HOME$/git/web/gsk/app/Models/User.php" timestamp="1516017326665">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="98" />
@@ -1101,7 +1100,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/foodahoo/resources/views/frontend/sections/searchresults.blade.php" timestamp="1523259150759" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Requests/AppUserRequest.php" timestamp="1523354180174">
+        <mark key="[" line="34" column="41" />
+        <mark key="]" line="34" column="34" />
+        <mark key="." line="34" column="26" />
+        <mark key="^" line="32" column="36" />
+      </file>
       <file name="$USER_HOME$/git/web/hypno/database/factories/FileFactory.php" timestamp="1517911461328">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -1137,12 +1141,6 @@
         <mark key="]" line="16" column="55" />
         <mark key="." line="15" column="44" />
         <mark key="^" line="14" column="49" />
-      </file>
-      <file name="$USER_HOME$/git/web/noceanz/config/app.php" timestamp="1522332467742">
-        <mark key="'" line="0" column="7" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/database/seeds/FileSeeder.php" timestamp="1517482088468">
         <mark key="[" line="7" column="7" />
@@ -1404,18 +1402,15 @@
         <mark key="^" line="21" column="25" />
         <mark key="." line="21" column="37" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Models/User.php" timestamp="1522332389000">
-        <mark key="'" line="99" column="5" />
-      </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Requests/CompanyRequest.php" timestamp="1516613007893">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Requests/JumpinRequest.php" timestamp="1521538070081">
-        <mark key="[" line="29" column="58" />
-        <mark key="]" line="52" column="15" />
-        <mark key="." line="52" column="15" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Requests/JumpinRequest.php" timestamp="1523354375284">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="38" />
+        <mark key="." line="27" column="38" />
         <mark key="^" line="52" column="15" />
       </file>
       <file name="$USER_HOME$/git/web/foodahoo/.env" timestamp="1523261131095">
@@ -1835,10 +1830,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EntriesTableSeeder</text>
+        <text>nullable</text>
       </register>
       <register name="-" type="4">
-        <text>EntriesTableSeeder</text>
+        <text>nullable</text>
       </register>
       <register name="/" type="4">
         <text>body</text>
