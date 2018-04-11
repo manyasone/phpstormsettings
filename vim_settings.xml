@@ -732,6 +732,9 @@
         <mark key="]" line="2" column="31" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/iftal/config/app.php" timestamp="1523436605647">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_24_130321_create_order_contacts_table.php" timestamp="1517236709903">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="55" />
@@ -1826,7 +1829,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
       <jump line="52" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
       <jump line="56" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
       <jump line="66" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
@@ -1926,6 +1928,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/app/Transformers/TagTransformer.php" />
       <jump line="58" column="0" filename="$USER_HOME$/git/web/jumpin/app/Transformers/JumpinTransformer.php" />
       <jump line="61" column="5" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/AuthController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/iftal/config/app.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1935,7 +1938,7 @@
         <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>locale</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgWydBc3RyaWQgRmlzY2hlcicsICdhc3RyaWQuZmlzY2hlckB3ZWJmYWN0b3IuZGUnXSwK</text>
@@ -1978,9 +1981,9 @@
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search>locale</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern>locale</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>resolve</last-substitute>
       <last-dir>1</last-dir>
@@ -1988,7 +1991,6 @@
     </search>
     <history>
       <history-search>
-        <entry>collective</entry>
         <entry>5.5</entry>
         <entry>laravel</entry>
         <entry>framework</entry>
@@ -2008,6 +2010,7 @@
         <entry>data</entry>
         <entry>Date</entry>
         <entry>date</entry>
+        <entry>locale</entry>
       </history-search>
       <history-cmd>
         <entry>%s/aligner-item/col-md-4/g</entry>
