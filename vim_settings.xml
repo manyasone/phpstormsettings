@@ -14,9 +14,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="14" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1523369732726">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/ContactCrudController.php" timestamp="1517241731099">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -1201,6 +1198,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/noceanz_old/config/app.php" timestamp="1523522917347">
+        <mark key="'" line="205" column="37" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="50" />
+      </file>
       <file name="$USER_HOME$/git/web/hypno/tests/Unit/UserTest.php" timestamp="1518540590340">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1296,6 +1298,7 @@
         <mark key="]" line="29" column="39" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/noceanz_old/composer.json" timestamp="1523522720881" />
       <file name="$USER_HOME$/git/web/hypno/tests/Unit/TrackTest.php" timestamp="1520516938222">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="85" />
@@ -1537,9 +1540,6 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Components/Video/Controllers/VideoCrudController.php" timestamp="1523455228964">
-        <mark key="[" line="64" column="35" />
-      </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Models/OpenHour.php" timestamp="1519834182718">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1753,7 +1753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="747" column="17" filename="$USER_HOME$/git/web/gsk/composer.lock" />
       <jump line="1737" column="29" filename="$USER_HOME$/git/web/gsk/composer.lock" />
       <jump line="1741" column="51" filename="$USER_HOME$/git/web/gsk/composer.lock" />
       <jump line="1746" column="61" filename="$USER_HOME$/git/web/gsk/composer.lock" />
@@ -1853,19 +1852,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/database/migrations/2018_04_11_180734_update_companies_table.php" />
       <jump line="61" column="13" filename="$USER_HOME$/git/web/persofleet/app/Models/Company/Company.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/app/Http/Transformers/Api/v1/UserTransformer.php" />
+      <jump line="205" column="37" filename="$USER_HOME$/git/web/noceanz_old/config/app.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAncHViJwo=</text>
+        <text encoding="base64">ICAgICAgICBDaGVuY2hhXFNoYXJlXFNoYXJlU2VydmljZVByb3ZpZGVyOjpjbGFzcywK</text>
       </register>
       <register name="-" type="4">
         <text>user</text>
       </register>
       <register name="/" type="4">
-        <text>logo_url</text>
+        <text>Share</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdjb21wYW5pZXMnLCBmdW5jdGlvbiAoQmx1ZXByaW50ICR0YWJsZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBDaGVuY2hhXFNoYXJlXFNoYXJlU2VydmljZVByb3ZpZGVyOjpjbGFzcywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAncHViJwo=</text>
@@ -1905,9 +1905,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logo_url</last-search>
+      <last-search>Share</last-search>
       <last-offset />
-      <last-pattern>logo_url</last-pattern>
+      <last-pattern>Share</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>resolve</last-substitute>
       <last-dir>1</last-dir>
@@ -1915,7 +1915,6 @@
     </search>
     <history>
       <history-search>
-        <entry>date</entry>
         <entry>locale</entry>
         <entry>test</entry>
         <entry>testtest</entry>
@@ -1935,6 +1934,7 @@
         <entry>data_table</entry>
         <entry>addC</entry>
         <entry>logo_url</entry>
+        <entry>Share</entry>
       </history-search>
       <history-cmd>
         <entry>%s/aligner-item/col-md-4/g</entry>
