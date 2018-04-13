@@ -1921,7 +1921,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>jar has not</text>
+        <text>cron</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGVsZXRlQWxsKCR0aGlzLT5maWxlKCktPmdldCgpKTsK</text>
@@ -1964,9 +1964,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jar has not</last-search>
+      <last-search>cron</last-search>
       <last-offset />
-      <last-pattern>jar has not</last-pattern>
+      <last-pattern>cron</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>resolve</last-substitute>
       <last-dir>1</last-dir>
@@ -1974,8 +1974,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Form</entry>
-        <entry>seot</entry>
         <entry>hamcrest</entry>
         <entry>ham</entry>
         <entry>mock</entry>
@@ -1994,6 +1992,8 @@
         <entry>Cookie</entry>
         <entry>jar</entry>
         <entry>jar has not</entry>
+        <entry>backup</entry>
+        <entry>cron</entry>
       </history-search>
       <history-cmd>
         <entry>%s/aligner-item/col-md-4/g</entry>
