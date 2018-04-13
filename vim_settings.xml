@@ -548,9 +548,6 @@
         <mark key="." line="38" column="49" />
         <mark key="^" line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/resources/views/vendor/backpack/crud/fields/image.blade.php" timestamp="1523611572573">
-        <mark key="'" line="155" column="25" />
-      </file>
       <file name="$USER_HOME$/git/web/hma/app/Models/Company.php" timestamp="1517233745940">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="40" />
@@ -711,6 +708,12 @@
         <mark key="]" line="2" column="31" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/iftal/config/app.php" timestamp="1523631077093">
+        <mark key="[" line="178" column="51" />
+        <mark key="]" line="178" column="7" />
+        <mark key="^" line="178" column="7" />
+        <mark key="." line="178" column="7" />
+      </file>
       <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_24_130321_create_order_contacts_table.php" timestamp="1517236709903">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="55" />
@@ -814,6 +817,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/iftal/config/filesystems.php" timestamp="1523630894055" />
       <file name="$USER_HOME$/git/web/hypno/resources/views/welcome.blade.php" timestamp="1517499866612">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -994,6 +998,9 @@
         <mark key="]" line="111" column="115" />
         <mark key="^" line="100" column="41" />
         <mark key="." line="100" column="41" />
+      </file>
+      <file name="$USER_HOME$/git/web/iftal/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" timestamp="1523630610392">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/database/factories/UserFactory.php" timestamp="1520961055678">
         <mark key="[" line="25" column="38" />
@@ -1776,6 +1783,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="14" column="3" />
       </file>
+      <file name="$USER_HOME$/git/web/iftal/app/Http/Controllers/Admin/BackupController.php" timestamp="1523630749482" />
       <file name="$USER_HOME$/git/web/jumpin/routes/admin.php" timestamp="1519902782837">
         <mark key="[" line="19" column="40" />
         <mark key="]" line="19" column="53" />
@@ -1812,7 +1820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="398" column="37" filename="$USER_HOME$/git/web/iftal/app/Http/Controllers/Admin/EntryCrudController.php" />
       <jump line="399" column="83" filename="$USER_HOME$/git/web/iftal/app/Http/Controllers/Admin/EntryCrudController.php" />
       <jump line="401" column="54" filename="$USER_HOME$/git/web/iftal/app/Http/Controllers/Admin/EntryCrudController.php" />
       <jump line="411" column="25" filename="$USER_HOME$/git/web/iftal/app/Http/Controllers/Admin/EntryCrudController.php" />
@@ -1912,6 +1919,7 @@
       <jump line="55" column="34" filename="$USER_HOME$/git/web/persofleet/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php" />
       <jump line="417" column="32" filename="$USER_HOME$/git/web/persofleet/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php" />
       <jump line="455" column="49" filename="$USER_HOME$/git/web/persofleet/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/iftal/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
