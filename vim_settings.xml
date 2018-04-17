@@ -324,11 +324,11 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="149" column="5" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/JumpinController.php" timestamp="1523954108303">
-        <mark key="[" line="29" column="35" />
-        <mark key="]" line="29" column="35" />
-        <mark key="." line="29" column="35" />
-        <mark key="^" line="26" column="31" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/JumpinController.php" timestamp="1523963791432">
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+        <mark key="^" line="22" column="7" />
       </file>
       <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_17_134808_create_events_table.php" timestamp="1517308089165">
         <mark key="[" line="21" column="29" />
@@ -607,11 +607,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/database/seeds/FrequencySeeder.php" timestamp="1521532281008">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="14" column="42" />
-        <mark key="." line="15" column="42" />
-        <mark key="^" line="14" column="42" />
+      <file name="$USER_HOME$/git/web/jumpin/database/seeds/FrequencySeeder.php" timestamp="1523963163284">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="64" />
+        <mark key="." line="14" column="53" />
+        <mark key="^" line="14" column="53" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_28_161310_create_images_table.php" timestamp="1519831168696">
         <mark key="[" line="18" column="0" />
@@ -1485,6 +1485,13 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/tests/Api/JumpinTest.php" timestamp="1523963693213">
+        <mark key="'" line="64" column="4" />
+        <mark key="[" line="79" column="53" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="52" column="29" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Components/Modules/ComponentProvider.php" timestamp="1523875173897">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="52" />
@@ -1521,6 +1528,11 @@
         <mark key="]" line="27" column="38" />
         <mark key="." line="27" column="38" />
         <mark key="^" line="52" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/web/foodahoo/app/Http/Controllers/Api/v2/MarketsController.php" timestamp="1523963817264">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/foodahoo/.env" timestamp="1523261131095">
         <mark key="[" line="1" column="8" />
@@ -1894,8 +1906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="83" filename="$USER_HOME$/git/web/persofleet/app/Components/Administration/User/Controllers/UserCrudController.php" />
-      <jump line="210" column="24" filename="$USER_HOME$/git/web/persofleet/app/Components/Administration/User/Controllers/UserCrudController.php" />
       <jump line="187" column="8" filename="$USER_HOME$/git/web/persofleet/app/Components/Administration/User/Controllers/UserCrudController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/vendor/wfm/apicontroller/src/ApiController.php" />
       <jump line="354" column="31" filename="$USER_HOME$/git/web/persofleet/resources/views/vendor/backpack/crud/list.blade.php" />
@@ -1994,52 +2004,54 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/app/Models/JumpinDate.php" />
       <jump line="55" column="4" filename="$USER_HOME$/git/web/jumpin/tests/Unit/JumpinUnitTest.php" />
       <jump line="22" column="8" filename="$USER_HOME$/git/web/jumpin/database/factories/LocationFactory.php" />
+      <jump line="65" column="0" filename="$USER_HOME$/git/web/jumpin/tests/Api/JumpinTest.php" />
+      <jump line="58" column="4" filename="$USER_HOME$/git/web/jumpin/tests/Api/JumpinTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbG9jYXRpb24tPnVzZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>setup some likes from users</text>
+        <text>page</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAqIHNldHVwIHNvbWUgbGlrZXMgZnJvbSB1c2Vycwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIVZhbHVlU2VydmljZTo6YXJyYXlLZXlzRXhpc3QoJHJlcXVpcmVkS2V5cywgJHBhcmFtcykpIHsKICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5yZXNwb25kTm9FbnRyaWVzKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbG9jYXRpb24tPnVzZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBvd25lcigpIAogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+aGFzT25lKFVzZXI6OmNsYXNzKTsKICAgIH0KCg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKCFWYWx1ZVNlcnZpY2U6OmFycmF5S2V5c0V4aXN0KCRyZXF1aXJlZEtleXMsICRwYXJhbXMpKSB7CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+cmVzcG9uZE5vRW50cmllcygpOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnb3duZXJfaWQnCg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWlyZWRLZXlzID0gWwogICAgICAgICAgICAnbGF0JywKICAgICAgICAgICAgJ2xvbicsCiAgICAgICAgICAgICdwYWdlJwogICAgICAgIF07Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3JhbmdlJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZnJlcXVlbmN5ID0gZmFjdG9yeShGcmVxdWVuY3k6OmNsYXNzKS0+Y3JlYXRlKFsnbmFtZScgPT4gJ3JlZ3VsYXInXSk7CiAgICAgICAgJHRoaXMtPmZpbHRlcmVkRnJlcXVlbmN5ID0gZmFjdG9yeShGcmVxdWVuY3k6OmNsYXNzKS0+Y3JlYXRlKFsnbmFtZScgPT4gJ3JlY3VycmluZyddKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnc3RhcnRzX2F0JyA9PiAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZnJlcXVlbmN5LT5uYW1lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcVXNlcjsKdXNlIEF1dGg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIExvY2F0aW9uICRsb2NhdGlvbiAqLwo=</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IEZyZXF1ZW5jeSBmcmVxdWVuY3kKICogQHByb3BlcnR5IEZyZXF1ZW5jeSBmaWx0ZXJlZEZyZXF1ZW5jeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gJHR5cGUKICAgICAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
