@@ -1484,10 +1484,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/TrackCrudController.php" timestamp="1524480862741">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/TrackCrudController.php" timestamp="1524481385660">
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="25" column="36" />
+        <mark key="^" line="25" column="37" />
+        <mark key="." line="25" column="36" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/database/factories/OpenHourFactory.php" timestamp="1519833569479">
         <mark key="[" line="7" column="10" />
@@ -2044,11 +2045,11 @@
       <jump line="67" column="9" filename="$USER_HOME$/git/web/hypno/app/Models/Track.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbWFyZ2luJwo=</text>
+      <register name="&quot;" type="4">
+        <text>label_name</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgLy8gQ3VzdG9tSFRNTA==</text>
+        <text>label_name</text>
       </register>
       <register name="/" type="4">
         <text>description</text>
