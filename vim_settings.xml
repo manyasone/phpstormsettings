@@ -74,6 +74,9 @@
         <mark key="." line="21" column="31" />
         <mark key="^" line="21" column="30" />
       </file>
+      <file name="$USER_HOME$/git/web/foodahoo/app/Models/Shop/Shop.php" timestamp="1524736790688">
+        <mark key="'" line="50" column="82" />
+      </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Models/Image.php" timestamp="1521540799426">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -468,6 +471,9 @@
         <mark key="]" line="26" column="54" />
         <mark key="^" line="26" column="54" />
         <mark key="." line="26" column="54" />
+      </file>
+      <file name="$USER_HOME$/git/web/foodahoo/app/Services/Api/ShopService.php" timestamp="1524736773818">
+        <mark key="'" line="16" column="6" />
       </file>
       <file name="$USER_HOME$/git/web/hma/database/seeds/CompaniesSeeder.php" timestamp="1516715407595">
         <mark key="[" line="44" column="24" />
@@ -923,6 +929,9 @@
         <mark key="^" line="14" column="78" />
         <mark key="." line="14" column="53" />
       </file>
+      <file name="$USER_HOME$/git/web/hypno/vendor/webfactor/laravel-apicontroller/src/ApiController.php" timestamp="1524487368396">
+        <mark key="'" line="10" column="6" />
+      </file>
       <file name="$USER_HOME$/git/web/hypno/app/TrackFile.php" timestamp="1520520858308">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="17" column="0" />
@@ -1094,6 +1103,9 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/foodahoo/app/Models/Market/Market.php" timestamp="1524736795199">
+        <mark key="'" line="43" column="6" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/vendor/backpack/base/src/app/Http/Requests/ChangePasswordRequest.php" timestamp="1521105310479">
         <mark key="[" line="13" column="19" />
@@ -1501,10 +1513,11 @@
         <mark key="]" line="66" column="42" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/tests/Api/JumpinApiTest.php" timestamp="1524735378677">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/git/web/jumpin/tests/Api/JumpinApiTest.php" timestamp="1524737079642">
+        <mark key="[" line="161" column="75" />
+        <mark key="]" line="161" column="75" />
+        <mark key="." line="161" column="75" />
+        <mark key="^" line="161" column="80" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/public/css/ionicons.css" timestamp="1521473423763">
         <mark key="[" line="0" column="0" />
@@ -2044,9 +2057,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="14" filename="$USER_HOME$/git/web/persofleet/composer.json" />
-      <jump line="26" column="28" filename="$USER_HOME$/git/web/persofleet/composer.json" />
-      <jump line="24" column="27" filename="$USER_HOME$/git/web/persofleet/composer.json" />
       <jump line="19" column="27" filename="$USER_HOME$/git/web/persofleet/composer.json" />
       <jump line="18" column="22" filename="$USER_HOME$/git/web/persofleet/composer.json" />
       <jump line="28" column="33" filename="$USER_HOME$/git/web/persofleet/composer.json" />
@@ -2144,19 +2154,22 @@
       <jump line="45" column="5" filename="$USER_HOME$/git/web/jumpin/app/Relations/BelongsToManyThrough.php" />
       <jump line="48" column="15" filename="$USER_HOME$/git/web/jumpin/app/Models/Model.php" />
       <jump line="30" column="8" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/JumpinController.php" />
+      <jump line="16" column="6" filename="$USER_HOME$/git/web/foodahoo/app/Services/Api/ShopService.php" />
+      <jump line="50" column="82" filename="$USER_HOME$/git/web/foodahoo/app/Models/Shop/Shop.php" />
+      <jump line="43" column="6" filename="$USER_HOME$/git/web/foodahoo/app/Models/Market/Market.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZChMb2NhdGlvbjo6d2l0aChbJ2xvY2F0aW9uVHlwZXMnXSktPmdldCgpLT50b0FycmF5KCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>dd(</text>
+        <text>fromCoor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqQHZhciAkbG9jYXRpb24gTG9jYXRpb24gKi8K</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IG1peGVkIHRhZwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZChMb2NhdGlvbjo6d2l0aChbJ2xvY2F0aW9uVHlwZXMnXSktPmdldCgpLT50b0FycmF5KCkpOwo=</text>
@@ -2196,9 +2209,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dd(</last-search>
+      <last-search>fromCoor</last-search>
       <last-offset />
-      <last-pattern>dd(</last-pattern>
+      <last-pattern>fromCoor</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>resolve</last-substitute>
       <last-dir>1</last-dir>
@@ -2206,9 +2219,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cookie</entry>
-        <entry>Cookie</entry>
-        <entry>jar</entry>
         <entry>jar has not</entry>
         <entry>backup</entry>
         <entry>cron</entry>
@@ -2226,6 +2236,9 @@
         <entry>Model</entry>
         <entry>dd</entry>
         <entry>dd(</entry>
+        <entry>lat</entry>
+        <entry>fromCoordinates</entry>
+        <entry>fromCoor</entry>
       </history-search>
       <history-cmd>
         <entry>%s/aligner-item/col-md-4/g</entry>
