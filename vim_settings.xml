@@ -1196,10 +1196,11 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="53" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Http/Controllers/Api/v1/FaultTypeController.php" timestamp="1528711401926">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/git/web/persofleet/app/Http/Controllers/Api/v1/FaultTypeController.php" timestamp="1528723449093">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="39" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/database/seeds/RolesTableSeeder.php" timestamp="1517829121950">
         <mark key="[" line="17" column="0" />
@@ -1747,11 +1748,11 @@
       <jump line="71" column="13" filename="$USER_HOME$/git/web/guardian/app/Http/Controllers/Api/v1/UserController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>FaultType::all()</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>FaultType::all()</text>
       </register>
       <register name="/" type="4">
         <text>clause</text>
