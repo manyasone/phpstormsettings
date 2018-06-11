@@ -31,6 +31,9 @@
         <mark key="." line="12" column="40" />
         <mark key="^" line="12" column="40" />
       </file>
+      <file name="$USER_HOME$/git/web/hypno/config/webfactor/documents.php" timestamp="1528703157159">
+        <mark key="[" line="11" column="17" />
+      </file>
       <file name="$USER_HOME$/git/web/noceanz/.env.example" timestamp="1522318738551">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="12" />
@@ -1065,6 +1068,12 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="25" column="62" />
       </file>
+      <file name="$USER_HOME$/git/web/hypno/resources/lang/vendor/webfactor/en/documents.php" timestamp="1528703068955">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="46" />
+        <mark key="^" line="17" column="43" />
+        <mark key="." line="17" column="43" />
+      </file>
       <file name="$USER_HOME$/git/app/jumpin/src/pages/jump-in/jump-in.ts" timestamp="1518709218997">
         <mark key="[" line="14" column="22" />
         <mark key="]" line="14" column="22" />
@@ -1162,6 +1171,12 @@
         <mark key="." line="26" column="65" />
         <mark key="^" line="23" column="27" />
       </file>
+      <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/TrackCrudController.php" timestamp="1528703541395">
+        <mark key="[" line="101" column="36" />
+        <mark key="]" line="101" column="36" />
+        <mark key="." line="101" column="28" />
+        <mark key="^" line="143" column="35" />
+      </file>
       <file name="$USER_HOME$/git/web/jumpin/database/factories/OpenHourFactory.php" timestamp="1519833569479">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="5" column="24" />
@@ -1251,6 +1266,11 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
         <mark key="^" line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/hypno/resources/lang/vendor/webfactor/de/documents.php" timestamp="1528703078196">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="46" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/resources/views/vendor/notifications/email.blade.php" timestamp="1521566818182">
         <mark key="[" line="47" column="12" />
@@ -1645,16 +1665,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>date</text>
+        <text>text</text>
       </register>
       <register name="-" type="4">
-        <text>date</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAncmVhZF9hdCcsCiAgICAgICAgJ2Nsb3NlZF9hdCcsCg==</text>
+      <register name="0" type="4">
+        <text>simplemd</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsYW5nLmRvKTsK</text>
