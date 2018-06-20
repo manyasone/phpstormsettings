@@ -147,11 +147,11 @@
         <mark key="^" line="30" column="19" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/resources/lang/de/crud.php" timestamp="1529343799502">
-        <mark key="[" line="101" column="27" />
-        <mark key="]" line="101" column="27" />
-        <mark key="." line="101" column="27" />
-        <mark key="^" line="101" column="20" />
+      <file name="$USER_HOME$/git/web/persofleet/resources/lang/de/crud.php" timestamp="1529505987622">
+        <mark key="[" line="103" column="13" />
+        <mark key="]" line="103" column="13" />
+        <mark key="." line="103" column="13" />
+        <mark key="^" line="103" column="8" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/database/factories/PartialFactory.php" timestamp="1521715737382">
         <mark key="[" line="14" column="18" />
@@ -1929,10 +1929,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>trans('crud.fault_type.plural') . ' '</text>
+        <text>bulk</text>
       </register>
       <register name="-" type="4">
-        <text>trans('crud.fault_type.plural') . ' '</text>
+        <text>bulk</text>
       </register>
       <register name="/" type="4">
         <text>edit</text>
