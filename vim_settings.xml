@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/web/persofleet/resources/lang/de/validation.php" timestamp="1530020163322">
-        <mark key="'" line="163" column="0" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
+      <file name="$USER_HOME$/git/web/persofleet/resources/lang/de/validation.php" timestamp="1530090225175">
+        <mark key="'" line="161" column="0" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/UserController.php" timestamp="1523432697226">
         <mark key="[" line="9" column="0" />
@@ -15,7 +15,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="14" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1530019205499">
+      <file name="/a.dummy" timestamp="1530088456818">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Person.php" timestamp="1528816860364">
@@ -83,9 +83,6 @@
         <mark key="." line="21" column="31" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/PanelTraits/Columns.php" timestamp="1530014661189">
-        <mark key="'" line="108" column="65" />
-      </file>
       <file name="$USER_HOME$/git/web/hypno/database/migrations/2018_05_03_133516_add_title_column_to_tracks_table.php" timestamp="1525347387332">
         <mark key="[" line="28" column="46" />
         <mark key="]" line="28" column="36" />
@@ -151,11 +148,11 @@
         <mark key="^" line="30" column="19" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/resources/lang/de/crud.php" timestamp="1530027528422">
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="27" />
-        <mark key="^" line="17" column="27" />
+      <file name="$USER_HOME$/git/web/persofleet/resources/lang/de/crud.php" timestamp="1530089521990">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="22" column="27" />
+        <mark key="." line="22" column="27" />
+        <mark key="^" line="22" column="27" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/database/factories/PartialFactory.php" timestamp="1521715737382">
         <mark key="[" line="14" column="18" />
@@ -192,9 +189,6 @@
         <mark key="^" line="146" column="7" />
         <mark key="." line="146" column="7" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/app/Http/Controllers/CrudController.php" timestamp="1530024878007">
-        <mark key="'" line="18" column="6" />
-      </file>
       <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_22_144931_create_company_contact_table.php" timestamp="1516715160234">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="96" />
@@ -223,6 +217,12 @@
         <mark key="]" line="11" column="69" />
         <mark key="." line="11" column="56" />
         <mark key="^" line="11" column="55" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Vehicle/Controllers/VehicleTypeCrudController.php" timestamp="1530088756721">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="25" />
       </file>
       <file name="$USER_HOME$/projects/guitab/.eslintrc.js" timestamp="1521206247570">
         <mark key="[" line="23" column="33" />
@@ -481,6 +481,14 @@
         <mark key="." line="17" column="12" />
         <mark key="^" line="17" column="11" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/PanelTraits/Filters.php" timestamp="1530086765291">
+        <mark key="a" line="195" column="37" />
+        <mark key="'" line="63" column="22" />
+        <mark key="[" line="213" column="80" />
+        <mark key="]" line="213" column="79" />
+        <mark key="." line="213" column="79" />
+        <mark key="^" line="213" column="79" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Models/Reports/Report.php" timestamp="1529936577272">
         <mark key="'" line="183" column="0" />
         <mark key="[" line="153" column="29" />
@@ -494,7 +502,8 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Models/User.php" timestamp="1529941804476">
+      <file name="$USER_HOME$/git/web/persofleet/app/Models/User.php" timestamp="1530088924913">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="165" column="22" />
         <mark key="]" line="165" column="22" />
         <mark key="." line="165" column="22" />
@@ -506,11 +515,11 @@
         <mark key="^" line="52" column="9" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Models/Vehicle.php" timestamp="1530022557947">
-        <mark key="[" line="162" column="29" />
-        <mark key="]" line="162" column="29" />
-        <mark key="." line="162" column="29" />
-        <mark key="^" line="162" column="31" />
+      <file name="$USER_HOME$/git/web/persofleet/app/Models/Vehicle.php" timestamp="1530090232196">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="160" column="31" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/resources/views/vendor/backpack/crud/buttons/suspend.blade.php" timestamp="1527674174195">
         <mark key="[" line="0" column="5" />
@@ -744,9 +753,6 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Traits/Assignable.php" timestamp="1530008135491">
-        <mark key="[" line="10" column="44" />
-      </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Components/Assignments/Controllers/AssignmentCrudController.php" timestamp="1530021128214">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="27" column="44" />
@@ -801,11 +807,11 @@
         <mark key="." line="151" column="26" />
         <mark key="^" line="151" column="14" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" timestamp="1530025776194">
-        <mark key="'" line="66" column="55" />
-        <mark key="[" line="344" column="47" />
-        <mark key="]" line="358" column="5" />
-        <mark key="." line="321" column="0" />
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" timestamp="1530088287679">
+        <mark key="'" line="218" column="18" />
+        <mark key="[" line="30" column="57" />
+        <mark key="]" line="30" column="57" />
+        <mark key="." line="30" column="59" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/RecurrenceCrudController.php" timestamp="1519817761650">
         <mark key="[" line="23" column="43" />
@@ -852,9 +858,6 @@
         <mark key="]" line="19" column="45" />
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1530021005761">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/foodahoo/database/seeds/ShopsTableSeeder.php" timestamp="1523257938348">
         <mark key="[" line="14" column="53" />
@@ -1141,6 +1144,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Vehicle/Providers/VehicleComponentProvider.php" timestamp="1530088739283">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="4" column="42" />
+        <mark key="." line="2" column="32" />
+      </file>
       <file name="$USER_HOME$/git/web/noceanz_old/.env" timestamp="1522319310175">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="23" />
@@ -1185,9 +1194,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/persofleet/composer.json" timestamp="1530003769370">
-        <mark key="'" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/database/seeds/VehicleSeeder.php" timestamp="1530004762233">
         <mark key="[" line="17" column="0" />
@@ -1275,7 +1281,7 @@
         <mark key="^" line="41" column="40" />
         <mark key="." line="166" column="41" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Transformers/VehicleTransformer.php" timestamp="1529941594315">
+      <file name="$USER_HOME$/git/web/persofleet/app/Transformers/VehicleTransformer.php" timestamp="1530090279716">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -1349,6 +1355,18 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Vehicle/Providers/AccidentComponentProvider.php" timestamp="1530088416615">
+        <mark key="[" line="4" column="39" />
+        <mark key="]" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+        <mark key="^" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Vehicle/Providers/VehicleTypeComponentProvider.php" timestamp="1530088742196">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="10" column="28" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Http/Transformers/Api/v1/FaultTypeTransformer.php" timestamp="1529655950136">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="38" />
@@ -1395,6 +1413,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="35" column="57" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/database/migrations/2018_05_02_123326_create_vehicles_table.php" timestamp="1530090240595">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/noceanz/database/migrations/2018_03_29_133957_create_articles_table.php" timestamp="1523521744843">
         <mark key="[" line="29" column="29" />
@@ -1496,6 +1519,11 @@
         <mark key="." line="26" column="65" />
         <mark key="^" line="23" column="27" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/resources/views/components/vehicles/show.blade.php" timestamp="1530090135435">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/hypno/app/Http/Controllers/Admin/TrackCrudController.php" timestamp="1529659840839">
         <mark key="'" line="134" column="56" />
         <mark key="[" line="82" column="0" />
@@ -1545,9 +1573,12 @@
         <mark key="^" line="32" column="11" />
         <mark key="." line="32" column="11" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Components/Vehicle/Controllers/VehicleCrudController.php" timestamp="1530017624455">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="36" />
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Vehicle/Controllers/VehicleCrudController.php" timestamp="1530090271117">
+        <mark key="'" line="63" column="26" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Http/Controllers/Api/v1/FaultController.php" timestamp="1529929323037">
         <mark key="[" line="14" column="0" />
@@ -1749,12 +1780,17 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/FaultCrudController.php" timestamp="1530016526091">
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/FaultCrudController.php" timestamp="1530088561351">
         <mark key="'" line="64" column="53" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="27" column="56" />
-        <mark key="." line="91" column="36" />
-        <mark key="^" line="91" column="27" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="27" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/resources/views/filters/dropdown.blade.php" timestamp="1530086882654">
+        <mark key="[" line="81" column="86" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/routes/api.php" timestamp="1529941964847">
         <mark key="[" line="6" column="43" />
@@ -1912,9 +1948,9 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/resources/views/components/reports/show.blade.php" timestamp="1528445622703">
-        <mark key="[" line="37" column="63" />
-        <mark key="]" line="37" column="62" />
+      <file name="$USER_HOME$/git/web/persofleet/resources/views/components/reports/show.blade.php" timestamp="1530088049492">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="41" column="24" />
         <mark key="." line="37" column="62" />
         <mark key="^" line="37" column="62" />
       </file>
@@ -1991,17 +2027,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="38" filename="$USER_HOME$/git/web/persofleet/app/Models/Vehicle.php" />
-      <jump line="12" column="0" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/FaultCrudController.php" />
-      <jump line="28" column="0" filename="$USER_HOME$/git/web/persofleet/app/Components/Vehicle/Controllers/VehicleCrudController.php" />
-      <jump line="297" column="23" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
-      <jump line="5" column="32" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
-      <jump line="19" column="14" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
-      <jump line="122" column="47" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/FaultCrudController.php" />
-      <jump line="72" column="15" filename="$USER_HOME$/git/web/persofleet/app/Models/Reports/Report.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/app/Models/Reports/Accident.php" />
-      <jump line="154" column="37" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/AccidentCrudController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/vendor/laravel/framework/src/Illuminate/Support/Str.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/app/Components/Traits/HasAddress.php" />
       <jump line="151" column="32" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/resources/lang/de/validation.php" />
@@ -2048,7 +2073,6 @@
       <jump line="119" column="63" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
       <jump line="131" column="51" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
       <jump line="137" column="51" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
-      <jump line="42" column="65" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
       <jump line="54" column="55" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
       <jump line="63" column="55" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
       <jump line="65" column="0" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/FaultCrudController.php" />
@@ -2091,64 +2115,76 @@
       <jump line="97" column="60" filename="$USER_HOME$/git/web/persofleet/resources/views/components/administration/user/show.blade.php" />
       <jump line="103" column="60" filename="$USER_HOME$/git/web/persofleet/resources/views/components/administration/user/show.blade.php" />
       <jump line="18" column="6" filename="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/app/Http/Controllers/CrudController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/PanelTraits/Filters.php" />
+      <jump line="203" column="20" filename="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/PanelTraits/Filters.php" />
+      <jump line="195" column="37" filename="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/PanelTraits/Filters.php" />
+      <jump line="63" column="22" filename="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/PanelTraits/Filters.php" />
+      <jump line="42" column="16" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
+      <jump line="17" column="15" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
+      <jump line="282" column="21" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
+      <jump line="286" column="24" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
+      <jump line="30" column="25" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
+      <jump line="218" column="18" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/app/Models/User.php" />
+      <jump line="63" column="26" filename="$USER_HOME$/git/web/persofleet/app/Components/Vehicle/Controllers/VehicleCrudController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PHRhYiBpbmRlbnQ9IjEwIj48L3RhYj4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2lzVHJhaWxlcicgICAgICA9PiBib29sdmFsKCRpdGVtLT5pc190cmFpbGVyKSwKICAgICAgICAgICAgJ2NhbkhhdmVUcmFpbGVyJyA9PiBib29sdmFsKCRpdGVtLT5jYW5faGF2ZV90cmFpbGVyKSwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHRhYiBpbmRlbnQ9IjEwIj48L3RhYj4=</text>
+        <text>is_available</text>
       </register>
       <register name="/" type="4">
-        <text>index</text>
+        <text>trailer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyB0cmFucygnY3J1ZC5hY2NpZGVudC5wbHVyYWwnKSB9fSA8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzdHJvbmc+e3t0cmFucygndmFsaWRhdGlvbi5hdHRyaWJ1dGVzLmlzX2F2YWlsYWJsZScpfX08L3N0cm9uZz4KICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLXt7ICRjcnVkLT5lbnRyeS0+aXNfYXZhaWxhYmxlID8gJ2NoZWNrLScgOiAnJyB9fWNpcmNsZS1vIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgIDwvdHI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAZW5kaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2lzVHJhaWxlcicgICAgICA9PiBib29sdmFsKCRpdGVtLT5pc190cmFpbGVyKSwKICAgICAgICAgICAgJ2NhbkhhdmVUcmFpbGVyJyA9PiBib29sdmFsKCRpdGVtLT5jYW5faGF2ZV90cmFpbGVyKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGZvcmVhY2gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICA9PiAnaXNfdHJhaWxlcicsCiAgICAgICAgICAgICAgICAnbGFiZWwnID0+IHRyYW5zKCd2YWxpZGF0aW9uLmF0dHJpYnV0ZXMuaXNfdHJhaWxlcicpLAogICAgICAgICAgICAgICAgJ3R5cGUnICA9PiAnY2hlY2snLAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgID0+ICdjYW5faGF2ZV90cmFpbGVyJywKICAgICAgICAgICAgICAgICdsYWJlbCcgPT4gdHJhbnMoJ3ZhbGlkYXRpb24uYXR0cmlidXRlcy5jYW5faGF2ZV90cmFpbGVyJyksCiAgICAgICAgICAgICAgICAndHlwZScgID0+ICdjaGVjaycsCiAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQGZvcmVhY2goJGVudHJ5LT50cmFpbGVycyBhcyAkdHJhaWxlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICA9PiAnaXNfdHJhaWxlcicsCiAgICAgICAgICAgICAgICAnbGFiZWwnID0+IHRyYW5zKCd2YWxpZGF0aW9uLmF0dHJpYnV0ZXMuaXNfdHJhaWxlcicpLAogICAgICAgICAgICAgICAgJ3R5cGUnICA9PiAnY2hlY2tib3gnLAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgID0+ICdjYW5faGF2ZV90cmFpbGVyJywKICAgICAgICAgICAgICAgICdsYWJlbCcgPT4gdHJhbnMoJ3ZhbGlkYXRpb24uYXR0cmlidXRlcy5jYW5faGF2ZV90cmFpbGVyJyksCiAgICAgICAgICAgICAgICAndHlwZScgID0+ICdjaGVja2JveCcsCiAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAaWYoaXNzZXQoJGVudHJ5LT50cmFpbGVycykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5ib29sZWFuKCdpc190cmFpbGVyJyktPmRlZmF1bHQoZmFsc2UpOwogICAgICAgICAgICAkdGFibGUtPmJvb2xlYW4oJ2Nhbl9oYXZlX3RyYWlsZXInKS0+ZGVmYXVsdChmYWxzZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAZW5kaWYK</text>
+        <text encoding="base64">ICAgICAgICAnaXNfdHJhaWxlcicsCiAgICAgICAgJ2Nhbl9oYXZlX3RyYWlsZXInLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAaWYoaXNzZXQoJGVudHJ5LT5jYXIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAnaXNfdHJhaWxlcicgPT4gJ0lzdCBBdWZsaWVnZXInLAogICAgICAgICdjYW5faGF2ZV90cmFpbGVyJyA9PiAnS2FubiBBdWZsaWVnZXIgaGFiZW4nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7JGVudHJ5LT5jYXItPm5hbWV9fTwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzdHJvbmc+e3t0cmFucygndmFsaWRhdGlvbi5hdHRyaWJ1dGVzLmlzX3RyYWlsZXInKX19PC9zdHJvbmc+CiAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS17eyAkY3J1ZC0+ZW50cnktPmlzX3RyYWlsZXIgPyAnY2hlY2stJyA6ICcnIH19Y2lyY2xlLW8iPjwvaT4KICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzdHJvbmc+e3t0cmFucygndmFsaWRhdGlvbi5hdHRyaWJ1dGVzLmNhbl9oYXZlX3RyYWlsZXInKX19PC9zdHJvbmc+CiAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS17eyAkY3J1ZC0+ZW50cnktPmNhbl9oYXZlX3RyYWlsZXIgPyAnY2hlY2stJyA6ICcnIH19Y2lyY2xlLW8iPjwvaT4KICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgPC90cj4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7JHRyYWlsZXItPm5hbWV9fTwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJm5ic3A7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgYmFja3BhY2tfdXJsKCdhY2NpZGVudCcpLicvJy4kdHJhaWxlci0+aWQuJy9lZGl0JyB9fSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJm5ic3A7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>index</last-search>
+      <last-search>trailer</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern>trailer</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -2156,18 +2192,6 @@
     </search>
     <history>
       <history-search>
-        <entry>edit</entry>
-        <entry encoding="base64">XDwnXD4=</entry>
-        <entry>descrip</entry>
-        <entry>teilne</entry>
-        <entry>accident_contact</entry>
-        <entry>readonly</entry>
-        <entry>opponent</entry>
-        <entry>vehicleOwner</entry>
-        <entry>emails</entry>
-        <entry>titles.</entry>
-        <entry>tabs.</entry>
-        <entry>isset</entry>
         <entry>&quot;</entry>
         <entry>webfactor</entry>
         <entry>model</entry>
@@ -2176,6 +2200,18 @@
         <entry>user.show</entry>
         <entry>show.</entry>
         <entry>index</entry>
+        <entry>CrudFilter</entry>
+        <entry>show</entry>
+        <entry>preview</entry>
+        <entry>Preview</entry>
+        <entry>Show</entry>
+        <entry>how</entry>
+        <entry>review</entry>
+        <entry>ction</entry>
+        <entry>ctions</entry>
+        <entry>buttons</entry>
+        <entry>uttons</entry>
+        <entry>trailer</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
