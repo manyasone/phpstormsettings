@@ -1210,6 +1210,9 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="42" column="56" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/CrudPanel.php" timestamp="1530541648062">
+        <mark key="[" line="344" column="5" />
+      </file>
       <file name="$USER_HOME$/git/web/jumpin/routes/api.php" timestamp="1523365851105">
         <mark key="[" line="23" column="60" />
         <mark key="]" line="26" column="2" />
@@ -2245,7 +2248,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>route</text>
+        <text>var table</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgogICAgaWYgKHR5cGVvZiBjbG9zZUVudHJ5ICE9PSAnZnVuY3Rpb24nKSB7CiAgICAgICAgJCgiW2RhdGEtYnV0dG9uLXR5cGU9Y2xvc2VdIikudW5iaW5kKCdjbGljaycpOwoKICAgICAgICB0cmFucyA9IEBqc29uKHRyYW5zKCdjcnVkLmJ1dHRvbnMuY2xvc2UnKSk7CgogICAgICAgIGZ1bmN0aW9uIGNsb3NlRW50cnkoYnV0dG9uKSB7CiAgICAgICAgICAgIHZhciBidXR0b24gPSAkKGJ1dHRvbik7CiAgICAgICAgICAgIHZhciByb3V0ZSA9IGJ1dHRvbi5hdHRyKCdkYXRhLXJvdXRlJyk7CgogICAgICAgICAgICBpZiAoY29uZmlybSh0cmFucy5kby5jb25maXJtKSkgewogICAgICAgICAgICAgICAgJC5hamF4KHsKICAgICAgICAgICAgICAgICAgICB1cmw6IHJvdXRlLAogICAgICAgICAgICAgICAgICAgIHR5cGU6ICdQT1NUJywKICAgICAgICAgICAgICAgICAgICBkYXRhOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNsb3NlOiAnY2xvc2UnLAogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgc3VjY2VzczogZnVuY3Rpb24gKHJlc3VsdCkgewogICAgICAgICAgICAgICAgICAgICAgICAvLyBTaG93IGFuIGFsZXJ0IHdpdGggdGhlIHJlc3VsdAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgUE5vdGlmeSh7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogdHJhbnMuZG8uc3VjY2Vzcy50aXRsZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ6IHRyYW5zLmRvLnN1Y2Nlc3MudGV4dCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU6ICJzdWNjZXNzIiwKICAgICAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgICAgICAvLyBIaWRlIHRoZSBtb2RhbCwgaWYgYW55CiAgICAgICAgICAgICAgICAgICAgICAgICQoJy5tb2RhbCcpLm1vZGFsKCdoaWRlJyk7CgogICAgICAgICAgICAgICAgICAgICAgICAkKCcjY3J1ZFRhYmxlJykuRGF0YVRhYmxlKCkuYWpheC5yZWxvYWQoKTsKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIGVycm9yOiBmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vIFNob3cgYW4gYWxlcnQgd2l0aCB0aGUgcmVzdWx0CiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBQTm90aWZ5KHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlOiB0cmFucy5kby5lcnJvci50aXRsZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ6IHRyYW5zLmRvLmVycm9yLnRleHQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlOiAid2FybmluZyIsCiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIG5ldyBQTm90aWZ5KHsKICAgICAgICAgICAgICAgICAgICB0aXRsZTogdHJhbnMuZG8uY2FuY2VsLnRpdGxlLAogICAgICAgICAgICAgICAgICAgIHRleHQ6IHRyYW5zLmRvLmNhbmNlbC50ZXh0LAogICAgICAgICAgICAgICAgICAgIHR5cGU6ICJpbmZvIiwKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
@@ -2291,9 +2294,9 @@
       </register>
     </registers>
     <search>
-      <last-search>route</last-search>
+      <last-search>var table</last-search>
       <last-offset />
-      <last-pattern>route</last-pattern>
+      <last-pattern>var table</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -2301,7 +2304,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>Slide</entry>
         <entry>models.</entry>
         <entry>99</entry>
@@ -2321,6 +2323,7 @@
         <entry encoding="base64">XDxzdHlsZQ==</entry>
         <entry>upload</entry>
         <entry>route</entry>
+        <entry>var table</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
