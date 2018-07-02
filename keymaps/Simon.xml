@@ -22,6 +22,10 @@
   <action id="Console.TableResult.DeleteRows">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="x" />
   </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+    <keyboard-shortcut first-keystroke="windows" second-keystroke="j" />
+  </action>
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
@@ -50,6 +54,10 @@
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="windows" second-keystroke="u" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
