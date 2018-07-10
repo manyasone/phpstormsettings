@@ -678,6 +678,9 @@
         <mark key="." line="14" column="54" />
         <mark key="^" line="14" column="54" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/resources/views/vendor/backpack/crud/fields/icon_picker.blade.php" timestamp="1531207106537">
+        <mark key="'" line="50" column="33" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/resources/views/vendor/backpack/crud/buttons/invite.blade.php" timestamp="1528297993953">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="14" />
@@ -1308,6 +1311,11 @@
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="10" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Modules/Controllers/ModuleCrudController.php" timestamp="1531207173025">
+        <mark key="[" line="143" column="26" />
+        <mark key="]" line="143" column="26" />
+        <mark key="." line="143" column="26" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_28_122932_create_frequencies_table.php" timestamp="1519817896409">
         <mark key="[" line="30" column="30" />
@@ -2276,7 +2284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="26" filename="$USER_HOME$/git/web/persofleet/resources/views/components/reports/pdf.blade.php" />
       <jump line="19" column="28" filename="$USER_HOME$/git/web/persofleet/resources/views/components/reports/pdf.blade.php" />
       <jump line="23" column="28" filename="$USER_HOME$/git/web/persofleet/resources/views/components/reports/pdf.blade.php" />
       <jump line="27" column="42" filename="$USER_HOME$/git/web/persofleet/resources/views/components/reports/pdf.blade.php" />
@@ -2376,16 +2383,17 @@
       <jump line="31" column="47" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Requests/Api/v1/AccidentRequest.php" />
       <jump line="30" column="52" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Requests/Api/v1/AccidentRequest.php" />
       <jump line="32" column="48" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Requests/Api/v1/AccidentRequest.php" />
+      <jump line="50" column="33" filename="$USER_HOME$/git/web/persofleet/resources/views/vendor/backpack/crud/fields/icon_picker.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcUmVwb3J0c1xGYXVsdDsKdXNlIEFwcFxNb2RlbHNcUmVwb3J0c1xSZXBvcnQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ionicon3</text>
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text>ionicon3</text>
       </register>
       <register name="/" type="4">
-        <text>d|</text>
+        <text>ionicon3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2luY2lkZW50LnJlY2VpcHQnICAgICA9PiAnaW46JyAuIGltcGxvZGUoJywnLCBhcnJheV9rZXlzKHRyYW5zKCdjcnVkLnZhbHVlcy5yZWNlaXB0JykpKSwK</text>
@@ -2431,9 +2439,9 @@
       </register>
     </registers>
     <search>
-      <last-search>d|</last-search>
+      <last-search>ionicon3</last-search>
       <last-offset />
-      <last-pattern>d|</last-pattern>
+      <last-pattern>ionicon3</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -2441,7 +2449,6 @@
     </search>
     <history>
       <history-search>
-        <entry>company</entry>
         <entry>private</entry>
         <entry>User</entry>
         <entry>user</entry>
@@ -2461,6 +2468,7 @@
         <entry>required</entry>
         <entry>d',</entry>
         <entry>d|</entry>
+        <entry>ionicon3</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
