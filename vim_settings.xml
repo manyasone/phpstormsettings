@@ -66,9 +66,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/hypno/composer.json" timestamp="1520520438271">
-        <mark key="[" line="21" column="36" />
-        <mark key="]" line="21" column="36" />
+      <file name="$USER_HOME$/git/web/hypno/composer.json" timestamp="1531746888336">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="50" />
         <mark key="." line="21" column="36" />
         <mark key="^" line="21" column="77" />
       </file>
@@ -1989,7 +1990,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="6" filename="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/app/Http/Controllers/CrudController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/CrudServiceProvider.php" />
       <jump line="30" column="29" filename="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/CrudServiceProvider.php" />
       <jump line="32" column="48" filename="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/CrudServiceProvider.php" />
@@ -2089,19 +2089,20 @@
       <jump line="17" column="95" filename="$USER_HOME$/projects/guitab/package.json" />
       <jump line="18" column="99" filename="$USER_HOME$/projects/guitab/package.json" />
       <jump line="25" column="41" filename="$USER_HOME$/projects/guitab/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/hypno/composer.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdwYXJlbnRfaWQnKS0+bnVsbGFibGUoKTsK</text>
+        <text encoding="base64">ICAgICJ3ZWJmYWN0b3IvbGFyYXZlbC1iYWNrcGFjay1kb2N1bWVudHMiOiAiXjEuMCIK</text>
       </register>
       <register name="-" type="4">
         <text>Swiper</text>
       </register>
       <register name="/" type="4">
-        <text>vue</text>
+        <text>document</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VnVlLmNvbXBvbmVudCgnZ3JpZC1pdGVtJywgR3JpZEl0ZW0pCg==</text>
+        <text encoding="base64">ICAgICJ3ZWJmYWN0b3IvbGFyYXZlbC1iYWNrcGFjay1kb2N1bWVudHMiOiAiXjEuMCIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdwYXJlbnRfaWQnKS0+bnVsbGFibGUoKTsK</text>
@@ -2144,9 +2145,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vue</last-search>
+      <last-search>document</last-search>
       <last-offset />
-      <last-pattern>vue</last-pattern>
+      <last-pattern>document</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -2154,7 +2155,6 @@
     </search>
     <history>
       <history-search>
-        <entry>closed_at</entry>
         <entry>private</entry>
         <entry>user_</entry>
         <entry encoding="base64">JGVudHJ5LT5qb2luZWRfYXQtPmZvcm1hdCgnZC5tLlknKSA/PyAnLScp</entry>
@@ -2174,6 +2174,7 @@
         <entry>cryptiles</entry>
         <entry>karma</entry>
         <entry>vue</entry>
+        <entry>document</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
