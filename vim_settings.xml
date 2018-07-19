@@ -536,11 +536,11 @@
         <mark key="]" line="27" column="6" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin_new/database/migrations/2016_05_10_130540_create_permission_tables.php" timestamp="1531987620149">
-        <mark key="[" line="45" column="32" />
-        <mark key="]" line="45" column="36" />
-        <mark key="." line="45" column="36" />
-        <mark key="^" line="45" column="36" />
+      <file name="$USER_HOME$/git/web/jumpin_new/database/migrations/2016_05_10_130540_create_permission_tables.php" timestamp="1531990529184">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="91" column="34" />
       </file>
       <file name="$USER_HOME$/git/web/noceanz/config/backpack/permissionmanager.php" timestamp="1522332519190">
         <mark key="[" line="16" column="20" />
@@ -1185,6 +1185,11 @@
         <mark key="[" line="56" column="0" />
         <mark key="]" line="62" column="6" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/AuthController.php" timestamp="1531983678388">
+        <mark key="'" line="16" column="16" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="104" column="4" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportTypeCrudController.php" timestamp="1528186734010">
         <mark key="[" line="21" column="30" />
         <mark key="]" line="21" column="46" />
@@ -1799,7 +1804,8 @@
         <mark key="." line="15" column="44" />
         <mark key="^" line="14" column="49" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin_new/.env" timestamp="1531987235761">
+      <file name="$USER_HOME$/git/web/jumpin_new/.env" timestamp="1531990039940">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="21" />
       </file>
@@ -2220,8 +2226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="86" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Requests/Api/v1/AccidentRequest.php" />
-      <jump line="29" column="82" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Requests/Api/v1/AccidentRequest.php" />
       <jump line="31" column="47" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Requests/Api/v1/AccidentRequest.php" />
       <jump line="30" column="52" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Requests/Api/v1/AccidentRequest.php" />
       <jump line="32" column="48" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Requests/Api/v1/AccidentRequest.php" />
@@ -2320,13 +2324,15 @@
       <jump line="42" column="54" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/base/layout.blade.php" />
       <jump line="13" column="0" filename="$USER_HOME$/git/web/jumpin_new/vendor/backpack/base/src/resources/views/layout.blade.php" />
       <jump line="49" column="22" filename="$USER_HOME$/git/web/jumpin_new/composer.json" />
+      <jump line="5" column="0" filename="$USER_HOME$/git/web/jumpin_new/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin_new/.env" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>webpack</text>
