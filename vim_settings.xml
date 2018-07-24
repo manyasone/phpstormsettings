@@ -82,6 +82,11 @@
         <mark key="^" line="30" column="19" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinTypeCrudController.php" timestamp="1532424737477">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/jumpin_new/config/auth.php" timestamp="1531992059087">
         <mark key="[" line="71" column="24" />
         <mark key="]" line="71" column="24" />
@@ -1488,11 +1493,11 @@
         <mark key="." line="19" column="46" />
         <mark key="^" line="18" column="26" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Models/JumpinType.php" timestamp="1531303384768">
-        <mark key="[" line="66" column="45" />
-        <mark key="]" line="66" column="44" />
-        <mark key="." line="66" column="44" />
-        <mark key="^" line="66" column="28" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Models/JumpinType.php" timestamp="1532424788611">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="52" column="28" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Http/Controllers/Api/v1/ReportController.php" timestamp="1531142415538">
         <mark key="[" line="6" column="0" />
@@ -1688,10 +1693,10 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/config/backpack/base.php" timestamp="1531984498796">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="18" column="30" />
-        <mark key="." line="14" column="28" />
+      <file name="$USER_HOME$/git/web/jumpin/config/backpack/base.php" timestamp="1532425347647">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
         <mark key="^" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/resources/assets/js/icon-picker/persoflicons.js" timestamp="1521470546399">
@@ -2369,61 +2374,61 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lzTGlrZWQnID0+ICRqdW1waW4tPmxpa2VkLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>model</text>
       </register>
       <register name="/" type="4">
-        <text>liked</text>
+        <text>evel</text>
       </register>
       <register name="0" type="4">
         <text>Illuminate\Http\Request::HEADER_X_FORWARDED_ALL</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lzTGlrZWQnID0+ICRqdW1waW4tPmxpa2VkLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRMZXZlbEF0dHJpYnV0ZSgpCiAgICB7CiAgICAgICAgJGxldmVsID0gMTsKICAgICAgICAkcGFyZW50ID0gJHRoaXMtPnBhcmVudDsKICAgICAgICAkY2hpbGRfaWQgPSAkdGhpcy0+aWQ7CgogICAgICAgIHdoaWxlICgkcGFyZW50ICYmICRjaGlsZF9pZCAhPSAkcGFyZW50LT5pZCkgewogICAgICAgICAgICAkbGV2ZWwrKzsKICAgICAgICAgICAgJGNoaWxkX2lkID0gJHBhcmVudC0+aWQ7CiAgICAgICAgICAgICRwYXJlbnQgPSAkcGFyZW50LT5wYXJlbnQ7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJGxldmVsOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUaXRsZVdpdGhMZXZlbEF0dHJpYnV0ZSgpCiAgICB7CiAgICAgICAgJHN1ZmZpeCA9ICcgKCcgLiB0cmFucygndmFsaWRhdGlvbi5hdHRyaWJ1dGVzLmxldmVsJykgLiAnICcgLiAkdGhpcy0+bGV2ZWwgLiAnKSc7CiAgICAgICAgcmV0dXJuICR0aGlzLT50aXRsZSAuICRzdWZmaXg7CiAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">WwogICAgICAgIFJlcXVlc3Q6OkhFQURFUl9GT1JXQVJERUQgPT4gJ0ZPUldBUkRFRCcsCiAgICAgICAgUmVxdWVzdDo6SEVBREVSX1hfRk9SV0FSREVEX0ZPUiA9PiAnWF9GT1JXQVJERURfRk9SJywKICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfSE9TVCA9PiAnWF9GT1JXQVJERURfSE9TVCcsCiAgICAgICAgUmVxdWVzdDo6SEVBREVSX1hfRk9SV0FSREVEX1BPUlQgPT4gJ1hfRk9SV0FSREVEX1BPUlQnLAogICAgICAgIFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9QUk9UTyA9PiAnWF9GT1JXQVJERURfUFJPVE8nLAogICAgXQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdoZWFkZXJzJyA9PiBJbGx1bWluYXRlXEh0dHBcUmVxdWVzdDo6SEVBREVSX1hfRk9SV0FSREVEX0FMTCwK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gY2hpbGRyZW4oKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+aGFzTWFueShKdW1waW5UeXBlOjpjbGFzcywgJ3BhcmVudF9pZCcpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcSnVtcGluVHlwZTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBwYXJlbnQoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+YmVsb25nc1RvKEp1bXBpblR5cGU6OmNsYXNzLCAncGFyZW50X2lkJyktPndpdGgoJ3BhcmVudCcpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcRGF0ZTsK</text>
+        <text encoding="base64">ICAgICAgICAncGFyZW50X2lkJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgbWl4ZWQgJGxldmVsCiAqIEBwcm9wZXJ0eS1yZWFkIG1peGVkICR0aXRsZV93aXRoX2xldmVsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21vZGVsJyA9PiBBcHBcTW9kZWxzXFVzZXI6OmNsYXNzLAo=</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IGludHxudWxsICRwYXJlbnRfaWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS0gbWluaSBsb2dvIGZvciBzaWRlYmFyIG1pbmkgNTB4NTAgcGl4ZWxzIC0tPgogICAgICAgICAgPHNwYW4gY2xhc3M9ImxvZ28tbWluaSI+eyEhIGNvbmZpZygnYmFja3BhY2suYmFzZS5sb2dvX21pbmknKSAhIX08L3NwYW4+CiAgICAgICAgICA8IS0tIGxvZ28gZm9yIHJlZ3VsYXIgc3RhdGUgYW5kIG1vYmlsZSBkZXZpY2VzIC0tPgogICAgICAgICAgPHNwYW4gY2xhc3M9ImxvZ28tbGciPnshISBjb25maWcoJ2JhY2twYWNrLmJhc2UubG9nb19sZycpICEhfTwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdsZXZlbCcsCiAgICAgICAgICAgICAgICAnbGFiZWwnID0+IHRyYW5zKCd2YWxpZGF0aW9uLmF0dHJpYnV0ZXMubGV2ZWwnKSwKICAgICAgICAgICAgICAgICd0eXBlJyA9PiAnbnVtYmVyJywKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdwYXJlbnRfaWQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyA9PiB0cmFucygndmFsaWRhdGlvbi5hdHRyaWJ1dGVzLnBhcmVudCcpLAogICAgICAgICAgICAgICAgJ3R5cGUnID0+ICdzZWxlY3QnLAogICAgICAgICAgICAgICAgJ2F0dHJpYnV0ZScgPT4gJ3RpdGxlJywKICAgICAgICAgICAgICAgICdtb2RlbCcgPT4gSnVtcGluVHlwZTo6Y2xhc3MsCiAgICAgICAgICAgICAgICAnZW50aXR5JyA9PiAncGFyZW50JywKICAgICAgICAgICAgXSwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>liked</last-search>
+      <last-search>evel</last-search>
       <last-offset />
-      <last-pattern>liked</last-pattern>
+      <last-pattern>evel</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -2431,9 +2436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>category</entry>
-        <entry>main?</entry>
-        <entry>main_</entry>
         <entry>header</entry>
         <entry>green</entry>
         <entry>min.</entry>
@@ -2451,6 +2453,9 @@
         <entry>guard</entry>
         <entry>assign</entry>
         <entry>liked</entry>
+        <entry>parent</entry>
+        <entry>arent</entry>
+        <entry>evel</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
