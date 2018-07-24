@@ -248,7 +248,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_08_133114_create_tag_tables.php" timestamp="1532001397434" />
       <file name="$USER_HOME$/git/web/jumpin/database/factories/LocationFactory.php" timestamp="1531903507157">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -526,10 +525,10 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="33" column="49" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Transformers/JumpinTransformer.php" timestamp="1531926225758">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Transformers/JumpinTransformer.php" timestamp="1532419845805">
+        <mark key="[" line="32" column="40" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Providers/FaultTypeComponentProvider.php" timestamp="1530099311326">
         <mark key="[" line="8" column="0" />
@@ -875,7 +874,6 @@
         <mark key="^" line="19" column="75" />
         <mark key="." line="19" column="75" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/package.json" timestamp="1531987847759" />
       <file name="$USER_HOME$/git/web/jumpin/database/factories/JumpinFactory.php" timestamp="1531407785571">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="137" />
@@ -1179,7 +1177,8 @@
         <mark key="." line="11" column="56" />
         <mark key="^" line="11" column="55" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Models/Jumpin.php" timestamp="1531926541953">
+      <file name="$USER_HOME$/git/web/jumpin/app/Models/Jumpin.php" timestamp="1532419867226">
+        <mark key="'" line="30" column="24" />
         <mark key="[" line="134" column="55" />
         <mark key="]" line="116" column="27" />
         <mark key="." line="116" column="27" />
@@ -1357,7 +1356,6 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/config/database.php" timestamp="1531991641807" />
       <file name="$USER_HOME$/git/web/jumpin/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1520960840479">
         <mark key="[" line="22" column="24" />
         <mark key="]" line="22" column="23" />
@@ -2263,9 +2261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="52" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Requests/Api/v1/AccidentRequest.php" />
-      <jump line="32" column="48" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Requests/Api/v1/AccidentRequest.php" />
-      <jump line="50" column="33" filename="$USER_HOME$/git/web/persofleet/resources/views/vendor/backpack/crud/fields/icon_picker.blade.php" />
       <jump line="13921" column="9" filename="$USER_HOME$/git/web/persofleet/_ide_helper.php" />
       <jump line="183" column="31" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
       <jump line="195" column="56" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
@@ -2363,6 +2358,9 @@
       <jump line="5" column="0" filename="$USER_HOME$/git/web/jumpin_new/.env" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin_new/.env" />
       <jump line="9" column="6" filename="$USER_HOME$/git/web/jumpin_new/vendor/spatie/laravel-permission/src/Traits/HasRoles.php" />
+      <jump line="45" column="83" filename="$USER_HOME$/git/web/jumpin/app/Models/Jumpin.php" />
+      <jump line="28" column="27" filename="$USER_HOME$/git/web/jumpin/app/Models/Jumpin.php" />
+      <jump line="30" column="24" filename="$USER_HOME$/git/web/jumpin/app/Models/Jumpin.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2372,7 +2370,7 @@
         <text>model</text>
       </register>
       <register name="/" type="4">
-        <text>assign</text>
+        <text>liked</text>
       </register>
       <register name="0" type="4">
         <text>Illuminate\Http\Request::HEADER_X_FORWARDED_ALL</text>
@@ -2418,9 +2416,9 @@
       </register>
     </registers>
     <search>
-      <last-search>assign</last-search>
+      <last-search>liked</last-search>
       <last-offset />
-      <last-pattern>assign</last-pattern>
+      <last-pattern>liked</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -2428,7 +2426,6 @@
     </search>
     <history>
       <history-search>
-        <entry>efresh</entry>
         <entry>category</entry>
         <entry>main?</entry>
         <entry>main_</entry>
@@ -2448,6 +2445,7 @@
         <entry>webpack</entry>
         <entry>guard</entry>
         <entry>assign</entry>
+        <entry>liked</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
