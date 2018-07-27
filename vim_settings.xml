@@ -303,6 +303,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/database/seeds/RolesAndPermissionsSeeder.php" timestamp="1532685052019">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="14" column="47" />
+        <mark key="." line="15" column="47" />
+      </file>
       <file name="$USER_HOME$/git/web/jumpin/database/factories/LocationFactory.php" timestamp="1532433589864">
         <mark key="[" line="32" column="64" />
         <mark key="]" line="32" column="64" />
@@ -572,11 +578,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="33" column="49" />
-      </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Transformers/JumpinTransformer.php" timestamp="1532421106280">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Providers/FaultTypeComponentProvider.php" timestamp="1530099311326">
         <mark key="[" line="8" column="0" />
@@ -2451,16 +2452,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>role</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>role</text>
       </register>
       <register name="/" type="4">
         <text>video_source</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZpZGVvQ29udHJvbC5wcm9wKCdjdXJyZW50U3JjJykpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">LCAncm9sZScgPT4gJ3dlYic=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8L3ZpZGVvPgo=</text>
