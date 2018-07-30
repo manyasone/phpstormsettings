@@ -932,6 +932,9 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="20" column="15" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/routes/backpack/permissionmanager.php" timestamp="1532691787747">
+        <mark key="[" line="15" column="27" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/resources/views/components/reports/edit.blade.php" timestamp="1530024298037">
         <mark key="[" line="21" column="41" />
         <mark key="]" line="21" column="61" />
@@ -1517,11 +1520,11 @@
         <mark key="." line="11" column="35" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/vendor/backpack/base/src/resources/views/auth/login.blade.php" timestamp="1532690718592">
-        <mark key="[" line="11" column="44" />
-        <mark key="]" line="11" column="25" />
-        <mark key="^" line="11" column="25" />
-        <mark key="." line="11" column="25" />
+      <file name="$USER_HOME$/git/web/jumpin/vendor/backpack/base/src/resources/views/auth/login.blade.php" timestamp="1532692293962">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="37" />
+        <mark key="^" line="11" column="37" />
+        <mark key="." line="11" column="37" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/database/factories/PermissionFactory.php" timestamp="1517322037958">
         <mark key="[" line="7" column="30" />
@@ -1540,6 +1543,9 @@
         <mark key="]" line="14" column="31" />
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/web/test/config/backpack/base.php" timestamp="1532691762156">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Traits/Suspendable.php" timestamp="1523875520824">
         <mark key="[" line="16" column="12" />
@@ -1612,7 +1618,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/base/src/resources/views/layout.blade.php" timestamp="1532688494751">
+      <file name="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/base/src/resources/views/layout.blade.php" timestamp="1532692368541">
+        <mark key="'" line="8" column="16" />
         <mark key="[" line="25" column="90" />
         <mark key="]" line="25" column="93" />
         <mark key="^" line="25" column="93" />
@@ -1837,7 +1844,8 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/config/backpack/base.php" timestamp="1532688384933">
+      <file name="$USER_HOME$/git/web/jumpin/config/backpack/base.php" timestamp="1532691779760">
+        <mark key="'" line="30" column="24" />
         <mark key="[" line="30" column="20" />
         <mark key="]" line="30" column="20" />
         <mark key="." line="30" column="20" />
@@ -2429,11 +2437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="9" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
-      <jump line="106" column="9" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
-      <jump line="76" column="34" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
-      <jump line="161" column="0" filename="$USER_HOME$/git/web/persofleet/app/Models/User.php" />
-      <jump line="64" column="7" filename="$USER_HOME$/projects/guitab/package.json" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/guitab/src/renderer/components/Score.vue" />
       <jump line="102" column="5" filename="$USER_HOME$/projects/guitab/package.json" />
       <jump line="117" column="5" filename="$USER_HOME$/projects/guitab/package.json" />
@@ -2529,16 +2532,21 @@
       <jump line="14" column="17" filename="$USER_HOME$/git/web/iftal/config/session.php" />
       <jump line="176" column="4" filename="$USER_HOME$/git/web/jumpin/config/session.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/config/app.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/test/config/backpack/base.php" />
+      <jump line="30" column="24" filename="$USER_HOME$/git/web/jumpin/config/backpack/base.php" />
+      <jump line="55" column="12" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/base/src/resources/views/layout.blade.php" />
+      <jump line="145" column="50" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/base/src/resources/views/layout.blade.php" />
+      <jump line="8" column="16" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/base/src/resources/views/layout.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'lax'</text>
+        <text>field</text>
       </register>
       <register name="-" type="4">
-        <text>'lax'</text>
+        <text>field</text>
       </register>
       <register name="/" type="4">
-        <text>timezone</text>
+        <text>csrf</text>
       </register>
       <register name="0" type="4">
         <text>rgb(0, 172, 116)</text>
@@ -2596,9 +2604,9 @@
       </register>
     </registers>
     <search>
-      <last-search>timezone</last-search>
+      <last-search>csrf</last-search>
       <last-offset />
-      <last-pattern>timezone</last-pattern>
+      <last-pattern>csrf</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -2606,9 +2614,6 @@
     </search>
     <history>
       <history-search>
-        <entry>suspend</entry>
-        <entry>active</entry>
-        <entry>contact</entry>
         <entry>Contact</entry>
         <entry>ontact</entry>
         <entry>dump</entry>
@@ -2626,6 +2631,9 @@
         <entry>skin</entry>
         <entry>files</entry>
         <entry>timezone</entry>
+        <entry>middleware</entry>
+        <entry>middleware_key</entry>
+        <entry>csrf</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
