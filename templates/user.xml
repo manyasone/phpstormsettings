@@ -93,4 +93,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="crudstructure" value="        // ------ CRUD FIELDS&#10;&#10;        // ------ CRUD COLUMNS&#10;        &#10;        // ------ CRUD BUTTONS&#10;&#10;        // ------ CRUD ACCESS&#10;&#10;        // ------ CRUD REORDER&#10;&#10;        // ------ CRUD DETAILS ROW&#10;&#10;        // ------ REVISIONS&#10;&#10;        // ------ AJAX TABLE VIEW&#10;&#10;        // ------ DATATABLE EXPORT BUTTONS&#10;&#10;        // ------ ADVANCED QUERIES" description="Structure comments for a crud controller" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
