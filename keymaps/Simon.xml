@@ -147,4 +147,7 @@
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="v" />
   </action>
+  <action id="com.dubreuia.core.SaveActionShortcutManager">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
 </keymap>
