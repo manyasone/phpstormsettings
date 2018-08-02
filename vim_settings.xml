@@ -1344,6 +1344,9 @@
         <mark key="]" line="7" column="66" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/AuthController.php" timestamp="1533213235206">
+        <mark key="'" line="38" column="65" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportTypeCrudController.php" timestamp="1528186734010">
         <mark key="[" line="21" column="30" />
         <mark key="]" line="21" column="46" />
@@ -2525,8 +2528,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="20" filename="$USER_HOME$/git/web/persofleet/app/Components/Administration/User/Controllers/UserCrudController.php" />
-      <jump line="310" column="27" filename="$USER_HOME$/git/web/persofleet/app/Components/Administration/User/Controllers/UserCrudController.php" />
       <jump line="338" column="50" filename="$USER_HOME$/git/web/persofleet/app/Components/Administration/User/Controllers/UserCrudController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/app/Components/Traits/CanSuspend.php" />
       <jump line="49" column="16" filename="$USER_HOME$/git/web/persofleet/app/Components/Administration/User/Controllers/UserCrudController.php" />
@@ -2625,6 +2626,8 @@
       <jump line="90" column="0" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/base/inc/sidebar.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/vendor/backpack/permissionmanager/src/app/Http/Controllers/UserCrudController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/resources/lang/de/validation.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/AuthController.php" />
+      <jump line="38" column="65" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/AuthController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2634,7 +2637,7 @@
         <text>setNameAttribute</text>
       </register>
       <register name="/" type="4">
-        <text>range</text>
+        <text>count</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdsYWJlbCcgPT4gdHJhbnMoJ3ZhbGlkYXRpb24uYXR0cmlidXRlcy5yYW5nZScpLAo=</text>
@@ -2680,9 +2683,9 @@
       </register>
     </registers>
     <search>
-      <last-search>range</last-search>
+      <last-search>count</last-search>
       <last-offset />
-      <last-pattern>range</last-pattern>
+      <last-pattern>count</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -2690,7 +2693,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'date'</entry>
         <entry>emails</entry>
         <entry>image</entry>
         <entry>dropzone</entry>
@@ -2710,6 +2712,7 @@
         <entry>logo</entry>
         <entry>rage</entry>
         <entry>range</entry>
+        <entry>count</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
