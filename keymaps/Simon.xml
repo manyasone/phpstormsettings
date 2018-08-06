@@ -96,8 +96,7 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="l" />
   </action>
-  <action id="Macro.reformat, manage imports, git stage">
-    <keyboard-shortcut first-keystroke="windows" second-keystroke="r" />
+  <action id="Macro.reformat, save actions, git stage">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="MoveStatementDown">
