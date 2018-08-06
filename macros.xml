@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="reformat, manage imports, git stage">
+      <action id="com.dubreuia.core.SaveActionShortcutManager" />
+      <action id="Git.Add" />
+    </macro>
+  </component>
+</application>
