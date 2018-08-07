@@ -556,6 +556,9 @@
         <mark key="." line="151" column="26" />
         <mark key="^" line="151" column="14" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" timestamp="1533637765531">
+        <mark key="'" line="42" column="12" />
+      </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Models/Frequency.php" timestamp="1533551814091">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="30" column="0" />
@@ -748,10 +751,8 @@
         <mark key="^" line="19" column="40" />
         <mark key="." line="19" column="40" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" timestamp="1533641505085">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" timestamp="1533646262320">
+        <mark key="'" line="56" column="16" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/database/migrations/2018_02_05_132324_create_files_table.php" timestamp="1517833423901">
         <mark key="[" line="19" column="63" />
@@ -765,8 +766,8 @@
         <mark key="." line="34" column="26" />
         <mark key="^" line="32" column="36" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" timestamp="1533643787400">
-        <mark key="'" line="184" column="34" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" timestamp="1533646263208">
+        <mark key="'" line="205" column="29" />
         <mark key="[" line="198" column="58" />
         <mark key="]" line="198" column="58" />
         <mark key="." line="198" column="58" />
@@ -1287,6 +1288,9 @@
         <mark key="]" line="36" column="7" />
         <mark key="." line="36" column="7" />
         <mark key="^" line="36" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" timestamp="1533637642193">
+        <mark key="'" line="20" column="6" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Models/Location.php" timestamp="1533643960026">
         <mark key="'" line="255" column="4" />
@@ -2016,6 +2020,9 @@
         <mark key="." line="115" column="33" />
         <mark key="^" line="102" column="39" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Requests/LocationRequest.php" timestamp="1533638701716">
+        <mark key="'" line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Components/Vehicle/Requests/VehicleRequest.php" timestamp="1528118844938">
         <mark key="[" line="33" column="43" />
         <mark key="]" line="33" column="42" />
@@ -2401,6 +2408,12 @@
         <mark key="." line="118" column="0" />
         <mark key="^" line="69" column="78" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/database/seeds/LocationsSeeder.php" timestamp="1533646493391">
+        <mark key="[" line="37" column="22" />
+        <mark key="]" line="37" column="28" />
+        <mark key="." line="37" column="28" />
+        <mark key="^" line="37" column="28" />
+      </file>
       <file name="$USER_HOME$/git/web/hypno/resources/lang/de/titles.php" timestamp="1525348543329">
         <mark key="[" line="21" column="31" />
         <mark key="]" line="63" column="5" />
@@ -2698,9 +2711,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/database/seeds/JumpinSeeder.php" timestamp="1533640936974">
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="23" column="68" />
+      <file name="$USER_HOME$/git/web/jumpin/database/seeds/JumpinSeeder.php" timestamp="1533646466359">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="29" />
         <mark key="^" line="27" column="11" />
         <mark key="." line="27" column="11" />
       </file>
@@ -2745,8 +2758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/LocationsController.php" />
-      <jump line="46" column="0" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/LocationsController.php" />
       <jump line="67" column="0" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/LocationsController.php" />
       <jump line="9" column="0" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/JumpinsController.php" />
       <jump line="27" column="0" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/JumpinsController.php" />
@@ -2845,19 +2856,21 @@
       <jump line="172" column="34" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
       <jump line="176" column="38" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
       <jump line="184" column="34" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
+      <jump line="56" column="16" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" />
+      <jump line="205" column="29" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Verified</text>
+        <text>umpin</text>
       </register>
       <register name="-" type="4">
-        <text>Verified</text>
+        <text>umpin</text>
       </register>
       <register name="/" type="4">
         <text>valid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnNhdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdXNlcnMgPSBVc2VyOjphbGwoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2RvJyA9PiBbCiAgICAgICAgICAgICAgICAndGV4dCcgICAgPT4gJ0ZyZWlzY2hhbHRlbicsCiAgICAgICAgICAgICAgICAnY29uZmlybScgPT4gJ1NvbGwgZGllc2VyIEVpbnRyYWcgd2lya2xpY2ggZnJlaWdlc2NoYWx0ZXQgd2VyZGVuPycsCiAgICAgICAgICAgICAgICAnc3VjY2VzcycgPT4gWwogICAgICAgICAgICAgICAgICAgICd0aXRsZScgPT4gJ0VpbnRyYWcgZnJlaWdlc2NoYWx0ZXQnLAogICAgICAgICAgICAgICAgICAgICd0ZXh0JyAgPT4gJ0RlciBFaW50cmFnIHd1cmRlIGVyZm9sZ3JlaWNoIGZyZWlnZXNjaGFsdGV0LicsCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgJ2Vycm9yJyAgID0+IFsKICAgICAgICAgICAgICAgICAgICAndGl0bGUnID0+ICdOSUNIVCBmcmVpZ2VzY2hhbHRldCcsCiAgICAgICAgICAgICAgICAgICAgJ3RleHQnICA9PiAnRWluIEZlaGxlciBpc3QgYXVmZ2V0cmV0ZW4uIERlciBFaW50cmFnIHd1cmRlIG3DtmdsaWNoZXJ3ZWlzZSBuaWNodCBmcmVpZ2VzY2hhbHRldC4nLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICdjYW5jZWwnICA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ3RpdGxlJyA9PiAnTmljaHQgZnJlaWdlc2NoYWx0ZXQnLAogICAgICAgICAgICAgICAgICAgICd0ZXh0JyAgPT4gJ05pY2h0cyBwYXNzaWVydC4gRGVyIEVpbnRyYWcgd3VyZGUgbmljaHQgZnJlaWdlc2NoYWx0ZXQuJywKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgIF0sCg==</text>
