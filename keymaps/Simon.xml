@@ -96,7 +96,10 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="l" />
   </action>
-  <action id="Macro.reformat, save actions, git stage">
+  <action id="Macro.Optimize and stage all VCS changed files.">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="Macro.Optimize and stage current file.">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="MoveStatementDown">
@@ -151,4 +154,5 @@
     <keyboard-shortcut first-keystroke="windows" second-keystroke="v" />
   </action>
   <action id="com.dubreuia.core.SaveActionShortcutManager" />
+  <action id="context.save" />
 </keymap>

@@ -1,9 +1,26 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="reformat, save actions, git stage">
+    <macro name="Optimize and stage current file.">
       <action id="ReformatCode" />
       <action id="com.dubreuia.core.SaveActionShortcutManager" />
       <action id="Git.Add" />
+    </macro>
+    <macro name="Optimize and stage all VCS changed files.">
+      <action id="ActivateProjectToolWindow" />
+      <action id="ReformatCode" />
+      <shortuct text="ENTER" />
+      <action id="ChangesView.AddUnversioned" />
+    </macro>
+    <macro name="test2">
+      <action id="ActivateProjectToolWindow" />
+      <shortuct text="HOME" />
+      <shortuct text="HOME" />
+      <action id="ReformatCode" />
+      <shortuct text="ENTER" />
+      <action id="ChangesView.AddUnversioned" />
+      <shortuct text="control alt P" />
+      <action id="GotoAction" />
+      <shortuct text="ENTER" />
     </macro>
   </component>
 </application>
