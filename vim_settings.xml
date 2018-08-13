@@ -128,6 +128,10 @@
         <mark key="." line="45" column="11" />
         <mark key="^" line="45" column="11" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Models/VoteCategory.php" timestamp="1534141519278">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_22_144931_create_company_contact_table.php" timestamp="1516715160234">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="96" />
@@ -1284,7 +1288,6 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/angular-tour-of-heroes/src/app/services/in-memory-data.service.ts" timestamp="1533899971130" />
       <file name="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/base/inc/sidebar.blade.php" timestamp="1533552869633">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="26" column="0" />
@@ -2965,7 +2968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationVoteCategoryCrudController.php" />
       <jump line="10" column="34" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/UserController.php" />
       <jump line="243" column="4" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/app/Transformers/LocationTransformer.php" />
@@ -3065,6 +3067,7 @@
       <jump line="104" column="13" filename="$USER_HOME$/projects/angular-tour-of-heroes/node_modules/rxjs/src/internal/operators/tap.ts" />
       <jump line="108" column="2" filename="$USER_HOME$/projects/angular-tour-of-heroes/node_modules/rxjs/src/internal/operators/tap.ts" />
       <jump line="110" column="11" filename="$USER_HOME$/projects/angular-tour-of-heroes/node_modules/rxjs/src/internal/operators/tap.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/app/Models/VoteCategory.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3074,7 +3077,7 @@
         <text>let</text>
       </register>
       <register name="/" type="4">
-        <text>_</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGFwKF8gPT4gdGhpcy5sb2coYHVwZGF0ZWQgaGVybyBpZD0ke2hlcm8uaWR9YCkpLAogICAgICAgICAgICBjYXRjaEVycm9yKHRoaXMuaGFuZGxlRXJyb3I8YW55PigndXBkYXRlSGVybycpKSwK</text>
@@ -3120,9 +3123,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>_</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -3130,8 +3133,6 @@
     </search>
     <history>
       <history-search>
-        <entry>editr</entry>
-        <entry>edit(</entry>
         <entry>update</entry>
         <entry>forename</entry>
         <entry>contact</entry>
@@ -3150,6 +3151,8 @@
         <entry>a</entry>
         <entry>margin</entry>
         <entry>_</entry>
+        <entry>vote(</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
