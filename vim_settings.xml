@@ -501,6 +501,9 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/config/app.php" timestamp="1534253724874">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_28_161310_create_images_table.php" timestamp="1519831168696">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -2342,10 +2345,10 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/config/backpack/base.php" timestamp="1534142462941">
+      <file name="$USER_HOME$/git/web/jumpin/config/backpack/base.php" timestamp="1534253970482">
         <mark key="'" line="58" column="59" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="[" line="50" column="32" />
+        <mark key="]" line="50" column="57" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
@@ -3075,7 +3078,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="51" filename="$USER_HOME$/git/web/jumpin/config/backpack/base.php" />
       <jump line="90" column="26" filename="$USER_HOME$/git/web/jumpin/config/backpack/base.php" />
       <jump line="99" column="45" filename="$USER_HOME$/git/web/jumpin/config/backpack/base.php" />
       <jump line="29" column="12" filename="$USER_HOME$/git/web/jumpin/config/backpack/base.php" />
@@ -3175,19 +3177,20 @@
       <jump line="17" column="31" filename="$USER_HOME$/git/web/jumpin/app/Helpers.php" />
       <jump line="32" column="20" filename="$USER_HOME$/git/web/jumpin/app/Helpers.php" />
       <jump line="129" column="19" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/Auth/RegisterController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/config/app.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBSb3V0ZTo6Z3JvdXAoWydwcmVmaXgnID0+ICdsb2NhdGlvbi97bG9jYXRpb25faWR9J10sIGZ1bmN0aW9uICgpIHsKICAgICAgICBDUlVEOjpyZXNvdXJjZSgndm90ZWNhdGVnb3J5JywgJ0xvY2F0aW9uVm90ZUNhdGVnb3J5Q3J1ZENvbnRyb2xsZXInKTsKICAgICAgICBDUlVEOjpyZXNvdXJjZSgnaW1hZ2UnLCAnTG9jYXRpb25JbWFnZUNydWRDb250cm9sbGVyJyk7CiAgICAgICAgQ1JVRDo6cmVzb3VyY2UoJ2RhdGUnLCAnTG9jYXRpb25EYXRlQ3J1ZENvbnRyb2xsZXInKTsKICAgIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>BACKPACK_REGISTRATION_OPEN</text>
       </register>
       <register name="-" type="4">
         <text>HEAD</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PDw8</text>
+        <text>reg</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpwb3N0KCdsb2dpbicsICdMb2dpbkNvbnRyb2xsZXJAbG9naW4nKTsK</text>
+      <register name="0" type="4">
+        <text>BACKPACK_REGISTRATION_OPEN</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBSb3V0ZTo6Z3JvdXAoWydwcmVmaXgnID0+ICdsb2NhdGlvbi97bG9jYXRpb25faWR9J10sIGZ1bmN0aW9uICgpIHsKICAgICAgICBDUlVEOjpyZXNvdXJjZSgndm90ZWNhdGVnb3J5JywgJ0xvY2F0aW9uVm90ZUNhdGVnb3J5Q3J1ZENvbnRyb2xsZXInKTsKICAgICAgICBDUlVEOjpyZXNvdXJjZSgnaW1hZ2UnLCAnTG9jYXRpb25JbWFnZUNydWRDb250cm9sbGVyJyk7CiAgICAgICAgQ1JVRDo6cmVzb3VyY2UoJ2RhdGUnLCAnTG9jYXRpb25EYXRlQ3J1ZENvbnRyb2xsZXInKTsKICAgIH0pOwo=</text>
@@ -3230,9 +3233,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PDw8</last-search>
+      <last-search>reg</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PDw8</last-pattern>
+      <last-pattern>reg</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -3240,8 +3243,6 @@
     </search>
     <history>
       <history-search>
-        <entry>HEAD</entry>
-        <entry>range</entry>
         <entry>name</entry>
         <entry>image(</entry>
         <entry>auth.</entry>
@@ -3260,6 +3261,8 @@
         <entry>username</entry>
         <entry>base</entry>
         <entry encoding="base64">PDw8</entry>
+        <entry>regis</entry>
+        <entry>reg</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
