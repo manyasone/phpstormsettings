@@ -831,11 +831,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/database/seeds/RolesAndPermissionsSeeder.php" timestamp="1534755811908">
-        <mark key="[" line="81" column="34" />
-        <mark key="]" line="81" column="38" />
-        <mark key="." line="81" column="38" />
-        <mark key="^" line="81" column="38" />
+      <file name="$USER_HOME$/git/web/persofleet/database/seeds/RolesAndPermissionsSeeder.php" timestamp="1534758093322">
+        <mark key="[" line="71" column="54" />
+        <mark key="]" line="71" column="54" />
+        <mark key="^" line="95" column="7" />
+        <mark key="." line="71" column="54" />
       </file>
       <file name="$USER_HOME$/git/app/guardian/package.json" timestamp="1519920891013">
         <mark key="[" line="47" column="158" />
@@ -2107,6 +2107,9 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/lulaj/.env" timestamp="1534758337321">
+        <mark key="[" line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/git/web/jumpin/resources/assets/sass/auth.scss" timestamp="1534239883245">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="0" />
@@ -2612,6 +2615,9 @@
         <mark key="]" line="5" column="1" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/lulaj/resources/views/vendor/backpack/base/layout.blade.php" timestamp="1534758454392">
+        <mark key="[" line="102" column="67" />
+      </file>
       <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_07_204046_create_location_type_tables.php" timestamp="1531925264179">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="29" column="10" />
@@ -2625,7 +2631,7 @@
         <mark key="^" line="60" column="91" />
         <mark key="." line="60" column="88" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/database/seeds/UserSeeder.php" timestamp="1534755589808" />
+      <file name="$USER_HOME$/git/web/persofleet/database/seeds/UserSeeder.php" timestamp="1534757823493" />
       <file name="$USER_HOME$/git/web/persofleet/app/Components/Vehicle/HasVehicles.php" timestamp="1528704844393">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -3218,17 +3224,17 @@
       <jump line="94" column="74" filename="$USER_HOME$/git/web/lulaj/resources/views/vendor/backpack/crud/show.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IGdldFRyYW5zbGF0aW9uKCkgfX0K</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>nacht</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>reg</text>
       </register>
-      <register name="0" type="4">
-        <text>getTranslation</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkdmVoaWNsZVBlcm1pc3Npb25zID0gKG5ldyBcQXBwXENvbXBvbmVudHNcVmVoaWNsZVxQcm92aWRlcnNcVmVoaWNsZUNvbXBvbmVudFByb3ZpZGVyKS0+Z2V0UGVybWlzc2lvbnMoKTsKICAgICAgICAkcGVyc29mbGVldF9zdXBlci0+Z2l2ZVBlcm1pc3Npb25UbygkdmVoaWNsZVBlcm1pc3Npb25zKTsKICAgICAgICAkcGVyc29mbGVldC0+Z2l2ZVBlcm1pc3Npb25UbygkdmVoaWNsZVBlcm1pc3Npb25zLT5leGNlcHQoWydjcmVhdGUnLCAndXBkYXRlJywgJ2RlbGV0ZSddKSk7CiAgICAgICAgJHN1cGVyYWRtaW4tPmdpdmVQZXJtaXNzaW9uVG8oJHZlaGljbGVQZXJtaXNzaW9ucyk7CiAgICAgICAgJGFkbWluLT5naXZlUGVybWlzc2lvblRvKCR2ZWhpY2xlUGVybWlzc2lvbnMtPm9ubHkoWydsaXN0JywgJ3Nob3cnLCAnZGV0YWlsc19yb3cnXSkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IGdldFRyYW5zbGF0aW9uKCkgfX0K</text>
