@@ -712,10 +712,10 @@
         <mark key="." line="151" column="26" />
         <mark key="^" line="151" column="14" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" timestamp="1535379706297">
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" timestamp="1535380149160">
         <mark key="'" line="209" column="0" />
-        <mark key="[" line="257" column="12" />
-        <mark key="]" line="253" column="22" />
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="262" column="8" />
         <mark key="." line="253" column="22" />
         <mark key="^" line="253" column="22" />
       </file>
@@ -2126,6 +2126,13 @@
         <mark key="^" line="52" column="9" />
         <mark key="." line="30" column="44" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/PanelTraits/Fields.php" timestamp="1535368914071">
+        <mark key="'" line="68" column="23" />
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="50" column="11" />
+        <mark key="^" line="50" column="11" />
+        <mark key="." line="50" column="11" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Models/Vehicle.php" timestamp="1535376191642">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="19" column="0" />
@@ -2930,6 +2937,13 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="14" column="22" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/resources/views/components/reports/accident/show.blade.php" timestamp="1535358483491">
+        <mark key="'" line="42" column="27" />
+        <mark key="[" line="46" column="78" />
+        <mark key="]" line="46" column="43" />
+        <mark key="." line="46" column="43" />
+        <mark key="^" line="46" column="43" />
+      </file>
       <file name="$USER_HOME$/git/web/noceanz/database/migrations/2018_03_29_133957_create_articles_table.php" timestamp="1523521744843">
         <mark key="[" line="29" column="29" />
         <mark key="]" line="29" column="29" />
@@ -3004,6 +3018,12 @@
         <mark key="]" line="97" column="60" />
         <mark key="." line="97" column="60" />
         <mark key="^" line="97" column="60" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/AccidentParticipantCrudController.php" timestamp="1535381388490">
+        <mark key="[" line="336" column="0" />
+        <mark key="]" line="336" column="93" />
+        <mark key="." line="336" column="0" />
+        <mark key="^" line="325" column="32" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/resources/lang/de/titles.php" timestamp="1525348543329">
         <mark key="[" line="21" column="31" />
@@ -3460,7 +3480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="48" filename="$USER_HOME$/git/web/persofleet/routes/employee.php" />
       <jump line="92" column="74" filename="$USER_HOME$/git/web/persofleet/routes/employee.php" />
       <jump line="94" column="74" filename="$USER_HOME$/git/web/persofleet/routes/employee.php" />
       <jump line="96" column="74" filename="$USER_HOME$/git/web/persofleet/routes/employee.php" />
@@ -3560,55 +3579,56 @@
       <jump line="86" column="10" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/AccidentCrudController.php" />
       <jump line="89" column="17" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/AccidentCrudController.php" />
       <jump line="208" column="0" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/AccidentParticipantCrudController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Accident</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktPnRvKHN0cl9yZXBsYWNlKCd7YWNjaWRlbnRfaWR9JywgJG9yaWdpbmFsX2lkLCBcUm91dGU6OmN1cnJlbnQoKS0+dXJpKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Accident</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>edit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIGJhY2t1cCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5oYXNPbmUoc2VsZjo6Y2xhc3MsICdvcmlnaW5hbF9pZCcpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktPnRvKGJhY2twYWNrX3VybCgnYWNjaWRlbnQvJyAuICRvcmlnaW5hbF9pZCAuICcvcGFydGljaXBhbnQnKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGludCAkaWQKICAgICAqIEByZXR1cm4gXEJhY2twYWNrXENSVURcYXBwXEh0dHBcQ29udHJvbGxlcnNcUmVzcG9uc2UKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGVkaXQoJGlkKQogICAgewogICAgICAgICR0aGlzLT5tYXJrQXNSZWFkKCRpZCk7CgogICAgICAgIHJldHVybiBwYXJlbnQ6OmVkaXQoJGlkKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktPnRvKHN0cl9yZXBsYWNlKCd7YWNjaWRlbnRfaWR9JywgJG9yaWdpbmFsX2lkLCBcUm91dGU6OmN1cnJlbnQoKS0+dXJpKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZWRpdCgkaWQpCiAgICB7CiAgICAgICAgLyoqIEB2YXIgQWNjaWRlbnQgJGVudHJ5ICovCiAgICAgICAgJGVudHJ5ID0gJHRoaXMtPmNydWQtPmdldEVudHJ5KCRpZCk7CgogICAgICAgIGlmIChpc3NldCgkZW50cnktPm9yaWdpbmFsX2lkKSkgewogICAgICAgICAgICBBbGVydDo6aW5mbyh0cmFucygnY3J1ZC5hY2NpZGVudC5tZXNzYWdlcy5yZWRpcmVjdCcpKS0+Zmxhc2goKTsKCiAgICAgICAgICAgIHJldHVybiBcUmVkaXJlY3Q6OnRvKCR0aGlzLT5jcnVkLT5yb3V0ZSAuICcvJyAuICRlbnRyeS0+b3JpZ2luYWxfaWQgLiAnL2VkaXQnKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gcGFyZW50OjplZGl0KCRpZCk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHRoaXMtPmNydWQtPnJvdXRlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktPnRvKFxSb3V0ZTo6Y3VycmVudCgpLT51cmkpOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoXFJvdXRlOjpnZXRDdXJyZW50Um91dGUoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG9yaWdpbmFsX2lkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNydWQtPmFkZENvbHVtbnMoWwo=</text>
+        <text encoding="base64">ICAgICAgICBcUm91dGU6OmN1cnJlbnQoKS0+c2V0UGFyYW1ldGVyKCdhY2NpZGVudF9pZCcsICRvcmlnaW5hbF9pZCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdsYWJlbCcgICAgID0+IHRyYW5zKCdjcnVkLnZlaGljbGUucGx1cmFsJyksCiAgICAgICAgICAgICAgICAnbmFtZScgICAgICA9PiAndmVoaWNsZXMnLAogICAgICAgICAgICAgICAgJ3R5cGUnICAgICAgPT4gJ3NlbGVjdF9tdWx0aXBsZScsCiAgICAgICAgICAgICAgICAnZW50aXR5JyAgICA9PiAndmVoaWNsZXMnLAogICAgICAgICAgICAgICAgJ21vZGVsJyAgICAgPT4gVmVoaWNsZTo6Y2xhc3MsCiAgICAgICAgICAgICAgICAnYXR0cmlidXRlJyA9PiAnbmFtZScsCiAgICAgICAgICAgICAgICAncGl2b3QnICAgICA9PiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG9yaWdpbmFsX2lkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBcUm91dGU6OmN1cnJlbnQoKS0+c2V0UGFyYW1ldGVyKCdhY2NpZGVudF9pZCcsICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
