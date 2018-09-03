@@ -171,6 +171,10 @@
         <mark key="^" line="25" column="22" />
         <mark key="." line="25" column="22" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/CockpitController.php" timestamp="1535963526498">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="24" column="8" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/database/migrations/2018_06_13_141808_add_archived_at_column_to_fault_types_table.php" timestamp="1529304052004">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="70" />
@@ -2325,6 +2329,10 @@
         <mark key="^" line="39" column="30" />
         <mark key="." line="39" column="44" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/database/seeds/UserSeeder.php" timestamp="1535981821364">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="38" column="74" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Components/Vehicle/HasVehicles.php" timestamp="1528704844393">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -2764,7 +2772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="12" filename="$USER_HOME$/git/web/persofleet/resources/views/components/dashboard-items/list.blade.php" />
       <jump line="135" column="0" filename="$USER_HOME$/git/web/persofleet/app/Models/Modules/Module.php" />
       <jump line="143" column="25" filename="$USER_HOME$/git/web/persofleet/app/Models/Modules/Module.php" />
       <jump line="136" column="46" filename="$USER_HOME$/git/web/persofleet/app/Models/Modules/Module.php" />
@@ -2864,10 +2871,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/web/coatings/.env" />
       <jump line="1" column="0" filename="$USER_HOME$/git/web/coatings/.env.example" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/coatings/.env.example" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/tests/config/database/seeds/UsersRolesTableSeeder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgWyAnb3ppZWdsZXInLCAnT2xpdmVyJywgJ1ppZWdsZXInLCAnb2xpdmVyLnppZWdsZXJAd2ViZmFjdG9yLmRlJyBdLAogICAgICAgICAgICBbICdtc3dpbW0nLCAnTWF1cmljZScsICdTd2ltbScsICdtYXVyaWNlLnN3aW1tQHdlYmZhY3Rvci5kZScgXSwKICAgICAgICAgICAgWyAndHN3b25rZScsICdUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJyBdLAogICAgICAgICAgICBbICdzdmFuZ2VsZGVyJywgJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJyBdLAogICAgICAgICAgICBbICdhZmlzY2hlcicsICdBc3RyaWQnLCAnRmlzY2hlcicsICdhc3RyaWQuZmlzY2hlckB3ZWJmYWN0b3IuZGUnIF0sCiAgICAgICAgICAgIFsgJ3NsdWR3aWcnLCAnU2ltb24nLCAnTHVkd2lnJywgJ3NpbW9uLmx1ZHdpZ0B3ZWJmYWN0b3IuZGUnIF0sCiAgICAgICAgICAgIFsgJ2Jnb2JldCcsICdCYXN0aWFuJywgJ0fDtmJldCcsICdiYXN0aWFuLmdvZWJldEB3ZWJmYWN0b3IuZGUnIF0sCiAgICAgICAgICAgIFsgJ3NzZWhuZScsICdTaWVnZnJpZWQnLCAnU2VobmUnLCAnc2llZ2ZyaWVkLnNlaG5lQHdlYmZhY3Rvci5kZScgXSwKICAgICAgICAgICAgWyAnbHdvbGZsZScsICdMdWthcycsICdXw7ZsZmxlJywgJ2x1a2FzLndvZWxmbGVAd2ViZmFjdG9yLmRlJyBdLAo=</text>
       </register>
       <register name="-" type="4">
         <text>database</text>
@@ -2876,7 +2884,7 @@
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QVBQX05BTUU9IjNkIENvYXRpbmdzIgpBUFBfRU5WPWxvY2FsCkFQUF9LRVk9YmFzZTY0OmY3TGRRQmxOeExYSlN3N1lwN3BCdzJTNzVEVFZSbTFaRXFhOGt3RDVvclU9CkFQUF9ERUJVRz10cnVlCkFQUF9MT0dfTEVWRUw9ZGVidWcKQVBQX1VSTD1odHRwczovL2NvYXRpbmdzLnRlc3QKQVBQX0RPTUFJTj1jb2F0aW5ncy50ZXN0CgpMT0dfQ0hBTk5FTD1zdGFjawoKREJfQ09OTkVDVElPTj1teXNxbApEQl9IT1NUPTEyNy4wLjAuMQpEQl9QT1JUPTMzMDYKREJfREFUQUJBU0U9Y29hdGluZ3MKREJfVVNFUk5BTUU9cm9vdApEQl9QQVNTV09SRD0KCkJST0FEQ0FTVF9EUklWRVI9bG9nCkNBQ0hFX0RSSVZFUj1maWxlClNFU1NJT05fRFJJVkVSPWZpbGUKU0VTU0lPTl9MSUZFVElNRT0xMjAKUVVFVUVfRFJJVkVSPXN5bmMKClJFRElTX0hPU1Q9MTI3LjAuMC4xClJFRElTX1BBU1NXT1JEPW51bGwKUkVESVNfUE9SVD02Mzc5CgpNQUlMX0RSSVZFUj1zbXRwCk1BSUxfSE9TVD1zbXRwLm1haWx0cmFwLmlvCk1BSUxfUE9SVD0yNTI1Ck1BSUxfVVNFUk5BTUU9ZjBhZGFhYjhlZTQ1MGQKTUFJTF9QQVNTV09SRD1kYzcyNTgyZmY5NzEwOQpNQUlMX0VOQ1JZUFRJT049bnVsbAoKUFVTSEVSX0FQUF9JRD0KUFVTSEVSX0FQUF9LRVk9ClBVU0hFUl9BUFBfU0VDUkVUPQpQVVNIRVJfQVBQX0NMVVNURVI9bXQxCgpNSVhfUFVTSEVSX0FQUF9LRVk9IiR7UFVTSEVSX0FQUF9LRVl9IgpNSVhfUFVTSEVSX0FQUF9DTFVTVEVSPSIke1BVU0hFUl9BUFBfQ0xVU1RFUn0iCgpCQUNLUEFDS19MSUNFTlNFPTQ1YjJCTDZwZGQ0TEhuWGVQOS4vUXVCRwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgWyAnb3ppZWdsZXInLCAnT2xpdmVyJywgJ1ppZWdsZXInLCAnb2xpdmVyLnppZWdsZXJAd2ViZmFjdG9yLmRlJyBdLAogICAgICAgICAgICBbICdtc3dpbW0nLCAnTWF1cmljZScsICdTd2ltbScsICdtYXVyaWNlLnN3aW1tQHdlYmZhY3Rvci5kZScgXSwKICAgICAgICAgICAgWyAndHN3b25rZScsICdUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJyBdLAogICAgICAgICAgICBbICdzdmFuZ2VsZGVyJywgJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJyBdLAogICAgICAgICAgICBbICdhZmlzY2hlcicsICdBc3RyaWQnLCAnRmlzY2hlcicsICdhc3RyaWQuZmlzY2hlckB3ZWJmYWN0b3IuZGUnIF0sCiAgICAgICAgICAgIFsgJ3NsdWR3aWcnLCAnU2ltb24nLCAnTHVkd2lnJywgJ3NpbW9uLmx1ZHdpZ0B3ZWJmYWN0b3IuZGUnIF0sCiAgICAgICAgICAgIFsgJ2Jnb2JldCcsICdCYXN0aWFuJywgJ0fDtmJldCcsICdiYXN0aWFuLmdvZWJldEB3ZWJmYWN0b3IuZGUnIF0sCiAgICAgICAgICAgIFsgJ3NzZWhuZScsICdTaWVnZnJpZWQnLCAnU2VobmUnLCAnc2llZ2ZyaWVkLnNlaG5lQHdlYmZhY3Rvci5kZScgXSwKICAgICAgICAgICAgWyAnbHdvbGZsZScsICdMdWthcycsICdXw7ZsZmxlJywgJ2x1a2FzLndvZWxmbGVAd2ViZmFjdG9yLmRlJyBdLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
