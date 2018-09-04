@@ -565,11 +565,10 @@
         <mark key="." line="151" column="26" />
         <mark key="^" line="151" column="14" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/config/frontend.php" timestamp="1536049030336">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="17" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="17" />
+      <file name="$USER_HOME$/git/web/coatings/config/frontend.php" timestamp="1536050059099">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="9" column="77" />
+        <mark key="." line="9" column="31" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" timestamp="1535985365455">
         <mark key="'" line="61" column="0" />
@@ -1214,6 +1213,11 @@
         <mark key="]" line="36" column="46" />
         <mark key="." line="36" column="46" />
         <mark key="^" line="36" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" timestamp="1536050075794">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/app/Http/Controllers/Admin/FrontendPageCrudController.php" timestamp="1521721856865">
         <mark key="[" line="49" column="35" />
@@ -2374,10 +2378,11 @@
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/resources/views/pages/home.blade.php" timestamp="1536049166573">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/git/web/coatings/resources/views/pages/home.blade.php" timestamp="1536049963522">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="24" column="65" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Http/Controllers/Api/v1/FaultTypeController.php" timestamp="1528723449093">
         <mark key="[" line="16" column="29" />
@@ -2897,26 +2902,26 @@
       <jump line="4" column="7" filename="$USER_HOME$/git/web/jumpin/resources/assets/sass/frontend.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7e2R9fQo=</text>
+      <register name="&quot;" type="4">
+        <text>3D COATINGS</text>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>3D COATINGS</text>
       </register>
       <register name="/" type="4">
         <text>class PageManager extends</text>
       </register>
       <register name="0" type="4">
-        <text>Was ist Punktklebetechnologie</text>
+        <text>bg-light</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7e2R9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxhIGhyZWY9IiNwdW5rdGtsZWJldGVjaG5vbG9naWUiPldhcyBpc3QgUHVua3RrbGViZXRlY2hub2xvZ2llPzwvYT4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIDxzZWN0aW9uIGNsYXNzPSJiZy13aGl0ZSBweS02IHNoYWRvdyIgaWQ9InVudGVybmVobWVuIj4KICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIgdGV4dC1jZW50ZXIiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3cganVzdGlmeS1jb250ZW50LWNlbnRlciI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtOCI+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImgxIG1iLTAiPlVudGVybmVobWVuPC9wPgogICAgICAgICAgICAgICAgICAgIDxoMiBjbGFzcz0iaDEgbWItNSI+M0QgQ09BVElOR1MgaXN0IElociBFeHBlcnRlIGbDvHIgQmVzY2hpY2h0dW5nZW48L2gyPgogICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJsZWFkIG1iLTQiPkxvcmVtIGlwc3VtIGRvbG9yLCBzaXQgYW1ldCBjb25zZWN0ZXR1ciBhZGlwaXNpY2luZyBlbGl0LiBJcHN1bSBkb2xvcmVtcXVlLCBtYXhpbWUgdGVtcG9yYSBub24gYXV0LCBwbGFjZWF0CiAgICAgICAgICAgICAgICAgICAgICAgIHRlbXBvcmUgcmVtIHZlcml0YXRpcyBzdXNjaXBpdCBhbmltaSBhcGVyaWFtISBOdW1xdWFtIG1vbGVzdGlhZSBzaW1pbGlxdWUgbmVjZXNzaXRhdGlidXMgbW9kaSBuaWhpbCBpdXN0bwogICAgICAgICAgICAgICAgICAgICAgICB2b2x1cHRhcyBmdWdpdCE8L3A+CiAgICAgICAgICAgICAgICAgICAgPHA+TG9yZW0gaXBzdW0gZG9sb3IsIHNpdCBhbWV0IGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQuIElwc3VtIGRvbG9yZW1xdWUsIG1heGltZSB0ZW1wb3JhIG5vbiBhdXQsIHBsYWNlYXQKICAgICAgICAgICAgICAgICAgICAgICAgdGVtcG9yZSByZW0gdmVyaXRhdGlzIHN1c2NpcGl0IGFuaW1pIGFwZXJpYW0hIE51bXF1YW0gbW9sZXN0aWFlIHNpbWlsaXF1ZSBuZWNlc3NpdGF0aWJ1cyBtb2RpIG5paGlsIGl1c3RvCiAgICAgICAgICAgICAgICAgICAgICAgIHZvbHVwdGFzIGZ1Z2l0ITwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -2925,25 +2930,29 @@
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzZWN0aW9uIGNsYXNzPSJiZy13aGl0ZSBweS02IHNoYWRvdyIgaWQ9InVudGVybmVobWVuIj4KICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIgdGV4dC1jZW50ZXIiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3cganVzdGlmeS1jb250ZW50LWNlbnRlciI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtOCI+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImgxIG1iLTAiPlVudGVybmVobWVuPC9wPgogICAgICAgICAgICAgICAgICAgIDxoMiBjbGFzcz0iaDEgbWItNSI+M0QgQ09BVElOR1MgaXN0IElociBFeHBlcnRlIGbDvHIgQmVzY2hpY2h0dW5nZW48L2gyPgogICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJsZWFkIG1iLTQiPkxvcmVtIGlwc3VtIGRvbG9yLCBzaXQgYW1ldCBjb25zZWN0ZXR1ciBhZGlwaXNpY2luZyBlbGl0LiBJcHN1bSBkb2xvcmVtcXVlLCBtYXhpbWUgdGVtcG9yYSBub24gYXV0LCBwbGFjZWF0CiAgICAgICAgICAgICAgICAgICAgICAgIHRlbXBvcmUgcmVtIHZlcml0YXRpcyBzdXNjaXBpdCBhbmltaSBhcGVyaWFtISBOdW1xdWFtIG1vbGVzdGlhZSBzaW1pbGlxdWUgbmVjZXNzaXRhdGlidXMgbW9kaSBuaWhpbCBpdXN0bwogICAgICAgICAgICAgICAgICAgICAgICB2b2x1cHRhcyBmdWdpdCE8L3A+CiAgICAgICAgICAgICAgICAgICAgPHA+TG9yZW0gaXBzdW0gZG9sb3IsIHNpdCBhbWV0IGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQuIElwc3VtIGRvbG9yZW1xdWUsIG1heGltZSB0ZW1wb3JhIG5vbiBhdXQsIHBsYWNlYXQKICAgICAgICAgICAgICAgICAgICAgICAgdGVtcG9yZSByZW0gdmVyaXRhdGlzIHN1c2NpcGl0IGFuaW1pIGFwZXJpYW0hIE51bXF1YW0gbW9sZXN0aWFlIHNpbWlsaXF1ZSBuZWNlc3NpdGF0aWJ1cyBtb2RpIG5paGlsIGl1c3RvCiAgICAgICAgICAgICAgICAgICAgICAgIHZvbHVwdGFzIGZ1Z2l0ITwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum doloremque, maxime tempora non aut, placeat
+                            tempore rem veritatis suscipit animi aperiam! Numquam molestiae similique necessitatibus modi nihil iusto
+                            voluptas fugit!</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0ZXh0X2InIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gRm9udHMKLy9AaW1wb3J0IHVybCgiaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PVJhbGV3YXk6MzAwLDQwMCw2MDAiKTsK</text>
+      <register name="7" type="4">
+        <text>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum doloremque, maxime tempora non aut, placeat
+                            tempore rem veritatis suscipit animi aperiam! Numquam molestiae similique necessitatibus modi nihil iusto
+                            voluptas fugit!</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGZvbnQtZmFjZSB7CiAgICBmb250LWZhbWlseTogJ2p1bXBpbic7CiAgICBzcmM6CiAgICB1cmwoJy4uL2ZvbnRzL0JFQkFTX19fMC5UVEYnKSwKICAgIHVybCgnLi4vZm9udHMvUGxheWZhaXJEaXNwbGF5LUJvbGQub3RmJyksCiAgICB1cmwoJy4uL2ZvbnRzL1BsYXlmYWlyRGlzcGxheS1SZWd1bGFyLm90ZicpLAogICAgdXJsKCcuLi9mb250cy9Qcm94aW1hTm92YS1Cb2xkLm90ZicpLAogICAgdXJsKCcuLi9mb250cy9Qcm94aW1hTm92YS1MaWdodC5vdGYnKSwKICAgIHVybCgnLi4vZm9udHMvUHJveGltYU5vdmEtUmVndWxhci5vdGYnKSwKICAgIHVybCgnLi4vZm9udHMvUHJveGltYU5vdmEtU2VtaWJvbGQub3RmJyk7Cn0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzZWN0aW9uIGNsYXNzPSJiZy1saWdodCBweS02IHNoYWRvdyIgaWQ9InB1bmt0a2xlYmV0ZWNobm9sb2dpZSI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29udGFpbmVyIHRleHQtY2VudGVyIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93IGp1c3RpZnktY29udGVudC1jZW50ZXIiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTgiPgogICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJoMSBtYi0wIj5XYXMgaXN0IFB1bmt0a2xlYmV0ZWNobm9sb2dpZT88L3A+CiAgICAgICAgICAgICAgICAgICAgPGgyIGNsYXNzPSJoMSBtYi01Ij5Mb3JlbSBJcHN1bTwvaDI+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImxlYWQgbWItNCI+TG9yZW0gaXBzdW0gZG9sb3IsIHNpdCBhbWV0IGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQuIElwc3VtIGRvbG9yZW1xdWUsIG1heGltZSB0ZW1wb3JhIG5vbiBhdXQsIHBsYWNlYXQKICAgICAgICAgICAgICAgICAgICAgICAgdGVtcG9yZSByZW0gdmVyaXRhdGlzIHN1c2NpcGl0IGFuaW1pIGFwZXJpYW0hIE51bXF1YW0gbW9sZXN0aWFlIHNpbWlsaXF1ZSBuZWNlc3NpdGF0aWJ1cyBtb2RpIG5paGlsIGl1c3RvCiAgICAgICAgICAgICAgICAgICAgICAgIHZvbHVwdGFzIGZ1Z2l0ITwvcD4KICAgICAgICAgICAgICAgICAgICA8cD5Mb3JlbSBpcHN1bSBkb2xvciwgc2l0IGFtZXQgY29uc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdC4gSXBzdW0gZG9sb3JlbXF1ZSwgbWF4aW1lIHRlbXBvcmEgbm9uIGF1dCwgcGxhY2VhdAogICAgICAgICAgICAgICAgICAgICAgICB0ZW1wb3JlIHJlbSB2ZXJpdGF0aXMgc3VzY2lwaXQgYW5pbWkgYXBlcmlhbSEgTnVtcXVhbSBtb2xlc3RpYWUgc2ltaWxpcXVlIG5lY2Vzc2l0YXRpYnVzIG1vZGkgbmloaWwgaXVzdG8KICAgICAgICAgICAgICAgICAgICAgICAgdm9sdXB0YXMgZnVnaXQhPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgPC9zZWN0aW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
