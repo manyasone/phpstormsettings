@@ -666,8 +666,11 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/database/seeds/TeamMembersTableSeeder.php" timestamp="1536222131051">
-        <mark key="[" line="15" column="29" />
+      <file name="$USER_HOME$/git/web/coatings/database/seeds/TeamMembersTableSeeder.php" timestamp="1536222502907">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/git/web/hma/tests/Feature/StatusCrudTest.php" timestamp="1517238350674">
         <mark key="[" line="20" column="0" />
@@ -2113,11 +2116,11 @@
         <mark key="." line="28" column="30" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Models/TeamMember.php" timestamp="1536221825132">
-        <mark key="[" line="39" column="16" />
-        <mark key="]" line="68" column="28" />
-        <mark key="." line="68" column="28" />
-        <mark key="^" line="68" column="28" />
+      <file name="$USER_HOME$/git/web/coatings/app/Models/TeamMember.php" timestamp="1536222489651">
+        <mark key="[" line="45" column="21" />
+        <mark key="]" line="45" column="21" />
+        <mark key="." line="45" column="21" />
+        <mark key="^" line="45" column="25" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Traits/AssignableTrait.php" timestamp="1530021753290">
         <mark key="[" line="29" column="58" />
@@ -2468,11 +2471,11 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/database/migrations/2018_08_14_121529_create_team_members_table.php" timestamp="1536222128854">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="23" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="17" column="23" />
+      <file name="$USER_HOME$/git/web/coatings/database/migrations/2018_08_14_121529_create_team_members_table.php" timestamp="1536222235057">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="31" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="17" column="31" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/database/migrations/2018_06_26_093839_create_vehicle_assignments_table.php" timestamp="1529998914565">
         <mark key="[" line="15" column="24" />
@@ -2882,16 +2885,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>array</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>array</text>
       </register>
       <register name="/" type="4">
         <text>Permission</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChQYWdlc1RhYmxlU2VlZGVyOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5KFxBcHBcTW9kZWxzXFRlYW1NZW1iZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ25hbWUnICAgPT4gJ0RyLiBHb3R0ZnJpZWQgUGhpbGlwcCcsCiAgICAgICAgICAgICdwaG9uZScgID0+ICcrNDkgOTMzNCA5NyA5OSAxMTAnLAogICAgICAgICAgICAnZW1haWwnICA9PiAnZ290dGZyaWVkLnBoaWxpcHBAM2QtY29hdGluZ3MuZGUnLAogICAgICAgICAgICAnZXh0cmFzJyA9PiBbCiAgICAgICAgICAgICAgICAnZGVzY3JpcHRpb24nID0+ICJEaXBsb20gQ2hlbWlrZXIgIApHZXNjaMOkZnRzZsO8aHJlciIsCiAgICAgICAgICAgIF0sCiAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAvLyBwcm90ZWN0ZWQgJGhpZGRlbiA9IFtdOwogICAgLy8gcHJvdGVjdGVkICRkYXRlcyA9IFtdOwo=</text>
