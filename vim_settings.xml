@@ -442,11 +442,12 @@
         <mark key="." line="13" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Services.php" timestamp="1536156054134">
+      <file name="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Services.php" timestamp="1536219737319">
         <mark key="'" line="122" column="70" />
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="19" />
+        <mark key="[" line="123" column="38" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="125" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Components/Traits/CanSeePdf.php" timestamp="1535373697959">
         <mark key="[" line="6" column="11" />
@@ -1166,7 +1167,7 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/resources/views/pages/services.blade.php" timestamp="1536156984799">
+      <file name="$USER_HOME$/git/web/coatings/resources/views/pages/services.blade.php" timestamp="1536219669849">
         <mark key="[" line="43" column="52" />
         <mark key="]" line="43" column="53" />
         <mark key="." line="43" column="53" />
@@ -2434,6 +2435,9 @@
         <mark key="^" line="17" column="9" />
         <mark key="." line="17" column="9" />
       </file>
+      <file name="$USER_HOME$/git/web/mev/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php" timestamp="1536220508615">
+        <mark key="'" line="89" column="23" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Http/Controllers/Api/v1/FaultController.php" timestamp="1529929323037">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="18" column="72" />
@@ -2760,7 +2764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/app/Models/Reports/Report.php" />
       <jump line="34" column="11" filename="$USER_HOME$/git/web/persofleet/app/Models/Reports/Report.php" />
       <jump line="35" column="11" filename="$USER_HOME$/git/web/persofleet/app/Models/Reports/Report.php" />
       <jump line="17" column="35" filename="$USER_HOME$/git/web/persofleet/database/seeds/DashboardItemSeeder.php" />
@@ -2860,64 +2863,97 @@
       <jump line="31" column="5" filename="$USER_HOME$/git/web/persofleet/composer.json" />
       <jump line="137" column="70" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Services.php" />
       <jump line="39" column="9" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Home.php" />
+      <jump line="89" column="23" filename="$USER_HOME$/git/web/mev/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyEhIHBhcnNlZG93bigkcGFnZS0+eyJ0ZXh0X2FfXzMifSkgISF9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#### Generelle Vorteile der Klebepunkttechnik
+* Unterschiedliche Klebkräfte mit gleichem Klebstoff einstellbar
+* Durchlässige Klebeschichten für Gase und Flüssigkeiten herstellbar
+* Geringere Klebestoffmengen / -verbrauch (bei gleicher Schichtdicke)
+* Höhere Klebeschichten (bei gleicher Klebemenge) = z.B. optimal für raue Oberflächen
+* Verschiedene Klebkraft-Zonen und unterschiedliche Klebemengen auf einer Fläche möglich
+* Fest bis leicht haftende Klebeschichten
+* Permanent haftende bis rückstandsfrei wiederlösbare Klebeschichten
+* Punktgenauer Transfer von Klebstoff
+* Kein Entstehen von Klebstoff-Fäden
+* Mehrfacher Transfer auf gleiche Fläche ohne Klebstofffäden
+* Die Klebstoffmenge kann exakt von 0,001 g/m2 bis 200 g/m2 variiert werden
+* Transfer von Klebepunkten nur durch Andrücken
+* Flexiblere Bahnen beschichteten Materials – Klebepunkte steifen wesentlich weniger aus als eine durchgehende Klebeschicht
+* Keine Trocknungszeiten – direkt weiterbearbeitbar
+* Exakte Steuerung von Breite, Höhe und Form der Punkte
+* Luftblasenfrei aufkleben – die Luft lässt sich zwischen den Klebepunkten herausstreichen</text>
       </register>
       <register name="-" type="4">
         <text>addTitleTabContent</text>
       </register>
       <register name="/" type="4">
-        <text>bänder</text>
+        <text>Permission</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyEhIHBhcnNlZG93bigkcGFnZS0+eyJ0ZXh0X2FfXzMifSkgISF9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZmllbGRzID0gJHRoaXMtPmFkZFRleHRQYXJ0aWFscygkZmllbGRzLCAxLCA1KTsK</text>
+      <register name="1" type="4">
+        <text>#### Generelle Vorteile der Klebepunkttechnik
+* Unterschiedliche Klebkräfte mit gleichem Klebstoff einstellbar
+* Durchlässige Klebeschichten für Gase und Flüssigkeiten herstellbar
+* Geringere Klebestoffmengen / -verbrauch (bei gleicher Schichtdicke)
+* Höhere Klebeschichten (bei gleicher Klebemenge) = z.B. optimal für raue Oberflächen
+* Verschiedene Klebkraft-Zonen und unterschiedliche Klebemengen auf einer Fläche möglich
+* Fest bis leicht haftende Klebeschichten
+* Permanent haftende bis rückstandsfrei wiederlösbare Klebeschichten
+* Punktgenauer Transfer von Klebstoff
+* Kein Entstehen von Klebstoff-Fäden
+* Mehrfacher Transfer auf gleiche Fläche ohne Klebstofffäden
+* Die Klebstoffmenge kann exakt von 0,001 g/m2 bis 200 g/m2 variiert werden
+* Transfer von Klebepunkten nur durch Andrücken
+* Flexiblere Bahnen beschichteten Materials – Klebepunkte steifen wesentlich weniger aus als eine durchgehende Klebeschicht
+* Keine Trocknungszeiten – direkt weiterbearbeitbar
+* Exakte Steuerung von Breite, Höhe und Form der Punkte
+* Luftblasenfrei aufkleben – die Luft lässt sich zwischen den Klebepunkten herausstreichen</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAkbmF2X2l0ZW1fY291bnQgPSA1Owo=</text>
+        <text encoding="base64">ICAgICAgICAkZmllbGRzID0gJHRoaXMtPmFkZFRleHRQYXJ0aWFscygkZmllbGRzLCAxLCA1KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICAgICA9PiAndGl0bGUnLAogICAgICAgICAgICAgICAgJ3R5cGUnICAgICA9PiAndGV4dCcsCiAgICAgICAgICAgICAgICAnbGFiZWwnICAgID0+ICdUaXRlbCcsCiAgICAgICAgICAgICAgICAndGFiJyAgICAgID0+ICdUaXRlbCcsCiAgICAgICAgICAgICAgICAnZmFrZScgICAgID0+IHRydWUsCiAgICAgICAgICAgICAgICAnc3RvcmVfaW4nID0+ICdjb250ZW50JywKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICAgICA9PiAnc2x1ZycsCiAgICAgICAgICAgICAgICAndHlwZScgICAgID0+ICd0ZXh0JywKICAgICAgICAgICAgICAgICdsYWJlbCcgICAgPT4gJ1NsdWcnLAogICAgICAgICAgICAgICAgJ3RhYicgICAgICA9PiAnVGl0ZWwnLAogICAgICAgICAgICAgICAgJ2Zha2UnICAgICA9PiB0cnVlLAogICAgICAgICAgICAgICAgJ3N0b3JlX2luJyA9PiAnY29udGVudCcsCiAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAkbmF2X2l0ZW1fY291bnQgPSA1Owo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZmllbGRzID0gWwogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgICAgICAgICAgICAgPT4gJ3RpdGxlJywKICAgICAgICAgICAgICAgICd0eXBlJyAgICAgICAgICAgICAgICA9PiAndGV4dCcsCiAgICAgICAgICAgICAgICAnbGFiZWwnICAgICAgICAgICAgICAgPT4gJ1RpdGVsJywKICAgICAgICAgICAgICAgICd0YWInICAgICAgICAgICAgICAgICA9PiAnVGl0ZWwnLAogICAgICAgICAgICAgICAgJ2Zha2UnICAgICAgICAgICAgICAgID0+IHRydWUsCiAgICAgICAgICAgICAgICAnc3RvcmVfaW4nICAgICAgICAgICAgPT4gJ2NvbnRlbnQnLAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICdzbHVnJywKICAgICAgICAgICAgICAgICd0eXBlJyAgICAgPT4gJ3RleHQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyAgICA9PiAnU2x1ZycsCiAgICAgICAgICAgICAgICAndGFiJyAgICAgID0+ICdUaXRlbCcsCiAgICAgICAgICAgICAgICAnZmFrZScgICAgID0+IHRydWUsCiAgICAgICAgICAgICAgICAnc3RvcmVfaW4nID0+ICdjb250ZW50JywKICAgICAgICAgICAgXSwKICAgICAgICBdOwogICAgICAgIAogICAgICAgICRmaWVsZHMgPSAkdGhpcy0+YWRkVGV4dFBhcnRpYWxzKCRmaWVsZHMsIDMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICAgICA9PiAndGl0bGUnLAogICAgICAgICAgICAgICAgJ3R5cGUnICAgICA9PiAndGV4dCcsCiAgICAgICAgICAgICAgICAnbGFiZWwnICAgID0+ICdUaXRlbCcsCiAgICAgICAgICAgICAgICAndGFiJyAgICAgID0+ICdUaXRlbCcsCiAgICAgICAgICAgICAgICAnZmFrZScgICAgID0+IHRydWUsCiAgICAgICAgICAgICAgICAnc3RvcmVfaW4nID0+ICdjb250ZW50JywKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICAgICA9PiAnc2x1ZycsCiAgICAgICAgICAgICAgICAndHlwZScgICAgID0+ICd0ZXh0JywKICAgICAgICAgICAgICAgICdsYWJlbCcgICAgPT4gJ1NsdWcnLAogICAgICAgICAgICAgICAgJ3RhYicgICAgICA9PiAnVGl0ZWwnLAogICAgICAgICAgICAgICAgJ2Zha2UnICAgICA9PiB0cnVlLAogICAgICAgICAgICAgICAgJ3N0b3JlX2luJyA9PiAnY29udGVudCcsCiAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZmllbGRzID0gJHRoaXMtPmFkZFRleHRQYXJ0aWFscygkZmllbGRzLCAxLCAyKTsKICAgICAgICAkZmllbGRzID0gJHRoaXMtPmFkZFRleHRQYXJ0aWFscygkZmllbGRzLCAxLCAzKTsK</text>
+        <text encoding="base64">ICAgICAgICAkZmllbGRzID0gWwogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgICAgICAgICAgICAgPT4gJ3RpdGxlJywKICAgICAgICAgICAgICAgICd0eXBlJyAgICAgICAgICAgICAgICA9PiAndGV4dCcsCiAgICAgICAgICAgICAgICAnbGFiZWwnICAgICAgICAgICAgICAgPT4gJ1RpdGVsJywKICAgICAgICAgICAgICAgICd0YWInICAgICAgICAgICAgICAgICA9PiAnVGl0ZWwnLAogICAgICAgICAgICAgICAgJ2Zha2UnICAgICAgICAgICAgICAgID0+IHRydWUsCiAgICAgICAgICAgICAgICAnc3RvcmVfaW4nICAgICAgICAgICAgPT4gJ2NvbnRlbnQnLAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICdzbHVnJywKICAgICAgICAgICAgICAgICd0eXBlJyAgICAgPT4gJ3RleHQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyAgICA9PiAnU2x1ZycsCiAgICAgICAgICAgICAgICAndGFiJyAgICAgID0+ICdUaXRlbCcsCiAgICAgICAgICAgICAgICAnZmFrZScgICAgID0+IHRydWUsCiAgICAgICAgICAgICAgICAnc3RvcmVfaW4nID0+ICdjb250ZW50JywKICAgICAgICAgICAgXSwKICAgICAgICBdOwogICAgICAgIAogICAgICAgICRmaWVsZHMgPSAkdGhpcy0+YWRkVGV4dFBhcnRpYWxzKCRmaWVsZHMsIDMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfbWVyZ2UoWwogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICd0aXRsZScsCiAgICAgICAgICAgICAgICAndHlwZScgICAgID0+ICd0ZXh0JywKICAgICAgICAgICAgICAgICdsYWJlbCcgICAgPT4gJ1RpdGVsJywKICAgICAgICAgICAgICAgICd0YWInICAgICAgPT4gJ1RpdGVsJywKICAgICAgICAgICAgICAgICdmYWtlJyAgICAgPT4gdHJ1ZSwKICAgICAgICAgICAgICAgICdzdG9yZV9pbicgPT4gJ2NvbnRlbnQnLAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICdzbHVnJywKICAgICAgICAgICAgICAgICd0eXBlJyAgICAgPT4gJ3RleHQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyAgICA9PiAnU2x1ZycsCiAgICAgICAgICAgICAgICAndGFiJyAgICAgID0+ICdUaXRlbCcsCiAgICAgICAgICAgICAgICAnZmFrZScgICAgID0+IHRydWUsCiAgICAgICAgICAgICAgICAnc3RvcmVfaW4nID0+ICdjb250ZW50JywKICAgICAgICAgICAgXSwKICAgICAgICBdLCAkdGhpcy0+YWRkVGV4dFBhcnRpYWxzKFtdLCAzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZmllbGRzID0gJHRoaXMtPmFkZFRleHRQYXJ0aWFscygkZmllbGRzLCAxLCAyKTsKICAgICAgICAkZmllbGRzID0gJHRoaXMtPmFkZFRleHRQYXJ0aWFscygkZmllbGRzLCAxLCAzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfbWVyZ2UoWwogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICd0aXRsZScsCiAgICAgICAgICAgICAgICAndHlwZScgICAgID0+ICd0ZXh0JywKICAgICAgICAgICAgICAgICdsYWJlbCcgICAgPT4gJ1RpdGVsJywKICAgICAgICAgICAgICAgICd0YWInICAgICAgPT4gJ1RpdGVsJywKICAgICAgICAgICAgICAgICdmYWtlJyAgICAgPT4gdHJ1ZSwKICAgICAgICAgICAgICAgICdzdG9yZV9pbicgPT4gJ2NvbnRlbnQnLAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICdzbHVnJywKICAgICAgICAgICAgICAgICd0eXBlJyAgICAgPT4gJ3RleHQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyAgICA9PiAnU2x1ZycsCiAgICAgICAgICAgICAgICAndGFiJyAgICAgID0+ICdUaXRlbCcsCiAgICAgICAgICAgICAgICAnZmFrZScgICAgID0+IHRydWUsCiAgICAgICAgICAgICAgICAnc3RvcmVfaW4nID0+ICdjb250ZW50JywKICAgICAgICAgICAgXSwKICAgICAgICBdLCAkdGhpcy0+YWRkVGV4dFBhcnRpYWxzKFtdLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfbWVyZ2UoWwogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICd0aXRsZScsCiAgICAgICAgICAgICAgICAndHlwZScgICAgID0+ICd0ZXh0JywKICAgICAgICAgICAgICAgICdsYWJlbCcgICAgPT4gJ1RpdGVsJywKICAgICAgICAgICAgICAgICd0YWInICAgICAgPT4gJ1RpdGVsJywKICAgICAgICAgICAgICAgICdmYWtlJyAgICAgPT4gdHJ1ZSwKICAgICAgICAgICAgICAgICdzdG9yZV9pbicgPT4gJ2NvbnRlbnQnLAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICdzbHVnJywKICAgICAgICAgICAgICAgICd0eXBlJyAgICAgPT4gJ3RleHQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyAgICA9PiAnU2x1ZycsCiAgICAgICAgICAgICAgICAndGFiJyAgICAgID0+ICdUaXRlbCcsCiAgICAgICAgICAgICAgICAnZmFrZScgICAgID0+IHRydWUsCiAgICAgICAgICAgICAgICAnc3RvcmVfaW4nID0+ICdjb250ZW50JywKICAgICAgICAgICAgXSwKICAgICAgICBdLCAkdGhpcy0+YWRkVGV4dFBhcnRpYWxzKFtdLCAzKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfbWVyZ2UoWwogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICd0aXRsZScsCiAgICAgICAgICAgICAgICAndHlwZScgICAgID0+ICd0ZXh0JywKICAgICAgICAgICAgICAgICdsYWJlbCcgICAgPT4gJ1RpdGVsJywKICAgICAgICAgICAgICAgICd0YWInICAgICAgPT4gJ1RpdGVsJywKICAgICAgICAgICAgICAgICdmYWtlJyAgICAgPT4gdHJ1ZSwKICAgICAgICAgICAgICAgICdzdG9yZV9pbicgPT4gJ2NvbnRlbnQnLAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICdzbHVnJywKICAgICAgICAgICAgICAgICd0eXBlJyAgICAgPT4gJ3RleHQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyAgICA9PiAnU2x1ZycsCiAgICAgICAgICAgICAgICAndGFiJyAgICAgID0+ICdUaXRlbCcsCiAgICAgICAgICAgICAgICAnZmFrZScgICAgID0+IHRydWUsCiAgICAgICAgICAgICAgICAnc3RvcmVfaW4nID0+ICdjb250ZW50JywKICAgICAgICAgICAgXSwKICAgICAgICBdLCAkdGhpcy0+YWRkVGV4dFBhcnRpYWxzKFtdLCAzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfbWVyZ2UoWwogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICd0aXRsZScsCiAgICAgICAgICAgICAgICAndHlwZScgICAgID0+ICd0ZXh0JywKICAgICAgICAgICAgICAgICdsYWJlbCcgICAgPT4gJ1RpdGVsJywKICAgICAgICAgICAgICAgICd0YWInICAgICAgPT4gJ1RpdGVsJywKICAgICAgICAgICAgICAgICdmYWtlJyAgICAgPT4gdHJ1ZSwKICAgICAgICAgICAgICAgICdzdG9yZV9pbicgPT4gJ2NvbnRlbnQnLAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICdzbHVnJywKICAgICAgICAgICAgICAgICd0eXBlJyAgICAgPT4gJ3RleHQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyAgICA9PiAnU2x1ZycsCiAgICAgICAgICAgICAgICAndGFiJyAgICAgID0+ICdUaXRlbCcsCiAgICAgICAgICAgICAgICAnZmFrZScgICAgID0+IHRydWUsCiAgICAgICAgICAgICAgICAnc3RvcmVfaW4nID0+ICdjb250ZW50JywKICAgICAgICAgICAgXSwKICAgICAgICBdLCAkdGhpcy0+YWRkVGV4dFBhcnRpYWxzKFtdLCAyKSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICd0aXRsZScsCiAgICAgICAgICAgICAgICAndHlwZScgICAgID0+ICd0ZXh0JywKICAgICAgICAgICAgICAgICdsYWJlbCcgICAgPT4gJ1RpdGVsJywKICAgICAgICAgICAgICAgICd0YWInICAgICAgPT4gJ1RpdGVsJywKICAgICAgICAgICAgICAgICdmYWtlJyAgICAgPT4gdHJ1ZSwKICAgICAgICAgICAgICAgICdzdG9yZV9pbicgPT4gJ2NvbnRlbnQnLAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICdzbHVnJywKICAgICAgICAgICAgICAgICd0eXBlJyAgICAgPT4gJ3RleHQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyAgICA9PiAnU2x1ZycsCiAgICAgICAgICAgICAgICAndGFiJyAgICAgID0+ICdUaXRlbCcsCiAgICAgICAgICAgICAgICAnZmFrZScgICAgID0+IHRydWUsCiAgICAgICAgICAgICAgICAnc3RvcmVfaW4nID0+ICdjb250ZW50JywKICAgICAgICAgICAgXQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfbWVyZ2UoWwogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICd0aXRsZScsCiAgICAgICAgICAgICAgICAndHlwZScgICAgID0+ICd0ZXh0JywKICAgICAgICAgICAgICAgICdsYWJlbCcgICAgPT4gJ1RpdGVsJywKICAgICAgICAgICAgICAgICd0YWInICAgICAgPT4gJ1RpdGVsJywKICAgICAgICAgICAgICAgICdmYWtlJyAgICAgPT4gdHJ1ZSwKICAgICAgICAgICAgICAgICdzdG9yZV9pbicgPT4gJ2NvbnRlbnQnLAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICdzbHVnJywKICAgICAgICAgICAgICAgICd0eXBlJyAgICAgPT4gJ3RleHQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyAgICA9PiAnU2x1ZycsCiAgICAgICAgICAgICAgICAndGFiJyAgICAgID0+ICdUaXRlbCcsCiAgICAgICAgICAgICAgICAnZmFrZScgICAgID0+IHRydWUsCiAgICAgICAgICAgICAgICAnc3RvcmVfaW4nID0+ICdjb250ZW50JywKICAgICAgICAgICAgXSwKICAgICAgICBdLCAkdGhpcy0+YWRkVGV4dFBhcnRpYWxzKFtdLCAzKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>bänder</last-search>
+      <last-search>Permission</last-search>
       <last-offset />
-      <last-pattern>bänder</last-pattern>
+      <last-pattern>Permission</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -2925,7 +2961,6 @@
     </search>
     <history>
       <history-search>
-        <entry>{ trans</entry>
         <entry>persoflicon</entry>
         <entry>icon</entry>
         <entry>Root</entry>
@@ -2945,6 +2980,7 @@
         <entry>mail</entry>
         <entry>parsedown</entry>
         <entry>bänder</entry>
+        <entry>Permission</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
