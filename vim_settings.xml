@@ -580,7 +580,7 @@
         <mark key="^" line="14" column="78" />
         <mark key="." line="14" column="53" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Models/Company/Company.php" timestamp="1536236155565">
+      <file name="$USER_HOME$/git/web/persofleet/app/Models/Company/Company.php" timestamp="1536239547737">
         <mark key="[" line="120" column="57" />
         <mark key="]" line="114" column="47" />
         <mark key="." line="114" column="0" />
@@ -615,7 +615,7 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" timestamp="1536222927286">
+      <file name="$USER_HOME$/git/web/coatings/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" timestamp="1536238784264">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="8" column="5" />
         <mark key="." line="4" column="0" />
@@ -626,6 +626,10 @@
         <mark key="]" line="15" column="9" />
         <mark key="." line="15" column="9" />
         <mark key="^" line="15" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/web/wohnbau/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" timestamp="1536238783196">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="9" column="4" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Components/Administration/User/Mail/Created.php" timestamp="1530625248213">
         <mark key="[" line="24" column="0" />
@@ -2695,6 +2699,12 @@
         <mark key="." line="148" column="31" />
         <mark key="^" line="148" column="24" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Scopes/CompanyScope.php" timestamp="1536239542923">
+        <mark key="[" line="13" column="64" />
+        <mark key="]" line="13" column="80" />
+        <mark key="^" line="13" column="80" />
+        <mark key="." line="13" column="80" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/vendor/webfactor/laravel-generators/src/Schemas/Naming/CrudRequest.php" timestamp="1530022160043">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="102" />
@@ -2964,17 +2974,17 @@
       <jump line="99" column="27" filename="$USER_HOME$/git/web/coatings/resources/views/pages/services.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJiYWNrZHJvcCBiYWNrZHJvcC1yZWQiPjwvZGl2Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>falsea</text>
       </register>
       <register name="-" type="4">
-        <text>text_</text>
+        <text>falsea</text>
       </register>
       <register name="/" type="4">
         <text>text_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJiYWNrZHJvcCBiYWNrZHJvcC1yZWQiPjwvZGl2Pgo=</text>
+        <text encoding="base64">PGxpPgogICAgPGEgaHJlZj0ie3sgYmFja3BhY2tfdXJsKCd0ZWFtbWVtYmVyJykgfX0iPgogICAgICAgIDxpIGNsYXNzPSJmYSBmYS11c2VycyI+PC9pPjxzcGFuPnt7IHRyYW5zKCdtb2RlbHMudGVhbV9tZW1iZXIucGx1cmFsJykgfX08L3NwYW4+CiAgICA8L2E+CjwvbGk+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93IGp1c3RpZnktY29udGVudC1jZW50ZXIiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTEyIGNvbC1zbS02IGNvbC1tZC00IGNvbC14bC0yIGZsZXgteGwtZ3Jvdy0xIG1iLTIgbWItc20tMCIgZGF0YS1hb3M9ImZhZGUtbGVmdCIgZGF0YS1hb3MtZGVsYXk9IjAiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJnLXdoaXRlIHRleHQtYm9keSByb3VuZGVkLWNpcmNsZSBkaXNwbGF5LTQgcC00IG1iLTMiPgogICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmFzIGZhLWJhcnMiPjwvaT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0ibGVhZCBmb250LXdlaWdodC1ib2xkIG1iLTAiPlByb2R1a3RiZXJlaWNoZTwvcD4KICAgICAgICAgICAgICAgICAgICA8cD5Mb3JlbSBpcHN1bSBkb2xvcjwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTEyIGNvbC1zbS02IGNvbC1tZC00IGNvbC14bC0yIGZsZXgteGwtZ3Jvdy0xIG1iLTIgbWItc20tMCIgZGF0YS1hb3M9ImZhZGUtbGVmdCIgZGF0YS1hb3MtZGVsYXk9IjEwMCI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYmctd2hpdGUgdGV4dC1ib2R5IHJvdW5kZWQtY2lyY2xlIGRpc3BsYXktNCBwLTQgbWItMyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYXMgZmEtY2hlY2siPjwvaT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0ibGVhZCBmb250LXdlaWdodC1ib2xkIG1iLTAiPkVpbnNhdHpiZXJlaWNoZTwvcD4KICAgICAgICAgICAgICAgICAgICA8cD5zaXQgYW1ldCBjb25zZWN0ZXR1cjwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTEyIGNvbC1zbS02IGNvbC1tZC00IGNvbC14bC0yIGZsZXgteGwtZ3Jvdy0xIG1iLTIgbWItc20tMCIgZGF0YS1hb3M9ImZhZGUtbGVmdCIgZGF0YS1hb3MtZGVsYXk9IjIwMCI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYmctd2hpdGUgdGV4dC1ib2R5IHJvdW5kZWQtY2lyY2xlIGRpc3BsYXktNCBwLTQgbWItMyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYXMgZmEtYXJyb3ctZG93biI+PC9pPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJsZWFkIGZvbnQtd2VpZ2h0LWJvbGQgbWItMCI+TGVpc3R1bmdzc3Bla3RydW08L3A+CiAgICAgICAgICAgICAgICAgICAgPHA+YWRpcGlzaWNpbmcgZWxpdDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTEyIGNvbC1zbS02IGNvbC1tZC00IGNvbC14bC0yIGZsZXgteGwtZ3Jvdy0xIG1iLTIgbWItc20tMCIgZGF0YS1hb3M9ImZhZGUtbGVmdCIgZGF0YS1hb3MtZGVsYXk9IjMwMCI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYmctd2hpdGUgdGV4dC1ib2R5IHJvdW5kZWQtY2lyY2xlIGRpc3BsYXktNCBwLTQgbWItMyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYXMgZmEtYXN0ZXJpc2siPjwvaT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0ibGVhZCBmb250LXdlaWdodC1ib2xkIG1iLTAiPkJlaXNwaWVscHJvZHVrdGU8L3A+CiAgICAgICAgICAgICAgICAgICAgPHA+SXBzdW0gZG9sb3JlbXF1ZTwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTEyIGNvbC1zbS02IGNvbC1tZC00IGNvbC14bC0yIGZsZXgteGwtZ3Jvdy0xIG1iLTIgbWItc20tMCIgZGF0YS1hb3M9ImZhZGUtbGVmdCIgZGF0YS1hb3MtZGVsYXk9IjQwMCI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYmctd2hpdGUgdGV4dC1ib2R5IHJvdW5kZWQtY2lyY2xlIGRpc3BsYXktNCBwLTQgbWItMyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYXMgZmEtYm94ZXMiPjwvaT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0ibGVhZCBmb250LXdlaWdodC1ib2xkIG1iLTAiPlNwZXppYWxlbnR3aWNrbHVuZ2VuPC9wPgogICAgICAgICAgICAgICAgICAgIDxwPm1heGltZSB0ZW1wb3JhIG5vbiBhdXQ8L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
