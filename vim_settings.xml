@@ -1202,11 +1202,11 @@
         <mark key="." line="31" column="34" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/database/factories/TeamMemberFactory.php" timestamp="1536221865331">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="34" />
-        <mark key="." line="10" column="34" />
-        <mark key="^" line="10" column="38" />
+      <file name="$USER_HOME$/git/web/coatings/database/factories/TeamMemberFactory.php" timestamp="1536222825593">
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/database/migrations/2018_06_11_165100_create_vehicle_accidents_table.php" timestamp="1528728437708">
         <mark key="[" line="36" column="38" />
@@ -1688,6 +1688,10 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Models/Reports/Report.php" timestamp="1536222772667">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="95" column="5" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/resources/views/columns/datetime.blade.php" timestamp="1534857087935">
         <mark key="[" line="1" column="51" />
         <mark key="]" line="1" column="50" />
@@ -2116,11 +2120,11 @@
         <mark key="." line="28" column="30" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Models/TeamMember.php" timestamp="1536222489651">
-        <mark key="[" line="45" column="21" />
-        <mark key="]" line="45" column="21" />
-        <mark key="." line="45" column="21" />
-        <mark key="^" line="45" column="25" />
+      <file name="$USER_HOME$/git/web/coatings/app/Models/TeamMember.php" timestamp="1536222780523">
+        <mark key="[" line="49" column="21" />
+        <mark key="]" line="49" column="21" />
+        <mark key="." line="49" column="21" />
+        <mark key="^" line="49" column="22" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Traits/AssignableTrait.php" timestamp="1530021753290">
         <mark key="[" line="29" column="58" />
@@ -2885,16 +2889,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>array</text>
+        <text>description</text>
       </register>
       <register name="-" type="4">
-        <text>array</text>
+        <text>description</text>
       </register>
       <register name="/" type="4">
         <text>Permission</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5KFxBcHBcTW9kZWxzXFRlYW1NZW1iZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ25hbWUnICAgPT4gJ0RyLiBHb3R0ZnJpZWQgUGhpbGlwcCcsCiAgICAgICAgICAgICdwaG9uZScgID0+ICcrNDkgOTMzNCA5NyA5OSAxMTAnLAogICAgICAgICAgICAnZW1haWwnICA9PiAnZ290dGZyaWVkLnBoaWxpcHBAM2QtY29hdGluZ3MuZGUnLAogICAgICAgICAgICAnZXh0cmFzJyA9PiBbCiAgICAgICAgICAgICAgICAnZGVzY3JpcHRpb24nID0+ICJEaXBsb20gQ2hlbWlrZXIgIApHZXNjaMOkZnRzZsO8aHJlciIsCiAgICAgICAgICAgIF0sCiAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZmFrZUNvbHVtbnMgPSBbCiAgICAgICAgJ2V4dHJhcycsCiAgICBdOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAvLyBwcm90ZWN0ZWQgJGhpZGRlbiA9IFtdOwogICAgLy8gcHJvdGVjdGVkICRkYXRlcyA9IFtdOwo=</text>
