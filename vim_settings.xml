@@ -61,6 +61,10 @@
         <mark key="]" line="9" column="14" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Administration/User/Controllers/EmployeeCrudController.php" timestamp="1536659224598">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="38" />
+      </file>
       <file name="$USER_HOME$/git/web/hypno/database/migrations/2018_01_30_163509_create_categories_table.php" timestamp="1525338524962">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="25" />
@@ -1300,10 +1304,11 @@
         <mark key="." line="31" column="37" />
         <mark key="^" line="31" column="36" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Traits/HasTitleTab.php" timestamp="1536221595352">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
+      <file name="$USER_HOME$/git/web/coatings/app/Traits/HasTitleTab.php" timestamp="1536659209807">
+        <mark key="[" line="32" column="71" />
+        <mark key="]" line="32" column="69" />
+        <mark key="." line="32" column="69" />
+        <mark key="^" line="32" column="69" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/app/Widgets/Reference.php" timestamp="1536319785493">
         <mark key="[" line="25" column="47" />
@@ -2938,11 +2943,12 @@
         <mark key="." line="34" column="26" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/resources/lang/de/validation.php" timestamp="1536309235185">
-        <mark key="[" line="149" column="31" />
-        <mark key="]" line="149" column="31" />
-        <mark key="." line="149" column="31" />
-        <mark key="^" line="149" column="31" />
+      <file name="$USER_HOME$/git/web/coatings/resources/lang/de/validation.php" timestamp="1536659186751">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="150" column="24" />
+        <mark key="]" line="150" column="22" />
+        <mark key="." line="150" column="22" />
+        <mark key="^" line="150" column="22" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Scopes/CompanyScope.php" timestamp="1536239542923">
         <mark key="[" line="13" column="64" />
@@ -3058,6 +3064,9 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/AboutUs.php" timestamp="1536659023424">
+        <mark key="[" line="20" column="40" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Mail/AccidentPdf.php" timestamp="1535374219781">
         <mark key="[" line="33" column="21" />
         <mark key="]" line="33" column="94" />
@@ -3125,7 +3134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="78" filename="$USER_HOME$/git/web/persofleet/resources/views/components/modules/inc/node.blade.php" />
       <jump line="27" column="78" filename="$USER_HOME$/git/web/persofleet/resources/views/components/modules/inc/node.blade.php" />
       <jump line="33" column="17" filename="$USER_HOME$/git/web/persofleet/resources/views/components/modules/inc/node.blade.php" />
       <jump line="36" column="70" filename="$USER_HOME$/git/web/persofleet/resources/views/components/modules/inc/node.blade.php" />
@@ -3225,19 +3233,20 @@
       <jump line="79" column="78" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
       <jump line="135" column="70" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
       <jump line="1211" column="20" filename="$USER_HOME$/git/web/coatings/vendor/laravel/framework/src/Illuminate/Support/Collection.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/coatings/resources/lang/de/validation.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIFdlYmZhY3RvclxMYXJhdmVsXEJhY2twYWNrXFBhZ2VNYW5hZ2VyXE1vZGVsc1xQYWdlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlJyAgICA9PiAnaGlkZGVuJywK</text>
       </register>
       <register name="-" type="4">
-        <text>rvices</text>
+        <text>is_navbar_item</text>
       </register>
       <register name="/" type="4">
         <text>first</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwcmVzZXRzLT5nZXQoJ3NlcnZpY2VzJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlJyAgICA9PiAnaGlkZGVuJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNlIFdlYmZhY3RvclxMYXJhdmVsXEJhY2twYWNrXFBhZ2VNYW5hZ2VyXE1vZGVsc1xQYWdlOwo=</text>
