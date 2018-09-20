@@ -3447,7 +3447,7 @@
         <text>$userIsAlreadyRegistered = false</text>
       </register>
       <register name="/" type="4">
-        <text>email_</text>
+        <text>assoc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNsYXNzIGxhcmF2ZWwtYmFja3BhY2stcGFnZW1hbmFnZXIgZXh0ZW5kcyBcV2ViZmFjdG9yXExhcmF2ZWxcQmFja3BhY2tcUGFnZU1hbmFnZXJcRmFjYWRlc1xQYWdlTWFuYWdlciB7fQo=</text>
@@ -3493,9 +3493,9 @@
       </register>
     </registers>
     <search>
-      <last-search>email_</last-search>
+      <last-search>assoc</last-search>
       <last-offset />
-      <last-pattern>email_</last-pattern>
+      <last-pattern>assoc</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -3503,7 +3503,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pagemanager.php</entry>
         <entry>oute</entry>
         <entry>card</entry>
         <entry>shadown</entry>
@@ -3523,6 +3522,7 @@
         <entry>ageMan</entry>
         <entry>ageManager</entry>
         <entry>email_</entry>
+        <entry>assoc</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
