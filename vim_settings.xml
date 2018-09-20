@@ -723,6 +723,12 @@
         <mark key="]" line="9" column="14" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/resources/lang/de/frontend.php" timestamp="1537447536832">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="30" column="64" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/resources/views/components/reports/fault/show.blade.php" timestamp="1533739576522">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="30" column="9" />
@@ -1271,11 +1277,11 @@
         <mark key="." line="18" column="34" />
         <mark key="^" line="18" column="34" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/resources/views/emails/prove_your_location_confirmation.blade.php" timestamp="1536836231096">
-        <mark key="[" line="12" column="54" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="17" column="41" />
+      <file name="$USER_HOME$/git/web/jumpin/resources/views/emails/prove_your_location_confirmation.blade.php" timestamp="1537447562889">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="11" column="41" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/guitab/.electron-vue/webpack.web.config.js" timestamp="1535711245807">
         <mark key="[" line="112" column="0" />
@@ -1850,6 +1856,9 @@
         <mark key="]" line="21" column="46" />
         <mark key="^" line="21" column="46" />
         <mark key="." line="21" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/resources/views/auth/register.blade.php" timestamp="1537448027711">
+        <mark key="[" line="251" column="4" />
       </file>
       <file name="$USER_HOME$/git/app/jumpin/src/pages/jump-in/jump-in.html" timestamp="1518709119867">
         <mark key="[" line="17" column="19" />
@@ -3127,10 +3136,10 @@
         <mark key="^" line="13" column="80" />
         <mark key="." line="13" column="80" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/Auth/RegisterController.php" timestamp="1537432741138">
-        <mark key="[" line="72" column="45" />
-        <mark key="]" line="72" column="45" />
-        <mark key="." line="72" column="45" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/Auth/RegisterController.php" timestamp="1537447388605">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/vendor/webfactor/laravel-generators/src/Schemas/Naming/CrudRequest.php" timestamp="1530022160043">
         <mark key="[" line="13" column="0" />
@@ -3180,11 +3189,10 @@
         <mark key="^" line="2" column="107" />
         <mark key="." line="2" column="107" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Notifications/Mail/ProveYourLocationConfirmation.php" timestamp="1536836350397">
-        <mark key="[" line="27" column="80" />
-        <mark key="]" line="27" column="11" />
-        <mark key="." line="27" column="11" />
-        <mark key="^" line="27" column="11" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Notifications/Mail/ProveYourLocationConfirmation.php" timestamp="1537447499350">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/resources/lang/de/passwords.php" timestamp="1521108612470">
         <mark key="[" line="10" column="22" />
@@ -3432,11 +3440,11 @@
       <jump line="153" column="19" filename="$USER_HOME$/git/web/jumpin/app/Models/User.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmVtYWlsX2NvbmZpcm1lZCA9IGZhbHNlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>section</text>
       </register>
       <register name="-" type="4">
-        <text>$userIsAlreadyRegistered = false</text>
+        <text>section</text>
       </register>
       <register name="/" type="4">
         <text>assoc</text>
@@ -3445,40 +3453,40 @@
         <text encoding="base64">ICAgIGNsYXNzIGxhcmF2ZWwtYmFja3BhY2stcGFnZW1hbmFnZXIgZXh0ZW5kcyBcV2ViZmFjdG9yXExhcmF2ZWxcQmFja3BhY2tcUGFnZU1hbmFnZXJcRmFjYWRlc1xQYWdlTWFuYWdlciB7fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmVtYWlsX2NvbmZpcm1lZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECjwvcD4KPHA+CiAgICB7eyB0cmFucygnZnJvbnRlbmQucHJvdmVfeW91cl9zaG9wX2NvbmZpcm1hdGlvbi5wcm92ZScpIH19Cj09PT09PT0KPj4+Pj4+PiBvcmlnaW4vdGlja2V0Lzk3MTAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC9wPgo8cD4K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkbWFpbGFibGUgPSA7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vdGlja2V0Lzk3MTAK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdwcm92ZV95b3VyX3Nob3BfY29uZmlybWF0aW9uJyA9PiBbCiAgICAgICAgJ3RpdGxlJyAgID0+ICdCZXN0w6R0aWd1bmcgdm9uIEp1bXBJbicsCiAgICAgICAgJ3Byb3ZlJyAgID0+ICd3aXIgw5xiZXJwcsO8ZmVuIGdlcmFkZSBkZWluZSBEYXRlbiB1bmQgZ2ViZW4gZGljaCBiYWxkIGZyZWkuJywKICAgICAgICAnc3ViamVjdCcgPT4gJ1JlZ2lzdHJpZXJ1bmcgYXVmIGRlciBKdW1wSW4gV2Vic2VpdGUnLAo9PT09PT09Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nOjpkZWJ1ZyhwcmludF9yKCRyZXN1bHQsIHRydWUpKTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vdGlja2V0Lzk3MTAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nOjpkZWJ1ZyhzZWxmOjpjbGFzcy4gJzo6c2VuZEJhY2tlbmRWZXJpZmljYXRpb24gLT4gc2VudC4nKTsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgcmV0dXJuICR0aGlzLT52aWV3KCdlbWFpbHMucHJvdmVfeW91cl9sb2NhdGlvbl9jb25maXJtYXRpb24nLFsndXNlcic9PiAkdGhpcy0+dXNlcl0pLT5zdWJqZWN0KHRyYW5zKCdmcm9udGVuZC5wcm92ZV95b3VyX3Nob3BfY29uZmlybWF0aW9uLnN1YmplY3QnKSk7Cj09PT09PT0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nOjpkZWJ1ZyhzZWxmOjpjbGFzcy4gJzo6c2VuZEJhY2tlbmRWZXJpZmljYXRpb24gLT4gc2VuZGluZy4nKTsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nOjpkZWJ1ZyhzZWxmOjpjbGFzcy4gJzo6bWFpbGFibGU6Jyk7CiAgICAgICAgXExvZzo6ZGVidWcocHJpbnRfcigkbWFpbGFibGUsIHRydWUpKTsK</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAnYWRkcmVzcycgICAgID0+IFsKICAgICAgICAgICAgICAgICdjaXR5JyAgICAgPT4gJHJlcXVlc3QtPmdldCgnY2l0eScpLAogICAgICAgICAgICAgICAgJ25hbWUnICAgICA9PiAkcmVxdWVzdC0+Z2V0KCdzdHJlZXRBZGRyZXNzJyksCiAgICAgICAgICAgICAgICAncG9zdGNvZGUnID0+ICRyZXF1ZXN0LT5nZXQoJ3Bvc3Rjb2RlJyksCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICdwaG9uZScgICAgICAgPT4gJHJlcXVlc3QtPmdldCgncGhvbmUnKSwKICAgICAgICAgICAgJ2VtYWlsJyAgICAgICA9PiAkcmVxdWVzdC0+Z2V0KCdlbWFpbCcpLAogICAgICAgICAgICAnZmF4JyAgICAgICAgID0+ICRyZXF1ZXN0LT5nZXQoJ2ZheCcpLAo+Pj4+Pj4+IG9yaWdpbi90aWNrZXQvOTcxMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBcTG9nOjpkZWJ1ZyhzZWxmOjpjbGFzcy4gJzo6c2VuZEJhY2tlbmRWZXJpZmljYXRpb24gLT4gcHJlcGFyaW5nLiAnIC4gJ3VzZXJJc0FscmVhZHlSZWdpc3RlcmVkOicgLiAkdXNlcklzQWxyZWFkeVJlZ2lzdGVyZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmVtYWlsX2NvbmZpcm1lZCA9IGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
