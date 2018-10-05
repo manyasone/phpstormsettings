@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/web/gsk/resources/assets/sass/_staff.scss" timestamp="1537955549934">
@@ -3185,6 +3185,12 @@
         <mark key="^" line="4" column="69" />
         <mark key="." line="4" column="69" />
       </file>
+      <file name="$USER_HOME$/git/web/gsk/resources/views/layouts/footer.blade.php" timestamp="1538724163402">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+        <mark key="^" line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/git/web/coatings/database/migrations/2018_08_14_121529_create_team_members_table.php" timestamp="1537882253801">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="40" />
@@ -3699,14 +3705,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/resources/lang/de/validation.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAncGF0aCcsCg==</text>
+      <register name="&quot;" type="4">
+        <text>tet-center</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tet-center</text>
       </register>
       <register name="/" type="4">
-        <text>ein Auf</text>
+        <text>document</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgJ3RpdGxlJywKICAgICAgICAgJ2NvbXBhbnlfaWQnLAo=</text>
@@ -3752,9 +3758,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ein Auf</last-search>
+      <last-search>document</last-search>
       <last-offset />
-      <last-pattern>ein Auf</last-pattern>
+      <last-pattern>document</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -3762,7 +3768,6 @@
     </search>
     <history>
       <history-search>
-        <entry>widget</entry>
         <entry>parsedown</entry>
         <entry>arse</entry>
         <entry>.shadow</entry>
@@ -3782,6 +3787,7 @@
         <entry>Lehrer</entry>
         <entry>right</entry>
         <entry>ein Auf</entry>
+        <entry>document</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
