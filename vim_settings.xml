@@ -9,7 +9,7 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1539009933331">
+      <file name="/a.dummy" timestamp="1539082430890">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Helpers.php" timestamp="1534251976067">
@@ -1140,11 +1140,11 @@
         <mark key="." line="34" column="26" />
         <mark key="^" line="32" column="36" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" timestamp="1539000956039">
-        <mark key="'" line="70" column="32" />
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="0" />
-        <mark key="." line="291" column="0" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" timestamp="1539083972159">
+        <mark key="[" line="284" column="9" />
+        <mark key="]" line="304" column="7" />
+        <mark key="^" line="304" column="7" />
+        <mark key="." line="304" column="7" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/database/factories/FileFactory.php" timestamp="1517911461328">
         <mark key="[" line="11" column="0" />
@@ -1827,6 +1827,12 @@
         <mark key="]" line="64" column="15" />
         <mark key="^" line="64" column="15" />
         <mark key="." line="64" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Models/Location.php" timestamp="1539083580747">
+        <mark key="'" line="93" column="81" />
+        <mark key="[" line="361" column="0" />
+        <mark key="]" line="361" column="0" />
+        <mark key="." line="361" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Http/Controllers/Employee/Auth/ForgotPasswordController.php" timestamp="1521550861816">
         <mark key="[" line="40" column="33" />
@@ -2826,10 +2832,10 @@
         <mark key="." line="115" column="33" />
         <mark key="^" line="102" column="39" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Requests/LocationRequest.php" timestamp="1539000667010">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Requests/LocationRequest.php" timestamp="1539083803467">
+        <mark key="[" line="46" column="44" />
+        <mark key="]" line="46" column="44" />
+        <mark key="." line="46" column="44" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/tests/Crud/UserCrudTest.php" timestamp="1524487729842">
         <mark key="[" line="24" column="27" />
@@ -3259,6 +3265,12 @@
         <mark key="]" line="16" column="4" />
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" timestamp="1539083207409">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="54" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/resources/views/pages/home.blade.php" timestamp="1536669401711">
         <mark key="[" line="4" column="20" />
@@ -3842,36 +3854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="1" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_card.scss" />
-      <jump line="22" column="0" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
-      <jump line="14" column="0" filename="$USER_HOME$/git/web/gsk/public/css/app.css" />
-      <jump line="1047" column="18" filename="$USER_HOME$/git/web/gsk/public/css/app.css" />
-      <jump line="714" column="44" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="717" column="81" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="723" column="50" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="734" column="13" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="753" column="50" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="800" column="36" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="829" column="36" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="852" column="36" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="877" column="36" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="225" column="38" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="330" column="31" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="476" column="41" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="535" column="37" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="693" column="37" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="686" column="37" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="632" column="37" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="626" column="37" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="719" column="1" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/coatings/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="76" column="0" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
-      <jump line="33" column="16" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
-      <jump line="312" column="0" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
-      <jump line="8" column="31" filename="$USER_HOME$/git/web/gsk/resources/views/layouts/navSideMenu.blade.php" />
-      <jump line="148" column="0" filename="$USER_HOME$/git/web/gsk/config/app.php" />
-      <jump line="23" column="0" filename="$USER_HOME$/git/web/gsk/app/Http/Controllers/FrontendPageController.php" />
-      <jump line="18" column="17" filename="$USER_HOME$/git/web/gsk/resources/assets/sass/_variables.scss" />
       <jump line="101" column="0" filename="$USER_HOME$/git/web/gsk/config/pages.php" />
       <jump line="42" column="20" filename="$USER_HOME$/git/web/gsk/resources/assets/sass/_nav.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/resources/lang/de/validation.php" />
@@ -3942,65 +3924,94 @@
       <jump line="29" column="50" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinDateCrudController.php" />
       <jump line="33" column="26" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinDateCrudController.php" />
       <jump line="50" column="36" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/DateCrudController.php" />
+      <jump line="291" column="25" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
+      <jump line="137" column="16" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
+      <jump line="65" column="82" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
+      <jump line="127" column="0" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
+      <jump line="352" column="23" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
+      <jump line="53" column="82" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
+      <jump line="106" column="45" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
+      <jump line="204" column="43" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
+      <jump line="374" column="0" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
+      <jump line="93" column="81" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
+      <jump line="137" column="26" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="27" column="41" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="34" column="59" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="36" column="35" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="39" column="79" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="60" column="40" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="8" column="7" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="61" column="33" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="118" column="28" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="32" column="68" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="10" column="7" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="11" column="13" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="12" column="14" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="13" column="29" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="15" column="8" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="17" column="54" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="18" column="4" filename="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/crud/fields/single_column_table.blade.php" />
+      <jump line="5" column="31" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoaXNfc3RyaW5nKCRyZXF1ZXN0LT5nZXQoJ3JlY29tbWVuZGF0aW9ucycpKSkgewogICAgICAgICAgICAkcmVxdWVzdC0+bWVyZ2UoWwogICAgICAgICAgICAgICAgJ3JlY29tbWVuZGF0aW9ucycgPT4ganNvbl9kZWNvZGUoJHJlcXVlc3QtPmdldCgncmVjb21tZW5kYXRpb25zJykpLAogICAgICAgICAgICBdKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>V</text>
       </register>
       <register name="/" type="4">
-        <text>dd(</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdWZmaXgnICAgICA9PiAnIOKCrCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNfc3RyaW5nKCRyZXF1ZXN0LT5nZXQoJ3JlY29tbWVuZGF0aW9ucycpKSkgewogICAgICAgICAgICAkcmVxdWVzdC0+bWVyZ2UoWwogICAgICAgICAgICAgICAgJ3JlY29tbWVuZGF0aW9ucycgPT4ganNvbl9kZWNvZGUoJHJlcXVlc3QtPmdldCgncmVjb21tZW5kYXRpb25zJykpLAogICAgICAgICAgICBdKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>'
-                ],</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoaXNfc3RyaW5nKHJlcXVlc3QoKS0+Z2V0KCdyZWNvbW1lbmRhdGlvbnMnKSkpIHsKICAgICAgICAgICAgcmVxdWVzdCgpLT5tZXJnZShbCiAgICAgICAgICAgICAgICAncmVjb21tZW5kYXRpb25zJyA9PiBqc29uX2RlY29kZShyZXF1ZXN0KCktPmdldCgncmVjb21tZW5kYXRpb25zJykpLAogICAgICAgICAgICBdKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoaXNfYXJyYXkocmVxdWVzdCgpLT5nZXQoJ3JlY29tbWVuZGF0aW9ucycpKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBlZGl0KCRpZCkKICAgIHsKICAgICAgICBwYXJlbnQ6OmVkaXQoJGlkKTsKICAgICAgICBkZCgkdGhpcy0+Y3J1ZC0+ZW50cnkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHRoaXMtPnJlcXVlc3QoKS0+Z2V0KCdyZXF1ZXN0KCktPmdldChcJ3JlY29tbWVuZGF0aW9uc1wnKScpKTsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBub3coKS0+Zm9ybWF0KCdkLm0ueScpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVxdWVzdCgpLT5nZXQoJ3JlY29tbWVuZGF0aW9ucycpKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Y3J1ZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRyZXF1ZXN0LT5nZXQoJ3JlY29tbWVuZGF0aW9ucycpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdkZWZhdWx0JyA9PiBub3coKS0+Zm9ybWF0KCdkLm0ueScpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzX3N0cmluZygkcmVjb21tZW5kYXRpb25zKSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNfc3RyaW5nKCRyZXF1ZXN0LT5nZXQoJ3JlY29tbWVuZGF0aW9ucycpKSkgewogICAgICAgICAgICBkZCgkcmVxdWVzdC0+Z2V0KCdyZWNvbW1lbmRhdGlvbnMnKSk7CiAgICAgICAgICAgICRyZXF1ZXN0LT5tZXJnZShbCiAgICAgICAgICAgICAgICAncmVjb21tZW5kYXRpb25zJyA9PiBqc29uX2RlY29kZSgkcmVxdWVzdC0+Z2V0KCdyZWNvbW1lbmRhdGlvbnMnKSksCiAgICAgICAgICAgIF0pOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKG5vdygpLT5mb3JtYXQoJ0g6aTowMCcpKTsK</text>
+        <text encoding="base64">Ci8vICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRSZWNvbW1lbmRhdGlvbnNBdHRyaWJ1dGUoKQovLyAgICB7Ci8vICAgICAgICBkZCgkdGhpcyk7Ci8vICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0UmVjb21tZW5kYXRpb25zQXR0cmlidXRlKCR2YWx1ZSkKICAgIHsKICAgICAgICBkdW1wKCR2YWx1ZSk7CiAgICAgICAgaWYgKGlzX3N0cmluZyhqc29uX2RlY29kZSgkdmFsdWUpKSkgewogICAgICAgICAgICAkdmFsdWUgPSBqc29uX2RlY29kZSgkdmFsdWUpOwogICAgICAgICAgICBkZCgkdmFsdWUpOwogICAgICAgIH0KICAgICAgICAkdGhpcy0+ZXh0cmFzLT5yZWNvbW1lbmRhdGlvbnMgPSAkdmFsdWU7CiAgICAgICAgJHRoaXMtPnNhdmUoKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>dd(</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>dd(</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -4008,19 +4019,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Lehrer</entry>
-        <entry>right</entry>
-        <entry>ein Auf</entry>
-        <entry>document</entry>
-        <entry>im</entry>
-        <entry>image</entry>
-        <entry>Media</entry>
-        <entry>setIma</entry>
-        <entry>disk</entry>
-        <entry>media</entry>
-        <entry>images</entry>
-        <entry>ype</entry>
-        <entry>types</entry>
         <entry>week</entry>
         <entry>weekdays</entry>
         <entry>price</entry>
@@ -4028,6 +4026,19 @@
         <entry>tag</entry>
         <entry>dd</entry>
         <entry>dd(</entry>
+        <entry>Banner</entry>
+        <entry>recomm</entry>
+        <entry>extras</entry>
+        <entry>Recomm</entry>
+        <entry>Address</entry>
+        <entry>308gg</entry>
+        <entry>banners</entry>
+        <entry>encode</entry>
+        <entry>json</entry>
+        <entry>items</entry>
+        <entry>addItem</entry>
+        <entry>$items</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
