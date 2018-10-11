@@ -160,6 +160,12 @@
         <mark key="^" line="146" column="7" />
         <mark key="." line="146" column="7" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Models/VoteCategory.php" timestamp="1539263859268">
+        <mark key="[" line="84" column="29" />
+        <mark key="]" line="112" column="4" />
+        <mark key="." line="112" column="4" />
+        <mark key="^" line="112" column="4" />
+      </file>
       <file name="$USER_HOME$/git/web/hma/database/migrations/2018_01_22_144931_create_company_contact_table.php" timestamp="1516715160234">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="96" />
@@ -553,8 +559,8 @@
         <mark key="^" line="29" column="39" />
         <mark key="." line="29" column="39" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/QuickvotesController.php" timestamp="1533647569122">
-        <mark key="[" line="140" column="102" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/QuickvotesController.php" timestamp="1539263839643">
+        <mark key="[" line="67" column="9" />
         <mark key="]" line="140" column="105" />
         <mark key="^" line="140" column="105" />
         <mark key="." line="140" column="105" />
@@ -4016,10 +4022,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gYm9vdEhhc0ltYWdlKCkKICAgIHsKICAgICAgICBzdGF0aWM6OmRlbGV0aW5nKGZ1bmN0aW9uICgkb2JqKSB7CiAgICAgICAgICAgICRvYmotPmRlbGV0ZUltYWdlRmlsZSgpOwogICAgICAgIH0pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkY2hpbGRDYXRlZ29yaWVzID0gW107Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>headline</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Gloria</text>
@@ -4028,91 +4034,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gYm9vdEhhc0ltYWdlKCkKICAgIHsKICAgICAgICBzdGF0aWM6OmRlbGV0aW5nKGZ1bmN0aW9uICgkb2JqKSB7CiAgICAgICAgICAgICRvYmotPmRlbGV0ZUltYWdlRmlsZSgpOwogICAgICAgIH0pOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFRZUEVfTkFNRSAkbG9jYXRpb24gKi8K</text>
+        <text encoding="base64">ICAgICAgICAkY2hpbGRDYXRlZ29yaWVzID0gW107Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdCA9IFsKICAgICAgICAgICAgICAgICdwYXJlbnRDYXRlZ29yeUlkJyA9PiAkcGFyZW50LT5pZCwKICAgICAgICAgICAgICAgICdjYXRlZ29yeScgPT4gJHRoaXMtPmlkLAogICAgICAgICAgICBdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRsb2NhdGlvbi0+dXNlcnMtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjaGlsZCcgPT4gWwogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1peC5jb3B5KCdyZXNvdXJjZXMvYXNzZXRzL2ZvbnRzJywgJ3B1YmxpYy9mb250cycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJndWxwIjogIl4zLjguOCIsCiAgICAibGFyYXZlbC1lbGl4aXItcmVtb3ZlIjogIl4wLjEuMCIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9AaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PUdsb3JpYStIYWxsZWx1amFoJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGFyZW50Vm90ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9AaW1wb3J0IHVybCgiaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PVJhbGV3YXk6MjAwLDMwMCw0MDAsNjAwIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>/* raleway-200 - latin */
-@font-face {
-  font-family: 'Raleway';
-  font-style: normal;
-  font-weight: 200;
-  src: url('../fonts/raleway/raleway-v12-latin-200.eot'); /* IE9 Compat Modes */
-  src: local('Raleway ExtraLight'), local('Raleway-ExtraLight'),
-  url('../fonts/raleway/raleway-v12-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('../fonts/raleway/raleway-v12-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-  url('../fonts/raleway/raleway-v12-latin-200.woff') format('woff'), /* Modern Browsers */
-  url('../fonts/raleway/raleway-v12-latin-200.ttf') format('truetype'), /* Safari, Android, iOS */
-  url('../fonts/raleway/raleway-v12-latin-200.svg#Raleway') format('svg'); /* Legacy iOS */
-}
-/* raleway-300 - latin */
-@font-face {
-  font-family: 'Raleway';
-  font-style: normal;
-  font-weight: 300;
-  src: url('../fonts/raleway/raleway-v12-latin-300.eot'); /* IE9 Compat Modes */
-  src: local('Raleway Light'), local('Raleway-Light'),
-  url('../fonts/raleway/raleway-v12-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('../fonts/raleway/raleway-v12-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-  url('../fonts/raleway/raleway-v12-latin-300.woff') format('woff'), /* Modern Browsers */
-  url('../fonts/raleway/raleway-v12-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
-  url('../fonts/raleway/raleway-v12-latin-300.svg#Raleway') format('svg'); /* Legacy iOS */
-}
-/* raleway-regular - latin */
-@font-face {
-  font-family: 'Raleway';
-  font-style: normal;
-  font-weight: 400;
-  src: url('../fonts/raleway/raleway-v12-latin-regular.eot'); /* IE9 Compat Modes */
-  src: local('Raleway'), local('Raleway-Regular'),
-  url('../fonts/raleway/raleway-v12-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('../fonts/raleway/raleway-v12-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-  url('../fonts/raleway/raleway-v12-latin-regular.woff') format('woff'), /* Modern Browsers */
-  url('../fonts/raleway/raleway-v12-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-  url('../fonts/raleway/raleway-v12-latin-regular.svg#Raleway') format('svg'); /* Legacy iOS */
-}
-/* raleway-600 - latin */
-@font-face {
-  font-family: 'Raleway';
-  font-style: normal;
-  font-weight: 600;
-  src: url('../fonts/raleway/raleway-v12-latin-600.eot'); /* IE9 Compat Modes */
-  src: local('Raleway SemiBold'), local('Raleway-SemiBold'),
-  url('../fonts/raleway/raleway-v12-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('../fonts/raleway/raleway-v12-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-  url('../fonts/raleway/raleway-v12-latin-600.woff') format('woff'), /* Modern Browsers */
-  url('../fonts/raleway/raleway-v12-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
-  url('../fonts/raleway/raleway-v12-latin-600.svg#Raleway') format('svg'); /* Legacy iOS */
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW107Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhZ3JlZW1lbnQnID0+ICdyZXF1aXJlZCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFRZUEVfTkFNRSAkbG9jYXRpb24gKi8K</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
