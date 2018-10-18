@@ -1668,8 +1668,9 @@
         <mark key="." line="31" column="37" />
         <mark key="^" line="31" column="36" />
       </file>
-      <file name="$USER_HOME$/git/web/gsk/resources/views/layouts/nav.blade.php" timestamp="1538651119066">
-        <mark key="[" line="34" column="28" />
+      <file name="$USER_HOME$/git/web/gsk/resources/views/layouts/nav.blade.php" timestamp="1539857412501">
+        <mark key="'" line="32" column="28" />
+        <mark key="[" line="33" column="118" />
         <mark key="]" line="34" column="28" />
         <mark key="^" line="5" column="33" />
         <mark key="." line="34" column="28" />
@@ -2325,6 +2326,7 @@
         <mark key="." line="28" column="52" />
         <mark key="^" line="28" column="11" />
       </file>
+      <file name="$USER_HOME$/git/web/gsk/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss" timestamp="1539856850453" />
       <file name="$USER_HOME$/git/web/persofleet/database/migrations/2018_05_03_165736_add_vehicle_columns_to_users_table.php" timestamp="1525359639267">
         <mark key="[" line="16" column="67" />
         <mark key="]" line="15" column="15" />
@@ -3757,10 +3759,12 @@
         <mark key="^" line="34" column="25" />
         <mark key="." line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/git/web/gsk/resources/assets/sass/_nav.scss" timestamp="1539182109602">
-        <mark key="[" line="53" column="34" />
-        <mark key="]" line="53" column="35" />
-        <mark key="." line="53" column="35" />
+      <file name="$USER_HOME$/git/web/gsk/resources/assets/sass/_nav.scss" timestamp="1539859493363">
+        <mark key="'" line="8" column="4" />
+        <mark key="[" line="85" column="24" />
+        <mark key="]" line="85" column="25" />
+        <mark key="." line="85" column="25" />
+        <mark key="^" line="28" column="24" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/resources/lang/de/dashboard.php" timestamp="1535970546180">
         <mark key="[" line="6" column="36" />
@@ -3880,13 +3884,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="330" column="18" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/AccidentParticipantCrudController.php" />
-      <jump line="332" column="42" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/AccidentParticipantCrudController.php" />
-      <jump line="20" column="41" filename="$USER_HOME$/git/web/persofleet/resources/views/components/list.blade.php" />
-      <jump line="59" column="69" filename="$USER_HOME$/git/web/persofleet/resources/views/components/list.blade.php" />
-      <jump line="73" column="46" filename="$USER_HOME$/git/web/persofleet/resources/views/components/list.blade.php" />
-      <jump line="17" column="55" filename="$USER_HOME$/git/web/persofleet/resources/views/components/list.blade.php" />
-      <jump line="32" column="32" filename="$USER_HOME$/git/web/persofleet/resources/views/components/list.blade.php" />
       <jump line="2" column="10" filename="$USER_HOME$/git/web/persofleet/resources/views/components/list.blade.php" />
       <jump line="132" column="19" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/DateCrudController.php" />
       <jump line="119" column="17" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/DateCrudController.php" />
@@ -3980,64 +3977,71 @@
       <jump line="75" column="15" filename="$USER_HOME$/git/web/persofleet/app/Http/Kernel.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/resources/views/fields/address.blade.php" />
       <jump line="107" column="0" filename="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/resources/views/fields/address.blade.php" />
+      <jump line="5" column="31" filename="$USER_HOME$/git/web/gsk/resources/views/layouts/nav.blade.php" />
+      <jump line="79" column="0" filename="$USER_HOME$/git/web/gsk/resources/assets/sass/_nav.scss" />
+      <jump line="32" column="28" filename="$USER_HOME$/git/web/gsk/resources/views/layouts/nav.blade.php" />
+      <jump line="54" column="0" filename="$USER_HOME$/git/web/gsk/resources/assets/sass/_nav.scss" />
+      <jump line="81" column="1" filename="$USER_HOME$/git/web/gsk/resources/assets/sass/_nav.scss" />
+      <jump line="43" column="20" filename="$USER_HOME$/git/web/gsk/resources/assets/sass/_nav.scss" />
+      <jump line="8" column="4" filename="$USER_HOME$/git/web/gsk/resources/assets/sass/_nav.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICAgICAgID0+ICdmcm9udGVuZF9wYWdlX2lkJywKICAgICAgICAgICAgICAgICdsYWJlbCcgICAgICA9PiB0cmFucygnY3J1ZC5mcm9udGVuZC1wYWdlLnNpbmd1bGFyJyksCiAgICAgICAgICAgICAgICAndHlwZScgICAgICAgPT4gJ3NlbGVjdDInLAogICAgICAgICAgICAgICAgJ2VudGl0eScgICAgID0+ICdmcm9udGVuZFBhZ2UnLAogICAgICAgICAgICAgICAgJ2F0dHJpYnV0ZScgID0+ICd0aXRsZScsCiAgICAgICAgICAgICAgICAnbW9kZWwnICAgICAgPT4gRnJvbnRlbmRQYWdlOjpjbGFzcywKICAgICAgICAgICAgICAgICdhdHRyaWJ1dGVzJyA9PiBbJ3JlYWRvbmx5JyA9PiB0cnVlXSwKICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>25px</text>
       </register>
       <register name="/" type="4">
-        <text>BACKPACK</text>
+        <text>1204</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdsYWJlbCcgICAgICA9PiB0cmFucygnY3J1ZC5mcm9udGVuZC1wYWdlLnNpbmd1bGFyJyksCg==</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAkbmF2YmFyLXNvbGlkLWJnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICAgICAgID0+ICdmcm9udGVuZF9wYWdlX2lkJywKICAgICAgICAgICAgICAgICdsYWJlbCcgICAgICA9PiB0cmFucygnY3J1ZC5mcm9udGVuZC1wYWdlLnNpbmd1bGFyJyksCiAgICAgICAgICAgICAgICAndHlwZScgICAgICAgPT4gJ3NlbGVjdDInLAogICAgICAgICAgICAgICAgJ2VudGl0eScgICAgID0+ICdmcm9udGVuZFBhZ2UnLAogICAgICAgICAgICAgICAgJ2F0dHJpYnV0ZScgID0+ICd0aXRsZScsCiAgICAgICAgICAgICAgICAnbW9kZWwnICAgICAgPT4gRnJvbnRlbmRQYWdlOjpjbGFzcywKICAgICAgICAgICAgICAgICdhdHRyaWJ1dGVzJyA9PiBbJ3JlYWRvbmx5JyA9PiB0cnVlXSwKICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdsYWJlbCcgICAgICA9PiB0cmFucygndmFsaWRhdGlvbi5hdHRyaWJ1dGVzLnRpdGxlJyksCg==</text>
+        <text encoding="base64">ICBAbWVkaWEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhdHRyaWJ1dGVzJyA9PiBbJ3JlYWRvbmx5JyA9PiB0cnVlXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhdHRyaWJ1dGVzJyA9PiBbJ3JlYWRvbmx5JyA9PiB0cnVlXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZWFkb25seScgPT4gdHJ1ZSwK</text>
+        <text encoding="base64">ICAvL0BtZWRpYSAobWluLXdpZHRoOiAkc2NyZWVuLW1kLW1pbikgewogIC8vICBAbWVkaWEgKG1heC13aWR0aDogMTM2N3B4KXsKICAvLyAgICAmLW1lZGlhLWFsaWduIHsKICAvLyAgICAgIG1heC13aWR0aDogMzYzcHggIWltcG9ydGFudDsKICAvLyAgICB9CiAgLy8gICAgJi1yaWdodCB7CiAgLy8gICAgICBtYXgtd2lkdGg6IDIyMHB4ICFpbXBvcnRhbnQ7CiAgLy8gICAgfQogIC8vICB9CiAgLy99Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZWFkb25seScgPT4gdHJ1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZWFkb25seScgPT4gdHJ1ZSwK</text>
+        <text encoding="base64">Ci5kcm9wZG93bi10b2dnbGUgewoKICBiYWNrZ3JvdW5kLWNvbG9yOiAkbmF2YmFyLXNvbGlkLWJnOwp9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZWFkb25seScgPT4gdHJ1ZSwK</text>
+        <text encoding="base64">Lm5hdmJhciA+IC5kcm9wZG93biB7CiAgYmFja2dyb3VuZC1jb2xvcjogJG5hdmJhci1zb2xpZC1iZzsKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhdHRyaWJ1dGVzJyA9PiBbJ2Rpc2FibGVkJyA9PiAnZGlzYWJsZWQnXSwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>BACKPACK</last-search>
+      <last-search>1204</last-search>
       <last-offset />
-      <last-pattern>BACKPACK</last-pattern>
+      <last-pattern>1204</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -4045,16 +4049,6 @@
     </search>
     <history>
       <history-search>
-        <entry>upload</entry>
-        <entry>rder</entry>
-        <entry>$key</entry>
-        <entry>log</entry>
-        <entry>company</entry>
-        <entry>tab</entry>
-        <entry>accident_id</entry>
-        <entry>console.log</entry>
-        <entry>company()</entry>
-        <entry>back</entry>
         <entry>back_route\</entry>
         <entry>back_route</entry>
         <entry>itness</entry>
@@ -4065,6 +4059,16 @@
         <entry>company_id</entry>
         <entry>commands</entry>
         <entry>BACKPACK</entry>
+        <entry>1199</entry>
+        <entry>right</entry>
+        <entry>media-</entry>
+        <entry>-ul</entry>
+        <entry>toggle</entry>
+        <entry>-toggle</entry>
+        <entry>collapse</entry>
+        <entry>logo</entry>
+        <entry>hidden-big</entry>
+        <entry>1204</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
