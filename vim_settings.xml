@@ -1394,6 +1394,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/UserCrudController.php" timestamp="1539934122714">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/database/migrations/2018_10_04_133531_create_attachments_table.php" timestamp="1538744233327">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="41" />
@@ -2654,7 +2657,6 @@
         <mark key="." line="202" column="18" />
         <mark key="^" line="202" column="15" />
       </file>
-      <file name="$USER_HOME$/git/web/hsd/storage/framework/views/322d8e1f405daf03cd88b4e52291f704f9ec548e.php" timestamp="1539873631299" />
       <file name="$USER_HOME$/git/web/hma/resources/lang/de/crud.php" timestamp="1516713192776">
         <mark key="[" line="34" column="23" />
         <mark key="]" line="34" column="23" />
@@ -3908,7 +3910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="17" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/DateCrudController.php" />
       <jump line="116" column="10" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/DateCrudController.php" />
       <jump line="39" column="0" filename="$USER_HOME$/git/web/persofleet/app/Components/Attachments/Controllers/AttachmentCrudController.php" />
       <jump line="20" column="136" filename="$USER_HOME$/git/web/persofleet/resources/views/vendor/backpack/crud/fields/image_multiple.blade.php" />
@@ -4008,6 +4009,7 @@
       <jump line="19" column="64" filename="$USER_HOME$/git/web/studi/resources/lang/de/validation.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/resources/lang/de/validation.php" />
       <jump line="21" column="36" filename="$USER_HOME$/git/web/studi/resources/lang/de/validation.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/UserCrudController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4017,7 +4019,7 @@
         <text>text</text>
       </register>
       <register name="/" type="4">
-        <text>1204</text>
+        <text>disable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc2ltcGxlbWRlQXR0cmlidXRlcycgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAnbWluSGVpZ2h0JyA9PiAnMzBweCcsCiAgICAgICAgICAgICAgICAgICAgXSwK</text>
@@ -4063,9 +4065,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1204</last-search>
+      <last-search>disable</last-search>
       <last-offset />
-      <last-pattern>1204</last-pattern>
+      <last-pattern>disable</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -4073,7 +4075,6 @@
     </search>
     <history>
       <history-search>
-        <entry>back_route\</entry>
         <entry>back_route</entry>
         <entry>itness</entry>
         <entry>$image</entry>
@@ -4093,6 +4094,7 @@
         <entry>logo</entry>
         <entry>hidden-big</entry>
         <entry>1204</entry>
+        <entry>disable</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
