@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/web/gsk/resources/assets/sass/_staff.scss" timestamp="1537955549934">
@@ -3905,12 +3905,12 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/resources/views/components/modules/inc/tree_script.blade.php" timestamp="1540472809761">
-        <mark key="'" line="152" column="0" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="^" line="152" column="31" />
-        <mark key="." line="156" column="0" />
+      <file name="$USER_HOME$/git/web/persofleet/resources/views/components/modules/inc/tree_script.blade.php" timestamp="1540483825890">
+        <mark key="'" line="273" column="27" />
+        <mark key="[" line="187" column="23" />
+        <mark key="]" line="187" column="30" />
+        <mark key="." line="187" column="30" />
+        <mark key="^" line="187" column="30" />
       </file>
       <file name="$USER_HOME$/git/web/hma/tests/Feature/JobCrudTest.php" timestamp="1516715073033">
         <mark key="[" line="32" column="44" />
@@ -4131,9 +4131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="413" column="98" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
-      <jump line="48" column="45" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
-      <jump line="410" column="28" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
       <jump line="457" column="45" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
       <jump line="319" column="28" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
       <jump line="418" column="25" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
@@ -4231,64 +4228,67 @@
       <jump line="266" column="28" filename="$USER_HOME$/git/web/persofleet/resources/views/components/modules/inc/tree_script.blade.php" />
       <jump line="152" column="0" filename="$USER_HOME$/git/web/persofleet/resources/views/components/modules/inc/tree_script.blade.php" />
       <jump line="73" column="0" filename="$USER_HOME$/git/web/persofleet/public/vendor/webfactor/angular-ui-tree/dist/angular-ui-tree.js" />
+      <jump line="171" column="0" filename="$USER_HOME$/git/web/persofleet/resources/views/components/modules/inc/tree_script.blade.php" />
+      <jump line="163" column="0" filename="$USER_HOME$/git/web/persofleet/resources/views/components/modules/inc/tree_script.blade.php" />
+      <jump line="273" column="27" filename="$USER_HOME$/git/web/persofleet/resources/views/components/modules/inc/tree_script.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnJpZ2h0ID0gcmVzdWx0LmxlZnQgKyBlbC5zY3JvbGxXaWR0aDsK</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>treeHeight + absolutePosition(tree).top</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>\.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2UnLCBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RyZWVIZWlnaHQnLCB0cmVlSGVpZ2h0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnJpZ2h0ID0gcmVzdWx0LmxlZnQgKyBlbC5zY3JvbGxXaWR0aDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFyZW50VHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlZnQ6IHJlY3QubGVmdCArIHNjcm9sbExlZnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjcm9sbExlZnQgPSB3aW5kb3cucGFnZVhPZmZzZXQgfHwgZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LnNjcm9sbExlZnQsCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlcnJvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdHJlZUhlaWdodCA9IHRyZWUuc2Nyb2xsSGVpZ2h0Owo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhub2RlU2NvcGUubm9kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlcnJvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RyZWVIZWlnaHQnLCB0cmVlSGVpZ2h0KTsKICAgICAgICAgICAgY29uc29sZS5sb2coZ2V0T2Zmc2V0KHRyZWUpKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RocmVzaG9sZCcsIHRocmVzaG9sZCk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlLnBvcy5ub3dZJywgZS5wb3Mubm93WSk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlLnBvcy5ub3dZID4gdGhyZXNob2xkJywgZS5wb3Mubm93WSA+IHRocmVzaG9sZCApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhub2RlU2NvcGUubm9kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgc2Nyb2xsSGVpZ2h0ID0gZS5zb3VyY2Uubm9kZVNjb3BlLiRlbGVtZW50WzBdLmNsaWVudEhlaWdodDsKICAgICAgICAgICAgY29uc29sZS5sb2coJ3Njcm9sbEhlaWdodCcsIHNjcm9sbEhlaWdodCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>\.log</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>\.log</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -4296,8 +4296,6 @@
     </search>
     <history>
       <history-search>
-        <entry>$entries</entry>
-        <entry>drop</entry>
         <entry>$element</entry>
         <entry>root</entry>
         <entry>$scope</entry>
@@ -4316,6 +4314,8 @@
         <entry>Log</entry>
         <entry>.log</entry>
         <entry>log</entry>
+        <entry>offset</entry>
+        <entry>\.log</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
