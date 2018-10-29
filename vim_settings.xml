@@ -1709,12 +1709,13 @@
         <mark key="^" line="64" column="15" />
         <mark key="." line="64" column="15" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Models/Location.php" timestamp="1540798420834">
-        <mark key="'" line="101" column="11" />
-        <mark key="[" line="128" column="31" />
-        <mark key="]" line="128" column="3" />
-        <mark key="." line="128" column="3" />
-        <mark key="^" line="128" column="3" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Models/Location.php" timestamp="1540811030758">
+        <mark key="'" line="303" column="33" />
+        <mark key="[" line="297" column="25" />
+        <mark key="]" line="297" column="30" />
+        <mark key="." line="297" column="30" />
+        <mark key="^" line="297" column="30" />
+        <mark key="n" line="89" column="3" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Http/Controllers/Employee/Auth/ForgotPasswordController.php" timestamp="1521550861816">
         <mark key="[" line="40" column="33" />
@@ -2984,12 +2985,12 @@
         <mark key="." line="13" column="32" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/LocationsController.php" timestamp="1540809260025">
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/LocationsController.php" timestamp="1540810952593">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="24" column="17" />
-        <mark key="]" line="24" column="24" />
-        <mark key="." line="24" column="24" />
-        <mark key="^" line="24" column="24" />
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="51" />
+        <mark key="." line="25" column="51" />
+        <mark key="^" line="25" column="51" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_07_204046_create_location_type_tables.php" timestamp="1540796244464">
         <mark key="[" line="17" column="0" />
@@ -3583,12 +3584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="8" filename="$USER_HOME$/git/web/persofleet/app/Components/Modules/Controllers/ModuleCrudController.php" />
-      <jump line="256" column="38" filename="$USER_HOME$/git/web/persofleet/app/Components/Modules/Controllers/ModuleCrudController.php" />
-      <jump line="11" column="20" filename="$USER_HOME$/git/web/persofleet/routes/employee.php" />
-      <jump line="28" column="35" filename="$USER_HOME$/git/web/persofleet/routes/employee.php" />
-      <jump line="55" column="34" filename="$USER_HOME$/git/web/persofleet/routes/employee.php" />
-      <jump line="39" column="44" filename="$USER_HOME$/git/web/persofleet/routes/employee.php" />
       <jump line="35" column="18" filename="$USER_HOME$/git/web/persofleet/routes/employee.php" />
       <jump line="38" column="30" filename="$USER_HOME$/git/web/persofleet/routes/employee.php" />
       <jump line="32" column="40" filename="$USER_HOME$/git/web/persofleet/resources/views/components/modules/inc/node.blade.php" />
@@ -3683,19 +3678,25 @@
       <jump line="206" column="56" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
       <jump line="208" column="44" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
       <jump line="209" column="46" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
+      <jump line="89" column="3" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
+      <jump line="241" column="20" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
+      <jump line="248" column="20" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
+      <jump line="275" column="20" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
+      <jump line="286" column="20" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
+      <jump line="314" column="33" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>styles</text>
+        <text>Style</text>
       </register>
       <register name="-" type="4">
-        <text>styles</text>
+        <text>Style</text>
       </register>
       <register name="/" type="4">
-        <text>llowed</text>
+        <text>scopeTag</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdHlsZXMnICAgICAgID0+ICdzb21ldGltZXN8c3RyaW5nJywK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzY29wZVN0eWxlKCRxdWVyeSwgJHN0eWxlKQogICAgewogICAgICAgIGlmICgkc3R5bGUgPT0gMCkgewogICAgICAgICAgICByZXR1cm4gJHF1ZXJ5OwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICRxdWVyeS0+d2hlcmVIYXMoJ3N0eWxlcycsIGZ1bmN0aW9uICgkcXVlcnkpIHVzZSAoJHN0eWxlKSB7CiAgICAgICAgICAgIHJldHVybiAkcXVlcnktPndoZXJlKCdsb2NhdGlvbl9zdHlsZV9pZCcsICRzdHlsZSk7CiAgICAgICAgfSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3738,9 +3739,9 @@
       </register>
     </registers>
     <search>
-      <last-search>llowed</last-search>
+      <last-search>scopeTag</last-search>
       <last-offset />
-      <last-pattern>llowed</last-pattern>
+      <last-pattern>scopeTag</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -3748,10 +3749,6 @@
     </search>
     <history>
       <history-search>
-        <entry>first</entry>
-        <entry>title</entry>
-        <entry>center</entry>
-        <entry>right</entry>
         <entry>FIELDS</entry>
         <entry>banner</entry>
         <entry>primary</entry>
@@ -3768,6 +3765,10 @@
         <entry>notif</entry>
         <entry>method</entry>
         <entry>llowed</entry>
+        <entry>scopeBanner</entry>
+        <entry>Styles</entry>
+        <entry>scope</entry>
+        <entry>scopeTag</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
