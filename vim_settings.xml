@@ -3685,7 +3685,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>notif</text>
+        <text>llowed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+c2VlZFZvdGVDYXRlZ29yeSgkbmFtZSwgJGdyYW5kX2NoaWxkcmVuLCAkY2F0ZWdvcnkpOwo=</text>
@@ -3731,9 +3731,9 @@
       </register>
     </registers>
     <search>
-      <last-search>notif</last-search>
+      <last-search>llowed</last-search>
       <last-offset />
-      <last-pattern>notif</last-pattern>
+      <last-pattern>llowed</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -3741,8 +3741,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shado</entry>
-        <entry>width</entry>
         <entry>first</entry>
         <entry>title</entry>
         <entry>center</entry>
@@ -3761,6 +3759,8 @@
         <entry>tags</entry>
         <entry>styles</entry>
         <entry>notif</entry>
+        <entry>method</entry>
+        <entry>llowed</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
