@@ -2660,11 +2660,11 @@
         <mark key="." line="115" column="33" />
         <mark key="^" line="102" column="39" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Requests/LocationRequest.php" timestamp="1540798681498">
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Requests/LocationRequest.php" timestamp="1540808259803">
         <mark key="[" line="44" column="13" />
-        <mark key="]" line="44" column="19" />
-        <mark key="." line="44" column="19" />
-        <mark key="^" line="44" column="19" />
+        <mark key="]" line="44" column="16" />
+        <mark key="." line="44" column="16" />
+        <mark key="^" line="44" column="16" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/tests/Crud/UserCrudTest.php" timestamp="1524487729842">
         <mark key="[" line="24" column="27" />
@@ -2858,10 +2858,10 @@
         <mark key="." line="52" column="48" />
         <mark key="^" line="52" column="48" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationStyleCrudController.php" timestamp="1540796295361">
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="42" />
-        <mark key="." line="20" column="42" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationStyleCrudController.php" timestamp="1540808083201">
+        <mark key="[" line="21" column="79" />
+        <mark key="]" line="21" column="79" />
+        <mark key="." line="21" column="79" />
         <mark key="^" line="20" column="42" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/database/factories/ReportFactory.php" timestamp="1528728645340">
@@ -2983,6 +2983,13 @@
         <mark key="]" line="13" column="51" />
         <mark key="." line="13" column="32" />
         <mark key="^" line="13" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/LocationsController.php" timestamp="1540808364387">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="37" column="35" />
+        <mark key="]" line="35" column="57" />
+        <mark key="." line="35" column="57" />
+        <mark key="^" line="35" column="57" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_07_204046_create_location_type_tables.php" timestamp="1540796244464">
         <mark key="[" line="17" column="0" />
@@ -3678,17 +3685,17 @@
       <jump line="209" column="46" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>banners</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>banners</text>
       </register>
       <register name="/" type="4">
         <text>llowed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+c2VlZFZvdGVDYXRlZ29yeSgkbmFtZSwgJGdyYW5kX2NoaWxkcmVuLCAkY2F0ZWdvcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT50YWcoJHJlcXVlc3QtPmdldCgnYmFubmVycycpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
