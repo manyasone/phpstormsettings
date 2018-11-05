@@ -210,6 +210,13 @@
         <mark key="." line="16" column="18" />
         <mark key="^" line="16" column="18" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/resources/lang/de/crud.php" timestamp="1540809171257">
+        <mark key="'" line="44" column="5" />
+        <mark key="[" line="44" column="7" />
+        <mark key="]" line="5" column="49" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="9" column="23" />
+      </file>
       <file name="$USER_HOME$/git/web/coatings/app/Http/Controllers/Admin/ServiceSpectrumCrudController.php" timestamp="1536576820722">
         <mark key="[" line="62" column="70" />
         <mark key="]" line="62" column="70" />
@@ -449,6 +456,13 @@
         <mark key="]" line="30" column="10" />
         <mark key="." line="29" column="27" />
         <mark key="^" line="29" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationTypeCrudController.php" timestamp="1540797174134">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="22" column="100" />
+        <mark key="]" line="22" column="100" />
+        <mark key="." line="22" column="100" />
+        <mark key="^" line="22" column="100" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/database/seeds/RolesAndPermissionsSeeder.php" timestamp="1533550870981">
         <mark key="[" line="17" column="0" />
@@ -1079,6 +1093,13 @@
         <mark key="." line="34" column="26" />
         <mark key="^" line="32" column="36" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" timestamp="1540801529554">
+        <mark key="'" line="209" column="46" />
+        <mark key="[" line="214" column="62" />
+        <mark key="]" line="214" column="44" />
+        <mark key="." line="214" column="44" />
+        <mark key="^" line="214" column="44" />
+      </file>
       <file name="$USER_HOME$/git/web/hypno/database/factories/FileFactory.php" timestamp="1517911461328">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -1168,6 +1189,13 @@
         <mark key="]" line="2" column="35" />
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" timestamp="1540797155136">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="48" column="39" />
+        <mark key="]" line="43" column="37" />
+        <mark key="." line="43" column="37" />
+        <mark key="^" line="43" column="37" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Traits/AjaxUploadImages.php" timestamp="1539609718130">
         <mark key="[" line="22" column="17" />
@@ -1723,9 +1751,10 @@
       <file name="$USER_HOME$/git/web/persofleet/resources/views/components/list.blade.php" timestamp="1541409359576">
         <mark key="'" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/resources/views/layout.blade.php" timestamp="1536649807631">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="9" column="13" />
+      <file name="$USER_HOME$/git/web/jumpin/resources/views/layout.blade.php" timestamp="1541413953468">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="75" />
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
@@ -3021,6 +3050,13 @@
         <mark key="." line="13" column="32" />
         <mark key="^" line="13" column="25" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/LocationsController.php" timestamp="1540900863882">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="34" column="53" />
+        <mark key="]" line="25" column="51" />
+        <mark key="." line="25" column="51" />
+        <mark key="^" line="25" column="51" />
+      </file>
       <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_07_204046_create_location_type_tables.php" timestamp="1540796244464">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -3086,6 +3122,11 @@
         <mark key="]" line="17" column="70" />
         <mark key="." line="17" column="7" />
         <mark key="^" line="17" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/web/wohnbau/resources/views/welcome.blade.php" timestamp="1541413968242">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="75" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hypno/app/Console/Commands/savetracks.php" timestamp="1522237163407">
         <mark key="[" line="74" column="61" />
@@ -3631,7 +3672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/git/web/gsk/resources/assets/sass/_global.scss" />
       <jump line="2" column="57" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
       <jump line="5" column="36" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
       <jump line="22" column="32" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
@@ -3731,31 +3771,32 @@
       <jump line="108" column="34" filename="$USER_HOME$/git/web/persofleet/resources/views/components/list.blade.php" />
       <jump line="0" column="10" filename="$USER_HOME$/git/web/persofleet/resources/views/components/list.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/wohnbau/public/css/app.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/resources/views/layout.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBtYXgtaGVpZ2h0OiAxMDAlOwo=</text>
+        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Int7IGFzc2V0KCdwdWJsaWMvY3NzL2FwcC5jc3MnKSB9fSIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d29obmJhdS1sb2dvLXdyYXBwZXIg</text>
+        <text>vendor/ecada/css/style.css</text>
       </register>
       <register name="/" type="4">
-        <text>wohnbau</text>
+        <text>app.css</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LmxvZ28gewogIG1heC13aWR0aDogMzBweDsKICBtYXgtaGVpZ2h0OiAzMHB4Owp9Cgoud29obmJhdS1sb2dvIHsKICBtYXgtd2lkdGg6IDEwMCU7CiAgbWF4LWhlaWdodDogMTAwJTsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgbGVmdDogNTAlOwogIG1hcmdpbi1sZWZ0OiAtMTBweDsKfQo=</text>
+        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Int7IG1peCgnY3NzL2FwcC5jc3MnKSB9fSIgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtYXgtaGVpZ2h0OiAxMDAlOwo=</text>
+        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Int7IGFzc2V0KCdwdWJsaWMvY3NzL2FwcC5jc3MnKSB9fSIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtYXgtd2lkdGg6IDEwMCU7Cg==</text>
+        <text encoding="base64">ICBtYXgtaGVpZ2h0OiAxMDAlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtYXgtd2lkdGg6IDEwMCU7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
@@ -3764,31 +3805,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmxvZ28gewogIG1heC13aWR0aDogMzBweDsKICBtYXgtaGVpZ2h0OiAzMHB4OwogIAogIC53b2huYmF1LWxvZ28gewogICAgbWF4LXdpZHRoOiAxMDAlOwogICAgbWF4LWhlaWdodDogMTAwJTsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIGxlZnQ6IDUwJTsKICAgIG1hcmdpbi1sZWZ0OiAtMTBweDsKICAgIHotaW5kZXg6IDk5OTsKICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LndvaG5iYXUtbG9nbyB7CiAgbWF4LXdpZHRoOiAxMDAlOwogIG1heC1oZWlnaHQ6IDEwMCU7CiAgcG9zaXRpb246IGFic29sdXRlOwogIGxlZnQ6IDUwJTsKICBtYXJnaW4tbGVmdDogLTEwcHg7CiAgei1pbmRleDogOTk5Owp9Cg==</text>
+        <text encoding="base64">LmxvZ28gewogIG1heC13aWR0aDogMzBweDsKICBtYXgtaGVpZ2h0OiAzMHB4OwogIAogIC53b2huYmF1LWxvZ28gewogICAgbWF4LXdpZHRoOiAxMDAlOwogICAgbWF4LWhlaWdodDogMTAwJTsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIGxlZnQ6IDUwJTsKICAgIG1hcmdpbi1sZWZ0OiAtMTBweDsKICAgIHotaW5kZXg6IDk5OTsKICB9Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">LndvaG5iYXUtbG9nbyB7CiAgbWF4LXdpZHRoOiAxMDAlOwogIG1heC1oZWlnaHQ6IDEwMCU7CiAgcG9zaXRpb246IGFic29sdXRlOwogIGxlZnQ6IDUwJTsKICBtYXJnaW4tbGVmdDogLTEwcHg7CiAgei1pbmRleDogOTk5Owp9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LnNlY3Rpb24taGVhZGluZyB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltZyB7CiAgICAgIG1heC13aWR0aDogMTAwJTsKICAgICAgbWF4LWhlaWdodDogMTAwJTsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICBsZWZ0OiA1MCU7CiAgICAgIG1hcmdpbi1sZWZ0OiAtMTBweDsKICAgIH0K</text>
+        <text encoding="base64">LnNlY3Rpb24taGVhZGluZyB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>wohnbau</last-search>
+      <last-search>app.css</last-search>
       <last-offset />
-      <last-pattern>wohnbau</last-pattern>
+      <last-pattern>app.css</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -3796,7 +3837,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tags</entry>
         <entry>styles</entry>
         <entry>notif</entry>
         <entry>method</entry>
@@ -3816,6 +3856,7 @@
         <entry>back</entry>
         <entry>button</entry>
         <entry>wohnbau</entry>
+        <entry>app.css</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
