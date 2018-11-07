@@ -48,10 +48,13 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/git/web/ophelo/database/factories/PartnerFactory.php" timestamp="1541585904044">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/git/web/ophelo/database/factories/PartnerFactory.php" timestamp="1541587114223">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1541577267650">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/ophelo/app/Models/Candidate.php" timestamp="1541585439856">
         <mark key="[" line="73" column="0" />
@@ -91,10 +94,16 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="9" column="34" />
       </file>
+      <file name="$USER_HOME$/git/web/ophelo/app/Models/Partner.php" timestamp="1541583508580">
+        <mark key="[" line="49" column="28" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Models/Messages/OutboxMessage.php" timestamp="1541577437784">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/ophelo/.gitignore" timestamp="1541587339080">
+        <mark key="[" line="17" column="4" />
       </file>
       <file name="$USER_HOME$/git/web/ophelo/app/Http/Controllers/Admin/UserCrudController.php" timestamp="1541582621873">
         <mark key="[" line="20" column="30" />
@@ -112,9 +121,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/hypno/composer.json" timestamp="1541584289328">
-        <mark key="'" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/buttons/sent.blade.php" timestamp="1541496208644">
         <mark key="[" line="2" column="25" />
@@ -136,6 +142,9 @@
         <mark key="]" line="14" column="33" />
         <mark key="." line="14" column="33" />
         <mark key="^" line="14" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/web/ophelo/.env.example" timestamp="1541581756754">
+        <mark key="[" line="32" column="18" />
       </file>
       <file name="$USER_HOME$/git/web/studi/storage/logs/laravel.log" timestamp="1541577497705">
         <mark key="[" line="0" column="0" />
@@ -194,6 +203,9 @@
       <file name="$USER_HOME$/git/web/ophelo/composer.json" timestamp="1541585150174">
         <mark key="[" line="43" column="7" />
         <mark key="^" line="54" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/web/ophelo/database/seeds/PeopleSeeder.php" timestamp="1541587177446">
+        <mark key="[" line="14" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -300,10 +312,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>user</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>extra</text>
