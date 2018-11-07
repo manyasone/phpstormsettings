@@ -326,10 +326,6 @@
         <mark key="." line="3" column="47" />
         <mark key="^" line="3" column="47" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/app/helpers.php" timestamp="1541584521346">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="14" column="1" />
-      </file>
       <file name="$USER_HOME$/git/web/studi/app/Models/Faq.php" timestamp="1539872302060">
         <mark key="[" line="22" column="14" />
         <mark key="]" line="22" column="3" />
@@ -942,6 +938,13 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
+      <file name="$USER_HOME$/git/web/ophelo/config/app.php" timestamp="1541595967594">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="233" column="66" />
+        <mark key="]" line="234" column="7" />
+        <mark key="." line="234" column="7" />
+        <mark key="^" line="234" column="7" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Components/Administration/User/Mail/Created.php" timestamp="1530625248213">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1079,10 +1082,6 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="46" column="49" />
-      </file>
-      <file name="$USER_HOME$/git/web/ophelo/app/Models/Job.php" timestamp="1541583274693">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="81" column="20" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/MessageCrudController.php" timestamp="1541502976057">
         <mark key="[" line="71" column="9" />
@@ -3176,6 +3175,11 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
+      <file name="$USER_HOME$/git/web/wohnbau/config/app.php" timestamp="1541595963460">
+        <mark key="'" line="212" column="44" />
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="92" />
+      </file>
       <file name="$USER_HOME$/git/web/gsk/config/backpack/base.php" timestamp="1539242000515">
         <mark key="[" line="79" column="24" />
         <mark key="]" line="79" column="26" />
@@ -3767,12 +3771,12 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/git/web/ophelo/composer.json" timestamp="1541588830027">
+      <file name="$USER_HOME$/git/web/ophelo/composer.json" timestamp="1541595935988">
         <mark key="'" line="50" column="15" />
         <mark key="[" line="19" column="27" />
-        <mark key="]" line="28" column="28" />
-        <mark key="^" line="28" column="28" />
-        <mark key="." line="28" column="28" />
+        <mark key="]" line="18" column="25" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="18" column="25" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Traits/ZipDownloadImages.php" timestamp="1530264389511">
         <mark key="[" line="9" column="0" />
@@ -3917,10 +3921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="13" filename="$USER_HOME$/git/web/gsk/resources/assets/sass/_partial.scss" />
-      <jump line="33" column="11" filename="$USER_HOME$/git/web/gsk/resources/assets/sass/_partial.scss" />
-      <jump line="284" column="29" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
-      <jump line="330" column="0" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
       <jump line="349" column="0" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
       <jump line="355" column="0" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
       <jump line="6" column="0" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
@@ -4017,19 +4017,23 @@
       <jump line="24" column="3" filename="$USER_HOME$/git/web/hypno/composer.json" />
       <jump line="53" column="0" filename="$USER_HOME$/git/web/wohnbau/composer.json" />
       <jump line="43" column="15" filename="$USER_HOME$/git/web/ophelo/composer.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/wohnbau/config/app.php" />
+      <jump line="152" column="27" filename="$USER_HOME$/git/web/wohnbau/config/app.php" />
+      <jump line="212" column="44" filename="$USER_HOME$/git/web/wohnbau/config/app.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/ophelo/config/app.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ3ZWJmYWN0b3IvbGFyYXZlbC1iYWNrcGFjay1wYWdlbWFuYWdlciI6ICJeMC4xIgo=</text>
+        <text encoding="base64">ICAgICAgICAnUGFnZU1hbmFnZXInID0+IFxXZWJmYWN0b3JcTGFyYXZlbFxCYWNrcGFja1xQYWdlTWFuYWdlclxGYWNhZGVzXFBhZ2VNYW5hZ2VyOjpjbGFzcywK</text>
       </register>
       <register name="-" type="4">
         <text>user</text>
       </register>
       <register name="/" type="4">
-        <text>pagemana</text>
+        <text>providers</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJ3ZWJmYWN0b3IvbGFyYXZlbC1iYWNrcGFjay1wYWdlbWFuYWdlciI6ICJeMC4xIgo=</text>
+        <text encoding="base64">ICAgICAgICAnUGFnZU1hbmFnZXInID0+IFxXZWJmYWN0b3JcTGFyYXZlbFxCYWNrcGFja1xQYWdlTWFuYWdlclxGYWNhZGVzXFBhZ2VNYW5hZ2VyOjpjbGFzcywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAnYWRkcmVzcycgICAgICA9PiAkZmFrZXItPmFkZHJlc3MsCg==</text>
@@ -4072,9 +4076,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pagemana</last-search>
+      <last-search>providers</last-search>
       <last-offset />
-      <last-pattern>pagemana</last-pattern>
+      <last-pattern>providers</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -4082,8 +4086,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
-        <entry>back</entry>
         <entry>button</entry>
         <entry>wohnbau</entry>
         <entry>app.css</entry>
@@ -4102,6 +4104,8 @@
         <entry>extra</entry>
         <entry>pageman</entry>
         <entry>pagemana</entry>
+        <entry>Backpack</entry>
+        <entry>providers</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
