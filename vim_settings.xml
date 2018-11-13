@@ -5,12 +5,23 @@
       <mark key="M" line="13" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/git/web/ophelo/resources/lang/en/validation.php" timestamp="1542106699652">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/web/coatings/app/Widgets/ReferenceView.blade.php" timestamp="1542107850747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/web/ophelo/resources/assets/sass/_hero.scss" timestamp="1542114423060">
+        <mark key="'" line="50" column="8" />
+        <mark key="[" line="54" column="24" />
+        <mark key="]" line="54" column="25" />
+        <mark key="^" line="46" column="23" />
+        <mark key="." line="54" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/footer.blade.php" timestamp="1542031201543">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="44" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/git/web/ophelo/resources/lang/de/models.php" timestamp="1542106779951">
         <mark key="[" line="5" column="23" />
@@ -38,9 +49,12 @@
         <mark key="]" line="20" column="5" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" timestamp="1542110601266">
-        <mark key="'" line="40" column="8" />
-        <mark key="[" line="8" column="47" />
+      <file name="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" timestamp="1542113055745">
+        <mark key="'" line="87" column="8" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="2" column="58" />
+        <mark key="^" line="2" column="58" />
+        <mark key="." line="2" column="58" />
       </file>
       <file name="$USER_HOME$/git/web/ophelo/resources/assets/js/app.js" timestamp="1542103415535">
         <mark key="[" line="6" column="0" />
@@ -63,11 +77,11 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/ophelo/database/factories/RatingFactory.php" timestamp="1542110012911">
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="9" column="23" />
-        <mark key="^" line="10" column="26" />
+      <file name="$USER_HOME$/git/web/ophelo/database/factories/RatingFactory.php" timestamp="1542112449223">
+        <mark key="[" line="7" column="51" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="25" />
       </file>
       <file name="$USER_HOME$/git/web/ophelo/app/Http/Controllers/Admin/RatingCrudController.php" timestamp="1542108018203">
         <mark key="[" line="81" column="35" />
@@ -87,14 +101,18 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/ophelo/resources/assets/sass/_global.scss" timestamp="1542114365647">
+        <mark key="'" line="37" column="2" />
+        <mark key="[" line="98" column="17" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="94" column="17" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/ophelo/webpack.mix.js" timestamp="1542103557731">
         <mark key="[" line="22" column="10" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="22" column="40" />
-      </file>
-      <file name="$USER_HOME$/git/web/ophelo/resources/assets/sass/_contact.scss" timestamp="1542032576159">
-        <mark key="'" line="17" column="1" />
       </file>
       <file name="$USER_HOME$/git/web/ophelo/public/js/dropzone.js" timestamp="1542102754076" />
       <file name="$USER_HOME$/git/web/ophelo/resources/views/layout/frontend/index.blade.php" timestamp="1542103516658">
@@ -105,6 +123,12 @@
       <file name="$USER_HOME$/git/web/coatings/app/Widgets/VacancyView.blade.php" timestamp="1542108560528">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="15" column="14" />
+      </file>
+      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/start/nested/slider.blade.php" timestamp="1542114310114">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="15" column="37" />
+        <mark key="^" line="15" column="37" />
+        <mark key="." line="15" column="37" />
       </file>
       <file name="$USER_HOME$/git/web/ophelo/resources/assets/js/dropzone-config.js" timestamp="1542103629966">
         <mark key="'" line="1" column="0" />
@@ -137,54 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Privacy.php" />
-      <jump line="134" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Privacy.php" />
-      <jump line="127" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Privacy.php" />
-      <jump line="104" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Privacy.php" />
-      <jump line="101" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Privacy.php" />
-      <jump line="98" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Privacy.php" />
-      <jump line="92" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Privacy.php" />
-      <jump line="89" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Privacy.php" />
-      <jump line="75" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Privacy.php" />
-      <jump line="69" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Privacy.php" />
-      <jump line="66" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Privacy.php" />
-      <jump line="59" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Privacy.php" />
-      <jump line="51" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Privacy.php" />
-      <jump line="198" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Privacy.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/nested/info.blade.php" />
-      <jump line="100" column="30" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Applicant.php" />
-      <jump line="27" column="5" filename="$USER_HOME$/git/web/coatings/composer.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/ophelo/config/filesystems.php" />
-      <jump line="39" column="54" filename="$USER_HOME$/git/web/ophelo/config/webfactor/pagemanager.php" />
-      <jump line="59" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Start.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Start.php" />
-      <jump line="9" column="34" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/ophelo/vendor/webfactor/laravel-backpack-pagemanager/resources/views/crud/fields/medialibrary-image.blade.php" />
-      <jump line="7" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Start.php" />
-      <jump line="140" column="72" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Home.php" />
-      <jump line="32" column="50" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Home.php" />
-      <jump line="67" column="48" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Home.php" />
-      <jump line="68" column="50" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Home.php" />
-      <jump line="31" column="48" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Home.php" />
-      <jump line="46" column="75" filename="$USER_HOME$/git/web/coatings/config/webfactor/pagemanager.php" />
-      <jump line="60" column="75" filename="$USER_HOME$/git/web/coatings/config/webfactor/pagemanager.php" />
-      <jump line="7" column="0" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Contact.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/footer.blade.php" />
-      <jump line="120" column="7" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/nested/contact.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/nested/contact.blade.php" />
-      <jump line="18" column="21" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/index.blade.php" />
-      <jump line="19" column="30" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/index.blade.php" />
-      <jump line="35" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/index.blade.php" />
-      <jump line="44" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/index.blade.php" />
-      <jump line="55" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/index.blade.php" />
-      <jump line="64" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/index.blade.php" />
-      <jump line="77" column="60" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/index.blade.php" />
-      <jump line="88" column="56" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/index.blade.php" />
-      <jump line="100" column="53" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/index.blade.php" />
-      <jump line="106" column="53" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/index.blade.php" />
-      <jump line="114" column="54" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/index.blade.php" />
-      <jump line="94" column="0" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/nested/contact.blade.php" />
       <jump line="44" column="1" filename="$USER_HOME$/git/web/ophelo/resources/assets/sass/_global.scss" />
       <jump line="53" column="40" filename="$USER_HOME$/git/web/ophelo/resources/assets/sass/_global.scss" />
       <jump line="125" column="19" filename="$USER_HOME$/git/web/ophelo/resources/assets/sass/_global.scss" />
@@ -222,79 +198,127 @@
       <jump line="88" column="28" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/ophelo/database/migrations/2018_11_13_114135_create_ratings_table.php" />
       <jump line="40" column="7" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
-      <jump line="38" column="12" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
       <jump line="53" column="12" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
       <jump line="154" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
-      <jump line="159" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
-      <jump line="165" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
       <jump line="184" column="16" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
       <jump line="225" column="16" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
       <jump line="307" column="16" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
       <jump line="319" column="12" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
-      <jump line="26" column="12" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
-      <jump line="2" column="27" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
       <jump line="37" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
       <jump line="112" column="24" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
       <jump line="13" column="34" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
       <jump line="31" column="30" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
+      <jump line="5" column="30" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="29" column="52" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="343" column="23" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="26" column="32" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="66" column="5" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="124" column="5" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="2" column="40" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="106" column="0" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="148" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="175" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="105" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="117" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="121" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="129" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="134" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="160" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="166" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="216" column="12" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="232" column="12" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="247" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="262" column="12" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="266" column="12" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="329" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="38" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="68" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="112" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="88" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="111" column="25" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="115" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="116" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="120" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="128" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="133" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="157" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="158" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="159" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="164" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="165" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="206" column="5" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="214" column="12" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="215" column="12" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="229" column="12" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="230" column="12" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="231" column="12" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="246" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="261" column="12" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="265" column="12" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="328" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="19" column="86" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="86" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="87" column="8" filename="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" />
+      <jump line="47" column="8" filename="$USER_HOME$/git/web/ophelo/resources/assets/sass/_hero.scss" />
+      <jump line="37" column="2" filename="$USER_HOME$/git/web/ophelo/resources/assets/sass/_global.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC5jYXJkLXRleHQgewogICAgICAgIG1heC1oZWlnaHQ6IDVweDsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGZha2VyLT51cmw=</text>
+        <text encoding="base64">aGFzLWhlYWRlciA=</text>
       </register>
       <register name="/" type="4">
-        <text>card-text</text>
+        <text>has-header</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3M9ImNhcmQgYmctd2hpdGUgc2hhZG93IiBocmVmPSJ7eyAkaXRlbS0+ZnJvbnRlbmRQYWdlLT5zbHVnIH19I3t7ICRpdGVtLT5zbHVnIH19Ij4K</text>
+        <text encoding="base64">Lmhhcy1oZWFkZXIgewogIG1hcmdpbi10b3A6IDEwMHB4OwoKICBAbWVkaWEgKG1heC13aWR0aDogJHNjcmVlbi1tZCkgewogICAgbWFyZ2luLXRvcDogNzBweDsKICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5jYXJkLXRleHQgewogICAgICAgIG1heC1oZWlnaHQ6IDVweDsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXgtaGVpZ2h0OiA1cHg7Cg==</text>
+        <text encoding="base64">ICBAbWVkaWEgKG1heC13aWR0aDogJHNjcmVlbi1tZCkgewogICAgbWFyZ2luLXRvcDogNzBweDsKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0idGV4dC1jZW50ZXIiPgo=</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nLXRvcDogMjAwcHg7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmctdG9wOiAyMHZ3Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmctdG9wOiAyMDBweDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmctdG9wOiA2MHB4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmctdG9wOiA2MHB4Owo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0idGV4dC1jZW50ZXIiPgo=</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZy1ib3R0b206IDEwMHB4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>card-text</last-search>
+      <last-search>has-header</last-search>
       <last-offset />
-      <last-pattern>card-text</last-pattern>
+      <last-pattern>has-header</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -302,15 +326,6 @@
     </search>
     <history>
       <history-search>
-        <entry>image</entry>
-        <entry>edia</entry>
-        <entry>http</entry>
-        <entry>&quot;contact&quot;</entry>
-        <entry>contact</entry>
-        <entry>th</entry>
-        <entry>.th</entry>
-        <entry>th:</entry>
-        <entry>container</entry>
         <entry>inner</entry>
         <entry>alert</entry>
         <entry>applicant</entry>
@@ -321,7 +336,16 @@
         <entry>simplemde</entry>
         <entry>width</entry>
         <entry>height</entry>
+        <entry>font</entry>
+        <entry>size</entry>
+        <entry>line</entry>
         <entry>card-text</entry>
+        <entry>padding</entry>
+        <entry>margin</entry>
+        <entry>margin-top</entry>
+        <entry>margin-</entry>
+        <entry>74</entry>
+        <entry>has-header</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
