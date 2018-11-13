@@ -5,6 +5,10 @@
       <mark key="M" line="13" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/git/web/coatings/app/Widgets/ReferenceView.blade.php" timestamp="1542107850747">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="6" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/columns/select.blade.php" timestamp="1541520604242">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="117" />
@@ -67,13 +71,6 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/footer.blade.php" timestamp="1542031201543">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="44" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="33" />
-        <mark key="^" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/git/web/ophelo/resources/assets/sass/_upload.scss" timestamp="1542122830794">
         <mark key="[" line="8" column="0" />
@@ -154,13 +151,6 @@
         <mark key="]" line="20" column="5" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/ophelo/app/Widgets/RatingView.blade.php" timestamp="1542113055745">
-        <mark key="'" line="87" column="8" />
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="2" column="58" />
-        <mark key="^" line="2" column="58" />
-        <mark key="." line="2" column="58" />
-      </file>
       <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/CrudPanel.php" timestamp="1541504728586">
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
@@ -230,6 +220,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/resources/views/vendor/backpack/crud/buttons/suspend.blade.php" timestamp="1542124126774">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="165" />
+        <mark key="." line="4" column="165" />
+        <mark key="^" line="4" column="165" />
+      </file>
       <file name="$USER_HOME$/git/web/ophelo/resources/assets/sass/_job.scss" timestamp="1542027296062">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -270,10 +266,19 @@
         <mark key="^" line="94" column="17" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/resources/views/vendor/backpack/crud/buttons/delete.blade.php" timestamp="1542123956000">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="172" />
+      </file>
       <file name="$USER_HOME$/git/web/ophelo/webpack.mix.js" timestamp="1542122612204">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/resources/views/backend/crud/buttons/suspend.blade.php" timestamp="1542124129156">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="43" />
+        <mark key="." line="0" column="43" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/inc/form_save_buttons.blade.php" timestamp="1541578641033">
         <mark key="[" line="7" column="32" />
@@ -311,6 +316,13 @@
       </file>
       <file name="$USER_HOME$/git/web/ophelo/resources/views/layout/frontend/index.blade.php" timestamp="1542120418210">
         <mark key="[" line="57" column="14" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Widgets/VacancyView.blade.php" timestamp="1542108560528">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="15" column="14" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/.gitignore" timestamp="1542123661236">
+        <mark key="[" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/start/nested/slider.blade.php" timestamp="1542114310114">
         <mark key="[" line="12" column="30" />
@@ -505,17 +517,17 @@
       <jump line="113" column="15" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/nested/contact.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9sYWJlbD4K</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>zone</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMTIiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1jb250cm9sIGJ0biB1cGxvYWQtY29udHJvbCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZhbGxiYWNrIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBuYW1lPSJmaWxlc1tdIiB0eXBlPSJmaWxlIiBtdWx0aXBsZS8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0nbGFiZWwgbGFiZWwtaW5mbycgaWQ9InVwbG9hZC1maWxlLWluZm8iPjwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">JiYgIShpbl9hcnJheShjbGFzc19iYXNlbmFtZSgkZW50cnkpLCBbY2xhc3NfYmFzZW5hbWUoQXBwXE1vZGVsc1xVc2VyOjpjbGFzcyksIGNsYXNzX2Jhc2VuYW1lKEFwcFxNb2RlbHNcRW1wbG95ZWU6OmNsYXNzKV0pKQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9sYWJlbD4K</text>
