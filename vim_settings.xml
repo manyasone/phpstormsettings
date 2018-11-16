@@ -43,10 +43,6 @@
         <mark key="." line="40" column="67" />
         <mark key="^" line="40" column="67" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Models/StaticFile.php" timestamp="1542271088223">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="73" />
-      </file>
       <file name="$USER_HOME$/git/web/jumpin/vendor/spatie/laravel-permission/src/Traits/HasRoles.php" timestamp="1542282938106">
         <mark key="'" line="42" column="35" />
       </file>
@@ -106,14 +102,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="21" column="36" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/jumpin/.env.example" timestamp="1542287856116">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="27" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/vendor/webfactor/laravel-backpack-pagemanager/config/webfactor/pagemanager.php" timestamp="1542358946773">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="79" />
       </file>
       <file name="$USER_HOME$/git/web/studi/database/seeds/MediaSeeder.php" timestamp="1542284087921">
         <mark key="[" line="16" column="0" />
@@ -224,6 +212,12 @@
         <mark key="[" line="33" column="52" />
         <mark key="]" line="33" column="51" />
         <mark key="." line="33" column="51" />
+      </file>
+      <file name="$USER_HOME$/git/web/foodahoo/database/seeds/UsersTableSeeder.php" timestamp="1542362549538">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="57" />
+        <mark key="." line="27" column="57" />
+        <mark key="^" line="27" column="57" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/database/seeds/DatabaseSeeder.php" timestamp="1542359157316">
         <mark key="[" line="13" column="0" />
@@ -398,16 +392,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>peter.wassermann@webfactor.de</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>peter.wassermann@webfactor.de</text>
       </register>
       <register name="/" type="4">
         <text>$shop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RhYicgICAgICAgICAgICA9PiAiQWJzY2huaXR0IDMgKFRleHQpIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgWydQZXRlcicsICdXYXNzZXJtYW5uJywgJ3BldGVyLndhc3Nlcm1hbm5Ad2ViZmFjdG9yLmRlJywgJys0OTE1MTIzODA3ODc2J10sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3ZpZXdfbmFtZXNwYWNlJyA9PiAncGFnZW1hbmFnZXI6OmNydWQuZmllbGRzJywKICAgICAgICAgICAgJ3VwbG9hZCcgICAgICAgICA9PiB0cnVlLAogICAgICAgICAgICAnY3JvcCcgICAgICAgICAgID0+IHRydWUsCg==</text>
