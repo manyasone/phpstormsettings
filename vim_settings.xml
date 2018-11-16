@@ -56,11 +56,11 @@
         <mark key="]" line="38" column="27" />
         <mark key="." line="38" column="31" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" timestamp="1542369144738">
-        <mark key="[" line="143" column="32" />
-        <mark key="]" line="143" column="32" />
-        <mark key="." line="143" column="32" />
-        <mark key="^" line="139" column="67" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" timestamp="1542371617929">
+        <mark key="[" line="200" column="63" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
+        <mark key="^" line="202" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/foodahoo/resources/views/frontend/sections/searchresults.blade.php" timestamp="1542353798531">
         <mark key="'" line="0" column="0" />
@@ -82,12 +82,12 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Models/Jumpin.php" timestamp="1542368900330">
+      <file name="$USER_HOME$/git/web/jumpin/app/Models/Jumpin.php" timestamp="1542371996122">
         <mark key="'" line="24" column="18" />
-        <mark key="[" line="117" column="23" />
-        <mark key="]" line="117" column="23" />
-        <mark key="^" line="194" column="28" />
-        <mark key="." line="117" column="23" />
+        <mark key="[" line="122" column="70" />
+        <mark key="]" line="122" column="43" />
+        <mark key="^" line="201" column="29" />
+        <mark key="." line="122" column="43" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/composer.json" timestamp="1542289426200">
         <mark key="[" line="33" column="51" />
@@ -98,7 +98,7 @@
         <mark key="]" line="38" column="27" />
         <mark key="." line="38" column="31" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/vendor/jedrzej/sortable/src/Jedrzej/Sortable/SortableTrait.php" timestamp="1542365628443">
+      <file name="$USER_HOME$/git/web/jumpin/vendor/jedrzej/sortable/src/Jedrzej/Sortable/SortableTrait.php" timestamp="1542371852186">
         <mark key="[" line="6" column="7" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/routes/webfactor/pagemanager_copy.php" timestamp="1542357640753">
@@ -143,6 +143,12 @@
         <mark key="[" line="17" column="2" />
         <mark key="]" line="185" column="16" />
         <mark key="." line="185" column="16" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/database/factories/LocationFactory.php" timestamp="1542372097337">
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="36" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="19" column="36" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Models/Media.php" timestamp="1542279852605">
         <mark key="[" line="95" column="5" />
@@ -251,6 +257,11 @@
       <file name="$USER_HOME$/git/web/studi/app/Models/Medium.php" timestamp="1542271634675">
         <mark key="'" line="9" column="1" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" timestamp="1542372155646">
+        <mark key="'" line="327" column="17" />
+        <mark key="[" line="336" column="0" />
+        <mark key="]" line="341" column="18" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/routes/web.php" timestamp="1542275311285">
         <mark key="[" line="31" column="24" />
         <mark key="]" line="31" column="24" />
@@ -311,8 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" />
-      <jump line="142" column="4" filename="$USER_HOME$/git/web/studi/resources/lang/de/validation.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/database/seeds/DatabaseSeeder.php" />
       <jump line="196" column="6" filename="$USER_HOME$/git/web/studi/app/Models/Application.php" />
       <jump line="71" column="12" filename="$USER_HOME$/git/web/studi/app/Models/Media.php" />
@@ -411,19 +420,21 @@
       <jump line="23" column="18" filename="$USER_HOME$/git/web/jumpin/app/Models/Jumpin.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/config/database.php" />
       <jump line="103" column="6" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
+      <jump line="47" column="25" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
+      <jump line="327" column="17" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID8/ICcnKSAuICcgJyAuICgkdGhpcy0+YWRkcmVzcy0+Y2l0eSA/PyAnJyk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzZWFyY2hMb2dpYycgPT4gZnVuY3Rpb24gKCRxdWVyeSwgJGNvbHVtbiwgJHNlYXJjaFRlcm0pIHsKICAgICAgICAgICAgICAgICAgICAkcXVlcnktPm9yV2hlcmVIYXMoJGNvbHVtblsnZW50aXR5J10sIGZ1bmN0aW9uIChCdWlsZGVyICRyZWxhdGlvblF1ZXJ5KSB1c2UgKCRzZWFyY2hUZXJtKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICRyZWxhdGlvblF1ZXJ5LT53aGVyZSgnZmlyc3RfbmFtZScsICdsaWtlJywgJyUnIC4gJHNlYXJjaFRlcm0gLiAnJScpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAtPm9yV2hlcmUoJ2xhc3RfbmFtZScsICdsaWtlJywgJyUnIC4gJHNlYXJjaFRlcm0gLiAnJScpOwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID8/ICcnKSAuICcgJyAuICgkdGhpcy0+YWRkcmVzcy0+Y2l0eSA/PyAnJyk=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getCit</text>
+        <text>orderable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRDaXR5QXR0cmlidXRlKCkKICAgIHsKICAgICAgICByZXR1cm4gKCR0aGlzLT5hZGRyZXNzLT5wb3N0Y29kZSA/PyAnJykgLiAnICcgLiAoJHRoaXMtPmFkZHJlc3MtPmNpdHkgPz8gJycpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzZWFyY2hMb2dpYycgPT4gZnVuY3Rpb24gKCRxdWVyeSwgJGNvbHVtbiwgJHNlYXJjaFRlcm0pIHsKICAgICAgICAgICAgICAgICAgICAkcXVlcnktPm9yV2hlcmVIYXMoJGNvbHVtblsnZW50aXR5J10sIGZ1bmN0aW9uIChCdWlsZGVyICRyZWxhdGlvblF1ZXJ5KSB1c2UgKCRzZWFyY2hUZXJtKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICRyZWxhdGlvblF1ZXJ5LT53aGVyZSgnZmlyc3RfbmFtZScsICdsaWtlJywgJyUnIC4gJHNlYXJjaFRlcm0gLiAnJScpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAtPm9yV2hlcmUoJ2xhc3RfbmFtZScsICdsaWtlJywgJyUnIC4gJHNlYXJjaFRlcm0gLiAnJScpOwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICAgICAgPT4gJ2xvY2F0aW9uJywKICAgICAgICAgICAgICAgICdsYWJlbCcgICAgID0+IHRyYW5zKCdjcnVkLmxvY2F0aW9uLnNpbmd1bGFyJyksCiAgICAgICAgICAgICAgICAndHlwZScgICAgICA9PiAnc2VsZWN0JywKICAgICAgICAgICAgICAgICdtb2RlbCcgICAgID0+IExvY2F0aW9uOjpjbGFzcywKICAgICAgICAgICAgICAgICdlbnRpdHknICAgID0+ICdsb2NhdGlvbicsCiAgICAgICAgICAgICAgICAnYXR0cmlidXRlJyA9PiAnbmFtZScsCiAgICAgICAgICAgICAgICAnb3JkZXJhYmxlJyA9PiB0cnVlLAogICAgICAgICAgICBdLAo=</text>
@@ -466,9 +477,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getCit</last-search>
+      <last-search>orderable</last-search>
       <last-offset />
-      <last-pattern>getCit</last-pattern>
+      <last-pattern>orderable</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -476,7 +487,6 @@
     </search>
     <history>
       <history-search>
-        <entry>disabled</entry>
         <entry>select2</entry>
         <entry>address</entry>
         <entry>12</entry>
@@ -496,6 +506,7 @@
         <entry>strict</entry>
         <entry>getCiy</entry>
         <entry>getCit</entry>
+        <entry>orderable</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
