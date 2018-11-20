@@ -111,11 +111,11 @@
         <mark key="." line="18" column="57" />
         <mark key="^" line="18" column="57" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1542704573116">
-        <mark key="[" line="58" column="50" />
-        <mark key="]" line="58" column="50" />
-        <mark key="^" line="64" column="54" />
-        <mark key="." line="58" column="50" />
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1542709575887">
+        <mark key="[" line="29" column="43" />
+        <mark key="]" line="61" column="50" />
+        <mark key="^" line="67" column="54" />
+        <mark key="." line="61" column="50" />
       </file>
       <file name="$USER_HOME$/git/web/foodahoo/resources/views/frontend/sections/searchresults/market.blade.php" timestamp="1542361685595">
         <mark key="[" line="11" column="77" />
@@ -128,6 +128,13 @@
         <mark key="]" line="49" column="41" />
         <mark key="." line="59" column="0" />
         <mark key="^" line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/database/seeds/DatabaseSeeder.php" timestamp="1542641061294">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="32" />
+        <mark key="]" line="37" column="31" />
+        <mark key="." line="37" column="31" />
+        <mark key="^" line="36" column="39" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/vendor/spatie/laravel-translatable/config/translatable.php" timestamp="1542705955226">
         <mark key="[" line="7" column="26" />
@@ -147,11 +154,12 @@
         <mark key="." line="18" column="54" />
         <mark key="^" line="18" column="57" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1542644521119">
-        <mark key="[" line="132" column="56" />
-        <mark key="]" line="132" column="56" />
-        <mark key="." line="132" column="56" />
-        <mark key="^" line="132" column="19" />
+      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1542709549026">
+        <mark key="'" line="134" column="84" />
+        <mark key="[" line="50" column="18" />
+        <mark key="]" line="134" column="56" />
+        <mark key="." line="134" column="56" />
+        <mark key="^" line="134" column="19" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/Admin/AssignmentRequest.php" timestamp="1542642515365">
         <mark key="[" line="18" column="8" />
@@ -208,10 +216,6 @@
       </file>
       <file name="$USER_HOME$/git/web/studi/routes/backpack/custom.php" timestamp="1542704359207">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="68" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/studi/database/factories/AssignmentFactory.php" timestamp="1542643937267">
         <mark key="[" line="9" column="0" />
@@ -268,6 +272,9 @@
         <mark key="." line="27" column="57" />
         <mark key="^" line="27" column="57" />
       </file>
+      <file name="$USER_HOME$/git/web/coatings/composer.json" timestamp="1542709752682">
+        <mark key="[" line="33" column="52" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/Admin/MediaCategoryRequest.php" timestamp="1542623094196">
         <mark key="[" line="18" column="52" />
         <mark key="]" line="18" column="53" />
@@ -284,6 +291,9 @@
         <mark key="]" line="36" column="30" />
         <mark key="." line="36" column="30" />
         <mark key="^" line="36" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" timestamp="1542645131046">
+        <mark key="'" line="150" column="34" />
       </file>
       <file name="$USER_HOME$/git/web/studi/database/migrations/2018_11_19_150440_create_user_assignments_table.php" timestamp="1542636316403">
         <mark key="[" line="17" column="0" />
@@ -443,7 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="8" filename="$USER_HOME$/git/web/jumpin/resources/lang/de/validation.php" />
       <jump line="260" column="48" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
       <jump line="263" column="0" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
       <jump line="12" column="6" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/UserCrudController.php" />
@@ -543,6 +552,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/CustomerCrudController.php" />
       <jump line="74" column="31" filename="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/TaskCrudController.php" />
       <jump line="84" column="12" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Home.php" />
+      <jump line="132" column="84" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
