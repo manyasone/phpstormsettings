@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="M" line="13" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" protocol="file" />
     </globalmarks>
@@ -14,6 +14,13 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/config/webfactor/pagemanager.php" timestamp="1542712554079">
+        <mark key="'" line="54" column="72" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="54" column="71" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_11_20_090203_change_dates_on_dates_to_timestamps.php" timestamp="1542723415200">
         <mark key="[" line="16" column="0" />
@@ -45,6 +52,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/ophelo/app/helpers.php" timestamp="1542728531830" />
       <file name="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/modal/create.blade.php" timestamp="1542704468312">
         <mark key="[" line="31" column="22" />
         <mark key="]" line="31" column="22" />
@@ -67,6 +75,13 @@
         <mark key="]" line="379" column="0" />
         <mark key="^" line="78" column="58" />
         <mark key="." line="379" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/TaskTimeCrudController.php" timestamp="1542703372349">
+        <mark key="'" line="20" column="23" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="56" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/vendor/backpack/crud/src/app/Http/Controllers/Operations/SaveActions.php" timestamp="1542713370063">
         <mark key="[" line="115" column="0" />
@@ -96,12 +111,16 @@
         <mark key="^" line="21" column="36" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/coatings/app/helpers.php" timestamp="1542728552490">
+        <mark key="[" line="12" column="21" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Settings/OfficeCrudController.php" timestamp="1542703927923">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="57" />
         <mark key="^" line="25" column="38" />
         <mark key="." line="26" column="35" />
       </file>
+      <file name="$USER_HOME$/git/web/coatings/vendor/backpack/crud/src/ModelTraits/SpatieTranslatable/HasTranslations.php" timestamp="1542706344348" />
       <file name="$USER_HOME$/git/web/coatings/app/Http/Controllers/Admin/PresetCrudController.php" timestamp="1542713104456">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="49" column="5" />
@@ -152,6 +171,7 @@
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/coatings/vendor/webfactor/laravel-backpack-pagemanager/src/Http/Controllers/PresetCrudController.php" timestamp="1542712387768" />
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" timestamp="1542626592712">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="36" />
@@ -184,6 +204,9 @@
         <mark key="^" line="55" column="88" />
         <mark key="." line="55" column="88" />
       </file>
+      <file name="$USER_HOME$/git/web/coatings/composer.json" timestamp="1542709752682">
+        <mark key="[" line="33" column="52" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Models/Job.php" timestamp="1542640688665">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="32" />
@@ -203,8 +226,15 @@
         <mark key="]" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" timestamp="1542712114434">
-        <mark key="'" line="22" column="39" />
+      <file name="/Dummy.txt" timestamp="1542712398806">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" timestamp="1542728546385">
+        <mark key="'" line="73" column="46" />
+        <mark key="[" line="171" column="32" />
+        <mark key="]" line="166" column="50" />
+        <mark key="." line="166" column="50" />
+        <mark key="^" line="166" column="50" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/AboutUs.php" timestamp="1542707180258">
         <mark key="[" line="19" column="38" />
@@ -226,6 +256,13 @@
         <mark key="[" line="69" column="0" />
         <mark key="]" line="77" column="5" />
       </file>
+      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/TaskCrudController.php" timestamp="1542703028796">
+        <mark key="'" line="74" column="31" />
+        <mark key="[" line="74" column="111" />
+        <mark key="]" line="74" column="111" />
+        <mark key="." line="74" column="111" />
+        <mark key="^" line="74" column="111" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/Admin/OfficeRequest.php" timestamp="1542623064924">
         <mark key="[" line="18" column="47" />
         <mark key="]" line="18" column="47" />
@@ -233,7 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
       <jump line="19" column="33" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Jobs.php" />
       <jump line="19" column="12" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Privacy.php" />
       <jump line="19" column="34" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/References.php" />
@@ -333,19 +369,20 @@
       <jump line="160" column="66" filename="$USER_HOME$/git/web/jumpin/public/vendor/adminlte/bower_components/jquery-ui/ui/datepicker.js" />
       <jump line="163" column="12" filename="$USER_HOME$/git/web/jumpin/public/vendor/adminlte/bower_components/jquery-ui/ui/datepicker.js" />
       <jump line="55" column="71" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/JumpinsController.php" />
+      <jump line="73" column="46" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNpdHkiICAgICAgICAgICA9PiAkZmFrZXItPmNpdHksCg==</text>
+      <register name="&quot;" type="4">
+        <text>inkedin</text>
       </register>
       <register name="-" type="4">
-        <text>LinkedIn</text>
+        <text>inkedin</text>
       </register>
       <register name="/" type="4">
-        <text>dates</text>
+        <text>face</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnd2VybGllZmVydHdhcycgICAgICAgICA9PiAnd2x3LmRlL2RlL2Zpcm1hLzNkLWNvYXRpbmdzLXRlY2hub2xvZ3ktZ21iaC05Njc3NDcnLAogICAgICAgICAgICAgICAgICAgICdldXJvcGFnZXMnICAgICAgICAgICAgID0+ICdldXJvcGFnZXMuZGUvM0QtQ09BVElOR1MtVEVDSE5PTE9HWS1HTUJILzAwMDAwMDA0ODIxMzE5LTAwMS5odG1sJywKICAgICAgICAgICAgICAgICAgICAna29tcGFzcycgICAgICAgICAgICAgICA9PiAnZGUua29tcGFzcy5jb20vYy8zZC1jb2F0aW5ncy10ZWNobm9sb2d5LWdtYmgvZGU2NjM5NTEvJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyAkaW5kZXgtPmxpbmtlZGluIH19IiBjbGFzcz0idGV4dC13aGl0ZSBoMiBteC0xIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhYiBmYS1saW5rZWRpbiI+PC9pPgogICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgImNpdHkiICAgICAgICAgICA9PiAkZmFrZXItPmNpdHksCg==</text>
@@ -388,9 +425,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dates</last-search>
+      <last-search>face</last-search>
       <last-offset />
-      <last-pattern>dates</last-pattern>
+      <last-pattern>face</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -398,8 +435,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tag</entry>
-        <entry>tags</entry>
         <entry>'public'</entry>
         <entry>public</entry>
         <entry>'public</entry>
@@ -418,6 +453,8 @@
         <entry>Tag</entry>
         <entry>efault</entry>
         <entry>dates</entry>
+        <entry>fb</entry>
+        <entry>face</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
