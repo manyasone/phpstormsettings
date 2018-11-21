@@ -5,11 +5,17 @@
       <mark key="M" line="13" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/dashboard.blade.php" timestamp="1542628924724">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+      </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Models/SubModels/JumpinDate.php" timestamp="1542727015979">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/.env" timestamp="1542788916786" />
       <file name="$USER_HOME$/git/web/coatings/vendor/webfactor/laravel-backpack-pagemanager/src/Http/Controllers/FrontendController.php" timestamp="1542731695319">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -22,11 +28,28 @@
         <mark key="^" line="54" column="71" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_11_20_090203_change_dates_on_dates_to_timestamps.php" timestamp="1542723415200">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="50" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinDateCrudController.php" timestamp="1542727270611">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/vendor/spatie/laravel-medialibrary/src/FileAdder/FileAdder.php" timestamp="1542731090234" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationDateCrudController.php" timestamp="1542727234294">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1542788729658" />
+      <file name="$USER_HOME$/git/web/studi/app/User.php" timestamp="1542716017551">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" timestamp="1542626592712">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="36" />
+        <mark key="." line="109" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1542709575887">
         <mark key="[" line="29" column="43" />
         <mark key="]" line="61" column="50" />
@@ -40,16 +63,24 @@
         <mark key="." line="37" column="31" />
         <mark key="^" line="36" column="39" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Models/Date.php" timestamp="1542725042288">
-        <mark key="[" line="94" column="20" />
-        <mark key="]" line="94" column="39" />
+      <file name="$USER_HOME$/git/web/coatings/vendor/spatie/laravel-translatable/config/translatable.php" timestamp="1542705955226">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1542709549026">
+        <mark key="'" line="134" column="84" />
+        <mark key="[" line="50" column="18" />
+        <mark key="]" line="134" column="56" />
+        <mark key="." line="134" column="56" />
+        <mark key="^" line="134" column="19" />
       </file>
       <file name="$USER_HOME$/git/web/studi/deploy_staging.sh" timestamp="1542714516539">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/ophelo/app/helpers.php" timestamp="1542728531830" />
       <file name="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/modal/create.blade.php" timestamp="1542704468312">
         <mark key="[" line="31" column="22" />
         <mark key="]" line="31" column="22" />
@@ -67,6 +98,13 @@
         <mark key="^" line="78" column="58" />
         <mark key="." line="379" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/JumpinsController.php" timestamp="1542727898575">
+        <mark key="'" line="55" column="71" />
+        <mark key="[" line="110" column="52" />
+        <mark key="]" line="55" column="88" />
+        <mark key="^" line="55" column="88" />
+        <mark key="." line="55" column="88" />
+      </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/TaskTimeCrudController.php" timestamp="1542703372349">
         <mark key="'" line="20" column="23" />
         <mark key="[" line="37" column="0" />
@@ -78,6 +116,9 @@
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/composer.json" timestamp="1542709752682">
+        <mark key="[" line="33" column="52" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_28_123005_create_jumpins_table.php" timestamp="1542723490631">
         <mark key="[" line="29" column="0" />
@@ -95,12 +136,33 @@
         <mark key="^" line="21" column="36" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/DateCrudController.php" timestamp="1542727258098">
+        <mark key="[" line="145" column="29" />
+        <mark key="]" line="146" column="5" />
+        <mark key="^" line="77" column="61" />
+        <mark key="." line="138" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/coatings/app/helpers.php" timestamp="1542728552490">
         <mark key="[" line="12" column="21" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_28_150914_create_dates_table.php" timestamp="1542723481311">
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="39" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1542712398806">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/hsd/vendor/artesaos/seotools/composer.json" timestamp="1542730748357">
         <mark key="[" line="0" column="1" />
         <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" timestamp="1542731309198">
+        <mark key="'" line="73" column="46" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="110" column="52" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Settings/OfficeCrudController.php" timestamp="1542703927923">
         <mark key="[" line="26" column="0" />
@@ -108,7 +170,11 @@
         <mark key="^" line="25" column="38" />
         <mark key="." line="26" column="35" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/vendor/backpack/crud/src/ModelTraits/SpatieTranslatable/HasTranslations.php" timestamp="1542706344348" />
+      <file name="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/AboutUs.php" timestamp="1542707180258">
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+      </file>
       <file name="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Home.php" timestamp="1542731616253">
         <mark key="'" line="84" column="12" />
         <mark key="[" line="21" column="56" />
@@ -119,6 +185,17 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="49" column="5" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_07_104045_create_locations_table.php" timestamp="1542723473176">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/database/seeds/JumpinSeeder.php" timestamp="1542727494826">
+        <mark key="[" line="28" column="56" />
+        <mark key="]" line="23" column="68" />
+        <mark key="^" line="23" column="68" />
+        <mark key="." line="23" column="68" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/resources/views/pages/home.blade.php" timestamp="1542731379528">
         <mark key="'" line="4" column="64" />
@@ -144,118 +221,6 @@
         <mark key="^" line="15" column="16" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/database/seeds/LocationsSeeder.php" timestamp="1542723064284">
-        <mark key="[" line="47" column="44" />
-        <mark key="]" line="47" column="17" />
-        <mark key="." line="47" column="17" />
-        <mark key="^" line="47" column="17" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/dashboard.blade.php" timestamp="1542628924724">
-        <mark key="[" line="21" column="32" />
-        <mark key="]" line="21" column="32" />
-        <mark key="." line="21" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinDateCrudController.php" timestamp="1542727270611">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="32" column="15" />
-      </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationDateCrudController.php" timestamp="1542727234294">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/User.php" timestamp="1542716017551">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/vendor/webfactor/laravel-backpack-pagemanager/src/Http/Controllers/PresetCrudController.php" timestamp="1542712387768" />
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" timestamp="1542626592712">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="36" />
-        <mark key="." line="109" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/vendor/spatie/laravel-translatable/config/translatable.php" timestamp="1542705955226">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="27" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Providers/AppServiceProvider.php" timestamp="1542731900270">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="124" />
-      </file>
-      <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_11_20_100413_change_locations_position.php" timestamp="1542723461493">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="63" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1542709549026">
-        <mark key="'" line="134" column="84" />
-        <mark key="[" line="50" column="18" />
-        <mark key="]" line="134" column="56" />
-        <mark key="." line="134" column="56" />
-        <mark key="^" line="134" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/vendor/backpack/crud/src/ModelTraits/SpatieTranslatable/SluggableScopeHelpers.php" timestamp="1542731667077" />
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/JumpinsController.php" timestamp="1542727898575">
-        <mark key="'" line="55" column="71" />
-        <mark key="[" line="110" column="52" />
-        <mark key="]" line="55" column="88" />
-        <mark key="^" line="55" column="88" />
-        <mark key="." line="55" column="88" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/composer.json" timestamp="1542709752682">
-        <mark key="[" line="33" column="52" />
-      </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/DateCrudController.php" timestamp="1542727258098">
-        <mark key="[" line="145" column="29" />
-        <mark key="]" line="146" column="5" />
-        <mark key="^" line="77" column="61" />
-        <mark key="." line="138" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/vendor/backpack/crud/src/app/Http/Controllers/Operations/SaveActions.php" timestamp="1542713157637">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="117" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_28_150914_create_dates_table.php" timestamp="1542723481311">
-        <mark key="[" line="20" column="39" />
-        <mark key="]" line="20" column="39" />
-        <mark key="." line="20" column="39" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1542712398806">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/hsd/package.json" timestamp="1542730852251" />
-      <file name="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" timestamp="1542731309198">
-        <mark key="'" line="73" column="46" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="110" column="52" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/AboutUs.php" timestamp="1542707180258">
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="19" column="38" />
-        <mark key="." line="19" column="38" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/vendor/webfactor/laravel-backpack-pagemanager/src/Models/HasMedia/Mediable.php" timestamp="1542731594575" />
-      <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_07_104045_create_locations_table.php" timestamp="1542723473176">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/jumpin/database/seeds/JumpinSeeder.php" timestamp="1542727494826">
-        <mark key="[" line="28" column="56" />
-        <mark key="]" line="23" column="68" />
-        <mark key="^" line="23" column="68" />
-        <mark key="." line="23" column="68" />
-      </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Models/SubModels/LocationDate.php" timestamp="1542724817034">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="77" column="5" />
-      </file>
       <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/TaskCrudController.php" timestamp="1542703028796">
         <mark key="'" line="74" column="31" />
         <mark key="[" line="74" column="111" />
@@ -267,6 +232,12 @@
         <mark key="[" line="18" column="47" />
         <mark key="]" line="18" column="47" />
         <mark key="." line="18" column="47" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/database/seeds/LocationsSeeder.php" timestamp="1542723064284">
+        <mark key="[" line="47" column="44" />
+        <mark key="]" line="47" column="17" />
+        <mark key="." line="47" column="17" />
+        <mark key="^" line="47" column="17" />
       </file>
     </filemarks>
     <jumps>
