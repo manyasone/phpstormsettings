@@ -120,8 +120,11 @@
         <mark key="]" line="29" column="55" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/gsk/app/Traits/Imageable.php" timestamp="1542796750637">
-        <mark key="[" line="38" column="41" />
+      <file name="$USER_HOME$/git/web/gsk/app/Traits/Imageable.php" timestamp="1542798122030">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="50" column="20" />
+        <mark key="^" line="56" column="65" />
+        <mark key="." line="50" column="20" />
       </file>
       <file name="$USER_HOME$/git/web/hma/.env.example" timestamp="1542645575612">
         <mark key="[" line="12" column="12" />
@@ -183,11 +186,11 @@
         <mark key="]" line="71" column="28" />
         <mark key="." line="71" column="28" />
       </file>
-      <file name="$USER_HOME$/git/web/gsk/app/Http/Controllers/Admin/NewsCrudController.php" timestamp="1542796645102">
-        <mark key="[" line="36" column="60" />
-        <mark key="]" line="44" column="36" />
-        <mark key="." line="44" column="36" />
-        <mark key="^" line="44" column="36" />
+      <file name="$USER_HOME$/git/web/gsk/app/Http/Controllers/Admin/NewsCrudController.php" timestamp="1542798645707">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="36" column="38" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" timestamp="1542796189291">
         <mark key="'" line="110" column="0" />
@@ -202,12 +205,12 @@
         <mark key="^" line="25" column="38" />
         <mark key="." line="26" column="35" />
       </file>
-      <file name="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" timestamp="1542794378251">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="2" column="57" />
-        <mark key="]" line="2" column="57" />
-        <mark key="." line="2" column="57" />
-        <mark key="^" line="2" column="57" />
+      <file name="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" timestamp="1542798752406">
+        <mark key="'" line="366" column="0" />
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="123" column="34" />
+        <mark key="." line="123" column="34" />
+        <mark key="^" line="123" column="34" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/AboutUs.php" timestamp="1542789167976">
         <mark key="[" line="76" column="1161" />
@@ -265,12 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="58" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
-      <jump line="45" column="79" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
-      <jump line="46" column="55" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
-      <jump line="50" column="52" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
-      <jump line="82" column="64" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
-      <jump line="86" column="46" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
       <jump line="87" column="49" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
       <jump line="92" column="43" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/foodahoo/resources/views/frontend/shop.blade.php" />
@@ -365,64 +362,70 @@
       <jump line="42" column="8" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
       <jump line="41" column="0" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
       <jump line="110" column="0" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
+      <jump line="135" column="22" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
+      <jump line="138" column="5" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
+      <jump line="15" column="34" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
+      <jump line="33" column="30" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
+      <jump line="123" column="34" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
+      <jump line="366" column="0" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5KFBhcnRpYWw6OmNsYXNzLCAyKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ2Zyb250ZW5kX3BhZ2VfaWQnID0+IEZyb250ZW5kUGFnZTo6ZmluZEJ5U2x1Z09yRmFpbCgnbmV3cycpLT5pZCwKICAgICAgICBdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>werliefertwas</text>
+        <text>constrained_</text>
       </register>
       <register name="/" type="4">
-        <text>wer</text>
+        <text>card-text</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5KFBhcnRpYWw6OmNsYXNzLCAyKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ2Zyb250ZW5kX3BhZ2VfaWQnID0+IEZyb250ZW5kUGFnZTo6ZmluZEJ5U2x1Z09yRmFpbCgnbmV3cycpLT5pZCwKICAgICAgICBdKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICRpbWFnZS0+d2lkdGgoKSA+ICRpbWFnZS0+aGVpZ2h0KCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5KFBhcnRpYWw6OmNsYXNzLCAyKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ2Zyb250ZW5kX3BhZ2VfaWQnID0+IEZyb250ZW5kUGFnZTo6ZmluZEJ5U2x1Z09yRmFpbCgnbmV3cycpLT5pZCwKICAgICAgICBdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXE1vZGVsc1xGcm9udGVuZFBhZ2UgcHVibGlzaGVkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd2aWV3X25hbWVzcGFjZScgPT4gJ2JhY2tlbmQuY3J1ZC5maWVsZHMnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGJhY2twYWNrIHVwZGF0ZSBuZWNlc3NhcnkgZm9yIHVzYWdlIG9mICdjb25zdHJhaW5lZF9pbWFnZSc/Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gc2NvcGVQdWJsaXNoZWQoJHF1ZXJ5KQogICAgewogICAgICAgICRxdWVyeS0+d2hlcmUoJ3B1Ymxpc2hlZCcsIHRydWUpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gcHVibGlzaGVkUGFydGlhbHMoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+cGFydGlhbHMoKS0+d2hlcmUoJ3B1Ymxpc2hlZCcsIHRydWUpOwogICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJ3ZpZXdfbmFtZXNwYWNlJyA9PiAnYmFja2VuZC5jcnVkLmZpZWxkcycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFnZXMgPSBGcm9udGVuZFBhZ2U6OndpdGgoJ3BhcnRpYWxzJyktPmdldCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFnZSA9IE5ld3NQYWdlOjp3aXRoKCdwdWJsaXNoZWRQYXJ0aWFscycpLT5maXJzdE9yRmFpbCgpOwo=</text>
+        <text encoding="base64">ICAgIC5jYXJkLXRleHQgewogICAgICAgIG1hcmdpbi1ib3R0b206IDRweDsKICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICBtYXgtd2lkdGg6IDEwMCU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gcHVibGlzaGVkUGFydGlhbHMoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+aGFzTWFueShOZXdzOjpjbGFzcywgJ2Zyb250ZW5kX3BhZ2VfaWQnKS0+d2hlcmUoJ3B1Ymxpc2hlZCcsIHRydWUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkd2lkdGhfbmV3ID0gJGltYWdlLT53aWR0aCgpIC8gJHNjYWxlX2ZhY3RvcjsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>wer</last-search>
+      <last-search>card-text</last-search>
       <last-offset />
-      <last-pattern>wer</last-pattern>
+      <last-pattern>card-text</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -430,7 +433,6 @@
     </search>
     <history>
       <history-search>
-        <entry>upload</entry>
         <entry>media_</entry>
         <entry>office</entry>
         <entry>customer</entry>
@@ -450,6 +452,7 @@
         <entry>background_image</entry>
         <entry>section</entry>
         <entry>wer</entry>
+        <entry>card-text</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
