@@ -5,19 +5,44 @@
       <mark key="M" line="13" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/git/web/coatings/app/Models/ProductSpectrum.php" timestamp="1542814200785">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="45" column="5" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Widgets/ProductSpectrumView.blade.php" timestamp="1542812256016">
+        <mark key="'" line="5" column="77" />
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="52" />
+        <mark key="." line="5" column="52" />
+        <mark key="^" line="5" column="41" />
+      </file>
       <file name="$USER_HOME$/git/web/coatings/app/Widgets/ReferenceView.blade.php" timestamp="1542805415662">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="37" />
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/.env" timestamp="1542788916786" />
+      <file name="$USER_HOME$/git/web/coatings/app/Http/Requests/Admin/ProductRequest.php" timestamp="1542813717646">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/config/webfactor/pagemanager.php" timestamp="1542800168852">
+        <mark key="'" line="62" column="1" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1542813207248">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_11_20_090203_change_dates_on_dates_to_timestamps.php" timestamp="1542723415200">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="50" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/database/seeds/ServiceSpectrumSeeder.php" timestamp="1542803561062">
+        <mark key="[" line="16" column="159" />
       </file>
       <file name="$USER_HOME$/git/web/gsk/app/Models/Partial.php" timestamp="1542795455100">
         <mark key="[" line="110" column="0" />
@@ -29,10 +54,24 @@
         <mark key="]" line="11" column="1" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Http/Controllers/Admin/ProductSpectrumCrudController.php" timestamp="1542810164489">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="98" column="11" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinDateCrudController.php" timestamp="1542727270611">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="32" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1542876045098" />
+      <file name="$USER_HOME$/git/web/coatings/app/Http/Controllers/Admin/ProductSpectrumCrudController.php" timestamp="1542813651974">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="10" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/database/factories/ProductFactory.php" timestamp="1542811454055">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="8" column="43" />
+        <mark key="^" line="8" column="43" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1542709575887">
         <mark key="[" line="29" column="43" />
@@ -49,206 +88,17 @@
         <mark key="]" line="69" column="17" />
         <mark key="." line="69" column="17" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Models/Reference.php" timestamp="1542804811111">
-        <mark key="[" line="35" column="24" />
-      </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Models/Date.php" timestamp="1542725042288">
-        <mark key="[" line="94" column="20" />
-        <mark key="]" line="94" column="39" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/database/factories/ProductSpectrumFactory.php" timestamp="1542812117752">
-        <mark key="[" line="8" column="56" />
-        <mark key="]" line="8" column="57" />
-        <mark key="." line="8" column="56" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/resources/views/pages/jobs.blade.php" timestamp="1542810995888">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="5" column="17" />
-      </file>
-      <file name="$USER_HOME$/git/web/gsk/database/factories/PartialFactory.php" timestamp="1542791551372">
-        <mark key="[" line="14" column="62" />
-      </file>
-      <file name="$USER_HOME$/git/web/gsk/resources/views/layouts/page.blade.php" timestamp="1542795624695">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Traits/HasFile.php" timestamp="1542803244135">
-        <mark key="[" line="22" column="62" />
-        <mark key="]" line="22" column="61" />
-        <mark key="." line="22" column="61" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Models/Product.php" timestamp="1542810046684">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="35" column="25" />
-        <mark key="." line="72" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/gsk/resources/views/layouts/partial.blade.php" timestamp="1542796604166">
-        <mark key="[" line="30" column="49" />
-        <mark key="]" line="30" column="29" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="30" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Http/Controllers/Admin/ServiceSpectrumCrudController.php" timestamp="1542804568525">
-        <mark key="[" line="36" column="28" />
-        <mark key="]" line="36" column="28" />
-        <mark key="." line="36" column="28" />
-        <mark key="^" line="60" column="39" />
-      </file>
-      <file name="$USER_HOME$/git/web/gsk/app/Traits/Imageable.php" timestamp="1542805343889">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="61" />
-        <mark key="^" line="56" column="65" />
-        <mark key="." line="50" column="20" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Http/Controllers/FrontendController.php" timestamp="1542731384594">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="21" column="36" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/database/migrations/2018_11_21_151508_create_product_spectrums_table.php" timestamp="1542812686876">
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="28" />
-        <mark key="^" line="20" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/web/gsk/app/Http/Controllers/FrontendPageController.php" timestamp="1542795958160">
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="18" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/app/helpers.php" timestamp="1542812053037">
-        <mark key="'" line="78" column="14" />
-        <mark key="[" line="6" column="113" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/gsk/app/Models/PublishedNews.php" timestamp="1542794950741">
-        <mark key="[" line="44" column="52" />
-        <mark key="]" line="44" column="52" />
-        <mark key="^" line="44" column="48" />
-        <mark key="." line="44" column="52" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Http/Controllers/Admin/TeamMemberCrudController.php" timestamp="1542804498963">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="52" column="14" />
-      </file>
-      <file name="$USER_HOME$/git/web/gsk/app/Models/NewsPage.php" timestamp="1542795846104">
-        <mark key="[" line="60" column="5" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Models/ServiceSpectrum.php" timestamp="1542808956298">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/gsk/app/Http/Controllers/Admin/NewsCrudController.php" timestamp="1542798645707">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="36" column="38" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Settings/OfficeCrudController.php" timestamp="1542703927923">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="57" />
-        <mark key="^" line="25" column="38" />
-        <mark key="." line="26" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" timestamp="1542798752406">
-        <mark key="'" line="366" column="0" />
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="123" column="34" />
-        <mark key="." line="123" column="34" />
-        <mark key="^" line="123" column="34" />
-      </file>
-      <file name="$USER_HOME$/git/web/gsk/database/factories/StaffFactory.php" timestamp="1542791535210">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/vendor/webfactor/laravel-backpack-pagemanager/src/PageManager.php" timestamp="1542802250320">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="93" column="37" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Widgets/ProductView.blade.php" timestamp="1542812146068">
-        <mark key="[" line="2" column="74" />
-        <mark key="]" line="2" column="110" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/CustomerCrudController.php" timestamp="1542703936670">
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="27" column="35" />
-        <mark key="." line="27" column="35" />
-        <mark key="^" line="27" column="34" />
-      </file>
-      <file name="$USER_HOME$/git/web/jumpin/database/factories/LocationFactory.php" timestamp="1542728128031">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="15" column="16" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Traits/CanScopePublished.php" timestamp="1542809996756">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="4" column="4" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Models/WidgetItem.php" timestamp="1542813248355">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="79" column="5" />
-        <mark key="." line="77" column="32" />
-        <mark key="^" line="77" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/web/jumpin/database/seeds/LocationsSeeder.php" timestamp="1542723064284">
-        <mark key="[" line="47" column="44" />
-        <mark key="]" line="47" column="17" />
-        <mark key="." line="47" column="17" />
-        <mark key="^" line="47" column="17" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/Models/Media.php" timestamp="1542802975792">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="74" column="6" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Models/ProductSpectrum.php" timestamp="1542813013148">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Widgets/ProductSpectrumView.blade.php" timestamp="1542812256016">
-        <mark key="'" line="5" column="77" />
-        <mark key="[" line="5" column="52" />
-        <mark key="]" line="5" column="52" />
-        <mark key="." line="5" column="52" />
-        <mark key="^" line="5" column="41" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Http/Requests/Admin/ProductRequest.php" timestamp="1542810193642">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="30" column="39" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/database/seeds/ServiceSpectrumSeeder.php" timestamp="1542803561062">
-        <mark key="[" line="16" column="159" />
-      </file>
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinDateCrudController.php" timestamp="1542727270611">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="32" column="15" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/database/factories/ProductFactory.php" timestamp="1542811454055">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="8" column="43" />
-        <mark key="^" line="8" column="43" />
-      </file>
       <file name="$USER_HOME$/git/web/coatings/vendor/spatie/laravel-translatable/config/translatable.php" timestamp="1542705955226">
         <mark key="[" line="7" column="26" />
         <mark key="]" line="7" column="27" />
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Providers/AppServiceProvider.php" timestamp="1542815351205">
+        <mark key="[" line="30" column="81" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Models/Reference.php" timestamp="1542804811111">
+        <mark key="[" line="35" column="24" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/app/Widgets/ServiceSpectrumView.blade.php" timestamp="1542805085482">
         <mark key="[" line="6" column="30" />
@@ -259,10 +109,19 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="63" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Models/Date.php" timestamp="1542725042288">
+        <mark key="[" line="94" column="20" />
+        <mark key="]" line="94" column="39" />
+      </file>
       <file name="$USER_HOME$/git/web/coatings/database/seeds/ProductSpectrumSeeder.php" timestamp="1542810644211">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/database/factories/ProductSpectrumFactory.php" timestamp="1542812117752">
+        <mark key="[" line="8" column="56" />
+        <mark key="]" line="8" column="57" />
+        <mark key="." line="8" column="56" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/database/migrations/2018_09_07_105845_create_products_table.php" timestamp="1542809893868">
         <mark key="[" line="16" column="0" />
@@ -272,13 +131,36 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="30" />
       </file>
+      <file name="$USER_HOME$/git/web/coatings/resources/views/pages/jobs.blade.php" timestamp="1542810995888">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="17" />
+      </file>
       <file name="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Services.php" timestamp="1542811093163">
         <mark key="[" line="59" column="38" />
         <mark key="]" line="59" column="38" />
         <mark key="." line="59" column="38" />
       </file>
+      <file name="$USER_HOME$/git/web/gsk/database/factories/PartialFactory.php" timestamp="1542791551372">
+        <mark key="[" line="14" column="62" />
+      </file>
+      <file name="$USER_HOME$/git/web/gsk/resources/views/layouts/page.blade.php" timestamp="1542795624695">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+      </file>
       <file name="$USER_HOME$/git/web/gsk/database/seeds/ContentSeeder.php" timestamp="1542791120546">
         <mark key="[" line="30" column="98" />
+      </file>
+      <file name="$USER_HOME$/git/web/gsk/webpack.mix.js" timestamp="1542816998238">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="50" />
+      </file>
+      <file name="$USER_HOME$/git/web/gsk/resources/assets/js/app.js" timestamp="1542817070116">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/resources/views/components/section.blade.php" timestamp="1542811634478">
         <mark key="[" line="7" column="0" />
@@ -298,6 +180,32 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="63" />
       </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Traits/HasFile.php" timestamp="1542803244135">
+        <mark key="[" line="22" column="62" />
+        <mark key="]" line="22" column="61" />
+        <mark key="." line="22" column="61" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Models/Product.php" timestamp="1542814193007">
+        <mark key="[" line="45" column="5" />
+        <mark key="]" line="45" column="5" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Http/Controllers/Admin/ReferenceCrudController.php" timestamp="1542813549634">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="65" />
+      </file>
+      <file name="$USER_HOME$/git/web/gsk/resources/views/layouts/partial.blade.php" timestamp="1542796604166">
+        <mark key="[" line="30" column="49" />
+        <mark key="]" line="30" column="29" />
+        <mark key="^" line="30" column="29" />
+        <mark key="." line="30" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Http/Controllers/Admin/ServiceSpectrumCrudController.php" timestamp="1542804568525">
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="28" />
+        <mark key="." line="36" column="28" />
+        <mark key="^" line="60" column="39" />
+      </file>
       <file name="$USER_HOME$/git/web/coatings/composer.json" timestamp="1542791507561">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="57" column="5" />
@@ -308,10 +216,27 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="34" />
       </file>
+      <file name="$USER_HOME$/git/web/gsk/app/Traits/Imageable.php" timestamp="1542805343889">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="61" />
+        <mark key="^" line="56" column="65" />
+        <mark key="." line="50" column="20" />
+      </file>
       <file name="$USER_HOME$/git/web/coatings/app/Traits/Imageable.php" timestamp="1542805353414">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/gsk/resources/views/layouts/layout.blade.php" timestamp="1542817184141">
+        <mark key="'" line="31" column="41" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="17" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Http/Controllers/FrontendController.php" timestamp="1542731384594">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="21" column="36" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/DateCrudController.php" timestamp="1542727258098">
         <mark key="[" line="145" column="29" />
@@ -319,13 +244,27 @@
         <mark key="^" line="77" column="61" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Http/Controllers/Admin/ProductCrudController.php" timestamp="1542810156981">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="87" column="11" />
+      <file name="$USER_HOME$/git/web/coatings/app/Http/Controllers/Admin/ProductCrudController.php" timestamp="1542813690066">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/app/Widgets/VacancyView.blade.php" timestamp="1542812223948">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="52" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/database/migrations/2018_11_21_151508_create_product_spectrums_table.php" timestamp="1542812686876">
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="20" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/web/gsk/app/Http/Controllers/FrontendPageController.php" timestamp="1542795958160">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="18" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/vendor/backpack/crud/src/app/Http/Controllers/Operations/SaveActions.php" timestamp="1542713157637">
         <mark key="[" line="76" column="0" />
@@ -337,14 +276,34 @@
         <mark key="." line="7" column="68" />
         <mark key="^" line="6" column="3" />
       </file>
+      <file name="$USER_HOME$/git/web/gsk/app/Models/PublishedNews.php" timestamp="1542794950741">
+        <mark key="[" line="44" column="52" />
+        <mark key="]" line="44" column="52" />
+        <mark key="^" line="44" column="48" />
+        <mark key="." line="44" column="52" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Http/Controllers/Admin/TeamMemberCrudController.php" timestamp="1542804498963">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="52" column="14" />
+      </file>
       <file name="/Dummy.txt" timestamp="1542809980143">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/gsk/app/Models/NewsPage.php" timestamp="1542795846104">
+        <mark key="[" line="60" column="5" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/resources/views/includes/footer_link.blade.php" timestamp="1542799773849">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="25" />
         <mark key="." line="1" column="25" />
         <mark key="^" line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Models/ServiceSpectrum.php" timestamp="1542808956298">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/database/factories/TeamMemberFactory.php" timestamp="1542803358522">
         <mark key="[" line="15" column="15" />
@@ -357,18 +316,64 @@
         <mark key="]" line="71" column="28" />
         <mark key="." line="71" column="28" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" timestamp="1542799725760">
+      <file name="$USER_HOME$/git/web/gsk/app/Http/Controllers/Admin/NewsCrudController.php" timestamp="1542798645707">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="36" column="38" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" timestamp="1542817147533">
         <mark key="'" line="110" column="0" />
-        <mark key="[" line="166" column="57" />
-        <mark key="]" line="166" column="26" />
-        <mark key="." line="166" column="56" />
-        <mark key="^" line="166" column="26" />
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="21" />
+        <mark key="." line="213" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Settings/OfficeCrudController.php" timestamp="1542703927923">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="57" />
+        <mark key="^" line="25" column="38" />
+        <mark key="." line="26" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/web/gsk/database/factories/StaffFactory.php" timestamp="1542791535210">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/vendor/webfactor/laravel-backpack-pagemanager/src/PageManager.php" timestamp="1542802250320">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="93" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Http/Controllers/Admin/WidgetItemCrudController.php" timestamp="1542813628296">
+        <mark key="[" line="22" column="66" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Home.php" timestamp="1542876128979">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="95" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Widgets/ProductView.blade.php" timestamp="1542812146068">
+        <mark key="[" line="2" column="74" />
+        <mark key="]" line="2" column="110" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/database/seeds/JumpinSeeder.php" timestamp="1542727494826">
         <mark key="[" line="28" column="56" />
         <mark key="]" line="23" column="68" />
         <mark key="^" line="23" column="68" />
         <mark key="." line="23" column="68" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/resources/views/pages/home.blade.php" timestamp="1542731379528">
+        <mark key="'" line="4" column="64" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/CustomerCrudController.php" timestamp="1542703936670">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="35" />
+        <mark key="." line="27" column="35" />
+        <mark key="^" line="27" column="34" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Models/SubModels/LocationDate.php" timestamp="1542724817034">
         <mark key="[" line="69" column="0" />
@@ -379,20 +384,47 @@
         <mark key="]" line="30" column="39" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" timestamp="1542812352413" />
+      <file name="$USER_HOME$/git/web/coatings/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" timestamp="1542814089748">
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="23" column="7" />
+        <mark key="." line="23" column="7" />
+        <mark key="^" line="23" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/database/factories/LocationFactory.php" timestamp="1542728128031">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="15" column="16" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Traits/CanScopePublished.php" timestamp="1542809996756">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Models/WidgetItem.php" timestamp="1542813248355">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="79" column="5" />
+        <mark key="." line="77" column="32" />
+        <mark key="^" line="77" column="32" />
+      </file>
       <file name="$USER_HOME$/git/web/coatings/database/factories/ServiceSpectrumFactory.php" timestamp="1542803322930">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/database/seeds/LocationsSeeder.php" timestamp="1542723064284">
+        <mark key="[" line="47" column="44" />
+        <mark key="]" line="47" column="17" />
+        <mark key="." line="47" column="17" />
+        <mark key="^" line="47" column="17" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Models/Media.php" timestamp="1542802975792">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="74" column="6" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="8" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
-      <jump line="290" column="40" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
-      <jump line="248" column="60" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/app/Models/Jumpin.php" />
-      <jump line="23" column="18" filename="$USER_HOME$/git/web/jumpin/app/Models/Jumpin.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/jumpin/config/database.php" />
       <jump line="103" column="6" filename="$USER_HOME$/git/web/jumpin/app/Models/Location.php" />
       <jump line="47" column="25" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
       <jump line="327" column="17" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
@@ -487,64 +519,70 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/web/coatings/database/seeds/ReferenceSeeder.php" />
       <jump line="77" column="14" filename="$USER_HOME$/git/web/coatings/app/helpers.php" />
       <jump line="5" column="77" filename="$USER_HOME$/git/web/coatings/app/Widgets/ProductSpectrumView.blade.php" />
+      <jump line="113" column="4" filename="$USER_HOME$/git/web/coatings/app/Http/Controllers/Admin/ProductCrudController.php" />
+      <jump line="124" column="0" filename="$USER_HOME$/git/web/coatings/app/Http/Controllers/Admin/ProductCrudController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
+      <jump line="0" column="43" filename="$USER_HOME$/git/web/coatings/resources/views/includes/page_nav.blade.php" />
+      <jump line="31" column="41" filename="$USER_HOME$/git/web/gsk/resources/views/layouts/layout.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Home.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgc3RhdGljIGZ1bmN0aW9uIGJvb3QoKQogICAgewogICAgICAgIHBhcmVudDo6Ym9vdCgpOwogICAgICAgIHN0YXRpYzo6YWRkR2xvYmFsU2NvcGUoZnVuY3Rpb24gKEJ1aWxkZXIgJGJ1aWxkZXIpIHsKICAgICAgICAgICAgJGJ1aWxkZXItPndoZXJlKCd0eXBlJywgc3RhdGljOjpnZXRXaWRnZXRJdGVtVHlwZSgpKTsKICAgICAgICB9KTsKCiAgICAgICAgc2VsZjo6Y3JlYXRpbmcoZnVuY3Rpb24gKFdpZGdldEl0ZW0gJG1vZGVsKSB7CiAgICAgICAgICAgICRtb2RlbC0+dHlwZSA9IHN0YXRpYzo6Z2V0V2lkZ2V0SXRlbVR5cGUoKTsKICAgICAgICB9KTsKICAgIH0K</text>
+        <text encoding="base64">QHN0YWNrKCdzY3JpcHRzJykK</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>setAttribute</text>
       </register>
       <register name="/" type="4">
-        <text>image</text>
+        <text>Punk</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgc3RhdGljIGZ1bmN0aW9uIGJvb3QoKQogICAgewogICAgICAgIHBhcmVudDo6Ym9vdCgpOwogICAgICAgIHN0YXRpYzo6YWRkR2xvYmFsU2NvcGUoZnVuY3Rpb24gKEJ1aWxkZXIgJGJ1aWxkZXIpIHsKICAgICAgICAgICAgJGJ1aWxkZXItPndoZXJlKCd0eXBlJywgc3RhdGljOjpnZXRXaWRnZXRJdGVtVHlwZSgpKTsKICAgICAgICB9KTsKCiAgICAgICAgc2VsZjo6Y3JlYXRpbmcoZnVuY3Rpb24gKFdpZGdldEl0ZW0gJG1vZGVsKSB7CiAgICAgICAgICAgICRtb2RlbC0+dHlwZSA9IHN0YXRpYzo6Z2V0V2lkZ2V0SXRlbVR5cGUoKTsKICAgICAgICB9KTsKICAgIH0K</text>
+        <text encoding="base64">QHN0YWNrKCdzY3JpcHRzJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5IGludCAkaWQKICogQHByb3BlcnR5IGFycmF5ICR0aXRsZQogKiBAcHJvcGVydHkgc3RyaW5nfG51bGwgJGltYWdlCiAqIEBwcm9wZXJ0eSBhcnJheSAkZGVzY3JpcHRpb24KICogQHByb3BlcnR5IGludCAkcHVibGlzaGVkCiAqIEBwcm9wZXJ0eSBcSWxsdW1pbmF0ZVxTdXBwb3J0XENhcmJvbnxudWxsICRjcmVhdGVkX2F0CiAqIEBwcm9wZXJ0eSBcSWxsdW1pbmF0ZVxTdXBwb3J0XENhcmJvbnxudWxsICR1cGRhdGVkX2F0CiAqIEBwcm9wZXJ0eSBtaXhlZCAkaWNvbgogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcTW9kZWxzXFByb2R1Y3RTcGVjdHJ1bSBuZXdNb2RlbFF1ZXJ5KCkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXE1vZGVsc1xQcm9kdWN0U3BlY3RydW0gbmV3UXVlcnkoKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcTW9kZWxzXFByb2R1Y3RTcGVjdHJ1bSBwdWJsaXNoZWQoKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcTW9kZWxzXFByb2R1Y3RTcGVjdHJ1bSBxdWVyeSgpCiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxNb2RlbHNcUHJvZHVjdFNwZWN0cnVtIHdoZXJlQ3JlYXRlZEF0KCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXE1vZGVsc1xQcm9kdWN0U3BlY3RydW0gd2hlcmVEZXNjcmlwdGlvbigkdmFsdWUpCiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxNb2RlbHNcUHJvZHVjdFNwZWN0cnVtIHdoZXJlSWQoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcTW9kZWxzXFByb2R1Y3RTcGVjdHJ1bSB3aGVyZUltYWdlKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXE1vZGVsc1xQcm9kdWN0U3BlY3RydW0gd2hlcmVQdWJsaXNoZWQoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcTW9kZWxzXFByb2R1Y3RTcGVjdHJ1bSB3aGVyZVRpdGxlKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXE1vZGVsc1xQcm9kdWN0U3BlY3RydW0gd2hlcmVVcGRhdGVkQXQoJHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgc3RhdGljIGZ1bmN0aW9uIGJvb3QoKQogICAgewogICAgICAgIHBhcmVudDo6Ym9vdCgpOwogICAgICAgIHN0YXRpYzo6YWRkR2xvYmFsU2NvcGUoZnVuY3Rpb24gKEJ1aWxkZXIgJGJ1aWxkZXIpIHsKICAgICAgICAgICAgJGJ1aWxkZXIKICAgICAgICB9KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIEBmb3JlYWNoKCRuYXYpCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0V2lkZ2V0SXRlbVR5cGUoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgIEBmb3JlYWNoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICQoJyNuYXZiYXInKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gcmVsYXRlZCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5tb3JwaFRvKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdD4KICAgICQoJyNuYXZiYXInKQo8L3NjcmlwdD4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB3aWRnZXQoKSAKICAgIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZSBDcnVkVHJhaXQ7CiAgICB1c2UgSW1hZ2VhYmxlOwogICAgdXNlIEhhc1RyYW5zbGF0aW9uczsKICAgIHVzZSBDYW5TY29wZVB1Ymxpc2hlZDsKCiAgICAvKgogICAgfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICB8IEdMT0JBTCBWQVJJQUJMRVMKICAgIHwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgKi8KCiAgICBwcm90ZWN0ZWQgJGZpbGxhYmxlID0gWwogICAgICAgICd0aXRsZScsCiAgICAgICAgJ2Rlc2NyaXB0aW9uJywKICAgICAgICAnaW1hZ2UnLAogICAgICAgICdwdWJsaXNoZWQnCiAgICBdOwoKICAgIHByb3RlY3RlZCAkdHJhbnNsYXRhYmxlID0gWwogICAgICAgICd0aXRsZScsCiAgICAgICAgJ2Rlc2NyaXB0aW9uJywKICAgIF07Cg==</text>
+        <text encoding="base64">e3tkZCgkbmF2SXRlbXMpfX0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>image</last-search>
+      <last-search>Punk</last-search>
       <last-offset />
-      <last-pattern>image</last-pattern>
+      <last-pattern>Punk</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -552,8 +590,6 @@
     </search>
     <history>
       <history-search>
-        <entry>customer</entry>
-        <entry>building</entry>
         <entry>instant</entry>
         <entry>on</entry>
         <entry>on_</entry>
@@ -572,6 +608,8 @@
         <entry>card-text</entry>
         <entry>HEAD</entry>
         <entry>image</entry>
+        <entry>scripts</entry>
+        <entry>Punk</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
