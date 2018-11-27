@@ -48,6 +48,12 @@
         <mark key="." line="10" column="128" />
         <mark key="^" line="4" column="134" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/FaqCrudController.php" timestamp="1543317310038">
+        <mark key="[" line="55" column="46" />
+        <mark key="]" line="65" column="18" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="33" column="32" />
+      </file>
       <file name="$USER_HOME$/git/web/aiu/database/migrations/2018_09_05_144621_create_news_table.php" timestamp="1543221962566">
         <mark key="[" line="18" column="39" />
       </file>
@@ -106,10 +112,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1543315256809">
-        <mark key="[" line="26" column="70" />
-        <mark key="]" line="26" column="70" />
-        <mark key="." line="26" column="70" />
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1543317299145">
+        <mark key="'" line="57" column="42" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="63" column="18" />
+        <mark key="^" line="32" column="7" />
+        <mark key="." line="32" column="7" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/TagCrudController.php" timestamp="1542980312831">
         <mark key="[" line="97" column="102" />
@@ -159,9 +167,8 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/routes/backpack/custom.php" timestamp="1543314892413">
-        <mark key="'" line="17" column="8" />
-        <mark key="[" line="17" column="4" />
+      <file name="$USER_HOME$/git/web/studi/routes/backpack/custom.php" timestamp="1543317950660">
+        <mark key="[" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/ConfigController.php" timestamp="1543236874702">
         <mark key="[" line="15" column="0" />
@@ -217,7 +224,8 @@
       <file name="$USER_HOME$/git/web/sleipnir/app/Models/Image.php" timestamp="1543246949184">
         <mark key="[" line="80" column="31" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" timestamp="1543233033784">
+      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" timestamp="1543317870239">
+        <mark key="'" line="175" column="6" />
         <mark key="[" line="176" column="0" />
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
@@ -678,8 +686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/git/web/coatings/resources/assets/sass/app.scss" />
-      <jump line="42" column="8" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
       <jump line="41" column="0" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
       <jump line="110" column="0" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
       <jump line="135" column="22" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
@@ -778,19 +784,21 @@
       <jump line="79" column="4" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Settings/OfficeCrudController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" />
       <jump line="17" column="8" filename="$USER_HOME$/git/web/studi/routes/backpack/custom.php" />
+      <jump line="53" column="42" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="175" column="6" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CnVzZSBGYWtlclxHZW5lcmF0b3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdkYXRhX3NvdXJjZScgICAgICAgICAgPT4gJy9hc3NpZ25tZW50L2FqYXgnLAogICAgICAgICAgICAgICAgJ3ZpZXdfbmFtZXNwYWNlJyAgICAgICA9PiAnd2ViZmFjdG9yOjpmaWVsZHMnLAogICAgICAgICAgICAgICAgJ3BsYWNlaG9sZGVyJyAgICAgICAgICA9PiAnQml0dGUgd8OkaGxlbicsCiAgICAgICAgICAgICAgICAnbWluaW11bV9pbnB1dF9sZW5ndGgnID0+IDAsCiAgICAgICAgICAgICAgICAnb25fdGhlX2ZseScgICAgICAgICAgID0+IFsKICAgICAgICAgICAgICAgICAgICAnZW50aXR5JyA9PiAnb2ZmaWNlJywKICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>assignment</text>
       </register>
       <register name="/" type="4">
         <text>settings</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBwdXNoKCdjcnVkX2ZpZWxkc19zY3JpcHRzJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdkYXRhX3NvdXJjZScgICAgICAgICAgPT4gJy9hc3NpZ25tZW50L2FqYXgnLAogICAgICAgICAgICAgICAgJ3ZpZXdfbmFtZXNwYWNlJyAgICAgICA9PiAnd2ViZmFjdG9yOjpmaWVsZHMnLAogICAgICAgICAgICAgICAgJ3BsYWNlaG9sZGVyJyAgICAgICAgICA9PiAnQml0dGUgd8OkaGxlbicsCiAgICAgICAgICAgICAgICAnbWluaW11bV9pbnB1dF9sZW5ndGgnID0+IDAsCiAgICAgICAgICAgICAgICAnb25fdGhlX2ZseScgICAgICAgICAgID0+IFsKICAgICAgICAgICAgICAgICAgICAnZW50aXR5JyA9PiAnb2ZmaWNlJywKICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CnVzZSBGYWtlclxHZW5lcmF0b3I7Cg==</text>
