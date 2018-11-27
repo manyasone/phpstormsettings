@@ -1,10 +1,15 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="M" line="13" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Settings/NationalityCrudController.php" timestamp="1543314510074">
+        <mark key="[" line="24" column="70" />
+        <mark key="]" line="24" column="70" />
+        <mark key="." line="24" column="70" />
+      </file>
       <file name="$USER_HOME$/git/web/coatings/app/Widgets/ReferenceView.blade.php" timestamp="1542805415662">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="37" />
@@ -21,6 +26,10 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="117" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" timestamp="1543314770589">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="99" column="63" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/columns/select.blade.php" timestamp="1542974362274">
         <mark key="[" line="1" column="0" />
@@ -39,11 +48,6 @@
         <mark key="." line="10" column="128" />
         <mark key="^" line="4" column="134" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/FaqCrudController.php" timestamp="1542979236637">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="55" column="14" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/git/web/aiu/database/migrations/2018_09_05_144621_create_news_table.php" timestamp="1543221962566">
         <mark key="[" line="18" column="39" />
       </file>
@@ -58,6 +62,11 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="78" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Settings/StaticFileCrudController.php" timestamp="1543314523998">
+        <mark key="[" line="24" column="70" />
+        <mark key="]" line="24" column="70" />
+        <mark key="." line="24" column="70" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/Admin/EmploymentRequest.php" timestamp="1543234375756">
         <mark key="[" line="9" column="0" />
@@ -97,11 +106,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1543312342707">
-        <mark key="[" line="48" column="39" />
-        <mark key="]" line="62" column="43" />
-        <mark key="." line="62" column="43" />
-        <mark key="^" line="62" column="43" />
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1543315256809">
+        <mark key="[" line="26" column="70" />
+        <mark key="]" line="26" column="70" />
+        <mark key="." line="26" column="70" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/TagCrudController.php" timestamp="1542980312831">
         <mark key="[" line="97" column="102" />
@@ -151,10 +159,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/routes/backpack/custom.php" timestamp="1543232934203">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/git/web/studi/routes/backpack/custom.php" timestamp="1543314892413">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="17" column="4" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/ConfigController.php" timestamp="1543236874702">
         <mark key="[" line="15" column="0" />
@@ -266,14 +273,20 @@
         <mark key="^" line="44" column="48" />
         <mark key="." line="44" column="52" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Settings/ReligionCrudController.php" timestamp="1543314521739">
+        <mark key="[" line="24" column="70" />
+        <mark key="]" line="24" column="70" />
+        <mark key="." line="24" column="70" />
+      </file>
       <file name="$USER_HOME$/git/web/gsk/app/Http/Controllers/Admin/NewsCrudController.php" timestamp="1542798645707">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="^" line="36" column="38" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Settings/OfficeCrudController.php" timestamp="1542703927923">
-        <mark key="[" line="26" column="0" />
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Settings/OfficeCrudController.php" timestamp="1543314500221">
+        <mark key="'" line="79" column="4" />
+        <mark key="[" line="22" column="79" />
         <mark key="]" line="26" column="57" />
         <mark key="^" line="25" column="38" />
         <mark key="." line="26" column="35" />
@@ -493,6 +506,12 @@
         <mark key="]" line="2" column="6" />
         <mark key="." line="1" column="105" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Settings/EmploymentCrudController.php" timestamp="1543315292793">
+        <mark key="[" line="19" column="70" />
+        <mark key="]" line="19" column="70" />
+        <mark key="." line="19" column="70" />
+        <mark key="^" line="19" column="64" />
+      </file>
       <file name="$USER_HOME$/git/web/coatings/database/seeds/DatabaseSeeder.php" timestamp="1542985940146">
         <mark key="[" line="20" column="28" />
         <mark key="]" line="20" column="34" />
@@ -632,9 +651,6 @@
         <mark key="[" line="213" column="0" />
         <mark key="]" line="213" column="45" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/public/vendor/adminlte/bower_components/fullcalendar/dist/fullcalendar.js" timestamp="1543239957815">
-        <mark key="'" line="4557" column="14" />
-      </file>
       <file name="$USER_HOME$/git/web/aiu/database/factories/EducationFactory.php" timestamp="1543223909309">
         <mark key="[" line="11" column="44" />
         <mark key="]" line="12" column="0" />
@@ -646,6 +662,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Settings/FoundHowCrudController.php" timestamp="1543315273354">
+        <mark key="[" line="23" column="70" />
+        <mark key="]" line="23" column="70" />
+        <mark key="." line="23" column="70" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/database/seeds/JumpinSeeder.php" timestamp="1542727494826">
         <mark key="[" line="28" column="56" />
@@ -672,11 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="71" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Api/v1/JumpinsController.php" />
-      <jump line="4" column="64" filename="$USER_HOME$/git/web/coatings/resources/views/pages/home.blade.php" />
-      <jump line="192" column="9" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="177" column="15" filename="$USER_HOME$/git/web/coatings/resources/assets/sass/app.scss" />
-      <jump line="15" column="1" filename="$USER_HOME$/git/web/coatings/resources/assets/sass/app.scss" />
       <jump line="9" column="0" filename="$USER_HOME$/git/web/coatings/resources/assets/sass/app.scss" />
       <jump line="42" column="8" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
       <jump line="41" column="0" filename="$USER_HOME$/git/web/gsk/app/Widgets/NewsView.blade.php" />
@@ -772,64 +788,69 @@
       <jump line="16" column="16" filename="$USER_HOME$/git/web/sleipnir/resources/views/vendor/backpack/crud/fields/bodyAreaCoordinates.blade.php" />
       <jump line="53" column="20" filename="$USER_HOME$/git/web/sleipnir/resources/views/vendor/backpack/crud/fields/bodyAreaCoordinates.blade.php" />
       <jump line="12" column="65" filename="$USER_HOME$/git/web/sleipnir/resources/views/vendor/backpack/crud/fields/bodyAreaCoordinates.blade.php" />
+      <jump line="26" column="34" filename="$USER_HOME$/git/web/studi/routes/backpack/custom.php" />
+      <jump line="15" column="26" filename="$USER_HOME$/git/web/studi/routes/backpack/custom.php" />
+      <jump line="79" column="4" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Settings/OfficeCrudController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" />
+      <jump line="17" column="8" filename="$USER_HOME$/git/web/studi/routes/backpack/custom.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBwdXNoKCdjcnVkX2ZpZWxkc19zY3JpcHRzJykK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>onclick=&quot;point_it(event)&quot;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>point_it</text>
+        <text>settings</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBwdXNoKCdjcnVkX2ZpZWxkc19zY3JpcHRzJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwb2ludF9pdCA9IGZ1bmN0aW9uIChldmVudCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Y3J1ZC0+Z2V0Um91dGUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2luZG93KGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbiAoJCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY3JlYXRlX3ZpZXcnID0+ICcvb2ZmaWNlL2FqYXgvY3JlYXRlJywK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcmVmaXgnID0+ICdzdG9yYWdlLycsCg==</text>
+        <text encoding="base64">Ly8gICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgUm91dGU6Omdyb3VwKFsKLy8gICAgICAgICdwcmVmaXgnICAgID0+ICdzZXR0aW5ncycsCi8vICAgICAgICAnbmFtZXNwYWNlJyA9PiAnU2V0dGluZ3MnLAovLyAgICBdLCBmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZChJbWFnZTo6Zmlyc3QoKS0+bmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY3JlYXRlX3ZpZXcnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGltYWdlKSB7CiAgICAgICAgICAgIGRkKEltYWdlOjphbGwoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwb2ludF9pdCA9IGZ1bmN0aW9uIChldmVudCkgewo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGltYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG93KGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbiAoJCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>point_it</last-search>
+      <last-search>settings</last-search>
       <last-offset />
-      <last-pattern>point_it</last-pattern>
+      <last-pattern>settings</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -837,7 +858,6 @@
     </search>
     <history>
       <history-search>
-        <entry>chla</entry>
         <entry>tag</entry>
         <entry>tags</entry>
         <entry>guard</entry>
@@ -857,6 +877,7 @@
         <entry>click\</entry>
         <entry>click</entry>
         <entry>point_it</entry>
+        <entry>settings</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
