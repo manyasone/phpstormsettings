@@ -84,6 +84,9 @@
         <mark key="]" line="21" column="54" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/app/Models/Application.php" timestamp="1543484123698">
+        <mark key="'" line="58" column="25" />
+      </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/AccidentCrudController.php" timestamp="1543331393112">
         <mark key="'" line="0" column="0" />
       </file>
@@ -274,9 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/inc/form_save_buttons.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/config/backpack/crud.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/resources/lang/de/models.php" />
       <jump line="159" column="17" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" />
       <jump line="379" column="5" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
@@ -374,6 +374,9 @@
       <jump line="144" column="32" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
       <jump line="20" column="68" filename="$USER_HOME$/git/web/studi/routes/backpack/custom.php" />
       <jump line="51" column="48" filename="$USER_HOME$/git/web/studi/routes/backpack/custom.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/Models/Application.php" />
+      <jump line="59" column="25" filename="$USER_HOME$/git/web/studi/app/Models/Application.php" />
+      <jump line="58" column="25" filename="$USER_HOME$/git/web/studi/app/Models/Application.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -383,7 +386,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>tag</text>
+        <text>state</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0QWpheFN0b3JlUmVxdWVzdChTdG9yZVJlcXVlc3Q6OmNsYXNzKTsK</text>
@@ -429,9 +432,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tag</last-search>
+      <last-search>state</last-search>
       <last-offset />
-      <last-pattern>tag</last-pattern>
+      <last-pattern>state</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -444,7 +447,6 @@
         <entry>index</entry>
         <entry>settings</entry>
         <entry>faq</entry>
-        <entry>state</entry>
         <entry>State</entry>
         <entry>tate</entry>
         <entry>pplica</entry>
@@ -459,6 +461,7 @@
         <entry>Provider</entry>
         <entry>addFilters</entry>
         <entry>tag</entry>
+        <entry>state</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
