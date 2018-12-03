@@ -69,6 +69,9 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="16" column="5" />
       </file>
+      <file name="$USER_HOME$/git/web/aiu/vendor/composer/autoload_real.php" timestamp="1543850524263">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/wohnbau/app/Http/Controllers/Admin/NewsItemCrudController.php" timestamp="1543849703933">
         <mark key="'" line="12" column="23" />
         <mark key="[" line="12" column="21" />
@@ -81,6 +84,9 @@
         <mark key="]" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
+      <file name="$USER_HOME$/git/web/aiu/app/Http/PageManager/Presets/OnePager.php" timestamp="1543850792024">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/wohnbau/resources/views/frontend/include/home/welcome.blade.php" timestamp="1543844548634">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="16" column="6" />
@@ -90,6 +96,9 @@
         <mark key="]" line="13" column="56" />
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="56" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Imprint.php" timestamp="1543845396014">
+        <mark key="'" line="23" column="45" />
       </file>
       <file name="$USER_HOME$/git/web/ophelo/resources/views/emails/employerContact.blade.php" timestamp="1543833232828">
         <mark key="[" line="4" column="30" />
@@ -102,6 +111,9 @@
         <mark key="]" line="25" column="31" />
         <mark key="." line="25" column="31" />
         <mark key="^" line="25" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/web/wohnbau/composer.json" timestamp="1543845966623">
+        <mark key="'" line="31" column="51" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/MediaCrudController.php" timestamp="1543334922082">
         <mark key="[" line="149" column="39" />
@@ -193,6 +205,12 @@
         <mark key="." line="218" column="103" />
         <mark key="^" line="218" column="112" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/app/Models/Application.php" timestamp="1543484123698">
+        <mark key="'" line="58" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/AccidentCrudController.php" timestamp="1543331393112">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/coatings/app/Providers/AppServiceProvider.php" timestamp="1543845467191">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="39" />
@@ -259,6 +277,9 @@
         <mark key="^" line="32" column="11" />
         <mark key="." line="46" column="5" />
       </file>
+      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/nested/contact.blade.php" timestamp="1543837966137">
+        <mark key="'" line="65" column="23" />
+      </file>
       <file name="$USER_HOME$/git/web/wohnbau/resources/views/frontend/include/footer.blade.php" timestamp="1543845512880">
         <mark key="[" line="9" column="48" />
         <mark key="]" line="9" column="27" />
@@ -269,8 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="9" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/auth/account/update_info.blade.php" />
-      <jump line="43" column="0" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/auth/account/update_info.blade.php" />
       <jump line="0" column="27" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/edit.blade.php" />
       <jump line="0" column="23" filename="$USER_HOME$/git/web/studi/resources/views/backend/account2.blade.php" />
       <jump line="25" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Backend/AccountCrudController.php" />
@@ -369,6 +388,8 @@
       <jump line="0" column="23" filename="$USER_HOME$/git/web/wohnbau/app/Widgets/ReferenceCategoryView.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/wohnbau/resources/lang/de/validation.php" />
       <jump line="96" column="23" filename="$USER_HOME$/git/web/wohnbau/app/Http/Controllers/Admin/NewsItemCrudController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/aiu/vendor/composer/autoload_real.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/aiu/app/Http/PageManager/Presets/OnePager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -378,7 +399,7 @@
         <text>$entity</text>
       </register>
       <register name="/" type="4">
-        <text>widget</text>
+        <text>left</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgZnVuY3Rpb24gZ2V0Um91dGUoKQogICAgewogICAgICAgIHJldHVybiAncHJvZHVjdF9zcGVjdHJ1bSc7CiAgICB9CgogICAgcHJvdGVjdGVkIHN0YXRpYyBmdW5jdGlvbiBnZXRNb2RlbCgpCiAgICB7CiAgICAgICAgcmV0dXJuIFByb2R1Y3RTcGVjdHJ1bTo6Y2xhc3M7CiAgICB9Cg==</text>
@@ -424,9 +445,9 @@
       </register>
     </registers>
     <search>
-      <last-search>widget</last-search>
+      <last-search>left</last-search>
       <last-offset />
-      <last-pattern>widget</last-pattern>
+      <last-pattern>left</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -434,7 +455,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ilter</entry>
         <entry>application_filter</entry>
         <entry>FILTERS</entry>
         <entry>values</entry>
@@ -454,6 +474,7 @@
         <entry>welcome</entry>
         <entry>slug</entry>
         <entry>widget</entry>
+        <entry>left</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
