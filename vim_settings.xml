@@ -64,11 +64,12 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/git/web/wohnbau/app/Models/WidgetItem.php" timestamp="1543918299277">
+      <file name="$USER_HOME$/git/web/wohnbau/app/Models/WidgetItem.php" timestamp="1543918876850">
         <mark key="'" line="80" column="4" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+        <mark key="[" line="64" column="25" />
+        <mark key="]" line="64" column="32" />
+        <mark key="." line="64" column="32" />
+        <mark key="^" line="64" column="32" />
       </file>
       <file name="$USER_HOME$/git/web/ophelo/database/factories/RatingFactory.php" timestamp="1543827762934">
         <mark key="[" line="9" column="31" />
@@ -536,14 +537,14 @@
       <jump line="80" column="4" filename="$USER_HOME$/git/web/wohnbau/app/Models/WidgetItem.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkTWVkaWFDb2xsZWN0aW9uKCdpbWFnZScpLT53aXRoUgo=</text>
+      <register name="&quot;" type="4">
+        <text>nversion</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>nversion</text>
       </register>
       <register name="/" type="4">
-        <text>register</text>
+        <text>Responsive</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzZWN0aW9uPgogICAgICAgIDxpZnJhbWUgc3JjPSJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvZW1iZWQ/cGI9ITFtMTQhMW04ITFtMyExZDgyNTc4Ljc1NTU0MDU5MjMhMmQ5Ljg3NTI4MjQyNzY5NjAzMiEzZDQ5LjY5OTc2NjUzNjQwMDE5ITNtMiExaTEwMjQhMmk3NjghNGYxMy4xITNtMyExbTIhMXMweDQ3YTI4NDk1MDJjYTNlZDMlM0EweDQ4NjBjZDI0NDNlMzc5YiEyc0dlb3JnLUhlaW5yaWNoLUFwcGwtU3RyYSVDMyU5RmUrNiUyQys5NzIzNCtSZWljaGVuYmVyZyE1ZTAhM20yITFzZGUhMnNkZSE0djE1MjQ0ODE4MDg3NDIiCiAgICAgICAgICAgIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4KICAgIDwvc2VjdGlvbj4K</text>
@@ -589,9 +590,9 @@
       </register>
     </registers>
     <search>
-      <last-search>register</last-search>
+      <last-search>Responsive</last-search>
       <last-offset />
-      <last-pattern>register</last-pattern>
+      <last-pattern>Responsive</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -599,7 +600,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Filters</entry>
         <entry>Provider</entry>
         <entry>addFilters</entry>
         <entry>tag</entry>
@@ -619,6 +619,7 @@
         <entry>page</entry>
         <entry>all</entry>
         <entry>register</entry>
+        <entry>Responsive</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
