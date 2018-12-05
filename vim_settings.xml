@@ -14,8 +14,10 @@
       <file name="/a.dummy" timestamp="1543937427949">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/datetime_picker.blade.php" timestamp="1544006128836">
-        <mark key="[" line="7" column="1" />
+      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/datetime_picker.blade.php" timestamp="1544007086235">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1543937209528" />
       <file name="$USER_HOME$/git/web/persofleet/app/Models/User.php" timestamp="1543933521784">
@@ -57,11 +59,11 @@
         <mark key="." line="74" column="12" />
         <mark key="^" line="74" column="12" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1544005356980">
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1544007310192">
         <mark key="'" line="43" column="14" />
-        <mark key="[" line="86" column="54" />
-        <mark key="]" line="100" column="87" />
-        <mark key="." line="100" column="87" />
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="0" />
+        <mark key="." line="236" column="0" />
         <mark key="^" line="100" column="87" />
       </file>
       <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/CrudPanel.php" timestamp="1543933816611">
@@ -75,11 +77,11 @@
       <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/buttons/clone.blade.php" timestamp="1543930750823">
         <mark key="'" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/datetime_picker.blade.php" timestamp="1544006364566">
-        <mark key="'" line="12" column="37" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/datetime_picker.blade.php" timestamp="1544006587338">
+        <mark key="'" line="12" column="35" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Traits/HasTrash.php" timestamp="1544001729050">
         <mark key="[" line="61" column="89" />
@@ -155,7 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="28" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/employer/nested/contact.blade.php" />
       <jump line="65" column="23" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/nested/contact.blade.php" />
       <jump line="30" column="12" filename="$USER_HOME$/git/web/wohnbau/app/Http/PageManager/Presets/Home.php" />
       <jump line="129" column="17" filename="$USER_HOME$/git/web/wohnbau/app/Http/PageManager/Presets/Home.php" />
@@ -254,65 +255,66 @@
       <jump line="72" column="33" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
       <jump line="8" column="0" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/datetime_picker.blade.php" />
       <jump line="13" column="35" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/datetime_picker.blade.php" />
-      <jump line="12" column="37" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/datetime_picker.blade.php" />
+      <jump line="53" column="0" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/datetime_picker.blade.php" />
+      <jump line="12" column="35" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/datetime_picker.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHt7IGRkKG9sZCgkZmllbGRbJ25hbWUnXSkgfX0K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+YWxsKCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>seCurrent</text>
       </register>
       <register name="/" type="4">
-        <text>'value</text>
+        <text>field['name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdkZWZhdWx0JyAgICAgICAgICAgICA9PiBub3coKSwKICAgICAgICAgICAgICAgICdkYXRlX3BpY2tlcl9vcHRpb25zJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ3RvZGF5QnRuJyA9PiB0cnVlLAogICAgICAgICAgICAgICAgICAgICdmb3JtYXQnICAgPT4gJ2RkLm1tLnl5eXknLAogICAgICAgICAgICAgICAgICAgICdsYW5ndWFnZScgPT4gJ2RlJywKICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHt7IGRkKG9sZCgkZmllbGRbJ25hbWUnXSkgfX0K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+YWxsKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHt7IGRkKG9sZCRmaWVsZCkgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IGRkKCRmaWVsZCkgfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHt7IGRkKCRmaWVsZFsndmFsdWUnXSkgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJ7eyRmaWVsZH19Iik7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IGRkKCRmaWVsZCkgfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRkKCRmaWVsZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCRmaWVsZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnZW5kc19hdCcsCg==</text>
+        <text encoding="base64">ICAgIHt7IGRkKG9sZCgkZmllbGRbJ25hbWUnXSkgfX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnYmVnaW5zX2F0JywK</text>
+        <text encoding="base64">ICAgIHt7IGRkKG9sZCRmaWVsZCkgfX0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLy8gb3B0aW9uYWw6Cg==</text>
+        <text encoding="base64">ICAgIHt7IGRkKCRmaWVsZFsndmFsdWUnXSkgfX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9wdGlvbmFsOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>'value</last-search>
+      <last-search>field['name</last-search>
       <last-offset />
-      <last-pattern>'value</last-pattern>
+      <last-pattern>field['name</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -338,8 +340,8 @@
         <entry>default</entry>
         <entry>picker</entry>
         <entry>field_name</entry>
-        <entry>field['name</entry>
         <entry>'value</entry>
+        <entry>field['name</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
