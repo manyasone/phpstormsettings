@@ -17,7 +17,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/persofleet/app/Components/Traits/CanMakeContact.php" timestamp="1544088787792" />
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Traits/CanMakeContact.php" timestamp="1544089549052" />
       <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/auth/account/sidemenu.blade.php" timestamp="1544022992137">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -60,9 +60,8 @@
         <mark key="." line="55" column="69" />
       </file>
       <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1544088028048" />
-      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/DateCrudController.php" timestamp="1544003740116">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="82" />
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" timestamp="1544089654771">
+        <mark key="'" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/git/web/studi/routes/web.php" timestamp="1544023135128">
         <mark key="[" line="34" column="0" />
@@ -204,15 +203,9 @@
         <mark key="." line="18" column="44" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/git/web/hma/app/Http/Controllers/Admin/TaskCrudController.php" timestamp="1544020445102">
-        <mark key="[" line="342" column="0" />
-        <mark key="]" line="342" column="64" />
-      </file>
+      <file name="$USER_HOME$/git/web/persofleet/app/Components/Traits/AllowsAccess.php" timestamp="1544089889151" />
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/git/web/wohnbau/app/Http/PageManager/Presets/Home.php" />
-      <jump line="90" column="31" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="23" column="45" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Imprint.php" />
       <jump line="22" column="13" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
       <jump line="31" column="51" filename="$USER_HOME$/git/web/wohnbau/composer.json" />
       <jump line="0" column="23" filename="$USER_HOME$/git/web/wohnbau/app/Widgets/ReferenceCategoryView.blade.php" />
@@ -310,6 +303,9 @@
       <jump line="30" column="0" filename="$USER_HOME$/git/web/studi/resources/views/backend/tiles/faq.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/database/seeds/FaqSeeder.php" />
       <jump line="220" column="68" filename="$USER_HOME$/git/web/studi/resources/lang/de/validation.php" />
+      <jump line="73" column="19" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
+      <jump line="23" column="14" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
+      <jump line="4" column="32" filename="$USER_HOME$/git/web/persofleet/app/Components/Reports/Controllers/ReportCrudController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -319,7 +315,7 @@
         <text>Dashboard</text>
       </register>
       <register name="/" type="4">
-        <text>statement</text>
+        <text>Access</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">VGFnOjppblJhbmRvbU9yZGVyKCktPmxpbWl0KHJhbmQoMSwgNCkpLT5nZXQoKQ==</text>
@@ -365,9 +361,9 @@
       </register>
     </registers>
     <search>
-      <last-search>statement</last-search>
+      <last-search>Access</last-search>
       <last-offset />
-      <last-pattern>statement</last-pattern>
+      <last-pattern>Access</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -375,7 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ilter</entry>
         <entry>delet</entry>
         <entry>trash</entry>
         <entry>clone</entry>
@@ -395,6 +390,7 @@
         <entry>'value</entry>
         <entry>field['name</entry>
         <entry>statement</entry>
+        <entry>Access</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
