@@ -26,6 +26,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/database/migrations/2018_02_28_122932_create_frequencies_table.php" timestamp="1544432192961">
+        <mark key="[" line="20" column="34" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/datetime_picker.blade.php" timestamp="1544007086235">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -70,11 +73,6 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="55" column="5" />
         <mark key="^" line="51" column="23" />
-      </file>
-      <file name="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" timestamp="1544188773344">
-        <mark key="'" line="4684" column="46" />
-        <mark key="[" line="7357" column="0" />
-        <mark key="]" line="7364" column="58" />
       </file>
       <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1544427713849" />
       <file name="$USER_HOME$/git/web/studi/database/seeds/TagSeeder.php" timestamp="1544093802245">
@@ -177,9 +175,6 @@
       </file>
       <file name="$USER_HOME$/git/web/persofleet/app/Models/Modules/Text.php" timestamp="1544189615010">
         <mark key="'" line="58" column="5" />
-        <mark key="[" line="183" column="53" />
-        <mark key="]" line="183" column="53" />
-        <mark key="." line="183" column="53" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/storage/framework/views/97bf3d89472675ce7a3b560c5a15ca13e95142c4.php" timestamp="1544185964591">
         <mark key="[" line="310" column="20" />
@@ -192,11 +187,17 @@
         <mark key="^" line="25" column="33" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/jumpin/database/seeds/FrequencySeeder.php" timestamp="1544432139954">
+        <mark key="[" line="14" column="83" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/routes/backpack/custom.php" timestamp="1544197836779">
         <mark key="[" line="67" column="39" />
         <mark key="]" line="67" column="41" />
         <mark key="." line="67" column="41" />
         <mark key="^" line="67" column="41" />
+      </file>
+      <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" timestamp="1544431337219">
+        <mark key="'" line="235" column="46" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" timestamp="1544429693638">
         <mark key="'" line="307" column="0" />
@@ -274,10 +275,9 @@
         <mark key="." line="4" column="7" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/backend/message/trash/list.blade.php" timestamp="1544195566757">
-        <mark key="'" line="40" column="20" />
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="184" />
+      <file name="$USER_HOME$/git/web/persofleet/database/migrations/2017_08_02_132217_create_modules_table.php" timestamp="1544432233174">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="20" column="61" />
       </file>
       <file name="$USER_HOME$/git/web/studi/routes/web.php" timestamp="1544108250211">
         <mark key="[" line="20" column="101" />
@@ -350,19 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4791" column="8" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
-      <jump line="4796" column="38" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
-      <jump line="2" column="11" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
-      <jump line="5" column="3" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
-      <jump line="2403" column="6" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
-      <jump line="3415" column="10" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
-      <jump line="4948" column="15" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
-      <jump line="4953" column="68" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
-      <jump line="4956" column="15" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
-      <jump line="4959" column="15" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
-      <jump line="5071" column="15" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
-      <jump line="5076" column="15" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
-      <jump line="5126" column="15" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
       <jump line="5144" column="31" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
       <jump line="5153" column="23" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
       <jump line="5160" column="22" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
@@ -450,19 +437,32 @@
       <jump line="305" column="0" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/LocationCrudController.php" />
       <jump line="22" column="69" filename="$USER_HOME$/git/web/jumpin/resources/views/backpack/location/edit.blade.php" />
       <jump line="15" column="43" filename="$USER_HOME$/git/web/jumpin/resources/lang/de/crud.php" />
+      <jump line="23" column="24" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" />
+      <jump line="80" column="33" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" />
+      <jump line="81" column="44" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" />
+      <jump line="84" column="32" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" />
+      <jump line="85" column="33" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" />
+      <jump line="172" column="33" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" />
+      <jump line="173" column="44" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" />
+      <jump line="176" column="32" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" />
+      <jump line="177" column="33" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" />
+      <jump line="229" column="46" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" />
+      <jump line="231" column="57" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" />
+      <jump line="233" column="20" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" />
+      <jump line="235" column="46" filename="$USER_HOME$/git/web/jumpin/app/Http/Controllers/Admin/JumpinCrudController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">e3stLQkgICAgPHNtYWxsPnt7IHRyYW5zKCdiYWNrcGFjazo6Y3J1ZC5hbGwnKSB9fSA8c3Bhbj57eyAkY3J1ZC0+ZW50aXR5X25hbWVfcGx1cmFsIH19PC9zcGFuPiB7eyB0cmFucygnYmFja3BhY2s6OmNydWQuaW5fdGhlX2RhdGFiYXNlJykgfX0uPC9zbWFsbD4tLX19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdwYXJlbnRfaWQnKS0+dW5zaWduZWQoKS0+bnVsbGFibGUoKTsKICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdsZnQnKS0+dW5zaWduZWQoKS0+bnVsbGFibGUoKTsKICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdyZ3QnKS0+dW5zaWduZWQoKS0+bnVsbGFibGUoKTsKICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdkZXB0aCcpLT51bnNpZ25lZCgpLT5udWxsYWJsZSgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>pull</text>
       </register>
       <register name="/" type="4">
-        <text>in der</text>
+        <text>requen</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+YWRkQnV0dG9uRnJvbVZpZXcoJ3RvcCcsICdsb2NhdGlvbl9xdWlja3ZvdGVfc2V0dGluZ3MnLCAnbG9jYXRpb25fcXVpY2t2b3RlX3NldHRpbmdzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdwYXJlbnRfaWQnKS0+dW5zaWduZWQoKS0+bnVsbGFibGUoKTsKICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdsZnQnKS0+dW5zaWduZWQoKS0+bnVsbGFibGUoKTsKICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdyZ3QnKS0+dW5zaWduZWQoKS0+bnVsbGFibGUoKTsKICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdkZXB0aCcpLT51bnNpZ25lZCgpLT5udWxsYWJsZSgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">e3stLQkgICAgPHNtYWxsPnt7IHRyYW5zKCdiYWNrcGFjazo6Y3J1ZC5hbGwnKSB9fSA8c3Bhbj57eyAkY3J1ZC0+ZW50aXR5X25hbWVfcGx1cmFsIH19PC9zcGFuPiB7eyB0cmFucygnYmFja3BhY2s6OmNydWQuaW5fdGhlX2RhdGFiYXNlJykgfX0uPC9zbWFsbD4tLX19Cg==</text>
@@ -505,9 +505,9 @@
       </register>
     </registers>
     <search>
-      <last-search>in der</last-search>
+      <last-search>requen</last-search>
       <last-offset />
-      <last-pattern>in der</last-pattern>
+      <last-pattern>requen</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -515,7 +515,6 @@
     </search>
     <history>
       <history-search>
-        <entry>border</entry>
         <entry>no-border</entry>
         <entry>padding</entry>
         <entry>participants</entry>
@@ -535,6 +534,7 @@
         <entry>filter</entry>
         <entry>location</entry>
         <entry>in der</entry>
+        <entry>requen</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
