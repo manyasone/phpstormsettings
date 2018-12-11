@@ -223,11 +223,11 @@
         <mark key="^" line="85" column="30" />
         <mark key="." line="85" column="30" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" timestamp="1544538378682">
-        <mark key="[" line="229" column="86" />
-        <mark key="]" line="225" column="46" />
-        <mark key="." line="225" column="46" />
-        <mark key="^" line="225" column="46" />
+      <file name="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" timestamp="1544539197813">
+        <mark key="[" line="275" column="28" />
+        <mark key="]" line="275" column="41" />
+        <mark key="." line="275" column="41" />
+        <mark key="^" line="275" column="41" />
       </file>
       <file name="$USER_HOME$/git/web/studi/database/seeds/TagSeeder.php" timestamp="1544093802245">
         <mark key="[" line="4" column="0" />
@@ -244,11 +244,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/database/migrations/2018_10_29_095858_create_employee_datas_table.php" timestamp="1544538087095">
-        <mark key="[" line="55" column="20" />
-        <mark key="]" line="55" column="25" />
-        <mark key="^" line="55" column="25" />
-        <mark key="." line="55" column="25" />
+      <file name="$USER_HOME$/git/web/studi/database/migrations/2018_10_29_095858_create_employee_datas_table.php" timestamp="1544539157393">
+        <mark key="[" line="56" column="20" />
+        <mark key="]" line="56" column="58" />
+        <mark key="^" line="56" column="58" />
+        <mark key="." line="56" column="58" />
       </file>
       <file name="$USER_HOME$/git/web/jumpin/app/UserManager/UserCrud.php" timestamp="1544435980995">
         <mark key="[" line="154" column="20" />
@@ -300,6 +300,7 @@
         <mark key="." line="153" column="47" />
         <mark key="^" line="153" column="47" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/resources/lang/de/models.php" timestamp="1544539199750" />
       <file name="$USER_HOME$/git/web/studi/database/migrations/2018_12_11_131832_create_media_table.php" timestamp="1544530806017">
         <mark key="[" line="13" column="24" />
       </file>
@@ -412,16 +413,16 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="13" column="62" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Models/EmployeeData.php" timestamp="1544538445530">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="175" column="0" />
+      <file name="$USER_HOME$/git/web/studi/app/Models/EmployeeData.php" timestamp="1544539118807">
+        <mark key="[" line="136" column="19" />
+        <mark key="]" line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/resources/lang/de/validation.php" timestamp="1544537640478">
-        <mark key="'" line="218" column="50" />
-        <mark key="[" line="192" column="9" />
-        <mark key="]" line="192" column="37" />
-        <mark key="." line="192" column="37" />
-        <mark key="^" line="192" column="18" />
+      <file name="$USER_HOME$/git/web/studi/resources/lang/de/validation.php" timestamp="1544539213327">
+        <mark key="'" line="219" column="50" />
+        <mark key="[" line="200" column="37" />
+        <mark key="]" line="200" column="37" />
+        <mark key="." line="200" column="37" />
+        <mark key="^" line="200" column="23" />
       </file>
       <file name="$USER_HOME$/git/web/persofleet/vendor/backpack/crud/src/resources/views/fields/tinymce.blade.php" timestamp="1544112130911">
         <mark key="[" line="13" column="10" />
@@ -566,17 +567,17 @@
       <jump line="217" column="50" filename="$USER_HOME$/git/web/studi/resources/lang/de/validation.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gb2ZmaWNlcygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5iZWxvbmdzVG9NYW55KE9mZmljZTo6Y2xhc3MsICdlbXBsb3llZV9kYXRhc19vZmZpY2VzJywgJ2VtcGxveWVlX2RhdGFfaWQnLCAnb2ZmaWNlX2lkJyk7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIHJlbGlnaW9uKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmJlbG9uZ3NUbyhSZWxpZ2lvbjo6Y2xhc3MsICdyZWxpZ2lvbl9pZCcpOwogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Kreditinstitut</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>Kreditinstitut</text>
       </register>
       <register name="/" type="4">
-        <text>ogart</text>
+        <text>number</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiByZWxpZ2lvbigpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5iZWxvbmdzVG8oUmVsaWdpb246OmNsYXNzLCAncmVsaWdpb25faWQnKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAnYmFuaycgICAgICAgICAgICAgICAgICAgPT4gJ0tyZWRpdGluc3RpdHV0JywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gb2ZmaWNlcygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5iZWxvbmdzVG9NYW55KE9mZmljZTo6Y2xhc3MsICdlbXBsb3llZV9kYXRhc19vZmZpY2VzJywgJ2VtcGxveWVlX2RhdGFfaWQnLCAnb2ZmaWNlX2lkJyk7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIHJlbGlnaW9uKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmJlbG9uZ3NUbyhSZWxpZ2lvbjo6Y2xhc3MsICdyZWxpZ2lvbl9pZCcpOwogICAgfQo=</text>
@@ -619,9 +620,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ogart</last-search>
+      <last-search>number</last-search>
       <last-offset />
-      <last-pattern>ogart</last-pattern>
+      <last-pattern>number</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -629,8 +630,6 @@
     </search>
     <history>
       <history-search>
-        <entry>check'</entry>
-        <entry>voteCategorises</entry>
         <entry>voteCategories</entry>
         <entry>save_live</entry>
         <entry>company</entry>
@@ -649,6 +648,8 @@
         <entry>apply</entry>
         <entry>tax</entry>
         <entry>ogart</entry>
+        <entry>integer</entry>
+        <entry>number</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
