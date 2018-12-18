@@ -306,6 +306,9 @@
       <file name="$USER_HOME$/git/web/ophelo/package.json" timestamp="1545134257415">
         <mark key="[" line="14" column="26" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCalendarCrudController.php" timestamp="1545141565016">
+        <mark key="[" line="71" column="71" />
+      </file>
       <file name="$USER_HOME$/git/web/lbm/resources/views/frontend/welcome.blade.php" timestamp="1544795533058">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -401,7 +404,6 @@
         <mark key="]" line="3" column="36" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1545120621737" />
       <file name="$USER_HOME$/git/web/ophelo/app/Http/Controllers/Admin/RatingCrudController.php" timestamp="1545134005370">
         <mark key="'" line="20" column="89" />
         <mark key="[" line="37" column="0" />
@@ -457,8 +459,9 @@
         <mark key="]" line="7" column="62" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1545129156748">
-        <mark key="[" line="100" column="16" />
+      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1545141611968">
+        <mark key="'" line="62" column="6" />
+        <mark key="[" line="105" column="16" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/Admin/AssignmentRequest.php" timestamp="1545043670519">
         <mark key="[" line="36" column="62" />
@@ -570,6 +573,12 @@
         <mark key="]" line="30" column="51" />
         <mark key="." line="30" column="51" />
         <mark key="^" line="30" column="51" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/resources/views/backend/media/category.blade.php" timestamp="1545141114279">
+        <mark key="[" line="38" column="88" />
+        <mark key="]" line="38" column="91" />
+        <mark key="." line="38" column="91" />
+        <mark key="^" line="38" column="91" />
       </file>
       <file name="$USER_HOME$/git/web/studi/routes/web.php" timestamp="1544783218525">
         <mark key="[" line="16" column="22" />
@@ -723,7 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="4" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/PanelTraits/Filters.php" />
       <jump line="240" column="52" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/PanelTraits/Filters.php" />
       <jump line="46" column="35" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/PanelTraits/Filters.php" />
       <jump line="49" column="58" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/PanelTraits/Filters.php" />
@@ -823,16 +831,17 @@
       <jump line="75" column="58" filename="$USER_HOME$/git/web/ophelo/app/Http/Controllers/Admin/RatingCrudController.php" />
       <jump line="19" column="71" filename="$USER_HOME$/git/web/ophelo/app/Http/Controllers/Admin/RatingCrudController.php" />
       <jump line="20" column="89" filename="$USER_HOME$/git/web/ophelo/app/Http/Controllers/Admin/RatingCrudController.php" />
+      <jump line="57" column="6" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>copy</text>
+        <text>url</text>
       </register>
       <register name="-" type="4">
-        <text>copy</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
-        <text>rating</text>
+        <text>getColor</text>
       </register>
       <register name="0" type="4">
         <text>alexander.brasche@ophelo.de</text>
@@ -878,9 +887,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rating</last-search>
+      <last-search>getColor</last-search>
       <last-offset />
-      <last-pattern>rating</last-pattern>
+      <last-pattern>getColor</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -888,7 +897,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Field</entry>
         <entry>key</entry>
         <entry>date</entry>
         <entry>list</entry>
@@ -908,6 +916,7 @@
         <entry>office</entry>
         <entry>user</entry>
         <entry>rating</entry>
+        <entry>getColor</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
