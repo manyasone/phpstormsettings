@@ -162,6 +162,13 @@
         <mark key="." line="24" column="11" />
         <mark key="^" line="24" column="11" />
       </file>
+      <file name="$USER_HOME$/git/web/foodahoo/config/session.php" timestamp="1545233834615">
+        <mark key="'" line="18" column="28" />
+        <mark key="[" line="194" column="25" />
+        <mark key="]" line="194" column="19" />
+        <mark key="." line="194" column="19" />
+        <mark key="^" line="194" column="19" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/Admin/MediaRequest.php" timestamp="1545144238032">
         <mark key="[" line="32" column="47" />
         <mark key="]" line="32" column="16" />
@@ -330,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="31" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/MediaCrudController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/app/Models/Reports/Accident.php" />
       <jump line="146" column="12" filename="$USER_HOME$/git/web/persofleet/app/Models/Reports/Accident.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/routes/backpack/custom.php" />
@@ -430,16 +436,17 @@
       <jump line="5207" column="48" filename="$USER_HOME$/git/web/studi/composer.lock" />
       <jump line="5208" column="27" filename="$USER_HOME$/git/web/studi/composer.lock" />
       <jump line="0" column="2772" filename="$USER_HOME$/git/web/foodahoo/public/js/cookieconsent.min.js" />
+      <jump line="18" column="28" filename="$USER_HOME$/git/web/foodahoo/config/session.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>link</text>
+        <text>secure</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3M9InB1bGwtcmlnaHQiPgo=</text>
@@ -485,9 +492,9 @@
       </register>
     </registers>
     <search>
-      <last-search>link</last-search>
+      <last-search>secure</last-search>
       <last-offset />
-      <last-pattern>link</last-pattern>
+      <last-pattern>secure</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -495,7 +502,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Button</entry>
         <entry>assignment</entry>
         <entry>type</entry>
         <entry>types</entry>
@@ -515,6 +521,7 @@
         <entry>cookie</entry>
         <entry>url</entry>
         <entry>link</entry>
+        <entry>secure</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
