@@ -26,6 +26,9 @@
         <mark key="]" line="9" column="65" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/views/backend/media/category.blade.php" timestamp="1545392837253" />
+      <file name="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" timestamp="1545400764921">
+        <mark key="'" line="79" column="10" />
+      </file>
       <file name="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Jobs.php" timestamp="1545382427505">
         <mark key="'" line="35" column="20" />
       </file>
@@ -41,12 +44,24 @@
         <mark key="]" line="129" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/database/factories/EmployeeDataFactory.php" timestamp="1545400856741">
+        <mark key="[" line="29" column="96" />
+        <mark key="]" line="22" column="13" />
+        <mark key="^" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+      </file>
       <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1545392033707" />
-      <file name="$USER_HOME$/git/web/studi/resources/views/backend/assignment/inc/rapport_button.blade.php" timestamp="1545400067431">
+      <file name="$USER_HOME$/git/web/studi/resources/views/backend/assignment/inc/rapport_button.blade.php" timestamp="1545400670526">
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="33" />
-        <mark key="." line="3" column="33" />
-        <mark key="^" line="3" column="33" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/resources/views/frontend/employees.blade.php" timestamp="1545400723429">
+        <mark key="[" line="29" column="80" />
+        <mark key="]" line="26" column="21" />
+        <mark key="^" line="26" column="21" />
+        <mark key="." line="26" column="21" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/database/factories/ReferenceFactory.php" timestamp="1545379716033">
         <mark key="[" line="9" column="49" />
@@ -82,11 +97,20 @@
         <mark key="^" line="28" column="45" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/database/seeds/DatabaseSeeder.php" timestamp="1545400909080">
+        <mark key="[" line="46" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/web/coatings/app/Models/Reference.php" timestamp="1545378434356">
+        <mark key="[" line="39" column="24" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/RegisterRequest.php" timestamp="1545320805312">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="7" column="48" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Models/EmployeeData.php" timestamp="1545400790633">
+        <mark key="'" line="13" column="2" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1545383867119">
         <mark key="'" line="151" column="5" />
@@ -117,10 +141,8 @@
         <mark key="." line="240" column="3" />
         <mark key="^" line="240" column="3" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Home.php" timestamp="1545382349434">
-        <mark key="'" line="57" column="16" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="68" column="13" />
+      <file name="$USER_HOME$/git/web/sleipnir/database/seeds/DatabaseSeeder.php" timestamp="1545315313067">
+        <mark key="[" line="20" column="45" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/lang/de/pdf.php" timestamp="1545383563034">
         <mark key="[" line="56" column="13" />
@@ -169,8 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="28" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
-      <jump line="217" column="25" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
       <jump line="66" column="39" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
       <jump line="300" column="8" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
       <jump line="75" column="57" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
@@ -269,6 +289,8 @@
       <jump line="360" column="24" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
       <jump line="297" column="21" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
       <jump line="322" column="14" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
+      <jump line="79" column="10" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
+      <jump line="13" column="2" filename="$USER_HOME$/git/web/studi/app/Models/EmployeeData.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -278,7 +300,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>px</text>
+        <text>statement</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEBpbmNsdWRlKCdiYWNrZW5kLmFzc2lnbm1lbnQuaW5jLnJhcHBvcnRfYnV0dG9uJykK</text>
@@ -324,9 +346,9 @@
       </register>
     </registers>
     <search>
-      <last-search>px</last-search>
+      <last-search>statement</last-search>
       <last-offset />
-      <last-pattern>px</last-pattern>
+      <last-pattern>statement</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -334,7 +356,6 @@
     </search>
     <history>
       <history-search>
-        <entry>diff</entry>
         <entry>v-middle</entry>
         <entry>rental</entry>
         <entry>awe</entry>
@@ -354,6 +375,7 @@
         <entry>td</entry>
         <entry>header-</entry>
         <entry>px</entry>
+        <entry>statement</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
