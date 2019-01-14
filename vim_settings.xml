@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="M" line="13" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" protocol="file" />
     </globalmarks>
@@ -10,6 +10,17 @@
         <mark key="]" line="5" column="51" />
         <mark key="." line="5" column="51" />
         <mark key="^" line="5" column="51" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" timestamp="1547478342447">
+        <mark key="'" line="4985" column="18" />
+        <mark key="[" line="4864" column="0" />
+        <mark key="]" line="4864" column="0" />
+        <mark key="." line="4864" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/resources/assets/summernote/summernote.js" timestamp="1547478528887">
+        <mark key="'" line="4719" column="68" />
+        <mark key="[" line="4954" column="82" />
+        <mark key="." line="4954" column="42" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/app/Http/Controllers/Admin/ServiceSpectrumCrudController.php" timestamp="1545378494872">
         <mark key="[" line="35" column="0" />
@@ -49,6 +60,12 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="13" />
       </file>
+      <file name="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" timestamp="1547478234651">
+        <mark key="'" line="4703" column="15" />
+        <mark key="[" line="4720" column="0" />
+        <mark key="]" line="4720" column="0" />
+        <mark key="." line="4720" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1545392033707" />
       <file name="$USER_HOME$/git/web/studi/resources/views/backend/assignment/inc/rapport_button.blade.php" timestamp="1545400670526">
         <mark key="[" line="3" column="34" />
@@ -66,6 +83,13 @@
         <mark key="[" line="9" column="49" />
         <mark key="]" line="9" column="49" />
         <mark key="." line="9" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/web/persofleet/resources/assets/summernote/summernote.min.js" timestamp="1547478558796">
+        <mark key="'" line="3446" column="16" />
+        <mark key="[" line="4774" column="17" />
+        <mark key="]" line="4774" column="15" />
+        <mark key="." line="4774" column="15" />
+        <mark key="^" line="4774" column="15" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Providers/AppServiceProvider.php" timestamp="1545313128203">
         <mark key="[" line="26" column="83" />
@@ -116,13 +140,6 @@
       <file name="$USER_HOME$/git/web/studi/app/Models/EmployeeData.php" timestamp="1545400790633">
         <mark key="'" line="13" column="2" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1545383867119">
-        <mark key="'" line="151" column="5" />
-        <mark key="[" line="170" column="27" />
-        <mark key="]" line="173" column="11" />
-        <mark key="." line="173" column="11" />
-        <mark key="^" line="173" column="11" />
-      </file>
       <file name="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" timestamp="1545391951234">
         <mark key="'" line="322" column="14" />
         <mark key="[" line="322" column="0" />
@@ -131,25 +148,11 @@
         <mark key="." line="362" column="0" />
         <mark key="^" line="401" column="28" />
       </file>
-      <file name="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" timestamp="1545382252442">
-        <mark key="'" line="93" column="34" />
-        <mark key="[" line="100" column="89" />
-        <mark key="]" line="100" column="106" />
-        <mark key="." line="100" column="106" />
-        <mark key="^" line="100" column="106" />
-      </file>
       <file name="$USER_HOME$/git/web/studi/database/seeds/MediaSeeder.php" timestamp="1547475033671">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="16" column="53" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/persofleet/resources/views/components/reports/pdf.blade.php" timestamp="1545313288639">
-        <mark key="'" line="217" column="41" />
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="321" column="0" />
-        <mark key="." line="240" column="3" />
-        <mark key="^" line="240" column="3" />
       </file>
       <file name="$USER_HOME$/git/web/sleipnir/database/seeds/DatabaseSeeder.php" timestamp="1545315313067">
         <mark key="[" line="20" column="45" />
@@ -167,13 +170,6 @@
         <mark key="[" line="26" column="25" />
         <mark key="]" line="26" column="61" />
         <mark key="." line="26" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" timestamp="1545382380762">
-        <mark key="'" line="236" column="16" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="40" />
-        <mark key="^" line="142" column="38" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/EmployeeDataRequest.php" timestamp="1545320779202">
         <mark key="[" line="6" column="0" />
@@ -201,81 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="39" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
-      <jump line="300" column="8" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
-      <jump line="75" column="57" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
-      <jump line="286" column="0" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/resources/views/vendor/backpack/base/layout.blade.php" />
-      <jump line="195" column="15" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
-      <jump line="217" column="41" filename="$USER_HOME$/git/web/persofleet/resources/views/components/reports/pdf.blade.php" />
-      <jump line="223" column="27" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
-      <jump line="317" column="0" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
-      <jump line="119" column="133" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
-      <jump line="124" column="42" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
-      <jump line="145" column="55" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
-      <jump line="138" column="55" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
-      <jump line="133" column="55" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
-      <jump line="40" column="62" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
-      <jump line="120" column="16" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
-      <jump line="93" column="34" filename="$USER_HOME$/git/web/coatings/resources/views/index.blade.php" />
-      <jump line="51" column="15" filename="$USER_HOME$/git/web/coatings/app/Providers/AppServiceProvider.php" />
-      <jump line="176" column="48" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="279" column="31" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="280" column="31" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="310" column="31" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="311" column="31" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="125" column="38" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="63" column="0" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Home.php" />
-      <jump line="27" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Home.php" />
-      <jump line="46" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Home.php" />
-      <jump line="57" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Home.php" />
-      <jump line="23" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Imprint.php" />
-      <jump line="137" column="0" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="147" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="155" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="163" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="171" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="179" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="187" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="195" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="203" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="211" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="219" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="227" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="235" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="27" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="28" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="35" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="43" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="51" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="59" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="67" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="75" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="83" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="91" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="99" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="107" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="115" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="123" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="134" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="148" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="156" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="164" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="172" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="180" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="188" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="196" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="204" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="212" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="220" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="228" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="236" column="16" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Index.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Jobs.php" />
-      <jump line="27" column="20" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Jobs.php" />
-      <jump line="35" column="20" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Jobs.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Privacy.php" />
-      <jump line="151" column="5" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
-      <jump line="423" column="0" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
       <jump line="49" column="64" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
       <jump line="182" column="35" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
       <jump line="185" column="34" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
@@ -301,64 +222,139 @@
       <jump line="322" column="14" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
       <jump line="79" column="10" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
       <jump line="13" column="2" filename="$USER_HOME$/git/web/studi/app/Models/EmployeeData.php" />
+      <jump line="2435" column="14" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/resources/assets/summernote/summernote.min.js" />
+      <jump line="4808" column="36" filename="$USER_HOME$/git/web/persofleet/resources/assets/summernote/summernote.min.js" />
+      <jump line="4846" column="17" filename="$USER_HOME$/git/web/persofleet/resources/assets/summernote/summernote.min.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4846" column="17" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4857" column="27" filename="$USER_HOME$/git/web/persofleet/resources/assets/summernote/summernote.min.js" />
+      <jump line="4814" column="0" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7743" column="0" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4769" column="57" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4773" column="48" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4863" column="49" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4865" column="22" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4849" column="31" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4843" column="32" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4845" column="36" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4647" column="10" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
+      <jump line="4665" column="34" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
+      <jump line="4703" column="15" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.js" />
+      <jump line="4807" column="52" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="3115" column="44" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4790" column="18" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4791" column="34" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4792" column="36" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="5114" column="25" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="5232" column="27" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="5308" column="30" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="5357" column="26" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="6168" column="26" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="6282" column="29" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="6438" column="30" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="6490" column="30" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="6630" column="31" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="6682" column="31" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="6730" column="30" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="6921" column="29" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7015" column="29" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7078" column="30" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7262" column="21" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7266" column="29" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7268" column="26" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7270" column="18" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7283" column="51" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7289" column="18" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7294" column="27" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7302" column="23" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7307" column="22" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7365" column="26" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7371" column="15" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7372" column="23" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7373" column="23" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="7386" column="21" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4256" column="25" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4759" column="28" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4800" column="27" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="5010" column="28" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4810" column="17" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4811" column="21" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4848" column="39" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4857" column="27" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4808" column="36" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4847" column="17" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4864" column="0" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4869" column="50" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4873" column="54" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4907" column="46" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4923" column="25" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4945" column="18" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="4985" column="18" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
+      <jump line="140" column="30" filename="$USER_HOME$/git/web/persofleet/resources/assets/summernote/summernote.min.js" />
+      <jump line="4719" column="68" filename="$USER_HOME$/git/web/persofleet/resources/assets/summernote/summernote.js" />
+      <jump line="4773" column="69" filename="$USER_HOME$/git/web/persofleet/resources/assets/summernote/summernote.min.js" />
+      <jump line="4862" column="70" filename="$USER_HOME$/git/web/persofleet/resources/assets/summernote/summernote.min.js" />
+      <jump line="3441" column="16" filename="$USER_HOME$/git/web/persofleet/resources/assets/summernote/summernote.min.js" />
+      <jump line="3446" column="16" filename="$USER_HOME$/git/web/persofleet/resources/assets/summernote/summernote.min.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWVkaWE6OmluUmFuZG9tT3JkZXIoKS0+YWxsKCktPnJhbmRvbSgpLT5maXJzdCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>statement</text>
+        <text>console\.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBpbmNsdWRlKCdiYWNrZW5kLmFzc2lnbm1lbnQuaW5jLnJhcHBvcnRfYnV0dG9uJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiZHJvcHBlZCB0ZXh0Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWVkaWE6OmluUmFuZG9tT3JkZXIoKS0+YWxsKCktPnJhbmRvbSgpLT5maXJzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy4kZWRpdG9yKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGxpPgogICAgPGEgaHJlZj0ie3sgYmFja3BhY2tfdXJsKCdkYXNoYm9hcmQnKSB9fSI+CiAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWRhc2hib2FyZCI+PC9pPgogICAgICAgIDxzcGFuPnt7IHRyYW5zKCdiYWNrcGFjazo6YmFzZS5kYXNoYm9hcmQnKSB9fTwvc3Bhbj4KICAgIDwvYT4KPC9saT4KCkBjYW4oJ2NydWQtbWVzc2FnZS0tbGlzdCcpCiAgICA8bGkgY2xhc3M9ImRyb3Bkb3duIj4KICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iIGFyaWEtZXhwYW5kZWQ9InRydWUiPgogICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtZW52ZWxvcGUiPjwvaT4gTmFjaHJpY2h0ZW48c3BhbiBjbGFzcz0iY2FyZXQiPjwvc3Bhbj4KICAgICAgICA8L2E+CiAgICAgICAgPHVsIGNsYXNzPSJkcm9wZG93bi1tZW51IiByb2xlPSJtZW51Ij4KICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgYmFja3BhY2tfdXJsKCdpbmJveCcpIH19Ij4KICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtaW5ib3giPjwvaT48c3Bhbj57eyB0cmFucygnYmFzZS5pbmJveCcpIH19PC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgogICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyBiYWNrcGFja191cmwoJ291dGJveCcpIH19Ij4KICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtcGFwZXItcGxhbmUiPjwvaT48c3Bhbj57eyB0cmFucygnYmFzZS5vdXRib3gnKSB9fTwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgYmFja3BhY2tfdXJsKCd0cmFzaCcpIH19Ij4KICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdHJhc2giPjwvaT48c3Bhbj57eyB0cmFucygnYmFzZS50cmFzaCcpIH19PC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgogICAgICAgIDwvdWw+CiAgICA8L2xpPgpAZW5kY2FuCgpAY2FuYW55KFsnY3J1ZC1uYXRpb25hbGl0eS0tbGlzdCcsICdjcnVkLXJlbGlnaW9uLS1saXN0JywgJ2NydWQtb2ZmaWNlLS1saXN0JywgJ2NydWQtZW1wbG95bWVudC0tbGlzdCcsICdjcnVkLWZvdW5kX2hvdy0tbGlzdCcsICdjcnVkLWZhcV9jYXRlZ29yeS0tbGlzdCcsJ2NydWQtbWVkaWFfY2F0ZWdvcnktLWxpc3QnLCAnY3J1ZC1hc3NpZ25tZW50X3R5cGUtLWxpc3QnLCAnY3J1ZC10YWctLWxpc3QnLF0pCiAgICA8bGkgY2xhc3M9ImRyb3Bkb3duIj4KICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iIGFyaWEtZXhwYW5kZWQ9InRydWUiPgogICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtY29nIj48L2k+IEVpbnN0ZWxsdW5nZW48c3BhbiBjbGFzcz0iY2FyZXQiPjwvc3Bhbj4KICAgICAgICA8L2E+CiAgICAgICAgPHVsIGNsYXNzPSJkcm9wZG93bi1tZW51Ij4KICAgICAgICAgICAgQGNhbmFueSgnY3J1ZC1mYXFfY2F0ZWdvcnktLWxpc3QnLCAnY3J1ZC10YWctLWxpc3QnKQogICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJkcm9wZG93bi1zdWJtZW51Ij4KICAgICAgICAgICAgICAgICAgICA8YSB0YWJpbmRleD0iLTEiIGhyZWY9IiMiPgogICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtcXVlc3Rpb24tY2lyY2xlIj48L2k+IDxzcGFuPnt7IHRyYW5zKCdtb2RlbHMuZmFxLnNpbmd1bGFyJykgfX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSI+CiAgICAgICAgICAgICAgICAgICAgICAgIEBjYW4oJ2NydWQtZmFxX2NhdGVnb3J5LS1saXN0JykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyBiYWNrcGFja191cmwoJ2ZhcV9jYXRlZ29yeScpIH19Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLXF1ZXN0aW9uIj48L2k+PHNwYW4+e3sgdHJhbnMoJ21vZGVscy5mYXFfY2F0ZWdvcnkucGx1cmFsJykgfX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGNhbgogICAgICAgICAgICAgICAgICAgICAgICBAY2FuKCdjcnVkLXRhZy0tbGlzdCcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgYmFja3BhY2tfdXJsKCd0YWcnKSB9fSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS10YWdzIj48L2k+PHNwYW4+e3sgdHJhbnMoJ21vZGVscy50YWcucGx1cmFsJykgfX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGNhbgogICAgICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICBAZW5kY2FuYW55CiAgICAgICAgICAgIEBjYW5hbnkoJ2NydWQtZW1wbG95bWVudC0tbGlzdCcsICdjcnVkLXN0YXRpY19maWxlLS1saXN0JywgJ2NydWQtZm91bmRfaG93LS1saXN0JywgJ2NydWQtcmVsaWdpb24tLWxpc3QnLCAnY3J1ZC1uYXRpb25hbGl0eS0tbGlzdCcpCiAgICAgICAgICAgICAgICA8bGkgY2xhc3M9ImRyb3Bkb3duLXN1Ym1lbnUiPgogICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiMiPgogICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtYWRkcmVzcy1jYXJkIj48L2k+IDxzcGFuPkh1bWFuIFJlc291cmNlPC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUiPgogICAgICAgICAgICAgICAgICAgICAgICBAY2FuKCdjcnVkLWVtcGxveW1lbnQtLWxpc3QnKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Int7IGJhY2twYWNrX3VybCgnZW1wbG95bWVudCcpIH19Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLXF1ZXN0aW9uIj48L2k+PHNwYW4+e3sgdHJhbnMoJ21vZGVscy5lbXBsb3ltZW50LnBsdXJhbCcpIH19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgIEBlbmRjYW4KICAgICAgICAgICAgICAgICAgICAgICAgQGNhbignY3J1ZC1zdGF0aWNfZmlsZS0tbGlzdCcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgYmFja3BhY2tfdXJsKCdzdGF0aWNfZmlsZScpIH19Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWZpbGUiPjwvaT48c3Bhbj57eyB0cmFucygnbW9kZWxzLnN0YXRpY19maWxlLnBsdXJhbCcpIH19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgIEBlbmRjYW4KICAgICAgICAgICAgICAgICAgICAgICAgQGNhbignY3J1ZC1mb3VuZF9ob3ctLWxpc3QnKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Int7IGJhY2twYWNrX3VybCgnZm91bmRfaG93JykgfX0iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtcXVlc3Rpb24iPjwvaT48c3Bhbj57eyB0cmFucygnbW9kZWxzLmZvdW5kX2hvdy5wbHVyYWwnKSB9fTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICBAZW5kY2FuCiAgICAgICAgICAgICAgICAgICAgICAgIEBjYW4oJ2NydWQtcmVsaWdpb24tLWxpc3QnKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Int7IGJhY2twYWNrX3VybCgncmVsaWdpb24nKSB9fSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1xdWVzdGlvbiI+PC9pPjxzcGFuPnt7IHRyYW5zKCdtb2RlbHMucmVsaWdpb24ucGx1cmFsJykgfX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGNhbgogICAgICAgICAgICAgICAgICAgICAgICBAY2FuKCdjcnVkLW5hdGlvbmFsaXR5LS1saXN0JykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyBiYWNrcGFja191cmwoJ25hdGlvbmFsaXR5JykgfX0iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtZ2xvYmUiPjwvaT48c3Bhbj57eyB0cmFucygnbW9kZWxzLm5hdGlvbmFsaXR5LnBsdXJhbCcpIH19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgIEBlbmRjYW4KICAgICAgICAgICAgICAgICAgICAgICAgQGNhbignY3J1ZC1yb2xlLS1saXN0JykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iZHJvcGRvd24tc3VibWVudSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgdGFiaW5kZXg9Ii0xIiBocmVmPSIjIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLXNoaWVsZCI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj4ge3sgdHJhbnMoJ3dlYmZhY3Rvcjo6dXNlcm1hbmFnZXIuc2lkZWJhci5yb2xlcy50aXRsZScpIH19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyBVc2VyTWFuYWdlcjo6dXJsKCdyb2xlJykgfX0iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1maWxlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgdHJhbnMoJ3dlYmZhY3Rvcjo6dXNlcm1hbmFnZXIucGhyYXNlLmVkaXQnLCBbJ2VudGl0eScgPT4gdHJhbnMoJ3dlYmZhY3Rvcjo6dXNlcm1hbmFnZXIuc2lkZWJhci5yb2xlcy50aXRsZScpXSkgfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGNhbgogICAgICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICBAZW5kY2FuYW55CiAgICAgICAgICAgIEBjYW5hbnkoJ2NydWQtYXNzaWdubWVudF90eXBlLS1saXN0JywgJ2NydWQtb2ZmaWNlLS1saXN0JykKICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iZHJvcGRvd24tc3VibWVudSI+CiAgICAgICAgICAgICAgICAgICAgPGEgdGFiaW5kZXg9Ii0xIiBocmVmPSIjIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWZpbGVzLW8iPjwvaT4gPHNwYW4+e3sgdHJhbnMoJ21vZGVscy5hc3NpZ25tZW50LnBsdXJhbCcpIH19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUiPgogICAgICAgICAgICAgICAgICAgICAgICBAY2FuKCdjcnVkLWFzc2lnbm1lbnRfdHlwZS0tbGlzdCcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgYmFja3BhY2tfdXJsKCdhc3NpZ25tZW50X3R5cGUnKSB9fSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS10cnVjayI+PC9pPjxzcGFuPnt7IHRyYW5zKCdtb2RlbHMuYXNzaWdubWVudF90eXBlLnBsdXJhbCcpIH19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgIEBlbmRjYW4KICAgICAgICAgICAgICAgICAgICAgICAgQGNhbignY3J1ZC1vZmZpY2UtLWxpc3QnKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Int7IGJhY2twYWNrX3VybCgnb2ZmaWNlJykgfX0iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtYnVpbGRpbmciPjwvaT48c3Bhbj57eyB0cmFucygnbW9kZWxzLm9mZmljZS5wbHVyYWwnKSB9fTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICBAZW5kY2FuCiAgICAgICAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgIEBlbmRjYW5hbnkKICAgICAgICAgICAgQGNhbignY3J1ZC1tZWRpYV9jYXRlZ29yeS0tbGlzdCcpCiAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgYmFja3BhY2tfdXJsKCdtZWRpYV9jYXRlZ29yeScpIH19Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWltYWdlIj48L2k+PHNwYW4+e3sgdHJhbnMoJ21vZGVscy5tZWRpYV9jYXRlZ29yeS5wbHVyYWwnKSB9fTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICBAZW5kY2FuCiAgICAgICAgPC91bD4KICAgIDwvbGk+CkBlbmRjYW5hbnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhfdGhpcy5jb250ZXh0LiRub3RlWzBdLmlubmVySFRNTCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGI+RGF0ZWk6IDwvYj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhVHJhbnNmZXIuZmlsZXMpOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGI+TGluazogPC9iPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhldmVudCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgLm0tdC01IHsKICAgICAgICAgICAgbWFyZ2luLXRvcDogNXB0OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coImRyb3BwZWQgZGEgYm9tYiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgLm0tdC0xMCB7CiAgICAgICAgICAgIG1hcmdpbi10b3A6IDEwcHg7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnaW5zZXJ0ZWQgZmlsZScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgLm0tdC01IHsKICAgICAgICAgICAgbWFyZ2luLXRvcDogNXB0OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiZHJvcHBlZCB0ZXh0Iik7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBkdW1wKFN0b3JhZ2U6OmZpbGVzKCdwdWJsaWMnKSkgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiZHJvcHBlZCBmaWxlIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>statement</last-search>
+      <last-search>console\.log</last-search>
       <last-offset />
-      <last-pattern>statement</last-pattern>
+      <last-pattern>console\.log</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -366,26 +362,26 @@
     </search>
     <history>
       <history-search>
-        <entry>v-middle</entry>
-        <entry>rental</entry>
-        <entry>awe</entry>
-        <entry>img</entry>
-        <entry>check</entry>
-        <entry>h-50</entry>
-        <entry>contact</entry>
-        <entry>contact_form_title</entry>
-        <entry>frontend.</entry>
-        <entry>card</entry>
-        <entry>v_card</entry>
-        <entry>'fake'</entry>
-        <entry>rapport</entry>
-        <entry>text-center</entry>
-        <entry>.text-center</entry>
         <entry>\.text-center</entry>
         <entry>td</entry>
         <entry>header-</entry>
         <entry>px</entry>
         <entry>statement</entry>
+        <entry>dropImage</entry>
+        <entry>4500</entry>
+        <entry>insertImagesOrCallback</entry>
+        <entry>dragenter</entry>
+        <entry>dropzone</entry>
+        <entry>initialize</entry>
+        <entry>attachDragAndDropEvent</entry>
+        <entry>on('drop</entry>
+        <entry>editor</entry>
+        <entry>OrCall</entry>
+        <entry>insertImagesOr</entry>
+        <entry>bomb</entry>
+        <entry>log</entry>
+        <entry>console\.</entry>
+        <entry>console\.log</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
