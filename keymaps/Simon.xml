@@ -78,7 +78,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="GotoBookmark7" />
-  <action id="GotoClass" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
