@@ -25,11 +25,12 @@
       <file name="/a.dummy" timestamp="1547634292818">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/backend/assignment_calendar.blade.php" timestamp="1547638223358">
+      <file name="$USER_HOME$/git/web/studi/resources/views/backend/assignment_calendar.blade.php" timestamp="1547639712754">
         <mark key="'" line="111" column="25" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+        <mark key="[" line="123" column="39" />
+        <mark key="]" line="123" column="39" />
+        <mark key="^" line="123" column="47" />
+        <mark key="." line="123" column="39" />
       </file>
       <file name="$USER_HOME$/git/web/studi/composer.json" timestamp="1547637009587">
         <mark key="[" line="10" column="19" />
@@ -259,11 +260,11 @@
       <file name="$USER_HOME$/git/web/studi/resources/views/backend/tiles/media.blade.php" timestamp="1547554988293">
         <mark key="[" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCalendarCrudController.php" timestamp="1547638165542">
-        <mark key="[" line="94" column="46" />
-        <mark key="]" line="96" column="67" />
-        <mark key="^" line="96" column="18" />
-        <mark key="." line="96" column="67" />
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCalendarCrudController.php" timestamp="1547639961098">
+        <mark key="[" line="95" column="61" />
+        <mark key="]" line="92" column="26" />
+        <mark key="." line="92" column="26" />
+        <mark key="^" line="92" column="26" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Models/Media.php" timestamp="1547559807843">
         <mark key="[" line="124" column="41" />
@@ -375,62 +376,62 @@
       <jump line="20" column="17" filename="$USER_HOME$/git/web/studi/vendor/maddhatter/laravel-fullcalendar/src/MaddHatter/LaravelFullcalendar/Calendar.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGN1cnJlbnQ6IGN1cnJlbnREYXRlLAo=</text>
+      <register name="&quot;" type="4">
+        <text>$(\'#date\').dateickerShow();</text>
       </register>
       <register name="-" type="4">
-        <text>DatePicker</text>
+        <text>$(\'#date\').dateickerShow();</text>
       </register>
       <register name="/" type="4">
-        <text>cal</text>
+        <text>LTE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICAgICAgICAgID0+ICdhZGRyZXNzX2Rlc3RpbmF0aW9uJywKICAgICAgICAgICAgICAgICd0eXBlJyAgICAgICAgICA9PiAnYWRkcmVzcycsCiAgICAgICAgICAgICAgICAnbGFiZWwnICAgICAgICAgPT4gdHJhbnMoJ3ZhbGlkYXRpb24uYXR0cmlidXRlcy5hZGRyZXNzX2Rlc3RpbmF0aW9uJyksCiAgICAgICAgICAgICAgICAnc3RvcmVfYXNfanNvbicgPT4gdHJ1ZSwKICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGN1cnJlbnQ6IGN1cnJlbnREYXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RoZW1lU3lzdGVtJyA9PiAnYm9vdHN0cmFwNCcsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRhdGU6IG5vdygpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RoZW1lU3lzdGVtJyA9PiAnYm9vdHN0cmFwNCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZSBsYW5nPSJjc3MiPgogICAgICAgIC5mYy1zdW4geyBiYWNrZ3JvdW5kLWNvbG9yOiAjZjVmNWY1OyB9CiAgICA8L3N0eWxlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY2xpY2snID0+ICckKFwnI2RhdGVcJykuZGF0ZWlja2VyU2hvdygpOycK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY2xpY2snID0+ICckKFwnYm9keSxodG1sXCcpLmFuaW1hdGUoeyBzY3JvbGxUb3A6ICQoZG9jdW1lbnQpLmhlaWdodCgpIH0sIDEwMDApOyAkKFwnI2RhdGVcJykuRGF0ZVBpY2tlclNob3coKTsnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY2xpY2snID0+ICcgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgLy9pdCBzY3JvbGxzIHRvIHRoZSBwb3NpdGlvbiBvZiB0aGUgZGF0ZXBpY2tlcgogICAgICAgICAgICAgICAgICAgJChcJ2JvZHksaHRtbFwnKS5hbmltYXRlKHsKICAgICAgICAgICAgICAgICAgICAgICBzY3JvbGxUb3A6ICQoZG9jdW1lbnQpLmhlaWdodCgpCiAgICAgICAgICAgICAgICAgICB9LCAxMDAwKTsKICAgICAgICAgICAgICAgICAgICQoXCcjZGF0ZVwnKS5EYXRlUGlja2VyU2hvdygpOycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGN1cnJlbnQ6IGN1cnJlbnREYXRlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FkZHJlc3Nfc3RhcnQnICAgICAgICA9PiAnc3RyaW5nJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRhdGU6IG5vdygpLAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzdHlsZSBsYW5nPSJjc3MiPgogICAgICAgIC5mYy1zdW4geyBiYWNrZ3JvdW5kLWNvbG9yOiAjZjVmNWY1OyB9CiAgICA8L3N0eWxlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEdldCB0aGUgdmFsaWRhdGlvbiBhdHRyaWJ1dGVzIHRoYXQgYXBwbHkgdG8gdGhlIHJlcXVlc3QuCiAgICAgKgogICAgICogQHJldHVybiBhcnJheQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gYXR0cmlidXRlcygpCiAgICB7CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgLy8KICAgICAgICBdOwogICAgfQoKICAgIC8qKgogICAgICogR2V0IHRoZSB2YWxpZGF0aW9uIG1lc3NhZ2VzIHRoYXQgYXBwbHkgdG8gdGhlIHJlcXVlc3QuCiAgICAgKgogICAgICogQHJldHVybiBhcnJheQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gbWVzc2FnZXMoKQogICAgewogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgIC8vCiAgICAgICAgXTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>cal</last-search>
+      <last-search>LTE</last-search>
       <last-offset />
-      <last-pattern>cal</last-pattern>
+      <last-pattern>LTE</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -438,7 +439,6 @@
     </search>
     <history>
       <history-search>
-        <entry>time</entry>
         <entry>clock</entry>
         <entry>-xs</entry>
         <entry>mage</entry>
@@ -458,6 +458,7 @@
         <entry>label</entry>
         <entry>utton</entry>
         <entry>cal</entry>
+        <entry>LTE</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
