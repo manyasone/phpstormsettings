@@ -12,12 +12,12 @@
         <mark key="." line="131" column="81" />
         <mark key="^" line="131" column="81" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" timestamp="1547633353318">
+      <file name="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" timestamp="1548065665589">
         <mark key="'" line="15" column="34" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="117" column="77" />
-        <mark key="." line="117" column="77" />
-        <mark key="^" line="117" column="77" />
+        <mark key="[" line="115" column="79" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="48" />
+        <mark key="^" line="32" column="48" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/views/components/calendar/filters/select2.blade.php" timestamp="1547632528999">
         <mark key="'" line="21" column="32" />
@@ -120,6 +120,10 @@
       </file>
       <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/select2.blade.php" timestamp="1547632582535">
         <mark key="'" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax_multiple.blade.php" timestamp="1548065560232">
+        <mark key="'" line="24" column="24" />
+        <mark key="[" line="94" column="78" />
       </file>
       <file name="$USER_HOME$/git/web/coatings/app/Http/PageManager/Presets/Privacy.php" timestamp="1545382429335">
         <mark key="'" line="0" column="0" />
@@ -260,13 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4864" column="0" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
-      <jump line="4869" column="50" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
-      <jump line="4873" column="54" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
-      <jump line="4907" column="46" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
-      <jump line="4923" column="25" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
-      <jump line="4945" column="18" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
-      <jump line="4985" column="18" filename="$USER_HOME$/git/web/persofleet/public/vendor/backpack/summernote/summernote.min.js" />
       <jump line="140" column="30" filename="$USER_HOME$/git/web/persofleet/resources/assets/summernote/summernote.min.js" />
       <jump line="4719" column="68" filename="$USER_HOME$/git/web/persofleet/resources/assets/summernote/summernote.js" />
       <jump line="4773" column="69" filename="$USER_HOME$/git/web/persofleet/resources/assets/summernote/summernote.min.js" />
@@ -360,6 +357,13 @@
       <jump line="172" column="19" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
       <jump line="37" column="6" filename="$USER_HOME$/git/web/studi/app/Models/Messages/InboxMessage.php" />
       <jump line="25" column="10" filename="$USER_HOME$/git/web/studi/vendor/spatie/laravel-permission/src/Traits/HasPermissions.php" />
+      <jump line="90" column="0" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax_multiple.blade.php" />
+      <jump line="25" column="39" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax_multiple.blade.php" />
+      <jump line="94" column="58" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax_multiple.blade.php" />
+      <jump line="4" column="95" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax_multiple.blade.php" />
+      <jump line="17" column="18" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax_multiple.blade.php" />
+      <jump line="18" column="27" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax_multiple.blade.php" />
+      <jump line="24" column="24" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax_multiple.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -369,7 +373,7 @@
         <text>xs</text>
       </register>
       <register name="/" type="4">
-        <text>left</text>
+        <text>attribute</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gSU5TRVJUIFRSQU5TUE9SVEVSIEZJRUxEIEhFUkUK</text>
@@ -415,9 +419,9 @@
       </register>
     </registers>
     <search>
-      <last-search>left</last-search>
+      <last-search>attribute</last-search>
       <last-offset />
-      <last-pattern>left</last-pattern>
+      <last-pattern>attribute</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -431,9 +435,7 @@
         <entry>filter</entry>
         <entry>Wochentage</entry>
         <entry>where</entry>
-        <entry>value</entry>
         <entry>current_value</entry>
-        <entry>attribute</entry>
         <entry>label</entry>
         <entry>utton</entry>
         <entry>cal</entry>
@@ -445,6 +447,8 @@
         <entry>statu</entry>
         <entry>Role</entry>
         <entry>left</entry>
+        <entry>value</entry>
+        <entry>attribute</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
