@@ -24,6 +24,7 @@
       <file name="$USER_HOME$/git/web/studi/app/Http/PageManager/Presets/Advantage.php" timestamp="1547551240370">
         <mark key="[" line="17" column="65" />
       </file>
+      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1548233376562" />
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/Admin/AssignmentStoreRequest.php" timestamp="1547634355532">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -36,11 +37,12 @@
         <mark key="." line="56" column="32" />
         <mark key="^" line="56" column="32" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1548083898860">
-        <mark key="'" line="42" column="8" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1548233440932">
+        <mark key="'" line="63" column="13" />
+        <mark key="[" line="129" column="49" />
+        <mark key="]" line="129" column="47" />
+        <mark key="." line="129" column="47" />
+        <mark key="^" line="129" column="47" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/sass/app.scss" timestamp="1547627401443">
         <mark key="[" line="30" column="11" />
@@ -95,7 +97,6 @@
         <mark key="." line="2" column="54" />
         <mark key="^" line="2" column="54" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/database/factories/AssignmentFactory.php" timestamp="1548084908701" />
       <file name="$USER_HOME$/git/web/studi/resources/sass/backpack/_dashboard.scss" timestamp="1548084722481">
         <mark key="'" line="0" column="14" />
         <mark key="[" line="1" column="17" />
@@ -147,7 +148,6 @@
         <mark key="^" line="31" column="13" />
         <mark key="." line="31" column="44" />
       </file>
-      <file name="$USER_HOME$/git/web/jumpin/vendor/jedrzej/sortable/src/Jedrzej/Sortable/SortableTrait.php" timestamp="1548076485231" />
       <file name="$USER_HOME$/git/web/studi/resources/sass/backpack/backpack.scss" timestamp="1548084241884">
         <mark key="[" line="0" column="27" />
       </file>
@@ -267,22 +267,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="15" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" />
-      <jump line="7" column="39" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" />
-      <jump line="15" column="34" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" />
-      <jump line="75" column="21" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
-      <jump line="99" column="23" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment_calendar.blade.php" />
-      <jump line="110" column="25" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment_calendar.blade.php" />
-      <jump line="111" column="25" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment_calendar.blade.php" />
-      <jump line="20" column="17" filename="$USER_HOME$/git/web/studi/vendor/maddhatter/laravel-fullcalendar/src/MaddHatter/LaravelFullcalendar/Calendar.php" />
       <jump line="192" column="3" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="209" column="14" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
-      <jump line="212" column="37" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="241" column="29" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="247" column="29" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="257" column="36" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="258" column="24" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
-      <jump line="264" column="17" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="265" column="69" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="266" column="69" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="300" column="29" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
@@ -367,6 +357,16 @@
       <jump line="0" column="14" filename="$USER_HOME$/git/web/studi/resources/sass/backpack/_dashboard.scss" />
       <jump line="1" column="46" filename="$USER_HOME$/git/web/studi/resources/views/backend/tiles/users.blade.php" />
       <jump line="0" column="17" filename="$USER_HOME$/git/web/studi/resources/views/backend/tiles/users.blade.php" />
+      <jump line="194" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="200" column="13" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="212" column="13" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="225" column="17" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="230" column="17" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="238" column="17" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="246" column="17" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="252" column="17" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="264" column="13" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="63" column="13" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -376,7 +376,7 @@
         <text encoding="base64">IHRpbGU=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IHRpbGU=</text>
+        <text>option</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2FkZHJlc3Nfc3RhcnQnID0+IGNvbGxlY3QoJHJlcXVlc3QtPmdldCgnYWRkcmVzc19zdGFydCcpKS0+aXNOb3RFbXB0eSgpID8gJHJlcXVlc3QtPmdldCgnYWRkcmVzc19zdGFydCcpIDoganNvbl9lbmNvZGUoQ3VzdG9tZXI6OmZpbmQoJHJlcXVlc3QtPmdldCgnY3VzdG9tZXJfaWQnKSktPmFkZHJlc3MpLAo=</text>
@@ -422,9 +422,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IHRpbGU=</last-search>
+      <last-search>option</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IHRpbGU=</last-pattern>
+      <last-pattern>option</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -432,8 +432,6 @@
     </search>
     <history>
       <history-search>
-        <entry>value</entry>
-        <entry>\'value</entry>
         <entry>option_</entry>
         <entry>office</entry>
         <entry>ocation</entry>
@@ -452,6 +450,8 @@
         <entry>xs-6</entry>
         <entry>tile</entry>
         <entry encoding="base64">IHRpbGU=</entry>
+        <entry>label</entry>
+        <entry>option</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
