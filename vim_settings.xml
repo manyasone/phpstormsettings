@@ -37,6 +37,7 @@
         <mark key="]" line="64" column="73" />
         <mark key="." line="64" column="73" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" timestamp="1548326183976" />
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/Admin/CustomerRequest.php" timestamp="1548250183832">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="31" column="30" />
@@ -44,9 +45,9 @@
         <mark key="^" line="36" column="61" />
         <mark key="." line="36" column="61" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" timestamp="1548269328673">
-        <mark key="'" line="129" column="31" />
-        <mark key="[" line="79" column="10" />
+      <file name="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" timestamp="1548325537437">
+        <mark key="'" line="162" column="34" />
+        <mark key="[" line="116" column="38" />
         <mark key="]" line="81" column="41" />
         <mark key="." line="81" column="41" />
         <mark key="^" line="83" column="19" />
@@ -116,12 +117,12 @@
         <mark key="^" line="46" column="101" />
         <mark key="." line="46" column="101" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1548324009323">
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1548324781199">
         <mark key="'" line="283" column="4" />
         <mark key="[" line="56" column="42" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Models/Application.php" timestamp="1548246215075">
         <mark key="[" line="145" column="0" />
@@ -143,10 +144,10 @@
         <mark key="]" line="16" column="49" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Models/EmployeeData.php" timestamp="1548249434709">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
+      <file name="$USER_HOME$/git/web/studi/app/Models/EmployeeData.php" timestamp="1548326263222">
+        <mark key="[" line="179" column="46" />
+        <mark key="]" line="179" column="46" />
+        <mark key="." line="179" column="46" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1548265487854">
         <mark key="'" line="75" column="6" />
@@ -177,10 +178,6 @@
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="5" />
         <mark key="." line="3" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/show/update_form.blade.php" timestamp="1548259220386">
-        <mark key="[" line="3" column="61" />
-        <mark key="^" line="45" column="7" />
       </file>
       <file name="$USER_HOME$/git/web/studi/database/factories/CustomerFactory.php" timestamp="1548250434449">
         <mark key="[" line="13" column="9" />
@@ -252,12 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="95" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax_multiple.blade.php" />
-      <jump line="17" column="18" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax_multiple.blade.php" />
-      <jump line="18" column="27" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax_multiple.blade.php" />
-      <jump line="24" column="24" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax_multiple.blade.php" />
-      <jump line="115" column="110" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" />
-      <jump line="152" column="30" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="156" column="17" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="13" column="6" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/FaqCrudController.php" />
       <jump line="130" column="21" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
@@ -352,16 +343,22 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" />
       <jump line="214" column="134" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" />
       <jump line="283" column="4" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="79" column="11" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
+      <jump line="80" column="34" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
+      <jump line="118" column="32" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
+      <jump line="119" column="32" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
+      <jump line="153" column="24" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
+      <jump line="162" column="34" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Mitarbeiter</text>
+        <text>employee</text>
       </register>
       <register name="-" type="4">
-        <text>Mitarbeiter</text>
+        <text>employee</text>
       </register>
       <register name="/" type="4">
-        <text>order</text>
+        <text>offices</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBmbG9hdDogbGVmdDsK</text>
@@ -407,9 +404,9 @@
       </register>
     </registers>
     <search>
-      <last-search>order</last-search>
+      <last-search>offices</last-search>
       <last-offset />
-      <last-pattern>order</last-pattern>
+      <last-pattern>offices</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -417,7 +414,6 @@
     </search>
     <history>
       <history-search>
-        <entry>xs-6</entry>
         <entry>tile</entry>
         <entry encoding="base64">IHRpbGU=</entry>
         <entry>label</entry>
@@ -437,6 +433,7 @@
         <entry>style</entry>
         <entry>roles</entry>
         <entry>order</entry>
+        <entry>offices</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
