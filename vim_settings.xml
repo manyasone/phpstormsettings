@@ -23,11 +23,17 @@
         <mark key="." line="105" column="115" />
         <mark key="^" line="105" column="115" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/database/migrations/2019_01_24_163028_create_rentals_table.php" timestamp="1548344046445">
+        <mark key="[" line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Rules/Tin.php" timestamp="1548247329282">
         <mark key="[" line="27" column="15" />
         <mark key="]" line="27" column="15" />
         <mark key="." line="27" column="15" />
         <mark key="^" line="40" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1548686662895">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/studi/config/webfactor/usermanager/permissions.php" timestamp="1548350746804">
         <mark key="[" line="64" column="71" />
@@ -47,6 +53,9 @@
         <mark key="." line="46" column="56" />
         <mark key="^" line="44" column="32" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/database/seeds/VehicleSeeder.php" timestamp="1548341818504">
+        <mark key="[" line="16" column="14" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/database/seeds/RentalSeeder.php" timestamp="1548345500855">
         <mark key="[" line="15" column="37" />
         <mark key="]" line="16" column="58" />
@@ -62,18 +71,26 @@
       <file name="$USER_HOME$/git/web/foodahoo/app/Models/Shop/Shop.php" timestamp="1548678390370">
         <mark key="'" line="279" column="31" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1548679154583">
-        <mark key="'" line="261" column="0" />
-        <mark key="[" line="206" column="39" />
-        <mark key="]" line="206" column="44" />
-        <mark key="." line="206" column="44" />
-        <mark key="^" line="206" column="44" />
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1548686477623">
+        <mark key="'" line="264" column="0" />
+        <mark key="[" line="195" column="40" />
+        <mark key="]" line="195" column="46" />
+        <mark key="." line="195" column="46" />
+        <mark key="^" line="195" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Requests/Admin/VehicleRequest.php" timestamp="1548341303160">
+        <mark key="[" line="27" column="31" />
       </file>
       <file name="$USER_HOME$/git/web/studi/database/seeds/DatabaseSeeder.php" timestamp="1548675332506">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="^" line="26" column="16" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child_number.blade.php" timestamp="1548685839445">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/lang/de/invisible.php" timestamp="1548346815193">
         <mark key="[" line="4" column="4" />
@@ -87,19 +104,24 @@
         <mark key="." line="28" column="46" />
         <mark key="^" line="28" column="46" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1548676943118">
+      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1548686024995">
         <mark key="'" line="76" column="6" />
-        <mark key="[" line="310" column="14" />
-        <mark key="]" line="305" column="19" />
-        <mark key="n" line="134" column="44" />
-        <mark key="^" line="305" column="19" />
-        <mark key="." line="305" column="19" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="n" line="135" column="44" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/summernote.blade.php" timestamp="1548348294622">
         <mark key="[" line="15" column="48" />
         <mark key="]" line="15" column="22" />
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child_select.blade.php" timestamp="1548687314381">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/git/web/studi/database/migrations/2019_01_24_153804_create_settings_vehicles_table.php" timestamp="1548346144212">
         <mark key="[" line="18" column="35" />
@@ -130,6 +152,9 @@
         <mark key="]" line="28" column="42" />
         <mark key="." line="28" column="42" />
         <mark key="^" line="28" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Requests/Admin/RentalRequest.php" timestamp="1548344149819">
+        <mark key="[" line="27" column="33" />
       </file>
       <file name="$USER_HOME$/git/web/studi/database/factories/AssignmentFactory.php" timestamp="1548347472346">
         <mark key="[" line="9" column="52" />
@@ -183,10 +208,6 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/frontend/welcome.blade.php" timestamp="1548351875860">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="63" />
-      </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Settings/VehicleCrudController.php" timestamp="1548346136783">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="63" />
@@ -200,6 +221,14 @@
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="31" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/select2.blade.php" timestamp="1548686621320">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="33" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/database/factories/AssignmentTypeFactory.php" timestamp="1548673654876">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="58" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/resources/sass/backpack/backpack.scss" timestamp="1548269708168">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="16" />
@@ -211,6 +240,13 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/database/migrations/2018_12_19_120510_create_assignments_equipment_table.php" timestamp="1548672532641">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="24" column="59" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Models/Vehicle.php" timestamp="1548340759500">
+        <mark key="[" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/git/web/studi/database/migrations/2018_11_19_150440_create_assignment_helpers_table.php" timestamp="1548348870052">
         <mark key="[" line="37" column="35" />
@@ -224,12 +260,12 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="3" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" timestamp="1548679524382">
-        <mark key="'" line="36" column="184" />
-        <mark key="[" line="86" column="160" />
-        <mark key="]" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-        <mark key="^" line="4" column="22" />
+      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" timestamp="1548687222902">
+        <mark key="'" line="51" column="59" />
+        <mark key="[" line="67" column="107" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="17" column="8" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/ApplicationRequest.php" timestamp="1548351560101">
         <mark key="[" line="35" column="65" />
@@ -237,17 +273,14 @@
         <mark key="." line="35" column="9" />
         <mark key="^" line="35" column="9" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/database/factories/AssignmentVehicleFactory.php" timestamp="1548674017573">
-        <mark key="[" line="15" column="63" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="14" column="5" />
-        <mark key="^" line="14" column="5" />
-      </file>
       <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/app/Http/Controllers/Operations/CreateOperation.php" timestamp="1548268037492">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="103" />
         <mark key="^" line="46" column="101" />
         <mark key="." line="46" column="101" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1548344475870">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Models/Customer.php" timestamp="1548344511305">
         <mark key="[" line="62" column="0" />
@@ -260,10 +293,6 @@
         <mark key="]" line="4" column="4" />
         <mark key="." line="4" column="4" />
         <mark key="^" line="3" column="11" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/database/factories/JobFactory.php" timestamp="1548673994173">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="24" />
       </file>
       <file name="$USER_HOME$/git/web/studi/database/factories/ApplicationFactory.php" timestamp="1548670811975">
         <mark key="'" line="41" column="53" />
@@ -297,6 +326,9 @@
         <mark key="." line="99" column="51" />
         <mark key="^" line="82" column="18" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/database/migrations/2019_01_24_153804_create_vehicles_table.php" timestamp="1548340712529">
+        <mark key="[" line="17" column="33" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/database/factories/RentalFactory.php" timestamp="1548345289631">
         <mark key="[" line="23" column="9" />
         <mark key="]" line="23" column="8" />
@@ -309,32 +341,15 @@
         <mark key="^" line="94" column="17" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/app/helpers.php" timestamp="1548673982928">
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="25" />
+      </file>
       <file name="$USER_HOME$/git/web/lbm/resources/views/frontend/welcome.blade.php" timestamp="1548681026130">
         <mark key="'" line="38" column="50" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="48" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="386" column="16" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="157" column="19" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="389" column="31" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="7" column="24" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="121" column="31" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="149" column="28" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-usermanager/src/Http/Controllers/User/BaseCrudController.php" />
-      <jump line="28" column="29" filename="$USER_HOME$/git/web/studi/app/Http/Requests/EmployeeDataRequest.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/PanelTraits/Create.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment_calendar.blade.php" />
-      <jump line="14" column="28" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment_calendar.blade.php" />
-      <jump line="76" column="16" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment_calendar.blade.php" />
-      <jump line="283" column="4" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
-      <jump line="79" column="11" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="80" column="34" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="118" column="32" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="119" column="32" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="153" column="24" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="162" column="34" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="119" column="0" filename="$USER_HOME$/git/web/studi/app/User.php" />
-      <jump line="79" column="43" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="24" column="16" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="75" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="28" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Requests/VehicleRequest.php" />
@@ -411,81 +426,89 @@
       <jump line="279" column="31" filename="$USER_HOME$/git/web/foodahoo/app/Models/Shop/Shop.php" />
       <jump line="209" column="32" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
       <jump line="4" column="22" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
-      <jump line="36" column="184" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
       <jump line="27" column="0" filename="$USER_HOME$/git/web/lbm/resources/views/frontend/welcome.blade.php" />
       <jump line="51" column="50" filename="$USER_HOME$/git/web/lbm/resources/views/frontend/welcome.blade.php" />
+      <jump line="4" column="4" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child_select.blade.php" />
+      <jump line="9" column="86" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child_select.blade.php" />
+      <jump line="34" column="21" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child_select.blade.php" />
+      <jump line="35" column="54" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child_select.blade.php" />
+      <jump line="36" column="54" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child_select.blade.php" />
+      <jump line="41" column="21" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child_select.blade.php" />
+      <jump line="42" column="55" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child_select.blade.php" />
+      <jump line="42" column="31" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
+      <jump line="186" column="50" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
+      <jump line="188" column="43" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
+      <jump line="8" column="23" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child_select.blade.php" />
+      <jump line="185" column="34" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
+      <jump line="6" column="2" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
+      <jump line="9" column="8" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
+      <jump line="10" column="14" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
+      <jump line="11" column="15" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
+      <jump line="12" column="30" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
+      <jump line="14" column="9" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
+      <jump line="16" column="54" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
+      <jump line="17" column="8" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
+      <jump line="36" column="184" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
+      <jump line="51" column="59" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>welcome-</text>
+        <text>$field['model']::all() as $option</text>
       </register>
       <register name="-" type="4">
-        <text>welcome-</text>
+        <text>$field['model']::all() as $option</text>
       </register>
       <register name="/" type="4">
-        <text>welcome</text>
+        <text>item</text>
       </register>
-      <register name="0" type="4">
-        <text>width: 484px</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBkdW1wKCRlbnRpdHlfbW9kZWwpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>style=&quot;
-                z-index: 999;
-                font-size: 3.5em;
-                background-color: grey;
-                position:absolute;
-                overflow: visible;
-                padding: 0.1em;
-                text-align: center;
-                width: 110%;
-                border: 3px solid #9e1315;
-                top: 150px;
-                left: -20px;
-                transform: rotate(-10deg);
-                -webkit-transform: rotate(-10deg);&quot;</text>
+        <text>@if (isset($field['model']))
+            @foreach ($fie</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBkdW1wKCRlbnRpdHlfbW9kZWwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEVyw7ZmZm51bmcgaW0gTcOkcnohCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEVyw7ZmZm51bmcgaW0gTcOkcnohCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJ7eyAkb3B0aW9uLT5nZXRLZXkoKSB9fSI+e3sgJG9wdGlvbi0+eyRmaWVsZFsnYXR0cmlidXRlJ119IH19PC9vcHRpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1BR0lDLU1PVElPTi1DWUJFUkZVTi5ERQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9Int7ICRjb25uZWN0ZWRfZW50aXR5X2VudHJ5LT5nZXRLZXkoKSB9fSIgPnt7ICRjb25uZWN0ZWRfZW50aXR5X2VudHJ5LT57JGZpZWxkWydhdHRyaWJ1dGUnXX0gfX08L29wdGlvbj4K</text>
       </register>
-      <register name="7" type="4">
-        <text>}
-{{--</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICRvcHRpb25zID0gJGZpZWxkWydtb2RlbCddOjphbGwoKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3NpemUnICAgICAgPT4gJzInLAo=</text>
+        <text encoding="base64">ICAgIGR1bQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2VudGl0eScgICAgPT4gJ3RiX2V4ZXJjaWNpbycsCiAgICAgICAgICAgICAgICAgICAgICAgICdhdHRyaWJ1dGUnID0+ICdkZXNjcmljYW8nLAogICAgICAgICAgICAgICAgICAgICAgICAnc2l6ZScgICAgICA9PiAnMycsCiAgICAgICAgICAgICAgICAgICAgICAgICdtb2RlbCcgICAgID0+ICJBcHBcTW9kZWxzXEV4ZXJjaWNpbyIK</text>
+        <text encoding="base64">ICAgIEBwdXNoKCdjcnVkX2ZpZWxkc19zY3JpcHRzJykKICAgICAgICA8IS0tIGluY2x1ZGUgc2VsZWN0MiBqcy0tPgogICAgICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgndmVuZG9yL2JhY2twYWNrL3NlbGVjdDIvc2VsZWN0Mi5qcycpIH19Ij48L3NjcmlwdD4KICAgIEBlbmRwdXNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>welcome</last-search>
+      <last-search>item</last-search>
       <last-offset />
-      <last-pattern>welcome</last-pattern>
+      <last-pattern>item</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -493,11 +516,6 @@
     </search>
     <history>
       <history-search>
-        <entry>date</entry>
-        <entry>created_</entry>
-        <entry>ffice</entry>
-        <entry>signature</entry>
-        <entry>ignature</entry>
         <entry>recommendation</entry>
         <entry>quick</entry>
         <entry>quickvote_settings</entry>
@@ -513,6 +531,11 @@
         <entry>item_name</entry>
         <entry>home</entry>
         <entry>welcome</entry>
+        <entry>select2</entry>
+        <entry>select</entry>
+        <entry>'name</entry>
+        <entry>items</entry>
+        <entry>item</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
