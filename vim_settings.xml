@@ -65,6 +65,7 @@
         <mark key="^" line="16" column="58" />
         <mark key="." line="16" column="58" />
       </file>
+      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1548752277664" />
       <file name="$USER_HOME$/git/web/studi/database/migrations/2019_01_28_114840_create_assignment_vehicles_table.php" timestamp="1548691881282">
         <mark key="[" line="30" column="48" />
         <mark key="]" line="27" column="34" />
@@ -86,6 +87,13 @@
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/Admin/VehicleRequest.php" timestamp="1548341303160">
         <mark key="[" line="27" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Models/Application.php" timestamp="1548752702736">
+        <mark key="'" line="308" column="34" />
+        <mark key="[" line="241" column="14" />
+        <mark key="]" line="241" column="11" />
+        <mark key="^" line="241" column="11" />
+        <mark key="." line="241" column="11" />
       </file>
       <file name="$USER_HOME$/git/web/studi/database/seeds/DatabaseSeeder.php" timestamp="1548675332506">
         <mark key="[" line="43" column="0" />
@@ -221,7 +229,6 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="41" column="62" />
       </file>
-      <file name="$USER_HOME$/git/web/iftal/database/seeds/UsersTableSeeder.php" timestamp="1548677418883" />
       <file name="$USER_HOME$/git/web/studi/database/migrations/2019_01_24_163028_create_settings_rentals_table.php" timestamp="1548344108995">
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="31" />
@@ -366,10 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="25" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
-      <jump line="222" column="26" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
-      <jump line="227" column="36" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
-      <jump line="127" column="17" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="262" column="8" filename="$USER_HOME$/git/web/studi/resources/lang/de/validation.php" />
       <jump line="210" column="9" filename="$USER_HOME$/git/web/studi/resources/lang/de/validation.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/show.blade.php" />
@@ -466,16 +469,20 @@
       <jump line="2359" column="35" filename="$USER_HOME$/git/web/studi/public/vendor/backpack/select2/select2.js" />
       <jump line="183" column="46" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
       <jump line="109" column="30" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
+      <jump line="88" column="1" filename="$USER_HOME$/git/web/studi/app/Models/Application.php" />
+      <jump line="306" column="34" filename="$USER_HOME$/git/web/studi/app/Models/Application.php" />
+      <jump line="316" column="34" filename="$USER_HOME$/git/web/studi/app/Models/Application.php" />
+      <jump line="296" column="34" filename="$USER_HOME$/git/web/studi/app/Models/Application.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWQ9IiIK</text>
+      <register name="&quot;" type="4">
+        <text>$instance</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>$instance</text>
       </register>
       <register name="/" type="4">
-        <text>multi</text>
+        <text>instance</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8bGluayBocmVmPSJ7eyBhc3NldCgndmVuZG9yL2FkbWlubHRlL2Jvd2VyX2NvbXBvbmVudHMvc2VsZWN0Mi9kaXN0L2Nzcy9zZWxlY3QyLm1pbi5jc3MnKSB9fSIgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgLz4KICAgICAgICA8bGluayBocmVmPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9zZWxlY3QyLWJvb3RzdHJhcC10aGVtZS8wLjEuMC1iZXRhLjEwL3NlbGVjdDItYm9vdHN0cmFwLm1pbi5jc3MiIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIC8+Cg==</text>
@@ -521,9 +528,9 @@
       </register>
     </registers>
     <search>
-      <last-search>multi</last-search>
+      <last-search>instance</last-search>
       <last-offset />
-      <last-pattern>multi</last-pattern>
+      <last-pattern>instance</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -531,7 +538,6 @@
     </search>
     <history>
       <history-search>
-        <entry>opening</entry>
         <entry>hours</entry>
         <entry>hour</entry>
         <entry>resource</entry>
@@ -551,6 +557,7 @@
         <entry>$.each(</entry>
         <entry>prepareOpts</entry>
         <entry>multi</entry>
+        <entry>instance</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
