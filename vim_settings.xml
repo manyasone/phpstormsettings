@@ -61,6 +61,11 @@
         <mark key="^" line="135" column="25" />
         <mark key="." line="135" column="25" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/composer.json" timestamp="1549362185669">
+        <mark key="'" line="40" column="19" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="11" column="6" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/PanelTraits/Fields.php" timestamp="1548930158772">
         <mark key="[" line="230" column="23" />
         <mark key="]" line="230" column="84" />
@@ -121,6 +126,13 @@
         <mark key="]" line="129" column="7" />
         <mark key="." line="129" column="7" />
         <mark key="^" line="129" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/web/feldmann/database/seeds/DatabaseSeeder.php" timestamp="1549362221413">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
       </file>
       <file name="$USER_HOME$/git/web/studi/database/migrations/2018_11_14_153835_create_media_table.php" timestamp="1548927202008">
         <mark key="[" line="26" column="49" />
@@ -232,6 +244,11 @@
         <mark key="^" line="102" column="62" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/feldmann/composer.json" timestamp="1549361933803">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/resources/views/backend/inc/view_counter.blade.php" timestamp="1548852495018">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="32" />
@@ -299,10 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="57" filename="$USER_HOME$/git/web/studi/routes/backpack/custom.php" />
-      <jump line="7" column="6" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/src/Traits/HandlesAjaxRequest.php" />
-      <jump line="197" column="55" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child.blade.php" />
-      <jump line="95" column="23" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child_select2_from_ajax.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child_select2_from_ajax.blade.php" />
       <jump line="90" column="28" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child_select2_from_ajax.blade.php" />
       <jump line="105" column="60" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/child_select2_from_ajax.blade.php" />
@@ -399,19 +412,23 @@
       <jump line="350" column="29" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="285" column="14" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="288" column="37" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="11" column="5" filename="$USER_HOME$/git/web/studi/composer.json" />
+      <jump line="33" column="18" filename="$USER_HOME$/git/web/studi/composer.json" />
+      <jump line="40" column="19" filename="$USER_HOME$/git/web/studi/composer.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/feldmann/database/seeds/DatabaseSeeder.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJyZXBvc2l0b3JpZXMiOiBbCiAgICAgICAgewogICAgICAgICAgICAidHlwZSI6ICJjb21wb3NlciIsCiAgICAgICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9jb21wb3Nlci53ZWJmYWN0b3JtZWRpYS5kZS8iCiAgICAgICAgfQogICAgXSwK</text>
       </register>
       <register name="-" type="4">
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>generators</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Int7IGFzc2V0KCd2ZW5kb3IvYWRtaW5sdGUnKSB9fS9ib3dlcl9jb21wb25lbnRzL2pxdWVyeS9kaXN0L2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICJyZXBvc2l0b3JpZXMiOiBbCiAgICAgICAgewogICAgICAgICAgICAidHlwZSI6ICJjb21wb3NlciIsCiAgICAgICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9jb21wb3Nlci53ZWJmYWN0b3JtZWRpYS5kZS8iCiAgICAgICAgfQogICAgXSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldCgndmVuZG9yL2FkbWlubHRlJykgfX0vYm93ZXJfY29tcG9uZW50cy9qcXVlcnkvZGlzdC9qcXVlcnkubWluLmpzIj48L3NjcmlwdD4K</text>
@@ -454,9 +471,9 @@
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search>generators</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern>generators</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -464,7 +481,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FaqController</entry>
         <entry>impressio</entry>
         <entry>jobs</entry>
         <entry>Jobs</entry>
@@ -484,6 +500,7 @@
         <entry encoding="base64">LT4=</entry>
         <entry>table</entry>
         <entry>date</entry>
+        <entry>generators</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
