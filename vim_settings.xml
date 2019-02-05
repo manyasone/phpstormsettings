@@ -73,6 +73,9 @@
         <mark key="^" line="28" column="32" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/feldmann/resources/lang/de/validation.php" timestamp="1549363356907">
+        <mark key="[" line="171" column="43" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1549354053409">
         <mark key="'" line="288" column="37" />
         <mark key="[" line="558" column="0" />
@@ -89,12 +92,6 @@
         <mark key="[" line="233" column="0" />
         <mark key="]" line="233" column="0" />
         <mark key="." line="233" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/JobCrudController.php" timestamp="1548838034792">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="62" column="14" />
-        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/studi/database/factories/FaqFactory.php" timestamp="1548853469544">
         <mark key="[" line="10" column="0" />
@@ -181,17 +178,11 @@
         <mark key="^" line="46" column="52" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/feldmann/config/webfactor/pagemanager.php" timestamp="1549362529839">
-        <mark key="[" line="30" column="67" />
-        <mark key="]" line="30" column="75" />
+      <file name="$USER_HOME$/git/web/feldmann/config/webfactor/pagemanager.php" timestamp="1549363308516">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="26" />
         <mark key="^" line="30" column="75" />
         <mark key="." line="30" column="75" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/database/migrations/2018_11_06_094513_create_jobs_table.php" timestamp="1548927192378">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="29" column="49" />
-        <mark key="]" line="29" column="48" />
-        <mark key="." line="29" column="48" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/views/backend/media/category.blade.php" timestamp="1548851424005">
         <mark key="[" line="21" column="32" />
@@ -215,11 +206,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="97" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/table.blade.php" timestamp="1548835125976">
-        <mark key="'" line="177" column="91" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/git/web/feldmann/resources/lang/vendor/pagemanager/de/templates.php" timestamp="1549363325354">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/inc/button-add.blade.php" timestamp="1548931581052">
         <mark key="[" line="0" column="0" />
@@ -322,17 +313,11 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/helpers.php" timestamp="1548935798709">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/feldmann/app/Http/PageManager/Templates/InfoPageTemplate.php" timestamp="1549363132082">
-        <mark key="[" line="30" column="18" />
-        <mark key="]" line="32" column="33" />
-        <mark key="^" line="32" column="33" />
-        <mark key="." line="32" column="33" />
+      <file name="$USER_HOME$/git/web/feldmann/app/Http/PageManager/Templates/InfoPageTemplate.php" timestamp="1549363435356">
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="29" column="46" />
+        <mark key="^" line="37" column="33" />
+        <mark key="." line="29" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -439,16 +424,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>twocolumns</text>
+        <text>Logo</text>
       </register>
       <register name="-" type="4">
-        <text>twocolumns</text>
+        <text>Logo</text>
       </register>
       <register name="/" type="4">
         <text>generators</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICd0d29jb2x1bW5zJyA9PiAnWndlaXNwYWx0aWcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXFBhZ2VNYW5hZ2VyOjppbWFnZUZpZWxkKCdsb2dvJywgJ0xvZ28nKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBlZGl0IHRoaXMhCg==</text>
