@@ -49,7 +49,6 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="27" column="60" />
       </file>
-      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1550047632490" />
       <file name="$USER_HOME$/git/web/feldmann/database/migrations/2018_02_05_152810_create_sections_table.php" timestamp="1549458121289">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="35" />
@@ -84,11 +83,8 @@
       <file name="$USER_HOME$/git/web/studi/app/Models/Settings/VehicleType.php" timestamp="1550045498697">
         <mark key="[" line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1550071918770">
-        <mark key="'" line="457" column="52" />
-        <mark key="[" line="458" column="0" />
-        <mark key="]" line="458" column="0" />
-        <mark key="." line="458" column="0" />
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1550133389986">
+        <mark key="'" line="456" column="4" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/views/backend/tiles/finances.blade.php" timestamp="1549985633213">
         <mark key="[" line="2" column="27" />
@@ -212,6 +208,9 @@
         <mark key="." line="221" column="112" />
         <mark key="^" line="221" column="112" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/address_algolia.blade.php" timestamp="1550134386949">
+        <mark key="'" line="27" column="140" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/resources/lang/vendor/webfactor/de/permissions.php" timestamp="1550065729099">
         <mark key="[" line="28" column="13" />
         <mark key="]" line="28" column="12" />
@@ -261,6 +260,13 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="10" column="7" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/address_algolia.blade.php" timestamp="1550132466544">
+        <mark key="'" line="95" column="47" />
+        <mark key="[" line="61" column="61" />
+        <mark key="]" line="61" column="62" />
+        <mark key="n" line="5" column="18" />
+        <mark key="." line="61" column="62" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/resources/views/backend/faq/tiles.blade.php" timestamp="1550046394849">
         <mark key="[" line="45" column="24" />
         <mark key="]" line="45" column="24" />
@@ -305,17 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="53" filename="$USER_HOME$/git/web/feldmann/vendor/backpack/crud/src/ModelTraits/SpatieTranslatable/Sluggable.php" />
-      <jump line="11" column="6" filename="$USER_HOME$/git/web/feldmann/vendor/cviebrock/eloquent-sluggable/src/Sluggable.php" />
-      <jump line="77" column="18" filename="$USER_HOME$/git/web/feldmann/vendor/cviebrock/eloquent-sluggable/src/Sluggable.php" />
-      <jump line="81" column="29" filename="$USER_HOME$/git/web/feldmann/vendor/cviebrock/eloquent-sluggable/src/Sluggable.php" />
-      <jump line="19" column="13" filename="$USER_HOME$/git/web/feldmann/vendor/webfactor/laravel-backpack-pagemanager/src/Models/Page.php" />
-      <jump line="34" column="10" filename="$USER_HOME$/git/web/feldmann/vendor/webfactor/laravel-backpack-pagemanager/src/Models/Page.php" />
-      <jump line="55" column="10" filename="$USER_HOME$/git/web/feldmann/vendor/webfactor/laravel-backpack-pagemanager/src/Models/Page.php" />
-      <jump line="70" column="21" filename="$USER_HOME$/git/web/feldmann/vendor/webfactor/laravel-backpack-pagemanager/src/Models/Page.php" />
-      <jump line="73" column="14" filename="$USER_HOME$/git/web/feldmann/vendor/webfactor/laravel-backpack-pagemanager/src/Models/Page.php" />
-      <jump line="74" column="30" filename="$USER_HOME$/git/web/feldmann/vendor/webfactor/laravel-backpack-pagemanager/src/Models/Page.php" />
-      <jump line="120" column="27" filename="$USER_HOME$/git/web/feldmann/vendor/webfactor/laravel-backpack-pagemanager/src/Models/Page.php" />
       <jump line="61" column="47" filename="$USER_HOME$/git/web/feldmann/app/Http/Controllers/Admin/SectionCrudController.php" />
       <jump line="91" column="17" filename="$USER_HOME$/git/web/feldmann/app/Http/Controllers/Admin/SectionCrudController.php" />
       <jump line="93" column="17" filename="$USER_HOME$/git/web/feldmann/app/Http/Controllers/Admin/SectionCrudController.php" />
@@ -405,64 +400,125 @@
       <jump line="47" column="31" filename="$USER_HOME$/git/web/studi/routes/backpack/custom.php" />
       <jump line="48" column="31" filename="$USER_HOME$/git/web/studi/routes/backpack/custom.php" />
       <jump line="457" column="52" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/address_algolia.blade.php" />
+      <jump line="5" column="78" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/address_algolia.blade.php" />
+      <jump line="6" column="42" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/address_algolia.blade.php" />
+      <jump line="14" column="91" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/address_algolia.blade.php" />
+      <jump line="29" column="100" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/address_algolia.blade.php" />
+      <jump line="95" column="47" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/address_algolia.blade.php" />
+      <jump line="79" column="20" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/address_algolia.blade.php" />
+      <jump line="18" column="54" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/address_algolia.blade.php" />
+      <jump line="21" column="140" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/address_algolia.blade.php" />
+      <jump line="27" column="140" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/address_algolia.blade.php" />
+      <jump line="456" column="4" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGR1bXAoKChhcnJheSlqc29uX2RlY29kZSgkcmVxdWVzdC0+Z2V0KCd2ZWhpY2xlcycpKSlbMF0pOwovLyAgICAgICAgZGQoJHZlaGljbGVzLT5nZXQoMCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>,
+        {{--CHANGED: PLACES.JS UPDATED FROM 1.11.0 to 1.15.5--}}
+                    //CHANGED: VALUE TEMPLATE (ADDED POSTCODE TO RESULT STRINGS)
+                    templates: {
+                        value: function(suggestion) {
+                            switch (suggestion.type) {
+                                case 'city':
+                                    return suggestion.postcode + &quot; &quot; + suggestion.name + &quot;, &quot; + suggestion.country;
+                                case 'townhall':
+                                case 'trainStation':
+                                case 'busStop':
+                                case 'address':
+                                    return suggestion.name + &quot;, &quot; + suggestion.postcode + &quot; &quot; + suggestion.city + &quot;, &quot; + suggestion.country;
+                                case 'airport':
+                                    return suggestion.name + &quot;, &quot; + suggestion.postcode + &quot; &quot; + suggestion.county + &quot;, &quot; + suggestion.country;
+                            }
+                        }
+                    }</text>
       </register>
       <register name="-" type="4">
-        <text>$vehicles</text>
+        <text>suggestion</text>
       </register>
       <register name="/" type="4">
-        <text>_type</text>
+        <text>_json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCgoYXJyYXkpanNvbl9kZWNvZGUoJHJlcXVlc3QtPmdldCgndmVoaWNsZXMnKSkpWzBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlICd0cmFpblN0YXRpb24nOgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGR1bXAoKChhcnJheSlqc29uX2RlY29kZSgkcmVxdWVzdC0+Z2V0KCd2ZWhpY2xlcycpKSlbMF0pOwovLyAgICAgICAgZGQoJHZlaGljbGVzLT5nZXQoMCkpOwo=</text>
+      <register name="1" type="4">
+        <text>,
+        {{--CHANGED: PLACES.JS UPDATED FROM 1.11.0 to 1.15.5--}}
+                    //CHANGED: VALUE TEMPLATE (ADDED POSTCODE TO RESULT STRINGS)
+                    templates: {
+                        value: function(suggestion) {
+                            switch (suggestion.type) {
+                                case 'city':
+                                    return suggestion.postcode + &quot; &quot; + suggestion.name + &quot;, &quot; + suggestion.country;
+                                case 'townhall':
+                                case 'trainStation':
+                                case 'busStop':
+                                case 'address':
+                                    return suggestion.name + &quot;, &quot; + suggestion.postcode + &quot; &quot; + suggestion.city + &quot;, &quot; + suggestion.country;
+                                case 'airport':
+                                    return suggestion.name + &quot;, &quot; + suggestion.postcode + &quot; &quot; + suggestion.county + &quot;, &quot; + suggestion.country;
+                            }
+                        }
+                    }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICR2ZWhpY2xlLT51cGRhdGUoWyd2ZWhpY2xlX3R5cGVfaWQnID0+ICR2ZWhpY2xlLT52ZWhpY2xlX3R5cGVdKTsK</text>
+      <register name="2" type="4">
+        <text>,
+        {{--CHANGED: PLACES.JS UPDATED FROM 1.11.0 to 1.15.5--}}
+                    //CHANGED: VALUE TEMPLATE (ADDED POSTCODE TO RESULT STRINGS)
+                    templates: {
+                        value: function(suggestion) {
+                            switch (suggestion.type) {
+                                case 'city':
+                                    return suggestion.postcode + &quot; &quot; + suggestion.name + &quot;, &quot; + suggestion.country;
+                                case 'townhall':
+                                case 'trainStation':
+                                case 'busStop':
+                                case 'address':
+                                    return suggestion.name + &quot;, &quot; + suggestion.postcode + &quot; &quot; + suggestion.city + &quot;, &quot; + suggestion.country;
+                                case 'airport':
+                                    return suggestion.name + &quot;, &quot; + suggestion.postcode + &quot; &quot; + suggestion.county + &quot;, &quot; + suggestion.country;
+                            }
+                        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICB7ey0tQ0hBTkdFRDogUExBQ0VTLkpTIFVQREFURUQgRlJPTSAxLjExLjAgdG8gMS4xNS41LS19fQogICAgICAgICAgICAgICAgICAgIC8vQ0hBTkdFRDogVkFMVUUgVEVNUExBVEUgKEFEREVEIFBPU1RDT0RFIFRPIFJFU1VMVCBTVFJJTkdTKQogICAgICAgICAgICAgICAgICAgIHRlbXBsYXRlczogewogICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZTogZnVuY3Rpb24oc3VnZ2VzdGlvbikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3dpdGNoIChzdWdnZXN0aW9uLnR5cGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlICdjaXR5JzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHN1Z2dlc3Rpb24ucG9zdGNvZGUgKyAiICIgKyBzdWdnZXN0aW9uLm5hbWUgKyAiLCAiICsgc3VnZ2VzdGlvbi5jb3VudHJ5OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgJ3Rvd25oYWxsJzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlICd0cmFpblN0YXRpb24nOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgJ2J1c1N0b3AnOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgJ2FkZHJlc3MnOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gc3VnZ2VzdGlvbi5uYW1lICsgIiwgIiArIHN1Z2dlc3Rpb24ucG9zdGNvZGUgKyAiICIgKyBzdWdnZXN0aW9uLmNpdHkgKyAiLCAiICsgc3VnZ2VzdGlvbi5jb3VudHJ5OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgJ2FpcnBvcnQnOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gc3VnZ2VzdGlvbi5uYW1lICsgIiwgIiArIHN1Z2dlc3Rpb24ucG9zdGNvZGUgKyAiICIgKyBzdWdnZXN0aW9uLmNvdW50eSArICIsICIgKyBzdWdnZXN0aW9uLmNvdW50cnk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdmVoaWNsZXNbMF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIC8vIGxvYWQgY3JlYXRlIG1vZGFsIGNvbnRlbnQKICAgICAgICAgICAgICAgICAgICAgICAgJCgiI3t7ICRmaWVsZFsnb25fdGhlX2ZseSddWydlbnRpdHknXSA/PyAnYWpheF9lbnRpdHknIH19X2NyZWF0ZV9tb2RhbCIpLm9uKCdzaG93LmJzLm1vZGFsJywgZnVuY3Rpb24gKGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBsb2FkdXJsID0gJChlLnJlbGF0ZWRUYXJnZXQpLmRhdGEoJ2xvYWQtdXJsJyk7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgJCh0aGlzKS5maW5kKCcubW9kYWwtY29udGVudCcpLmxvYWQobG9hZHVybCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHN1Z2dlc3Rpb24pOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gbG9hZCBjcmVhdGUgbW9kYWwgY29udGVudAogICAgICAgICAgICAgICAgICAgICAgICAkKCIje3sgJGZpZWxkWydvbl90aGVfZmx5J11bJ2VudGl0eSddID8/ICdhamF4X2VudGl0eScgfX1fY3JlYXRlX21vZGFsIikub24oJ3Nob3cuYnMubW9kYWwnLCBmdW5jdGlvbiAoZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGxvYWR1cmwgPSAkKGUucmVsYXRlZFRhcmdldCkuZGF0YSgnbG9hZC11cmwnKTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKHRoaXMpLmZpbmQoJy5tb2RhbC1jb250ZW50JykubG9hZChsb2FkdXJsKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChzdWdnZXN0aW9uLnR5cGUgPSAnY2l0eScpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gbG9hZCBjcmVhdGUgbW9kYWwgY29udGVudAogICAgICAgICAgICAgICAgICAgICAgICAkKCIje3sgJGZpZWxkWydvbl90aGVfZmx5J11bJ2VudGl0eSddID8/ICdhamF4X2VudGl0eScgfX1fY3JlYXRlX21vZGFsIikub24oJ3Nob3cuYnMubW9kYWwnLCBmdW5jdGlvbiAoZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGxvYWR1cmwgPSAkKGUucmVsYXRlZFRhcmdldCkuZGF0YSgnbG9hZC11cmwnKTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKHRoaXMpLmZpbmQoJy5tb2RhbC1jb250ZW50JykubG9hZChsb2FkdXJsKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHN1Z2dlc3Rpb24pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAge3stLUBpZiAoJGZpZWxkWydvbl90aGVfZmx5J11bJ2VkaXQnXSA/PyB0cnVlKS0tfX0KICAgICAgICAgICAge3stLUBpbmNsdWRlKCd3ZWJmYWN0b3I6OmZpZWxkcy5pbmMuYnV0dG9uLWVkaXQnKS0tfX0KICAgICAgICB7ey0tQGVuZGlmLS19fQoKICAgICAgICB7ey0tQGlmICgkZmllbGRbJ29uX3RoZV9mbHknXVsnZGVsZXRlJ10gPz8gdHJ1ZSktLX19CiAgICAgICAgICAgIHt7LS1AaW5jbHVkZSgnd2ViZmFjdG9yOjpmaWVsZHMuaW5jLmJ1dHRvbi1kZWxldGUnKS0tfX0KICAgICAgICB7ey0tQGVuZGlmLS19fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCR0aGlzLmRhdGEoJ2FkZHJlc3MnKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>_type</last-search>
+      <last-search>_json</last-search>
       <last-offset />
-      <last-pattern>_type</last-pattern>
+      <last-pattern>_json</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -470,8 +526,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vehiclesa</entry>
-        <entry>vehicles</entry>
         <entry>finance</entry>
         <entry>FaqController</entry>
         <entry>ontroll</entry>
@@ -486,10 +540,12 @@
         <entry>office</entry>
         <entry>delete</entry>
         <entry>vehicle</entry>
-        <entry>value</entry>
         <entry>entity</entry>
         <entry>post_data</entry>
         <entry>_type</entry>
+        <entry>value</entry>
+        <entry>store_as_json</entry>
+        <entry>_json</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
