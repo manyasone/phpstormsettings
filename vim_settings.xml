@@ -55,6 +55,7 @@
       <file name="$USER_HOME$/git/web/studi/database/migrations/2019_01_28_114840_create_assignment_vehicles_table.php" timestamp="1550045640126">
         <mark key="[" line="23" column="86" />
       </file>
+      <file name="$USER_HOME$/git/web/foodahoo/app/Http/Controllers/Frontend/MarketController.php" timestamp="1550499851409" />
       <file name="$USER_HOME$/git/web/persofleet/app/Traits/ExtendedMediaTrait.php" timestamp="1550146482517">
         <mark key="[" line="100" column="19" />
         <mark key="]" line="100" column="62" />
@@ -67,18 +68,6 @@
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Models/Settings/FaqCategory.php" timestamp="1549987031601">
         <mark key="[" line="64" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/InboxCrudController.php" timestamp="1550154412916">
-        <mark key="'" line="65" column="105" />
-        <mark key="[" line="14" column="57" />
-        <mark key="]" line="14" column="57" />
-        <mark key="." line="14" column="57" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/backend/assignment/show.blade.php" timestamp="1550160053016">
-        <mark key="'" line="180" column="24" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="160" column="28" />
-        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" timestamp="1550156113081">
         <mark key="'" line="65" column="33" />
@@ -136,6 +125,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="67" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/foodahoo/app/Http/Controllers/Frontend/CommentsController.php" timestamp="1550499903957">
+        <mark key="[" line="22" column="88" />
       </file>
       <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/select2_multiple.blade.php" timestamp="1550155985444">
         <mark key="'" line="28" column="51" />
@@ -307,6 +299,9 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/foodahoo/routes/web.php" timestamp="1550499481486">
+        <mark key="'" line="15" column="27" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Models/Messages/Message.php" timestamp="1550156097110">
         <mark key="'" line="93" column="4" />
         <mark key="[" line="97" column="112" />
@@ -441,8 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="518" column="12" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
-      <jump line="100" column="46" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="161" column="38" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="163" column="21" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="96" column="23" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
@@ -541,6 +534,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" />
       <jump line="34" column="93" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" />
       <jump line="102" column="0" filename="$USER_HOME$/git/web/studi/routes/backpack/custom.php" />
+      <jump line="31" column="52" filename="$USER_HOME$/git/web/foodahoo/routes/web.php" />
+      <jump line="15" column="27" filename="$USER_HOME$/git/web/foodahoo/routes/web.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -550,7 +545,7 @@
         <text>where</text>
       </register>
       <register name="/" type="4">
-        <text>account</text>
+        <text>wfcms</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBAY2FuKCdjcnVkLWFjY291bnQtLXNob3cnKQogICAgICAgIDxsaSByb2xlPSJwcmVzZW50YXRpb24iCiAgICAgICAgICAgIEBpZiAoUmVxdWVzdDo6cm91dGUoKS0+Z2V0TmFtZSgpID09ICdhY2NvdW50Lm92ZXJ2aWV3JykgY2xhc3M9ImFjdGl2ZSIgQGVuZGlmCiAgICAgICAgPgogICAgICAgICAgICA8YSBocmVmPSJ7eyBiYWNrcGFja191cmwoJ2FjY291bnQvJyAuIFxBcHBcTW9kZWxzXEFjY291bnREYXRhOjpmaXJzdCgpLT5pZCkgfX0iPsOcYmVyYmxpY2s8L2E+PC9saT4KICAgICAgICBAZW5kY2FuCg==</text>
@@ -596,9 +591,9 @@
       </register>
     </registers>
     <search>
-      <last-search>account</last-search>
+      <last-search>wfcms</last-search>
       <last-offset />
-      <last-pattern>account</last-pattern>
+      <last-pattern>wfcms</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -606,7 +601,6 @@
     </search>
     <history>
       <history-search>
-        <entry>internal</entry>
         <entry>attach</entry>
         <entry>image</entry>
         <entry>ocument</entry>
@@ -626,6 +620,7 @@
         <entry>addFields</entry>
         <entry>assi</entry>
         <entry>account</entry>
+        <entry>wfcms</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
