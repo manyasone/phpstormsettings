@@ -174,11 +174,11 @@
       <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1552407355064">
         <mark key="'" line="525" column="24" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Requests/Admin/AssignmentRequest.php" timestamp="1552409039515">
-        <mark key="[" line="45" column="90" />
-        <mark key="]" line="45" column="63" />
-        <mark key="." line="45" column="63" />
-        <mark key="^" line="45" column="63" />
+      <file name="$USER_HOME$/git/web/studi/app/Http/Requests/Admin/AssignmentRequest.php" timestamp="1552410205803">
+        <mark key="[" line="48" column="120" />
+        <mark key="]" line="50" column="35" />
+        <mark key="." line="50" column="35" />
+        <mark key="^" line="50" column="35" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/lang/de/models.php" timestamp="1552406218804">
         <mark key="'" line="47" column="24" />
@@ -402,10 +402,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>', Rule::notIn(['drivers'])],</text>
+        <text>$user_names</text>
       </register>
       <register name="-" type="4">
-        <text>', Rule::notIn(['drivers'])],</text>
+        <text>$user_names</text>
       </register>
       <register name="/" type="4">
         <text>participate</text>
