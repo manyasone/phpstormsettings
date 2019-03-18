@@ -30,7 +30,7 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/git/web/mt/app/Providers/AppServiceProvider.php" timestamp="1552903981724" />
+      <file name="$USER_HOME$/git/web/mt/app/Providers/AppServiceProvider.php" timestamp="1552904424662" />
       <file name="$USER_HOME$/git/web/mt/config/auth.php" timestamp="1552571420476">
         <mark key="[" line="44" column="25" />
         <mark key="]" line="44" column="25" />
@@ -96,12 +96,14 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/mt/deploy_staging.sh" timestamp="1552903570234">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/git/web/mt/deploy_staging.sh" timestamp="1552904656285">
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/mt/app/Http/Controllers/Api/ApiV4Controller.php" timestamp="1552904004149" />
+      <file name="$USER_HOME$/git/web/mt/app/Http/Controllers/Api/ApiV4Controller.php" timestamp="1552904413150">
+        <mark key="'" line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/resources/sass/backpack/_calendar.scss" timestamp="1552470901528">
         <mark key="[" line="7" column="22" />
       </file>
@@ -178,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="46" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="117" column="74" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="128" column="44" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="130" column="72" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
@@ -278,6 +279,7 @@
       <jump line="9866" column="10" filename="$USER_HOME$/git/web/jumpin/_ide_helper.php" />
       <jump line="9566" column="49" filename="$USER_HOME$/git/web/jumpin/_ide_helper.php" />
       <jump line="9568" column="96" filename="$USER_HOME$/git/web/jumpin/_ide_helper.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/git/web/mt/app/Http/Controllers/Api/ApiV4Controller.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -287,7 +289,7 @@
         <text>env('APP_ENV')</text>
       </register>
       <register name="/" type="4">
-        <text>ariables</text>
+        <text>env(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJy8nLCAnUGFnZUNvbnRyb2xsZXJAbGFuZGluZ1BhZ2UnKS0+bmFtZSgncm9vdCcpOwogICAgUm91dGU6OmdldCgnL3RhbmtzdGVsbGVuJywgJ1NlYXJjaExpc3RDb250cm9sbGVyQGZpbmRCeUdldFVybCcpLT5uYW1lKCdzZWFyY2gnKTsKICAgIFJvdXRlOjpnZXQoJy9saXN0JywgZnVuY3Rpb24gKCkgewogICAgICAgIHJldHVybiByZWRpcmVjdCgnLycpOwogICAgfSk7IC8vIG9sZCByb3V0ZQoKICAgIFJvdXRlOjpnZXQoJy90YW5rc3RlbGxlbi97c2VhcmNoVGV4dH0ve3Nlb0Z1ZWx0eXBlP30nLCAnU2VhcmNoTGlzdENvbnRyb2xsZXJAZmluZEJ5U2VvVXJsJyktPm5hbWUoJ3NlYXJjaC5zZW8nKTsKICAgIAogICAgUm91dGU6OmdldCgnL3RhbmtzdGVsbGUvYWRkL3t0eXBlP30nLAogICAgICAgICdTdGF0aW9uc0NvbnRyb2xsZXJAaW5kZXgnKS0+bmFtZSgnc3RhdGlvbnMuYWRkJyk7IC8vIFRPRE86IG5ldWUgcm91dGUgaW4gbWVoci1sYWRlbiwgaGllciB0eXBlIHdlZwogICAgUm91dGU6OmdldCgnL3RhbmtzdGVsbGUve2lkfS97c2VvP30ve2Z1ZWx0eXBlP30nLAogICAgICAgICdTdGF0aW9uc0NvbnRyb2xsZXJAc2hvdycpLT5uYW1lKCdzdGF0aW9ucy5zaG93JyktPndoZXJlKCdmdWVsdHlwZScsICcoZTV8ZTEwfGRpZXNlbCknKTsKICAgIAogICAgUm91dGU6OmdldCgnL3N0YXRpb24vaWQse2lkfScsICdTdGF0aW9uc0NvbnRyb2xsZXJAc2hvd0lmcmFtZScpOyAvLyAib2xkIiByb3V0ZSBmb3IgaWZyYW1lCiAgICBSb3V0ZTo6Z2V0KCcvaWZyYW1lL3N0YXRpb24ve2lkfScsICdTdGF0aW9uc0NvbnRyb2xsZXJAc2hvd0lmcmFtZScpOyAvLyBuZXcgcm91dGUgZm9yIGlmcmFtZQogICAgCiAgICBSb3V0ZTo6Z2V0KCcvbXRzJywgJ1BhZ2VDb250cm9sbGVyQG10c1BhZ2UnKS0+bmFtZSgnYmFzaWMubXRzJyk7CiAgICBSb3V0ZTo6Z2V0KCcvd2VibWFzdGVyJywgJ1BhZ2VDb250cm9sbGVyQHdlYm1hc3RlclBhZ2UnKTsKICAgIAogICAgUm91dGU6OmdldCgnc2l0ZW1hcC54bWwnLCAnU2l0ZW1hcHNDb250cm9sbGVyQGluZGV4JyktPm5hbWUoJ3NpdGVtYXAnKTsKICAgIFJvdXRlOjpnZXQoJ3NpdGVtYXBzL3N0YXRpb25zLnhtbCcsICdTaXRlbWFwc0NvbnRyb2xsZXJAc3RhdGlvbnMnKS0+bmFtZSgnc2l0ZW1hcHMuc3RhdGlvbnMnKTsKICAgIFJvdXRlOjpnZXQoJ3NpdGVtYXBzL2Jhc2ljLnhtbCcsICdTaXRlbWFwc0NvbnRyb2xsZXJAYmFzaWMnKS0+bmFtZSgnc2l0ZW1hcHMuYmFzaWMnKTsKICAgIFJvdXRlOjpnZXQoJ3NpdGVtYXBzL3ppcGNvZGVzLnhtbCcsICdTaXRlbWFwc0NvbnRyb2xsZXJAemlwQ29kZXMnKS0+bmFtZSgnc2l0ZW1hcHMuemlwY29kZXMnKTsKICAgIFJvdXRlOjpnZXQoJ3NpdGVtYXBzL2NpdGllcy54bWwnLCAnU2l0ZW1hcHNDb250cm9sbGVyQGNpdGllcycpLT5uYW1lKCdzaXRlbWFwcy5jaXRpZXMnKTsKICAgIAogICAgUm91dGU6OmdldCgnL3N0YXRpc3Rpa2VuJywgJ1N0YXRpc3RpY3NDb250cm9sbGVyQGluZGV4Jyk7CiAgICBSb3V0ZTo6Z2V0KCcvc3RhdGlzdGlrZW4ve2Z1ZWx0eXBlfS97YXJlYX0ve3JhbmdlfScsICdTdGF0aXN0aWNzQ29udHJvbGxlckBvdmVydmlldycpLT5uYW1lKCdzdGF0aXN0aWNzLm92ZXJ2aWV3Jyk7CiAgICBSb3V0ZTo6Z2V0KCcvc3RhdGlzdGlrZW4ve2Z1ZWx0eXBlfS97YXJlYX0ve2xvY2F0aW9ufS97cmFuZ2V9JywKICAgICAgICAnU3RhdGlzdGljc0NvbnRyb2xsZXJAZGV0YWlsJyktPm5hbWUoJ3N0YXRpc3RpY3MuZGV0YWlsJyk7CiAgICBSb3V0ZTo6Z2V0KCcvc3RhdGlzdGlrZW4vbWFya2Uve2JyYW5kSWR9JywgJ1N0YXRpc3RpY3NDb250cm9sbGVyQGJyYW5kJyk7CiAgICAKICAgIC8qKgogICAgICogRXh0ZXJuYWwgSWZyYW1lcwogICAgICovCiAgICBSb3V0ZTo6Z2V0KCdleHQvbXVlbmNoZW4uZGUnLCAnSWZyYW1lQ29udHJvbGxlckBtdWVuY2hlbl9kZScpOwogICAgUm91dGU6OmdldCgnZXh0L3NpZWdlbmVyLXplaXR1bmcuZGUnLCAnSWZyYW1lQ29udHJvbGxlckBzaWVnZW5lcl96ZWl0dW5nJyk7Cg==</text>
@@ -333,9 +335,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ariables</last-search>
+      <last-search>env(</last-search>
       <last-offset />
-      <last-pattern>ariables</last-pattern>
+      <last-pattern>env(</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -343,7 +345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>paid</entry>
         <entry>is_team</entry>
         <entry>penalty</entry>
         <entry>salary</entry>
@@ -363,6 +364,7 @@
         <entry>params</entry>
         <entry>param</entry>
         <entry>ariables</entry>
+        <entry>env(</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
