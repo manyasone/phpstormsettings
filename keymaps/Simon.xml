@@ -88,6 +88,7 @@
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="windows" second-keystroke="p" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="alt g" />
