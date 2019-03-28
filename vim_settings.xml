@@ -24,7 +24,7 @@
         <mark key="^" line="296" column="56" />
         <mark key="." line="187" column="75" />
       </file>
-      <file name="/a.dummy" timestamp="1553703740505">
+      <file name="/a.dummy" timestamp="1553767512821">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/mt/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" timestamp="1553675613533">
@@ -129,6 +129,10 @@
       <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/relation_table.blade.php" timestamp="1553709920315">
         <mark key="[" line="19" column="6" />
       </file>
+      <file name="$USER_HOME$/git/web/mt/app/Http/Controllers/Backend/Api/MtsController.php" timestamp="1553767025039">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="91" column="82" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Traits/HasUserAssignmentData.php" timestamp="1553765934136">
         <mark key="'" line="10" column="6" />
         <mark key="[" line="349" column="53" />
@@ -155,6 +159,9 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="30" column="35" />
       </file>
+      <file name="$USER_HOME$/git/web/mt/resources/js/backend/components/mtslist.vue" timestamp="1553767351807">
+        <mark key="'" line="178" column="12" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/resources/lang/vendor/backpack/de/crud.php" timestamp="1553696117948">
         <mark key="[" line="99" column="34" />
         <mark key="]" line="99" column="0" />
@@ -165,11 +172,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="39" column="6" />
       </file>
-      <file name="$USER_HOME$/git/web/mt/routes/backpack/custom.php" timestamp="1553675628106">
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="38" />
-        <mark key="^" line="14" column="38" />
-        <mark key="." line="14" column="38" />
+      <file name="$USER_HOME$/git/web/mt/routes/backpack/custom.php" timestamp="1553767270283">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="16" column="74" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="16" column="74" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/user_assignment_data_table.blade.php" timestamp="1553711574959">
         <mark key="[" line="15" column="52" />
@@ -221,6 +228,20 @@
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="33" />
       </file>
+      <file name="$USER_HOME$/git/web/mt/database/stations/mts_stations.sql" timestamp="1553767785333">
+        <mark key="'" line="9" column="29" />
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="46" column="6" />
+        <mark key="." line="46" column="6" />
+        <mark key="^" line="43" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/web/mt/resources/views/vendor/backpack/crud/buttons/mts_station.blade.php" timestamp="1553767602601">
+        <mark key="'" line="41" column="136" />
+        <mark key="[" line="44" column="41" />
+        <mark key="]" line="44" column="56" />
+        <mark key="^" line="44" column="56" />
+        <mark key="." line="44" column="56" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/SalaryCrudController.php" timestamp="1553709581703">
         <mark key="'" line="166" column="0" />
         <mark key="[" line="145" column="0" />
@@ -228,13 +249,13 @@
         <mark key="^" line="179" column="48" />
         <mark key="." line="186" column="46" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/resources/views/backend/assignment/participation_actions.blade.php" timestamp="1553767568135">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="25" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="36" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
-      <jump line="76" column="72" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
-      <jump line="88" column="25" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
-      <jump line="94" column="32" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
-      <jump line="98" column="33" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
       <jump line="131" column="16" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
       <jump line="161" column="46" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
       <jump line="163" column="14" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
@@ -330,19 +351,24 @@
       <jump line="166" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/SalaryCrudController.php" />
       <jump line="69" column="0" filename="$USER_HOME$/git/web/studi/app/helpers.php" />
       <jump line="228" column="4" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/participation_actions.blade.php" />
+      <jump line="175" column="45" filename="$USER_HOME$/git/web/mt/resources/js/backend/components/mtslist.vue" />
+      <jump line="178" column="12" filename="$USER_HOME$/git/web/mt/resources/js/backend/components/mtslist.vue" />
+      <jump line="41" column="136" filename="$USER_HOME$/git/web/mt/resources/views/vendor/backpack/crud/buttons/mts_station.blade.php" />
+      <jump line="9" column="29" filename="$USER_HOME$/git/web/mt/database/stations/mts_stations.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVzZXJfYXNzaWdubWVudF9kYXRhLioud29ya2luZ19ob3Vycy4qLmJyZWFrX2R1cmF0aW9uX2luX21pbnV0ZXMiID0+IHRyYW5zKCd2YWxpZGF0aW9uLmF0dHJpYnV0ZXMuYnJlYWtfZHVyYXRpb25faW5fbWludXRlcycpLAo=</text>
+        <text encoding="base64">CSgzMTMsJzAwMDk5OTk5LTA1NDEtNDQ0NC04ODg4LUFDREMwMDAwMDU0MScsJ1RhbmtzdGVsbGUgV3VzdHJvdycsJ0F1dG9oYXVzIEphZ293JywnQmFobmhvZnN0ci4nLCczMicsJzI5NDYyJywnV3VzdHJvdycsNTIuOTIyNTUwMjAxNDE2LDExLjEyNTMyMDQzNDU3MDMsJ0RFLU1ETS1SYWlmZmVpc2VuIE9zdGVyYnVyZy1Mw7xjaG93LURhbm5lbmJlcmcgZS5HLicsJzIwMTktMDMtMjBUMDA6MDA6MDAuNDA3KzAxOjAwJywnJywxLCcyMDE5LTAzLTIwIDAzOjA5OjIzJywnMjAxOS0wMy0yMCAwMzowOToyMycpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>break_duration_in_minutes</text>
+        <text>role</text>
       </register>
       <register name="/" type="4">
-        <text>helpers</text>
+        <text>ustro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVzZXJfYXNzaWdubWVudF9kYXRhLioud29ya2luZ19ob3Vycy4qLmJyZWFrX2R1cmF0aW9uX2luX21pbnV0ZXMiID0+IHRyYW5zKCd2YWxpZGF0aW9uLmF0dHJpYnV0ZXMuYnJlYWtfZHVyYXRpb25faW5fbWludXRlcycpLAo=</text>
+        <text encoding="base64">CSgzMTMsJzAwMDk5OTk5LTA1NDEtNDQ0NC04ODg4LUFDREMwMDAwMDU0MScsJ1RhbmtzdGVsbGUgV3VzdHJvdycsJ0F1dG9oYXVzIEphZ293JywnQmFobmhvZnN0ci4nLCczMicsJzI5NDYyJywnV3VzdHJvdycsNTIuOTIyNTUwMjAxNDE2LDExLjEyNTMyMDQzNDU3MDMsJ0RFLU1ETS1SYWlmZmVpc2VuIE9zdGVyYnVyZy1Mw7xjaG93LURhbm5lbmJlcmcgZS5HLicsJzIwMTktMDMtMjBUMDA6MDA6MDAuNDA3KzAxOjAwJywnJywxLCcyMDE5LTAzLTIwIDAzOjA5OjIzJywnMjAxOS0wMy0yMCAwMzowOToyMycpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
@@ -385,9 +411,9 @@
       </register>
     </registers>
     <search>
-      <last-search>helpers</last-search>
+      <last-search>ustro</last-search>
       <last-offset />
-      <last-pattern>helpers</last-pattern>
+      <last-pattern>ustro</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -395,8 +421,6 @@
     </search>
     <history>
       <history-search>
-        <entry>time</entry>
-        <entry>Columns</entry>
         <entry>getTotal</entry>
         <entry>ilter</entry>
         <entry>Fields</entry>
@@ -415,6 +439,8 @@
         <entry>salary</entry>
         <entry>penalty</entry>
         <entry>helpers</entry>
+        <entry>match</entry>
+        <entry>ustro</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
