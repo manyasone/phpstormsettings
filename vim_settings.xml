@@ -40,12 +40,12 @@
         <mark key="]" line="37" column="48" />
         <mark key="." line="40" column="3" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" timestamp="1554138277266">
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" timestamp="1554140221496">
         <mark key="'" line="178" column="31" />
-        <mark key="[" line="198" column="60" />
-        <mark key="]" line="198" column="57" />
-        <mark key="." line="198" column="57" />
-        <mark key="^" line="198" column="57" />
+        <mark key="[" line="198" column="89" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
+        <mark key="^" line="197" column="7" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1554135183617">
         <mark key="'" line="590" column="20" />
@@ -122,11 +122,10 @@
         <mark key="[" line="5" column="78" />
       </file>
       <file name="$USER_HOME$/git/web/studi/packages/laravel-backpack-usermanager/src/Models/Permission/Role.php" timestamp="1554129116952" />
-      <file name="$USER_HOME$/git/web/studi/app/Mail/Message.php" timestamp="1554138382157">
-        <mark key="[" line="35" column="49" />
-        <mark key="]" line="35" column="21" />
-        <mark key="^" line="34" column="38" />
-        <mark key="." line="35" column="21" />
+      <file name="$USER_HOME$/git/web/studi/app/Mail/Message.php" timestamp="1554139882085">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/EmployeeController.php" timestamp="1554116465692">
         <mark key="[" line="10" column="42" />
@@ -318,11 +317,11 @@
       <jump line="178" column="31" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPmRhdGFbJ2F0dGFjaG1lbnRzJ10=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmRhdGFbJ2F0dGFjaG1lbnRzJ10=</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>advantage</text>
@@ -331,40 +330,40 @@
         <text encoding="base64">ICAgICAqIEByZXR1cm4gJHRoaXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcTm90aWZpY2F0aW9uc1xNZXNzYWdlc1xNYWlsTWVzc2FnZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YXR0YWNobWVudHMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRkYXRhLT5hdHRhY2htZW50cyk7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2goJGRhdGEtPmF0dGFjaG1lbnRzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHJlcXVlc3QtPmdldCgnc2VuZF9hc19lbWFpbCcpKQogICAgICAgIHsKICAgICAgICAgICAgTWFpbDo6c2VuZChuZXcgXEFwcFxNYWlsXE1lc3NhZ2UoJHJlcXVlc3QtPmFsbCgpKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2goJGRhdGEtPmF0dGFjaG1lbnRzKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcTm90aWZpY2F0aW9uc1xNZXNzYWdlc1xNYWlsTWVzc2FnZQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkZGF0YS0+YXR0YWNobWVudHMgYXMgJGF0dGFjaG1lbnQpIHsKICAgICAgICAgICAgJHRoaXMtPmF0dGFjaCgkYXR0YWNobWVudCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAgbWl4ZWQgJG5vdGlmaWFibGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1haWxhYmxlKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2goJGRhdGEtPmF0dGFjaG1lbnRzKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0IHRoZSBub3RpZmljYXRpb24ncyBkZWxpdmVyeSBjaGFubmVscy4KICAgICAqCiAgICAgKiBAcGFyYW0gIG1peGVkICRub3RpZmlhYmxlCiAgICAgKiBAcmV0dXJuIGFycmF5CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB2aWEoJG5vdGlmaWFibGUpCiAgICB7CiAgICAgICAgcmV0dXJuIFsnbWFpbCddOwogICAgfQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">LT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgICAgICdlbWFpbCcgPT4gJHVzZXItPmVtYWlsLAogICAgICAgICAgICAgICAgICAgICduYW1lJyAgICA9PiAkdXNlci0+bmFtZSwKICAgICAgICAgICAgICAgIF07CiAgICAgICAgICAgIH0pLT50b0FycmF5KCkpOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
