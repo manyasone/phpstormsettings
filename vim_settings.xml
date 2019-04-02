@@ -29,6 +29,12 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="25" column="48" />
       </file>
+      <file name="$USER_HOME$/git/web/mt/resources/views/vendor/backpack/crud/buttons/delete.blade.php" timestamp="1554219215801">
+        <mark key="[" line="1" column="203" />
+        <mark key="]" line="1" column="203" />
+        <mark key="." line="1" column="203" />
+        <mark key="^" line="1" column="146" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/config/auth.php" timestamp="1554200070738">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -60,6 +66,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/mt/resources/views/vendor/backpack/crud/buttons/station_google_maps.blade.php" timestamp="1554220150651">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="2" column="88" />
+      </file>
       <file name="$USER_HOME$/git/web/mt/routes/backpack/custom.php" timestamp="1554216588276">
         <mark key="[" line="22" column="57" />
       </file>
@@ -78,11 +90,11 @@
       <file name="$USER_HOME$/git/web/studi/routes/backpack/custom.php" timestamp="1554129236637">
         <mark key="'" line="25" column="6" />
       </file>
-      <file name="$USER_HOME$/git/web/mt/resources/views/vendor/backpack/crud/buttons/station_frontend.blade.php" timestamp="1554218410355">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="3" column="26" />
-        <mark key="." line="0" column="5" />
+      <file name="$USER_HOME$/git/web/mt/resources/views/vendor/backpack/crud/buttons/station_frontend.blade.php" timestamp="1554219244693">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="29" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/Admin/UserAssignmentRequest.php" timestamp="1554113833650">
         <mark key="[" line="53" column="0" />
@@ -99,6 +111,9 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/mt/app/Models/Stations/Station.php" timestamp="1554219584449">
+        <mark key="'" line="189" column="32" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/sass/backpack/_calendar.scss" timestamp="1554195190708">
         <mark key="[" line="10" column="0" />
@@ -187,10 +202,11 @@
         <mark key="." line="93" column="27" />
         <mark key="^" line="93" column="27" />
       </file>
-      <file name="$USER_HOME$/git/web/mt/app/Http/Controllers/Admin/StationCrudController.php" timestamp="1554218429507">
-        <mark key="[" line="27" column="10" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/git/web/mt/app/Http/Controllers/Admin/StationCrudController.php" timestamp="1554219383067">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="87" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="29" column="92" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/EmployeeDataRequest.php" timestamp="1554127147564">
         <mark key="[" line="41" column="14" />
@@ -204,10 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="193" column="10" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="487" column="0" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="198" column="33" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
       <jump line="174" column="0" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
       <jump line="270" column="69" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
       <jump line="0" column="20" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/buttons/ban.blade.php" />
@@ -304,19 +316,23 @@
       <jump line="124" column="3" filename="$USER_HOME$/git/web/studi/vendor/backpack/base/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/vendor/backpack/base/src/app/Http/Controllers/Auth/ResetPasswordController.php" />
       <jump line="11" column="6" filename="$USER_HOME$/git/web/studi/vendor/laravel/framework/src/Illuminate/Auth/Passwords/PasswordBrokerManager.php" />
+      <jump line="158" column="4" filename="$USER_HOME$/git/web/mt/app/Models/Stations/Station.php" />
+      <jump line="191" column="43" filename="$USER_HOME$/git/web/mt/app/Models/Stations/Station.php" />
+      <jump line="84" column="90" filename="$USER_HOME$/git/web/mt/app/Models/Stations/Station.php" />
+      <jump line="189" column="32" filename="$USER_HOME$/git/web/mt/app/Models/Stations/Station.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGNydWQtPmhhc0FjY2Vzcygnc3RhdGlvbl9mcm9udGVuZCcpICYmIA==</text>
+        <text>default</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGNydWQtPmhhc0FjY2Vzcygnc3RhdGlvbl9mcm9udGVuZCcpICYmIA==</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
-        <text>reset</text>
+        <text>Address</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2JyYW5kJyAgICAgICAgICAgICAgID0+ICdyZXF1aXJlZCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+YWRkQnV0dG9uRnJvbVZpZXcoJ2xpbmUnLCAnc3RhdGlvbl9mcm9udGVuZCcsICdzdGF0aW9uX2Zyb250ZW5kJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QGVuZGNhbgo=</text>
@@ -359,9 +375,9 @@
       </register>
     </registers>
     <search>
-      <last-search>reset</last-search>
+      <last-search>Address</last-search>
       <last-offset />
-      <last-pattern>reset</last-pattern>
+      <last-pattern>Address</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -369,7 +385,6 @@
     </search>
     <history>
       <history-search>
-        <entry>paid</entry>
         <entry>CampaignController</entry>
         <entry>Brand</entry>
         <entry>rand</entry>
@@ -389,6 +404,7 @@
         <entry>pagean</entry>
         <entry>advantage</entry>
         <entry>reset</entry>
+        <entry>Address</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
