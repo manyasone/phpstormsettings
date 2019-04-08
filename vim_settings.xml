@@ -33,12 +33,12 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/pappit/resources/views/vendor/backpack/crud/fields/image.blade.php" timestamp="1554717748458">
-        <mark key="'" line="148" column="59" />
-        <mark key="[" line="189" column="41" />
-        <mark key="]" line="162" column="37" />
-        <mark key="^" line="162" column="37" />
-        <mark key="." line="162" column="37" />
+      <file name="$USER_HOME$/git/web/pappit/resources/views/vendor/backpack/crud/fields/image.blade.php" timestamp="1554721353158">
+        <mark key="'" line="200" column="0" />
+        <mark key="[" line="239" column="51" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
+        <mark key="^" line="242" column="75" />
       </file>
       <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1554712984890" />
       <file name="$USER_HOME$/git/web/mt/tests/Backend/BackendTest.php" timestamp="1554466366616">
@@ -135,8 +135,8 @@
         <mark key="]" line="14" column="42" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/pappit/app/Traits/Imageable.php" timestamp="1554718042465">
-        <mark key="[" line="38" column="0" />
+      <file name="$USER_HOME$/git/web/pappit/app/Traits/Imageable.php" timestamp="1554720457380">
+        <mark key="[" line="44" column="36" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
@@ -201,10 +201,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/pappit/app/Http/Controllers/Admin/AccessoryCrudController.php" timestamp="1554717842202">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/git/web/pappit/app/Http/Controllers/Admin/AccessoryCrudController.php" timestamp="1554719228161">
+        <mark key="[" line="56" column="29" />
+        <mark key="]" line="56" column="29" />
+        <mark key="." line="56" column="29" />
       </file>
       <file name="$USER_HOME$/git/web/mt/app/Http/Controllers/Admin/MtsStationCrudController.php" timestamp="1553793969978">
         <mark key="[" line="37" column="0" />
@@ -353,7 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="3" filename="$USER_HOME$/git/web/studi/vendor/backpack/base/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/vendor/backpack/base/src/app/Http/Controllers/Auth/ResetPasswordController.php" />
       <jump line="11" column="6" filename="$USER_HOME$/git/web/studi/vendor/laravel/framework/src/Illuminate/Auth/Passwords/PasswordBrokerManager.php" />
       <jump line="158" column="4" filename="$USER_HOME$/git/web/mt/app/Models/Stations/Station.php" />
@@ -453,64 +452,65 @@
       <jump line="126" column="37" filename="$USER_HOME$/git/web/pappit/resources/views/vendor/backpack/crud/fields/image.blade.php" />
       <jump line="137" column="53" filename="$USER_HOME$/git/web/pappit/resources/views/vendor/backpack/crud/fields/image.blade.php" />
       <jump line="148" column="59" filename="$USER_HOME$/git/web/pappit/resources/views/vendor/backpack/crud/fields/image.blade.php" />
+      <jump line="188" column="0" filename="$USER_HOME$/git/web/pappit/resources/views/vendor/backpack/crud/fields/image.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU1ZHZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>filter</text>
+        <text>reset</text>
       </register>
       <register name="/" type="4">
-        <text>image</text>
+        <text>svg</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5mcm9tKGNvbmZpZygnbWFpbC5lbXBsb3llZV9mcm9tLmFkZHJlc3MnKSwgY29uZmlnKCdtYWlsLmVtcGxveWVlX2Zyb20ubmFtZScpKQo=</text>
+      <register name="0" type="4">
+        <text>!file.type.includes('svg')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU1ZHZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdjcm9wJyAgID0+IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJG1haW5JbWFnZS5hdHRyKCdzcmMnLHRoaXMucmVzdWx0KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRoaWRkZW5JbWFnZS52YWwodGhpcy5yZXN1bHQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHJlbW92ZS5zaG93KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5mcm9tKGNvbmZpZygnbWFpbC5lbXBsb3llZV9mcm9tLmFkZHJlc3MnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRtYWluSW1hZ2UuY3JvcHBlcigiZGVzdHJveSIsIHRydWUpOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5mcm9tKGNvbmZpZygnbWFpbC5lbXBsb3llZV9mcm9tLmFkZHJlc3MnKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFmaWxlLnR5cGUuaW5jbHVkZXMoJ3N2ZycpKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCd0ZXN0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkZXN0cm95JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRpY29uID0gJ3N0YXInOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>image</last-search>
+      <last-search>svg</last-search>
       <last-offset />
-      <last-pattern>image</last-pattern>
+      <last-pattern>svg</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -518,8 +518,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Status</entry>
-        <entry>threshold</entry>
         <entry>Stunden</entry>
         <entry>assignment</entry>
         <entry>name</entry>
@@ -538,6 +536,8 @@
         <entry>Filter</entry>
         <entry>ating</entry>
         <entry>image</entry>
+        <entry>crop</entry>
+        <entry>svg</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
