@@ -14,11 +14,12 @@
       <file name="/a.dummy" timestamp="1554455114831">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport/content.blade.php" timestamp="1554369112647">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="54" column="81" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport/content.blade.php" timestamp="1554705771702">
+        <mark key="'" line="15" column="11" />
+        <mark key="[" line="56" column="114" />
+        <mark key="]" line="56" column="49" />
+        <mark key="^" line="56" column="49" />
+        <mark key="." line="56" column="49" />
       </file>
       <file name="$USER_HOME$/git/web/mt/tests/helpers.php" timestamp="1554456306663">
         <mark key="[" line="1" column="0" />
@@ -43,7 +44,6 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1554450744641" />
       <file name="$USER_HOME$/git/web/mt/tests/Backend/BackendTest.php" timestamp="1554466366616">
         <mark key="[" line="46" column="5" />
         <mark key="]" line="48" column="15" />
@@ -59,11 +59,11 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/backend/assignment/show.blade.php" timestamp="1554366601089">
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="199" column="42" />
-        <mark key="^" line="195" column="67" />
-        <mark key="." line="203" column="0" />
+      <file name="$USER_HOME$/git/web/studi/resources/views/backend/assignment/show.blade.php" timestamp="1554705125602">
+        <mark key="[" line="193" column="109" />
+        <mark key="]" line="193" column="159" />
+        <mark key="^" line="193" column="112" />
+        <mark key="." line="193" column="112" />
       </file>
       <file name="$USER_HOME$/git/web/studi/config/auth.php" timestamp="1554200070738">
         <mark key="[" line="96" column="0" />
@@ -105,6 +105,13 @@
         <mark key="[" line="253" column="0" />
         <mark key="]" line="253" column="0" />
         <mark key="." line="253" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" timestamp="1554705740458">
+        <mark key="'" line="11" column="87" />
+        <mark key="[" line="11" column="63" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
       </file>
       <file name="$USER_HOME$/git/web/mt/routes/api/v4.php" timestamp="1554217700330">
         <mark key="[" line="35" column="0" />
@@ -152,10 +159,10 @@
         <mark key="]" line="58" column="10" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/components/calendar/assignment_popover.blade.php" timestamp="1554366614511">
-        <mark key="[" line="61" column="4" />
-        <mark key="]" line="61" column="35" />
-        <mark key="." line="61" column="35" />
+      <file name="$USER_HOME$/git/web/studi/resources/views/components/calendar/assignment_popover.blade.php" timestamp="1554705157175">
+        <mark key="[" line="61" column="91" />
+        <mark key="]" line="61" column="142" />
+        <mark key="." line="61" column="91" />
         <mark key="^" line="61" column="35" />
       </file>
       <file name="$USER_HOME$/git/web/pappit/app/Http/Requests/Admin/AccessoryRequest.php" timestamp="1554301702675">
@@ -226,6 +233,7 @@
       <file name="$USER_HOME$/git/web/mt/app/Http/Kernel.php" timestamp="1554460255078">
         <mark key="'" line="15" column="7" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/storage/framework/views/0a8c90cfa46e379ad73f23a41c5f524e540ef979.php" timestamp="1554705797234" />
       <file name="$USER_HOME$/git/web/mt/app/Http/Controllers/Admin/MtsStationCrudController.php" timestamp="1553793969978">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="54" />
@@ -334,11 +342,11 @@
         <mark key="]" line="43" column="10" />
         <mark key="." line="43" column="10" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/resources/views/backend/assignment/participation_actions.blade.php" timestamp="1554705047203">
+        <mark key="^" line="39" column="28" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/Traits/HasUserAssignmentData.php" />
-      <jump line="106" column="6" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
-      <jump line="174" column="72" filename="$USER_HOME$/git/web/studi/app/Models/UserAssignmentData.php" />
       <jump line="244" column="22" filename="$USER_HOME$/git/web/studi/app/Models/UserAssignmentData.php" />
       <jump line="355" column="0" filename="$USER_HOME$/git/web/studi/app/Traits/HasUserAssignmentData.php" />
       <jump line="46" column="69" filename="$USER_HOME$/git/web/studi/app/User.php" />
@@ -436,22 +444,25 @@
       <jump line="17275" column="69" filename="$USER_HOME$/git/web/mt/_ide_helper.php" />
       <jump line="18779" column="26" filename="$USER_HOME$/git/web/mt/_ide_helper.php" />
       <jump line="20829" column="28" filename="$USER_HOME$/git/web/mt/_ide_helper.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
+      <jump line="11" column="87" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" />
+      <jump line="15" column="11" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport/content.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+ZW50cnktPnNldFRyYW5zbGF0aW9uKCduYW1lJywgYXBwKCktPmdldExvY2FsZSgpLCAkcmVxdWVzdC0+Z2V0KCduYW1lJykpLT5zYXZlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICYmICFhdXRoKCktPnVzZXIoKS0+Y2FuKCdjcnVkLWFzc2lnbm1lbnQtLXVwZGF0ZScp</text>
       </register>
       <register name="-" type="4">
         <text>dump</text>
       </register>
       <register name="/" type="4">
-        <text>replace</text>
+        <text>addressJsonToHtml</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwogICAgZnVuY3Rpb24gY2FuX3NlZV9wZXJtaXR0ZWRfY3J1ZF9jcmVhdGVfdmlld3MoKQogICAgewogICAgICAgICR0aGlzLT5nZXRSb3V0ZXMoJ0dFVCcsIFsnbmFtZScgPT4gWydjcnVkJywgJ2NyZWF0ZSddXSk7CiAgICAgICAgJHRoaXMtPnBlcm1pc3Npb25fbmFtZSA9ICdjcmVhdGUnOwogICAgICAgICR0aGlzLT5ydW5Sb3V0ZVRlc3RzKCR0aGlzLT5nZXRfcm91dGVzKTsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICYmICFhdXRoKCktPnVzZXIoKS0+Y2FuKCdjcnVkLWFzc2lnbm1lbnQtLXVwZGF0ZScp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+ZW50cnktPnNldFRyYW5zbGF0aW9uKCduYW1lJywgYXBwKCktPmdldExvY2FsZSgpLCAkcmVxdWVzdC0+Z2V0KCduYW1lJykpLT5zYXZlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGNhbm5vdCgnY3J1ZC1hc3NpZ25tZW50LS11cGRhdGUnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -469,31 +480,31 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+ZW50cnktPnNldFRyYW5zbGF0aW9uKCduYW1lJywgYXBwKCktPmdldExvY2FsZSgpLCAkcmVxdWVzdC0+Z2V0KCduYW1lJykpLT5zYXZlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wKCR1cmkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3J1ZC0+ZW50cnktPnNldFRyYW5zbGF0aW9uKCduYW1lJywgYXBwKCktPmdldExvY2FsZSgpLCAkcmVxdWVzdC0+Z2V0KCduYW1lJykpLT5zYXZlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkdXJpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wKCR1cmkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wKCR1cmkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkdXJpKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdXJpID0gJHJvdXRlLT51cmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wKCR1cmkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkb3V0cHV0LT53cml0ZWxuKCc8ZXJyb3I+QXNzZXJ0aW9uIFN0YXR1cyBDb2RlczogJyAuIGltcGxvZGUoJywnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJGFzc2VydGlvbl9zdGF0dXNfY29kZXMpIC4gJzwvZXJyb3I+Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdXJpID0gJHJvdXRlLT51cmkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>replace</last-search>
+      <last-search>addressJsonToHtml</last-search>
       <last-offset />
-      <last-pattern>replace</last-pattern>
+      <last-pattern>addressJsonToHtml</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -501,8 +512,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bootstrap.php</entry>
-        <entry>styles</entry>
         <entry>ize</entry>
         <entry>log</entry>
         <entry>Status</entry>
@@ -521,6 +530,8 @@
         <entry>mpty</entry>
         <entry>show_</entry>
         <entry>replace</entry>
+        <entry>city</entry>
+        <entry>addressJsonToHtml</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
