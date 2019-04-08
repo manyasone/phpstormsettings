@@ -212,6 +212,13 @@
         <mark key="]" line="56" column="29" />
         <mark key="." line="56" column="29" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/address_algolia.blade.php" timestamp="1554726998504">
+        <mark key="'" line="72" column="25" />
+        <mark key="[" line="73" column="70" />
+        <mark key="]" line="73" column="36" />
+        <mark key="." line="73" column="36" />
+        <mark key="^" line="73" column="36" />
+      </file>
       <file name="$USER_HOME$/git/web/mt/app/Http/Controllers/Admin/MtsStationCrudController.php" timestamp="1553793969978">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="54" />
@@ -343,6 +350,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/CustomerCrudController.php" timestamp="1554727291418">
+        <mark key="'" line="275" column="28" />
+        <mark key="[" line="274" column="5" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/EmployeeDataRequest.php" timestamp="1554127147564">
         <mark key="[" line="41" column="14" />
         <mark key="]" line="42" column="0" />
@@ -360,10 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="6" filename="$USER_HOME$/git/web/studi/vendor/laravel/framework/src/Illuminate/Auth/Passwords/PasswordBrokerManager.php" />
-      <jump line="158" column="4" filename="$USER_HOME$/git/web/mt/app/Models/Stations/Station.php" />
-      <jump line="191" column="43" filename="$USER_HOME$/git/web/mt/app/Models/Stations/Station.php" />
-      <jump line="84" column="90" filename="$USER_HOME$/git/web/mt/app/Models/Stations/Station.php" />
       <jump line="189" column="32" filename="$USER_HOME$/git/web/mt/app/Models/Stations/Station.php" />
       <jump line="192" column="4" filename="$USER_HOME$/git/web/mt/app/Models/Stations/Station.php" />
       <jump line="35" column="44" filename="$USER_HOME$/git/web/mt/app/Http/Controllers/Admin/StationCrudController.php" />
@@ -460,64 +467,68 @@
       <jump line="148" column="59" filename="$USER_HOME$/git/web/pappit/resources/views/vendor/backpack/crud/fields/image.blade.php" />
       <jump line="188" column="0" filename="$USER_HOME$/git/web/pappit/resources/views/vendor/backpack/crud/fields/image.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/address_algolia.blade.php" />
+      <jump line="121" column="21" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/address_algolia.blade.php" />
+      <jump line="62" column="46" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/address_algolia.blade.php" />
+      <jump line="72" column="25" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/address_algolia.blade.php" />
+      <jump line="275" column="28" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/CustomerCrudController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU2VsZWN0TXVsdGlwbGVGaWx0ZXIoT2ZmaWNlOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHdpbmRvdy5wbGFjZXMuY29uZmlndXJlKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>text-orange</text>
+        <text>AlgoliaPlaces</text>
       </register>
       <register name="/" type="4">
-        <text>svg</text>
+        <text>address</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU2VsZWN0TXVsdGlwbGVGaWx0ZXIoT2ZmaWNlOjpjbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHdpbmRvdy5wbGFjZXMuY29uZmlndXJlKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cod2luZG93LkFsZ29saWFQbGFjZXMpLmNvbmZpZ3VyZSgpOwogICAgICAgICAgICAvLyB3aW5kb3cuQWxnb2xpYVBsYWNlcy5jb25maWd1cmUoewogICAgICAgICAgICAvLyAgICAgJ2NvdW50cmllcyc6IFsnZGUnXSwKICAgICAgICAgICAgLy8gfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkdGhpcy0+dXNlckFzc2lnbm1lbnREYXRhLT5wbHVjaygncmF0aW5nJyktPmZpbHRlcigpLT5hdmcoKTsKICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb3VudHJpZXMnOiBbJ2RlJ10sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhcnMgPSAnLSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LkFsZ29saWFQbGFjZXMuY29uZmlndXJlKHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhcnMgPSAnJzsKICAgICAgICBmb3JlYWNoIChyYW5nZSgxLCA1KSBhcyAkaSkgewogICAgICAgICAgICAkc3VmZml4ID0gJyc7CiAgICAgICAgICAgIGlmICgkdGhpcy0+cmF0aW5nIDwgJGkpIHsKICAgICAgICAgICAgICAgIGlmIChyb3VuZCgkdGhpcy0+cmF0aW5nKSAtICRpID09IDApIHsKICAgICAgICAgICAgICAgICAgICAkc3VmZml4ID0gJy1oYWxmJzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICRzdWZmaXggLj0gJy1vJzsKICAgICAgICAgICAgfQogICAgICAgICAgICAkc3RhcnMgLj0gJzxpIGNsYXNzPSJmYSBmYS1zdGFyJyAuICRzdWZmaXggLiAnIj48L2k+JzsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>svg</last-search>
+      <last-search>address</last-search>
       <last-offset />
-      <last-pattern>svg</last-pattern>
+      <last-pattern>address</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -525,12 +536,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Stunden</entry>
-        <entry>assignment</entry>
-        <entry>name</entry>
-        <entry>user</entry>
-        <entry>set_paid</entry>
-        <entry>is_paid</entry>
         <entry>egister</entry>
         <entry>register</entry>
         <entry>required</entry>
@@ -545,6 +550,12 @@
         <entry>image</entry>
         <entry>crop</entry>
         <entry>svg</entry>
+        <entry>countries</entry>
+        <entry>reconf</entry>
+        <entry>configure</entry>
+        <entry>config</entry>
+        <entry>places</entry>
+        <entry>address</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
