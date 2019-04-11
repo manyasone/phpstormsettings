@@ -5,11 +5,6 @@
       <mark key="M" line="13" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/ApplicationController.php" timestamp="1554880962107">
-        <mark key="[" line="137" column="87" />
-        <mark key="]" line="137" column="87" />
-        <mark key="." line="137" column="63" />
-      </file>
       <file name="$USER_HOME$/git/web/studi/app/Models/UserAssignmentData.php" timestamp="1554973099038">
         <mark key="[" line="134" column="44" />
         <mark key="]" line="134" column="44" />
@@ -92,11 +87,6 @@
         <mark key="^" line="193" column="112" />
         <mark key="." line="193" column="112" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" timestamp="1554877480138">
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="." line="239" column="0" />
-      </file>
       <file name="$USER_HOME$/git/web/mt/resources/views/vendor/backpack/crud/buttons/update.blade.php" timestamp="1554901781396">
         <mark key="[" line="10" column="91" />
         <mark key="]" line="10" column="97" />
@@ -121,6 +111,9 @@
       <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/select2_multiple.blade.php" timestamp="1554880876962">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="79" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1554973981792">
+        <mark key="'" line="107" column="6" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/lang/de/mail.php" timestamp="1554713083857">
         <mark key="[" line="4" column="105" />
@@ -185,16 +178,11 @@
         <mark key="." line="43" column="3" />
         <mark key="^" line="43" column="3" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/database/migrations/2019_04_11_160131_add_date_column_to_working_hours_table.php" timestamp="1554972807498">
-        <mark key="[" line="16" column="50" />
+      <file name="$USER_HOME$/git/web/studi/database/migrations/2019_04_11_160131_add_date_column_to_working_hours_table.php" timestamp="1554974281679">
+        <mark key="[" line="15" column="68" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="15" column="21" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/routes/web.php" timestamp="1554887404606">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/mt/resources/views/backend/crud/edit/station/edit.blade.php" timestamp="1554902308619">
         <mark key="[" line="1" column="0" />
@@ -272,7 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="60" filename="$USER_HOME$/git/web/mt/tests/TestCase.php" />
       <jump line="119" column="47" filename="$USER_HOME$/git/web/mt/tests/TestCase.php" />
       <jump line="39" column="23" filename="$USER_HOME$/git/web/mt/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/InteractsWithExceptionHandling.php" />
       <jump line="15" column="7" filename="$USER_HOME$/git/web/mt/app/Http/Kernel.php" />
@@ -372,6 +359,7 @@
       <jump line="184" column="36" filename="$USER_HOME$/git/web/mt/app/Models/Stations/Station.php" />
       <jump line="33" column="90" filename="$USER_HOME$/git/web/mt/app/Http/Controllers/Admin/StationCrudController.php" />
       <jump line="227" column="73" filename="$USER_HOME$/git/web/studi/app/Traits/HasUserAssignmentData.php" />
+      <jump line="107" column="6" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -381,7 +369,7 @@
         <text>entry</text>
       </register>
       <register name="/" type="4">
-        <text>Attribute</text>
+        <text>Open</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGVudHJ5LT5jcmVhdGVVc2VyQXNzaWdubWVudERhdGEoKTsKICAgICAgICAgICAgJGVudHJ5LT5sb2FkKCd3b3JraW5nSG91cnMnKTsK</text>
@@ -427,9 +415,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Attribute</last-search>
+      <last-search>Open</last-search>
       <last-offset />
-      <last-pattern>Attribute</last-pattern>
+      <last-pattern>Open</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -437,7 +425,6 @@
     </search>
     <history>
       <history-search>
-        <entry>places</entry>
         <entry>store_as_json</entry>
         <entry>length</entry>
         <entry>edit</entry>
@@ -457,6 +444,7 @@
         <entry>crud</entry>
         <entry>ransl</entry>
         <entry>Attribute</entry>
+        <entry>Open</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
