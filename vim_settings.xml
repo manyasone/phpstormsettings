@@ -54,6 +54,7 @@
         <mark key="." line="28" column="32" />
         <mark key="^" line="28" column="32" />
       </file>
+      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1555313357335" />
       <file name="$USER_HOME$/git/web/mt/resources/views/backend/crud/edit/station/field.blade.php" timestamp="1554903892045">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="7" />
@@ -71,12 +72,6 @@
         <mark key="]" line="197" column="0" />
         <mark key="^" line="197" column="0" />
         <mark key="." line="197" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/Models/WorkingHour.php" timestamp="1554994642620">
-        <mark key="'" line="4" column="15" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/mt/vendor/backpack/crud/src/resources/views/inc/show_tabbed_fields.blade.php" timestamp="1554899362475">
         <mark key="[" line="0" column="4" />
@@ -125,7 +120,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="62" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1554994981714">
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1555313502017">
         <mark key="'" line="632" column="29" />
         <mark key="[" line="349" column="0" />
         <mark key="]" line="352" column="14" />
@@ -146,12 +141,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="79" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1554996103776">
-        <mark key="'" line="45" column="25" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="27" />
-        <mark key="^" line="431" column="22" />
-        <mark key="." line="558" column="0" />
+      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1555313728239">
+        <mark key="'" line="404" column="28" />
+        <mark key="[" line="464" column="0" />
+        <mark key="]" line="464" column="82" />
+        <mark key="^" line="464" column="3" />
+        <mark key="." line="464" column="82" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/lang/de/mail.php" timestamp="1554713083857">
         <mark key="[" line="4" column="105" />
@@ -169,12 +164,11 @@
         <mark key="]" line="1" column="110" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/attachment_multiple.blade.php" timestamp="1554997933601" />
       <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/fields/custom_html.blade.php" timestamp="1554996602861">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/routes/backpack/custom.php" timestamp="1554994223359">
+      <file name="$USER_HOME$/git/web/studi/routes/backpack/custom.php" timestamp="1555313510096">
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
@@ -225,6 +219,10 @@
       <file name="$USER_HOME$/git/web/mt/resources/views/vendor/backpack/crud/columns/check.blade.php" timestamp="1554904563815">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="17" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Listeners/CheckForMissingEmployee.php" timestamp="1555314123135">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="93" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/views/backend/account/list.blade.php" timestamp="1554380399858">
         <mark key="[" line="21" column="0" />
@@ -372,14 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/MediaCrudController.php" />
-      <jump line="4" column="15" filename="$USER_HOME$/git/web/studi/app/Models/WorkingHour.php" />
-      <jump line="295" column="16" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="17" column="33" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/user_assignment_data_table.blade.php" />
-      <jump line="243" column="4" filename="$USER_HOME$/git/web/studi/app/Models/UserAssignmentData.php" />
-      <jump line="279" column="23" filename="$USER_HOME$/git/web/studi/app/Models/UserAssignmentData.php" />
-      <jump line="27" column="87" filename="$USER_HOME$/git/web/studi/app/Models/UserAssignmentData.php" />
-      <jump line="56" column="93" filename="$USER_HOME$/git/web/studi/app/Models/UserAssignmentData.php" />
       <jump line="67" column="26" filename="$USER_HOME$/git/web/studi/app/Models/UserAssignmentData.php" />
       <jump line="103" column="10" filename="$USER_HOME$/git/web/studi/app/Models/UserAssignmentData.php" />
       <jump line="239" column="25" filename="$USER_HOME$/git/web/studi/app/Models/UserAssignmentData.php" />
@@ -472,19 +462,27 @@
       <jump line="195" column="69" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/show.blade.php" />
       <jump line="111" column="18" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
       <jump line="45" column="25" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
+      <jump line="107" column="6" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
+      <jump line="47" column="24" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
+      <jump line="57" column="82" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
+      <jump line="84" column="82" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
+      <jump line="85" column="82" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
+      <jump line="378" column="28" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
+      <jump line="391" column="28" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
+      <jump line="404" column="28" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAncmFwcG9ydCcgICAgICAgICAgICAgICAgICAgPT4gJGRhdGFbJ3JhcHBvcnQnXSA/PyBudWxsLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ISRldmVudC0+YXNzaWdubWVudC0+aGFzX2Vub3VnaF9oZWxwZXJzIHx8ICEkZXZlbnQtPmFzc2lnbm1lbnQtPmhhc19lbm91Z2hfaGVscGVycw==</text>
       </register>
       <register name="-" type="4">
         <text>$field['</text>
       </register>
       <register name="/" type="4">
-        <text>documents</text>
+        <text>Enough</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaWQnICAgID0+ICRlbnRyeS0+aWQsCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ISRldmVudC0+YXNzaWdubWVudC0+aGFzX2Vub3VnaF9oZWxwZXJzIHx8ICEkZXZlbnQtPmFzc2lnbm1lbnQtPmhhc19lbm91Z2hfaGVscGVycw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAncmFwcG9ydCcgICAgICAgICAgICAgICAgICAgPT4gJGRhdGFbJ3JhcHBvcnQnXSA/PyBudWxsLAo=</text>
@@ -527,9 +525,9 @@
       </register>
     </registers>
     <search>
-      <last-search>documents</last-search>
+      <last-search>Enough</last-search>
       <last-offset />
-      <last-pattern>documents</last-pattern>
+      <last-pattern>Enough</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -537,8 +535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>salary</entry>
-        <entry>assig</entry>
         <entry>Wage</entry>
         <entry>ustomer</entry>
         <entry>Paid</entry>
@@ -557,6 +553,8 @@
         <entry>doc</entry>
         <entry>docum</entry>
         <entry>documents</entry>
+        <entry>Noti</entry>
+        <entry>Enough</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
