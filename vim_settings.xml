@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="M" line="13" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" protocol="file" />
     </globalmarks>
@@ -196,6 +196,11 @@
         <mark key="^" line="45" column="12" />
         <mark key="." line="45" column="12" />
       </file>
+      <file name="$USER_HOME$/git/web/wdw/app/User.php" timestamp="1556024283358">
+        <mark key="'" line="54" column="25" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="54" column="24" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/config/webfactor/usermanager/users.php" timestamp="1556021097538" />
       <file name="$USER_HOME$/git/web/studi/app/Traits/ExtendedMediaTrait.php" timestamp="1556011648096">
         <mark key="]" line="93" column="5" />
@@ -278,8 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="82" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
-      <jump line="342" column="81" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
       <jump line="262" column="24" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
       <jump line="396" column="0" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
       <jump line="106" column="26" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
@@ -378,19 +381,21 @@
       <jump line="112" column="20" filename="$USER_HOME$/git/web/studi/app/Models/Settings/Office.php" />
       <jump line="243" column="60" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/wdw/app/User.php" />
+      <jump line="54" column="25" filename="$USER_HOME$/git/web/wdw/app/User.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>assignment:notify_shorthanded</text>
+        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBBcHA7Cgp1c2UgQXBwXE1vZGVsc1xJZGVhOwp1c2UgQXBwXE5vdGlmaWNhdGlvbnNcUmVzZXRQYXNzd29yZE5vdGlmaWNhdGlvbjsKdXNlIEFwcFxUcmFpdHNcSGFzUGF5bWVudHM7CnVzZSBCYWNrcGFja1xDUlVEXENydWRUcmFpdDsKdXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXEF1dGhcTXVzdFZlcmlmeUVtYWlsOwp1c2UgSWxsdW1pbmF0ZVxGb3VuZGF0aW9uXEF1dGhcVXNlciBhcyBBdXRoZW50aWNhdGFibGU7CnVzZSBJbGx1bWluYXRlXE5vdGlmaWNhdGlvbnNcTm90aWZpYWJsZTsKdXNlIFR5bW9uXEpXVEF1dGhcQ29udHJhY3RzXEpXVFN1YmplY3Q7CnVzZSBXZWJmYWN0b3JcVXNlck1hbmFnZXJcVHJhaXRzXEhhc1JvbGVzOwoKLyoqCiAqIEFwcFxVc2VyCiAqCiAqIEBwcm9wZXJ0eS1yZWFkIFxJbGx1bWluYXRlXE5vdGlmaWNhdGlvbnNcRGF0YWJhc2VOb3RpZmljYXRpb25Db2xsZWN0aW9ufFxJbGx1bWluYXRlXE5vdGlmaWNhdGlvbnNcRGF0YWJhc2VOb3RpZmljYXRpb25bXSAkbm90aWZpY2F0aW9ucwogKiBAbWl4aW4gXEVsb3F1ZW50CiAqIEBwcm9wZXJ0eSBpbnQgJGlkCiAqIEBwcm9wZXJ0eSBzdHJpbmcgJG5hbWUKICogQHByb3BlcnR5IHN0cmluZyAkZW1haWwKICogQHByb3BlcnR5IHN0cmluZ3xudWxsICRlbWFpbF92ZXJpZmllZF9hdAogKiBAcHJvcGVydHkgc3RyaW5nICRwYXNzd29yZAogKiBAcHJvcGVydHkgc3RyaW5nfG51bGwgJHJlbWVtYmVyX3Rva2VuCiAqIEBwcm9wZXJ0eSBcSWxsdW1pbmF0ZVxTdXBwb3J0XENhcmJvbnxudWxsICRjcmVhdGVkX2F0CiAqIEBwcm9wZXJ0eSBcSWxsdW1pbmF0ZVxTdXBwb3J0XENhcmJvbnxudWxsICR1cGRhdGVkX2F0CiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxVc2VyIG5ld01vZGVsUXVlcnkoKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcVXNlciBuZXdRdWVyeSgpCiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxVc2VyIHF1ZXJ5KCkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXFVzZXIgd2hlcmVDcmVhdGVkQXQoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcVXNlciB3aGVyZUVtYWlsKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXFVzZXIgd2hlcmVFbWFpbFZlcmlmaWVkQXQoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcVXNlciB3aGVyZUlkKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXFVzZXIgd2hlcmVOYW1lKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXFVzZXIgd2hlcmVQYXNzd29yZCgkdmFsdWUpCiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxVc2VyIHdoZXJlUmVtZW1iZXJUb2tlbigkdmFsdWUpCiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxVc2VyIHdoZXJlVXBkYXRlZEF0KCR2YWx1ZSkKICogQHByb3BlcnR5IGludCAkaXNfYWN0aXZlCiAqIEBwcm9wZXJ0eS1yZWFkIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XENvbGxlY3Rpb258XFdlYmZhY3RvclxVc2VyTWFuYWdlclxNb2RlbHNcUGVybWlzc2lvblxQZXJtaXNzaW9uW10gJHBlcm1pc3Npb25zCiAqIEBwcm9wZXJ0eS1yZWFkIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XENvbGxlY3Rpb258XFdlYmZhY3RvclxVc2VyTWFuYWdlclxNb2RlbHNcUGVybWlzc2lvblxSb2xlW10gJHJvbGVzCiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxVc2VyIHBlcm1pc3Npb24oJHBlcm1pc3Npb25zKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcVXNlciByb2xlKCRyb2xlcywgJGd1YXJkID0gbnVsbCkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXFVzZXIgd2hlcmVJc0FjdGl2ZSgkdmFsdWUpCiAqIEBwcm9wZXJ0eSBzdHJpbmcgJGZvcmVuYW1lCiAqIEBwcm9wZXJ0eSBzdHJpbmcgJHN1cm5hbWUKICogQHByb3BlcnR5IFxJbGx1bWluYXRlXFN1cHBvcnRcQ2FyYm9uICRiaXJ0aGRheQogKiBAcHJvcGVydHkgc3RyaW5nICRsaWNlbnNlX3RhZwogKiBAcHJvcGVydHkgc3RyaW5nICR2ZWhpY2xlX3R5cGUKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXFVzZXIgd2hlcmVCaXJ0aGRheSgkdmFsdWUpCiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxVc2VyIHdoZXJlRm9yZW5hbWUoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcVXNlciB3aGVyZUxpY2Vuc2VUYWcoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcVXNlciB3aGVyZVN1cm5hbWUoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcVXNlciB3aGVyZVZlaGljbGVUeXBlKCR2YWx1ZSkKICogQHByb3BlcnR5LXJlYWQgbWl4ZWQgJA==</text>
       </register>
       <register name="-" type="4">
         <text>inspire</text>
       </register>
       <register name="/" type="4">
-        <text>getUsers</text>
+        <text>points</text>
       </register>
       <register name="0" type="4">
-        <text>assignment:notify_shorthanded</text>
+        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBBcHA7Cgp1c2UgQXBwXE1vZGVsc1xJZGVhOwp1c2UgQXBwXE5vdGlmaWNhdGlvbnNcUmVzZXRQYXNzd29yZE5vdGlmaWNhdGlvbjsKdXNlIEFwcFxUcmFpdHNcSGFzUGF5bWVudHM7CnVzZSBCYWNrcGFja1xDUlVEXENydWRUcmFpdDsKdXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXEF1dGhcTXVzdFZlcmlmeUVtYWlsOwp1c2UgSWxsdW1pbmF0ZVxGb3VuZGF0aW9uXEF1dGhcVXNlciBhcyBBdXRoZW50aWNhdGFibGU7CnVzZSBJbGx1bWluYXRlXE5vdGlmaWNhdGlvbnNcTm90aWZpYWJsZTsKdXNlIFR5bW9uXEpXVEF1dGhcQ29udHJhY3RzXEpXVFN1YmplY3Q7CnVzZSBXZWJmYWN0b3JcVXNlck1hbmFnZXJcVHJhaXRzXEhhc1JvbGVzOwoKLyoqCiAqIEFwcFxVc2VyCiAqCiAqIEBwcm9wZXJ0eS1yZWFkIFxJbGx1bWluYXRlXE5vdGlmaWNhdGlvbnNcRGF0YWJhc2VOb3RpZmljYXRpb25Db2xsZWN0aW9ufFxJbGx1bWluYXRlXE5vdGlmaWNhdGlvbnNcRGF0YWJhc2VOb3RpZmljYXRpb25bXSAkbm90aWZpY2F0aW9ucwogKiBAbWl4aW4gXEVsb3F1ZW50CiAqIEBwcm9wZXJ0eSBpbnQgJGlkCiAqIEBwcm9wZXJ0eSBzdHJpbmcgJG5hbWUKICogQHByb3BlcnR5IHN0cmluZyAkZW1haWwKICogQHByb3BlcnR5IHN0cmluZ3xudWxsICRlbWFpbF92ZXJpZmllZF9hdAogKiBAcHJvcGVydHkgc3RyaW5nICRwYXNzd29yZAogKiBAcHJvcGVydHkgc3RyaW5nfG51bGwgJHJlbWVtYmVyX3Rva2VuCiAqIEBwcm9wZXJ0eSBcSWxsdW1pbmF0ZVxTdXBwb3J0XENhcmJvbnxudWxsICRjcmVhdGVkX2F0CiAqIEBwcm9wZXJ0eSBcSWxsdW1pbmF0ZVxTdXBwb3J0XENhcmJvbnxudWxsICR1cGRhdGVkX2F0CiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxVc2VyIG5ld01vZGVsUXVlcnkoKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcVXNlciBuZXdRdWVyeSgpCiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxVc2VyIHF1ZXJ5KCkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXFVzZXIgd2hlcmVDcmVhdGVkQXQoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcVXNlciB3aGVyZUVtYWlsKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXFVzZXIgd2hlcmVFbWFpbFZlcmlmaWVkQXQoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcVXNlciB3aGVyZUlkKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXFVzZXIgd2hlcmVOYW1lKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXFVzZXIgd2hlcmVQYXNzd29yZCgkdmFsdWUpCiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxVc2VyIHdoZXJlUmVtZW1iZXJUb2tlbigkdmFsdWUpCiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxVc2VyIHdoZXJlVXBkYXRlZEF0KCR2YWx1ZSkKICogQHByb3BlcnR5IGludCAkaXNfYWN0aXZlCiAqIEBwcm9wZXJ0eS1yZWFkIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XENvbGxlY3Rpb258XFdlYmZhY3RvclxVc2VyTWFuYWdlclxNb2RlbHNcUGVybWlzc2lvblxQZXJtaXNzaW9uW10gJHBlcm1pc3Npb25zCiAqIEBwcm9wZXJ0eS1yZWFkIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XENvbGxlY3Rpb258XFdlYmZhY3RvclxVc2VyTWFuYWdlclxNb2RlbHNcUGVybWlzc2lvblxSb2xlW10gJHJvbGVzCiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxVc2VyIHBlcm1pc3Npb24oJHBlcm1pc3Npb25zKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcVXNlciByb2xlKCRyb2xlcywgJGd1YXJkID0gbnVsbCkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXFVzZXIgd2hlcmVJc0FjdGl2ZSgkdmFsdWUpCiAqIEBwcm9wZXJ0eSBzdHJpbmcgJGZvcmVuYW1lCiAqIEBwcm9wZXJ0eSBzdHJpbmcgJHN1cm5hbWUKICogQHByb3BlcnR5IFxJbGx1bWluYXRlXFN1cHBvcnRcQ2FyYm9uICRiaXJ0aGRheQogKiBAcHJvcGVydHkgc3RyaW5nICRsaWNlbnNlX3RhZwogKiBAcHJvcGVydHkgc3RyaW5nICR2ZWhpY2xlX3R5cGUKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXFVzZXIgd2hlcmVCaXJ0aGRheSgkdmFsdWUpCiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxVc2VyIHdoZXJlRm9yZW5hbWUoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcVXNlciB3aGVyZUxpY2Vuc2VUYWcoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcVXNlciB3aGVyZVN1cm5hbWUoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcVXNlciB3aGVyZVZlaGljbGVUeXBlKCR2YWx1ZSkKICogQHByb3BlcnR5LXJlYWQgbWl4ZWQgJA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25maWcoJ3VzZXJzLicpCg==</text>
@@ -433,9 +438,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getUsers</last-search>
+      <last-search>points</last-search>
       <last-offset />
-      <last-pattern>getUsers</last-pattern>
+      <last-pattern>points</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -443,7 +448,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vehicles</entry>
         <entry>getRentals</entry>
         <entry>attach</entry>
         <entry>attachment</entry>
@@ -463,6 +467,7 @@
         <entry>helpers</entry>
         <entry>getHelpers</entry>
         <entry>getUsers</entry>
+        <entry>points</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
