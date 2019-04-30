@@ -5,10 +5,11 @@
       <mark key="M" line="13" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/git/web/studi/app/Transformers/PopoverTransformer.php" timestamp="1556611413382">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="13" />
-        <mark key="." line="19" column="13" />
+      <file name="$USER_HOME$/git/web/studi/resources/views/components/calendar/assignment_popover.blade.php" timestamp="1556612380627" />
+      <file name="$USER_HOME$/git/web/studi/app/Transformers/PopoverTransformer.php" timestamp="1556612345515">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="34" />
       </file>
       <file name="$USER_HOME$/git/web/wdw/app/Transformers/OptionTransformer.php" timestamp="1556611472565">
         <mark key="[" line="21" column="27" />
@@ -36,18 +37,17 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="43" />
       </file>
-      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1556542262944" />
       <file name="$USER_HOME$/git/web/studi/resources/js/calendar/assignment_loading.js" timestamp="1556557854120">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="0" column="24" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Transformers/AssignmentTransformer.php" timestamp="1556611937147">
-        <mark key="[" line="41" column="22" />
-        <mark key="]" line="41" column="25" />
-        <mark key="^" line="41" column="25" />
-        <mark key="." line="41" column="25" />
+      <file name="$USER_HOME$/git/web/studi/app/Transformers/AssignmentTransformer.php" timestamp="1556612113718">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="39" column="25" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/studialt/resources/js/calendar/assignment_eventRender.js" timestamp="1556541474918">
         <mark key="[" line="3" column="0" />
@@ -108,11 +108,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1556610624378">
+      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1556612149135">
         <mark key="'" line="113" column="6" />
-        <mark key="[" line="625" column="0" />
-        <mark key="]" line="628" column="1" />
-        <mark key="." line="628" column="1" />
+        <mark key="[" line="674" column="0" />
+        <mark key="]" line="674" column="0" />
+        <mark key="." line="674" column="0" />
         <mark key="^" line="670" column="45" />
       </file>
       <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/app/Http/Controllers/Operations/ListOperation.php" timestamp="1556544013124">
@@ -140,12 +140,12 @@
         <mark key="]" line="99" column="50" />
       </file>
       <file name="$USER_HOME$/git/web/wdw/app/Transformers/DetailedIdeaTransformer.php" timestamp="1556611372238" />
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCalendarCrudController.php" timestamp="1556611909582">
-        <mark key="'" line="151" column="21" />
-        <mark key="[" line="151" column="75" />
-        <mark key="]" line="151" column="75" />
-        <mark key="." line="151" column="75" />
-        <mark key="^" line="154" column="25" />
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCalendarCrudController.php" timestamp="1556612092997">
+        <mark key="'" line="139" column="21" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="^" line="142" column="25" />
+        <mark key="." line="111" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -252,10 +252,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>collection</text>
+        <text>getPopoverContent()</text>
       </register>
       <register name="-" type="4">
-        <text>collection</text>
+        <text>getPopoverContent()</text>
       </register>
       <register name="/" type="4">
         <text>getUrl</text>
@@ -264,28 +264,28 @@
         <text encoding="base64">JG9wdGlvbi0+b3B0aW9uQ2F0ZWdvcnksIG5ldyBPcHRpb25DYXRlZ29yeVRyYW5zZm9ybWVyKCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnByaW1pdGl2ZSgkZW50cnktPnVybCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZW50cnkpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQb3BvdmVyQ29udGVudCgpCiAgICB7CiAgICAgICAgcmV0dXJuIHZpZXcoJ2NvbXBvbmVudHMuY2FsZW5kYXIuYXNzaWdubWVudF9wb3BvdmVyJywgWydhc3NpZ25tZW50JyA9PiAkdGhpc10pLT5yZW5kZXIoKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVybCIgICAgICAgICAgICAgPT4gJGVudHJ5LT51cmwsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAncG9wb3Zlcl9jb250ZW50JyA9PiAkZW50cnktPmdldFBvcG92ZXJDb250ZW50KCksCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRlbnQ6IHBvcG92ZXJEYXRhLnZpZXcsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAnbmFtZScgICAgICAgICAgICA9PiAkZW50cnktPm5hbWUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAnZXZlbnRNb3VzZW92ZXInID0+IGZpbGVfZ2V0X2NvbnRlbnRzKF9fRElSX18gLiAnLy4uLy4uLy4uLy4uL3Jlc291cmNlcy9qcy9jYWxlbmRhci9hc3NpZ25tZW50X2V2ZW50TW91c2VvdmVyLmpzJyksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkcmVzdWx0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -293,11 +293,11 @@
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">O2FwcGVuZChbCiAgICAgICAgICAgICd0aXRsZScsCiAgICAgICAgICAgICdlbmQnLAogICAgICAgICAgICAnc3RhcnQnLAogICAgICAgICAgICAnY29sb3InLAogICAgICAgICAgICAgPyAndXJsJyA6IG51bGwsCiAgICAgICAgICAgICdwb3BvdmVyX2NvbnRlbnQnLAogICAgICAgIF0pLT4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBwb3BvdmVyKCkKICAgIHsKICAgICAgICAkdGhpcy0+Y3J1ZC0+aGFzQWNjZXNzT3JGYWlsKCdsaXN0Jyk7CiAgICAgICAgJHRoaXMtPmNydWQtPnNldE9wZXJhdGlvbignbGlzdCcpOwoKICAgICAgICByZXR1cm4gZnJhY3RhbCgkdGhpcy0+Y3J1ZC0+Z2V0Q3VycmVudEVudHJ5KCksIG5ldyBQb3BvdmVyVHJhbnNmb3JtZXIsIG5ldyBBcnJheVNlcmlhbGl6ZXIpLT5yZXNwb25kKCk7CiAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">YXBwZW5kKFsKICAgICAgICAgICAgJ3RpdGxlJywKICAgICAgICAgICAgJ2VuZCcsCiAgICAgICAgICAgICdzdGFydCcsCiAgICAgICAgICAgICdjb2xvcicsCiAgICAgICAgICAgIGJhY2twYWNrX2F1dGgoKS0+dXNlcigpLT5oYXNQZXJtaXNzaW9uVG8oJ2NydWQtYXNzaWdubWVudC0tc2hvdycpID8gJ3VybCcgOiBudWxsLAogICAgICAgICAgICAncG9wb3Zlcl9jb250ZW50JywKICAgICAgICBdKS0+</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ci8vICAgICAgICByZXR1cm4gJHJlc3VsdCA9IENhbGVuZGFyQXNzaWdubWVudDo6YmV0d2VlbkRhdGVzKCRyZXF1ZXN0LT5pbnB1dCgnc3RhcnQnKSwgJHJlcXVlc3QtPmlucHV0KCdlbmQnKSktPndpdGgoWwovLyAgICAgICAgICAgICdhc3NpZ25tZW50VHlwZScsCi8vICAgICAgICAgICAgJ2N1c3RvbWVyJywKLy8gICAgICAgICAgICAnb2ZmaWNlJywKLy8gICAgICAgICAgICAnaGVscGVycycsCi8vICAgICAgICAgICAgJ2RyaXZlcnMnLAovLyAgICAgICAgICAgICd2ZWhpY2xlcycsCi8vICAgICAgICAgICAgJ2VxdWlwbWVudCcsCi8vICAgICAgICAgICAgJ3VzZXJzJywKLy8gICAgICAgIF0pLT5nZXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
