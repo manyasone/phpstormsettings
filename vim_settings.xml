@@ -37,6 +37,9 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="43" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/database/seeds/RentalSeeder.php" timestamp="1556623057262">
+        <mark key="." line="15" column="98" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/deploy_production.sh" timestamp="1556621876385">
         <mark key="[" line="13" column="32" />
       </file>
@@ -75,11 +78,11 @@
         <mark key="." line="108" column="7" />
         <mark key="^" line="108" column="7" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Console/Commands/SeedOldAssignments.php" timestamp="1556544922486">
-        <mark key="[" line="223" column="24" />
-        <mark key="]" line="223" column="37" />
-        <mark key="." line="233" column="14" />
-        <mark key="^" line="233" column="14" />
+      <file name="$USER_HOME$/git/web/studi/app/Console/Commands/SeedOldAssignments.php" timestamp="1556623419310">
+        <mark key="[" line="127" column="59" />
+        <mark key="]" line="131" column="24" />
+        <mark key="." line="131" column="25" />
+        <mark key="^" line="131" column="24" />
       </file>
       <file name="$USER_HOME$/git/web/studi/.env.example" timestamp="1556090549733">
         <mark key="[" line="31" column="0" />
@@ -102,9 +105,11 @@
         <mark key="]" line="17" column="16" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/database/seeds/DatabaseSeeder.php" timestamp="1556549414230">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="73" />
+      <file name="$USER_HOME$/git/web/studi/database/seeds/DatabaseSeeder.php" timestamp="1556623519940">
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="29" column="69" />
+        <mark key="^" line="44" column="63" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/resources/views/form_content.blade.php" timestamp="1556193456516">
         <mark key="[" line="10" column="0" />
@@ -152,9 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/git/web/studi/database/sth_old_userdata_tables.sql" />
-      <jump line="127" column="0" filename="$USER_HOME$/git/web/studi/database/sth_old_userdata_tables.sql" />
-      <jump line="144" column="0" filename="$USER_HOME$/git/web/studi/database/sth_old_userdata_tables.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/config/database.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/resources/lang/de/base.php" />
       <jump line="8" column="5" filename="$USER_HOME$/git/web/studi/resources/lang/de/base.php" />
@@ -252,19 +254,22 @@
       <jump line="489" column="8" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
       <jump line="113" column="6" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
       <jump line="151" column="21" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCalendarCrudController.php" />
+      <jump line="225" column="36" filename="$USER_HOME$/git/web/studi/app/Console/Commands/SeedOldAssignments.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/Console/Commands/SeedOldAssignments.php" />
+      <jump line="10" column="25" filename="$USER_HOME$/git/web/studi/app/Console/Commands/SeedOldAssignments.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getPopoverContent()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVGVtcG9yYXJpbHkgZGlzYWJsZWQgaW4gZmF2b3Igb2YgcGhwIGFydGlzYW4gc2VlZDpvbGRfZGF0YQo=</text>
       </register>
       <register name="-" type="4">
         <text>getPopoverContent()</text>
       </register>
       <register name="/" type="4">
-        <text>getUrl</text>
+        <text>ental</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JG9wdGlvbi0+b3B0aW9uQ2F0ZWdvcnksIG5ldyBPcHRpb25DYXRlZ29yeVRyYW5zZm9ybWVyKCk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVGVtcG9yYXJpbHkgZGlzYWJsZWQgaW4gZmF2b3Igb2YgcGhwIGFydGlzYW4gc2VlZDpvbGRfZGF0YQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -307,9 +312,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getUrl</last-search>
+      <last-search>ental</last-search>
       <last-offset />
-      <last-pattern>getUrl</last-pattern>
+      <last-pattern>ental</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -317,7 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user_count</entry>
         <entry>users_count</entry>
         <entry>helpers_count</entry>
         <entry>ActiveUsers</entry>
@@ -337,6 +341,7 @@
         <entry>getColor</entry>
         <entry>office()</entry>
         <entry>getUrl</entry>
+        <entry>ental</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
