@@ -266,7 +266,7 @@
         <text>getPopoverContent()</text>
       </register>
       <register name="/" type="4">
-        <text>ental</text>
+        <text>cookie</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gVGVtcG9yYXJpbHkgZGlzYWJsZWQgaW4gZmF2b3Igb2YgcGhwIGFydGlzYW4gc2VlZDpvbGRfZGF0YQo=</text>
@@ -312,9 +312,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ental</last-search>
+      <last-search>cookie</last-search>
       <last-offset />
-      <last-pattern>ental</last-pattern>
+      <last-pattern>cookie</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -322,7 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry>users_count</entry>
         <entry>helpers_count</entry>
         <entry>ActiveUsers</entry>
         <entry>getHelpersCount</entry>
@@ -342,6 +341,7 @@
         <entry>office()</entry>
         <entry>getUrl</entry>
         <entry>ental</entry>
+        <entry>cookie</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
