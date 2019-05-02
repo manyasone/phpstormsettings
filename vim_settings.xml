@@ -78,6 +78,9 @@
         <mark key="^" line="39" column="25" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/app/Mail/Message.php" timestamp="1556787709577">
+        <mark key="[" line="35" column="32" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/config/webfactor/usermanager/users.php" timestamp="1556633762507">
         <mark key="[" line="36" column="14" />
       </file>
@@ -173,17 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="591" column="30" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
-      <jump line="391" column="43" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/Models/Settings/Office.php" />
-      <jump line="123" column="14" filename="$USER_HOME$/git/web/studi/app/Console/Commands/MigrateOldAssignments.php" />
-      <jump line="17" column="0" filename="$USER_HOME$/git/web/studi/app/Console/Commands/MigrateOldAssignments.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/Console/Commands/MigrateOldAssignments.php" />
-      <jump line="224" column="0" filename="$USER_HOME$/git/web/studi/app/Console/Commands/MigrateOldAssignments.php" />
-      <jump line="5" column="25" filename="$USER_HOME$/git/web/studi/app/Console/Commands/MigrateOldAssignments.php" />
-      <jump line="62" column="105" filename="$USER_HOME$/git/web/studi/app/Console/Commands/MigrateOldAssignments.php" />
-      <jump line="53" column="44" filename="$USER_HOME$/git/web/studi/app/Console/Commands/SeedOldData.php" />
-      <jump line="135" column="0" filename="$USER_HOME$/git/web/studi/app/Console/Commands/MigrateOldAssignments.php" />
       <jump line="84" column="0" filename="$USER_HOME$/git/web/studi/app/Console/Commands/SeedOldAssignments.php" />
       <jump line="133" column="70" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/show.blade.php" />
       <jump line="17" column="57" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/show.blade.php" />
@@ -273,64 +265,75 @@
       <jump line="121" column="79" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/show.blade.php" />
       <jump line="185" column="44" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/show.blade.php" />
       <jump line="47" column="39" filename="$USER_HOME$/git/web/studi/app/Console/Commands/SeedOldCustomers.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" />
+      <jump line="86" column="82" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" />
+      <jump line="127" column="28" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" />
+      <jump line="129" column="56" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" />
+      <jump line="132" column="30" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" />
+      <jump line="168" column="28" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" />
+      <jump line="170" column="56" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" />
+      <jump line="172" column="28" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" />
+      <jump line="198" column="31" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" />
+      <jump line="200" column="22" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" />
+      <jump line="201" column="48" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkdW1wKCRvbGRfYXNzaWdubWVudC0+a3VuZGVfaWQpOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxNYWlsXE1lc3NhZ2U7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>join</text>
+        <text encoding="base64">JHRoaXMtPmNydWQtPmdldEN1cnJlbnRFbnRyeSgp</text>
       </register>
       <register name="/" type="4">
-        <text>vehicles</text>
+        <text>send</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIC0+am9pbigncGVyc29lbmxpY2hlc193b2huYWRyZXNzZScsICdtaXRhcmJlaXRlci5wZXJzb2VubGljaGVzX2lkJywgJz0nLAogICAgICAgICAgICAgICAgICAgICAgICdwZXJzb2VubGljaGVzX3dvaG5hZHJlc3NlLnBlcnNvZW5saWNoZXNzX2lkJykKICAgICAgICAgICAgICAgICAgIC0+am9pbignd29obmFkcmVzc2UnLCAncGVyc29lbmxpY2hlc193b2huYWRyZXNzZS53b2huYWRyZXNzZXNfaWQnLCAnPScsICd3b2huYWRyZXNzZS5pZCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkdW1wKCRvbGRfYXNzaWdubWVudC0+a3VuZGVfaWQpOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxNYWlsXE1lc3NhZ2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIC0+dG8oJGRhdGEtPnJlY2lwaWVudHMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHdvaG5hZHJlc3NlID0gJG9sZF9jdXN0b21lci0+d29obmFkcmVzc2U7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkdW1wKCRvbGRfYXNzaWdubWVudC0+a3VuZGVfaWQpOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlZWQ6b2xkX2N1c3RvbWVyc2VlZDpvbGRfY3VzdG9tZXJzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIC0+am9pbigna3VuZGVfd29obmFkcmVzc2UnLCAna3VuZGVfd29obmFkcmVzc2Uua3VuZGVzX2lkJywgJz0nLCAna3VuZGUuaWQnKQogICAgICAgICAgICAgICAgICAgLT5qb2luKCd3b2huYWRyZXNzZScsICdrdW5kZV93b2huYWRyZXNzZS53b2huYWRyZXNzZXNfaWQnLCAnPScsICd3b2huYWRyZXNzZS5pZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHdvaG5hZHJlc3NlID0gJG9sZF9jdXN0b21lci0+d29obmFkcmVzc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlZWQ6b2xkX2N1c3RvbWVyc2VlZDpvbGRfY3VzdG9tZXJzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkb2xkX2N1c3RvbWVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIC0+am9pbigna3VuZGVfd29obmFkcmVzc2UnLCAna3VuZGVfd29obmFkcmVzc2Uua3VuZGVzX2lkJywgJz0nLCAna3VuZGUuaWQnKQogICAgICAgICAgICAgICAgICAgLT5qb2luKCd3b2huYWRyZXNzZScsICdrdW5kZV93b2huYWRyZXNzZS53b2huYWRyZXNzZXNfaWQnLCAnPScsICd3b2huYWRyZXNzZS5pZCcpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoQ3VzdG9tZXI6OmZpbmQoJG9sZF9hc3NpZ25tZW50LT5rdW5kZV9pZCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG9sZF9hc3NpZ25tZW50LT50b0FycmF5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkb2xkX2N1c3RvbWVyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>vehicles</last-search>
+      <last-search>send</last-search>
       <last-offset />
-      <last-pattern>vehicles</last-pattern>
+      <last-pattern>send</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -338,7 +341,6 @@
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
         <entry>spinn</entry>
         <entry>popover</entry>
         <entry>url</entry>
@@ -358,6 +360,7 @@
         <entry>account</entry>
         <entry>address</entry>
         <entry>vehicles</entry>
+        <entry>send</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
