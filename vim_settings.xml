@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="M" line="13" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" protocol="file" />
     </globalmarks>
@@ -208,6 +208,11 @@
         <mark key="^" line="76" column="31" />
         <mark key="." line="76" column="31" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/config/webfactor/usermanager/roles.php" timestamp="1557239551635">
+        <mark key="]" line="40" column="10" />
+        <mark key="^" line="40" column="10" />
+        <mark key="." line="40" column="10" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/resources/js/calendar/assignment_loading.js" timestamp="1556557854120">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -232,9 +237,9 @@
         <mark key="^" line="39" column="25" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/config/webfactor/usermanager/users.php" timestamp="1557235864774">
-        <mark key="[" line="46" column="9" />
-        <mark key="]" line="46" column="9" />
+      <file name="$USER_HOME$/git/web/studi/config/webfactor/usermanager/users.php" timestamp="1557239504715">
+        <mark key="[" line="46" column="25" />
+        <mark key="]" line="46" column="61" />
         <mark key="^" line="46" column="8" />
         <mark key="." line="46" column="9" />
       </file>
@@ -424,8 +429,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/resources/views/backend/salary/details_row.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnID0+ICd1c2VycycsCg==</text>
+      <register name="&quot;" type="4">
+        <text>env('APP_ENV', 'local') === 'local' ?</text>
       </register>
       <register name="-" type="4">
         <text>validation.attributes.office</text>
@@ -433,8 +438,8 @@
       <register name="/" type="4">
         <text>customer</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU2VsZWN0TXVsdGlwbGVGaWx0ZXIoVXNlcjo6Y2xhc3MsIFsKICAgICAgICAgICAgJ2xhYmVsJyA9PiB0cmFucygndmFsaWRhdGlvbi5hdHRyaWJ1dGVzLmVtcGxveWVlJyksCiAgICAgICAgICAgICdjb2x1bW4nID0+ICdpZCcsCiAgICAgICAgXSk7Cg==</text>
+      <register name="0" type="4">
+        <text>env('APP_ENV', 'local') === 'local' ?</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnID0+ICd1c2VycycsCg==</text>
