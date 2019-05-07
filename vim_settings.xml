@@ -32,9 +32,12 @@
         <mark key="^" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/composer.json" timestamp="1556550393420">
-        <mark key="'" line="21" column="29" />
-        <mark key="[" line="25" column="37" />
+      <file name="$USER_HOME$/git/web/studi/config/webfactor/usermanager/permissions.php" timestamp="1557236054612">
+        <mark key="'" line="70" column="85" />
+        <mark key="[" line="70" column="86" />
+        <mark key="]" line="70" column="85" />
+        <mark key="^" line="70" column="85" />
+        <mark key="." line="70" column="85" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Settings/RentalCrudController.php" timestamp="1556804119732">
         <mark key="[" line="36" column="0" />
@@ -58,10 +61,6 @@
       <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1557141751707" />
       <file name="$USER_HOME$/git/web/studi/deploy_production.sh" timestamp="1556621876385">
         <mark key="[" line="13" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/User.php" timestamp="1556790929796">
-        <mark key="'" line="50" column="73" />
-        <mark key="[" line="77" column="27" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" timestamp="1556790999051">
         <mark key="'" line="205" column="40" />
@@ -100,6 +99,11 @@
         <mark key="^" line="44" column="63" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/resources/lang/vendor/webfactor/de/abilities.php" timestamp="1557234893583">
+        <mark key="[" line="48" column="61" />
+        <mark key="]" line="47" column="5" />
+        <mark key="." line="47" column="5" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/Admin/AssignmentRequest.php" timestamp="1557141846244">
         <mark key="[" line="44" column="55" />
         <mark key="]" line="44" column="55" />
@@ -111,6 +115,9 @@
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/resources/lang/de/models.php" timestamp="1557234988720">
+        <mark key="[" line="74" column="27" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/views/backend/assignment/rapport.blade.php" timestamp="1556627425706">
         <mark key="[" line="11" column="21" />
@@ -134,9 +141,11 @@
         <mark key="." line="283" column="20" />
         <mark key="^" line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/routes/backpack/custom.php" timestamp="1556798110784">
-        <mark key="'" line="46" column="24" />
-        <mark key="[" line="109" column="29" />
+      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/buttons/assignments.blade.php" timestamp="1557234532497">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/src/Traits/HandlesAjaxRequest.php" timestamp="1556803039717">
         <mark key="[" line="61" column="68" />
@@ -162,6 +171,9 @@
         <mark key="]" line="5" column="68" />
         <mark key="^" line="5" column="68" />
         <mark key="." line="5" column="68" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/UserAssignmentCrudController.php" timestamp="1557235195998">
+        <mark key="'" line="201" column="25" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/js/calendar/assignment_eventRender.js" timestamp="1557232569153">
         <mark key="[" line="11" column="0" />
@@ -199,8 +211,11 @@
         <mark key="^" line="39" column="25" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/config/webfactor/usermanager/users.php" timestamp="1556633762507">
-        <mark key="[" line="36" column="14" />
+      <file name="$USER_HOME$/git/web/studi/config/webfactor/usermanager/users.php" timestamp="1557235864774">
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="46" column="9" />
+        <mark key="^" line="46" column="8" />
+        <mark key="." line="46" column="9" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/lang/de/error.php" timestamp="1556791713027">
         <mark key="[" line="4" column="0" />
@@ -240,8 +255,8 @@
         <mark key="^" line="115" column="99" />
         <mark key="." line="115" column="99" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Traits/HasUserAssignmentData.php" timestamp="1557224733073">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/web/studi/app/Traits/HasUserAssignmentData.php" timestamp="1557235529738">
+        <mark key="'" line="273" column="9" />
         <mark key="[" line="277" column="0" />
         <mark key="]" line="277" column="0" />
         <mark key="." line="277" column="0" />
@@ -270,16 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="7" filename="$USER_HOME$/git/web/studi/app/Console/Commands/SeedOldAssignments.php" />
-      <jump line="46" column="15" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
-      <jump line="41" column="52" filename="$USER_HOME$/git/web/studi/config/webfactor/usermanager/permissions.php" />
-      <jump line="42" column="14" filename="$USER_HOME$/git/web/studi/config/webfactor/usermanager/permissions.php" />
-      <jump line="43" column="57" filename="$USER_HOME$/git/web/studi/config/webfactor/usermanager/permissions.php" />
-      <jump line="58" column="9" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
-      <jump line="418" column="31" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
-      <jump line="56" column="88" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
-      <jump line="57" column="82" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
-      <jump line="680" column="20" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
       <jump line="682" column="48" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
       <jump line="50" column="1" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
       <jump line="89" column="123" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
@@ -370,19 +375,29 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/Traits/HasUserAssignmentData.php" />
       <jump line="100" column="0" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
       <jump line="112" column="25" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
+      <jump line="38" column="14" filename="$USER_HOME$/git/web/studi/config/webfactor/usermanager/permissions.php" />
+      <jump line="41" column="14" filename="$USER_HOME$/git/web/studi/config/webfactor/usermanager/permissions.php" />
+      <jump line="42" column="14" filename="$USER_HOME$/git/web/studi/config/webfactor/usermanager/permissions.php" />
+      <jump line="43" column="57" filename="$USER_HOME$/git/web/studi/config/webfactor/usermanager/permissions.php" />
+      <jump line="44" column="54" filename="$USER_HOME$/git/web/studi/config/webfactor/usermanager/permissions.php" />
+      <jump line="94" column="15" filename="$USER_HOME$/git/web/studi/config/webfactor/usermanager/permissions.php" />
+      <jump line="201" column="25" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/UserAssignmentCrudController.php" />
+      <jump line="273" column="9" filename="$USER_HOME$/git/web/studi/app/Traits/HasUserAssignmentData.php" />
+      <jump line="35" column="68" filename="$USER_HOME$/git/web/studi/config/webfactor/usermanager/permissions.php" />
+      <jump line="70" column="85" filename="$USER_HOME$/git/web/studi/config/webfactor/usermanager/permissions.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCRzb3VyY2VbMF0ub2Zmc2V0V2lkdGgpOwogICAgICAgICAgICBjb25zb2xlLmxvZygkY29udGVudFswXS5vZmZzZXRXaWR0aCk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCRjb250ZW50WzBdLm9mZnNldFdpZHRoIC8gJHNvdXJjZVswXS5vZmZzZXRXaWR0aCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>employee</text>
       </register>
       <register name="-" type="4">
-        <text>source</text>
+        <text>employee</text>
       </register>
       <register name="/" type="4">
-        <text>Period</text>
+        <text>attach</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJGNvbnRlbnRbMF0ub2Zmc2V0V2lkdGgpOwo=</text>
+        <text encoding="base64">ICAgICdzZXRfcGFpZCcgPT4gJ0luIDpTdWJqZWN0IGFscyBiZXphaGx0IG1hcmtpZXJlbicsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCRzb3VyY2VbMF0ub2Zmc2V0V2lkdGgpOwogICAgICAgICAgICBjb25zb2xlLmxvZygkY29udGVudFswXS5vZmZzZXRXaWR0aCk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCRjb250ZW50WzBdLm9mZnNldFdpZHRoIC8gJHNvdXJjZVswXS5vZmZzZXRXaWR0aCk7Cg==</text>
@@ -425,9 +440,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Period</last-search>
+      <last-search>attach</last-search>
       <last-offset />
-      <last-pattern>Period</last-pattern>
+      <last-pattern>attach</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -435,11 +450,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
-        <entry>getColor</entry>
-        <entry>office()</entry>
-        <entry>getUrl</entry>
-        <entry>ental</entry>
         <entry>cookie</entry>
         <entry>icenseFile</entry>
         <entry>account</entry>
@@ -455,6 +465,11 @@
         <entry>search</entry>
         <entry>period</entry>
         <entry>Period</entry>
+        <entry>set_paid</entry>
+        <entry>user</entry>
+        <entry>earnings</entry>
+        <entry>pload</entry>
+        <entry>attach</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
