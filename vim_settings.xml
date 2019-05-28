@@ -99,6 +99,13 @@
         <mark key="^" line="254" column="58" />
         <mark key="." line="254" column="58" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/resources/views/backend/assignment/show.blade.php" timestamp="1559054901542">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="200" column="137" />
+        <mark key="]" line="200" column="94" />
+        <mark key="^" line="200" column="94" />
+        <mark key="." line="200" column="94" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/config/backpack/crud.php" timestamp="1557844132995">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="54" column="4" />
@@ -229,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/config/backpack/crud.php" />
       <jump line="46" column="29" filename="$USER_HOME$/git/web/studi/config/backpack/crud.php" />
       <jump line="579" column="39" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="365" column="88" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
@@ -329,10 +335,11 @@
       <jump line="66" column="95" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="142" column="64" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/CustomerCrudController.php" />
       <jump line="97" column="35" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/src/Traits/HandlesAjaxRequest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/resources/views/backend/assignment/show.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICAgICAgICAgICAgICA9PiAnYWRkcmVzc1tsYXRsbmddW2xhdF0nLAogICAgICAgICAgICAgICAgJ3R5cGUnICAgICAgICAgICAgICA9PiAnbnVtYmVyJywKICAgICAgICAgICAgICAgICdsYWJlbCcgICAgICAgICAgICAgPT4gdHJhbnMoJ3ZhbGlkYXRpb24uYXR0cmlidXRlcy5sYXQnKSwKICAgICAgICAgICAgICAgICd2YWx1ZScgICAgICAgICAgICAgPT4gJGVudHJ5LT5hZGRyZXNzLT5sYXRsbmctPmxhdCA/PyBudWxsLAogICAgICAgICAgICAgICAgJ2F0dHJpYnV0ZXMnICAgICAgICA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ3N0ZXAnID0+ICdhbnknLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICd3cmFwcGVyQXR0cmlidXRlcycgPT4gWwogICAgICAgICAgICAgICAgICAgICdjbGFzcycgPT4gJ2Zvcm0tZ3JvdXAgY29sLW1kLTYnLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICd0YWInICAgICAgICAgICAgICAgPT4gJGVudHJ5SWQgPyB0cmFucygnbW9kZWxzLmN1c3RvbWVyLnRhYnMuZGF0YScpIDogbnVsbCwKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICAgICAgICAgICAgICA9PiAnYWRkcmVzc1tsYXRsbmddW2xuZ10nLAogICAgICAgICAgICAgICAgJ3R5cGUnICAgICAgICAgICAgICA9PiAnbnVtYmVyJywKICAgICAgICAgICAgICAgICdsYWJlbCcgICAgICAgICAgICAgPT4gdHJhbnMoJ3ZhbGlkYXRpb24uYXR0cmlidXRlcy5sb24nKSwKICAgICAgICAgICAgICAgICd2YWx1ZScgICAgICAgICAgICAgPT4gJGVudHJ5LT5hZGRyZXNzLT5sYXRsbmctPmxuZyA/PyBudWxsLAogICAgICAgICAgICAgICAgJ2F0dHJpYnV0ZXMnICAgICAgICA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ3N0ZXAnID0+ICdhbnknLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICd3cmFwcGVyQXR0cmlidXRlcycgPT4gWwogICAgICAgICAgICAgICAgICAgICdjbGFzcycgPT4gJ2Zvcm0tZ3JvdXAgY29sLW1kLTYnLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICd0YWInICAgICAgICAgICAgICAgPT4gJGVudHJ5SWQgPyB0cmFucygnbW9kZWxzLmN1c3RvbWVyLnRhYnMuZGF0YScpIDogbnVsbCwKICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGluY2x1ZGUoJ2NydWQ6OmluYy5idXR0b25fc3RhY2snLCBbJ3N0YWNrJyA9PiAnbGluZSddKQo=</text>
       </register>
       <register name="-" type="4">
         <text>Store</text>
@@ -341,7 +348,7 @@
         <text>customer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHZhbGlkYXRvci0+ZmFpbHMoKSkgewogICAgICAgICAgICBcU2Vzc2lvbjo6Zmxhc2goJ2Vycm9yJywgJHZhbGlkYXRvci0+bWVzc2FnZXMoKS0+Zmlyc3QoKSk7CiAgICAgICAgICAgIHJldHVybiByZWRpcmVjdCgpLT5iYWNrKCktPndpdGhJbnB1dCgpOyAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGluY2x1ZGUoJ2NydWQ6OmluYy5idXR0b25fc3RhY2snLCBbJ3N0YWNrJyA9PiAnbGluZSddKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICAgICAgICAgICAgICA9PiAnYWRkcmVzc1tsYXRsbmddW2xhdF0nLAogICAgICAgICAgICAgICAgJ3R5cGUnICAgICAgICAgICAgICA9PiAnbnVtYmVyJywKICAgICAgICAgICAgICAgICdsYWJlbCcgICAgICAgICAgICAgPT4gdHJhbnMoJ3ZhbGlkYXRpb24uYXR0cmlidXRlcy5sYXQnKSwKICAgICAgICAgICAgICAgICd2YWx1ZScgICAgICAgICAgICAgPT4gJGVudHJ5LT5hZGRyZXNzLT5sYXRsbmctPmxhdCA/PyBudWxsLAogICAgICAgICAgICAgICAgJ2F0dHJpYnV0ZXMnICAgICAgICA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ3N0ZXAnID0+ICdhbnknLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICd3cmFwcGVyQXR0cmlidXRlcycgPT4gWwogICAgICAgICAgICAgICAgICAgICdjbGFzcycgPT4gJ2Zvcm0tZ3JvdXAgY29sLW1kLTYnLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICd0YWInICAgICAgICAgICAgICAgPT4gJGVudHJ5SWQgPyB0cmFucygnbW9kZWxzLmN1c3RvbWVyLnRhYnMuZGF0YScpIDogbnVsbCwKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnICAgICAgICAgICAgICA9PiAnYWRkcmVzc1tsYXRsbmddW2xuZ10nLAogICAgICAgICAgICAgICAgJ3R5cGUnICAgICAgICAgICAgICA9PiAnbnVtYmVyJywKICAgICAgICAgICAgICAgICdsYWJlbCcgICAgICAgICAgICAgPT4gdHJhbnMoJ3ZhbGlkYXRpb24uYXR0cmlidXRlcy5sb24nKSwKICAgICAgICAgICAgICAgICd2YWx1ZScgICAgICAgICAgICAgPT4gJGVudHJ5LT5hZGRyZXNzLT5sYXRsbmctPmxuZyA/PyBudWxsLAogICAgICAgICAgICAgICAgJ2F0dHJpYnV0ZXMnICAgICAgICA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ3N0ZXAnID0+ICdhbnknLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICd3cmFwcGVyQXR0cmlidXRlcycgPT4gWwogICAgICAgICAgICAgICAgICAgICdjbGFzcycgPT4gJ2Zvcm0tZ3JvdXAgY29sLW1kLTYnLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICd0YWInICAgICAgICAgICAgICAgPT4gJGVudHJ5SWQgPyB0cmFucygnbW9kZWxzLmN1c3RvbWVyLnRhYnMuZGF0YScpIDogbnVsbCwKICAgICAgICAgICAgXSwK</text>
