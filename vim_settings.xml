@@ -29,12 +29,12 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="68" column="38" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/config/webfactor/usermanager/permissions.php" timestamp="1557937454838">
+      <file name="$USER_HOME$/git/web/studi/config/webfactor/usermanager/permissions.php" timestamp="1559058891607">
         <mark key="'" line="70" column="85" />
-        <mark key="[" line="70" column="114" />
-        <mark key="]" line="70" column="85" />
-        <mark key="^" line="70" column="85" />
-        <mark key="." line="70" column="85" />
+        <mark key="[" line="28" column="46" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/studi/vendor/composer/autoload_static.php" timestamp="1558969262855">
         <mark key="[" line="884" column="0" />
@@ -141,6 +141,12 @@
         <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="8" />
         <mark key="^" line="31" column="14" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/resources/lang/vendor/webfactor/de/abilities.php" timestamp="1559058918648">
+        <mark key="[" line="37" column="34" />
+        <mark key="]" line="37" column="22" />
+        <mark key="." line="37" column="22" />
+        <mark key="^" line="37" column="22" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Notifications/AssignmentNeedsMoreHelpers.php" timestamp="1558969277057">
         <mark key="[" line="9" column="6" />
@@ -345,17 +351,17 @@
       <jump line="68" column="2" filename="$USER_HOME$/git/web/studi/app/Models/Customer.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>accepted</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e3sgJGVudHJ5LT5jdXN0b21lci0+Y29udGFjdC0+cGhvbmVfY29udGFjdCA/PyAnJyB9fSA8YnI+</text>
+        <text>accepted</text>
       </register>
       <register name="/" type="4">
         <text>FullName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAZW5kaWYK</text>
+        <text encoding="base64">ICAgICdhc3NpZ25tZW50LWFjY2VwdGVkJyAgICAgICAgID0+ICc6U3ViamVjdCBiZWkgIk1pdGFyYmVpdGVyIG5pbW10IHRlaWwiJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
