@@ -50,6 +50,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1560257972515" />
       <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/buttons/delete.blade.php" timestamp="1559724799080">
         <mark key="'" line="7" column="7" />
         <mark key="[" line="3" column="0" />
@@ -63,6 +64,10 @@
         <mark key="]" line="55" column="34" />
         <mark key="." line="55" column="34" />
         <mark key="^" line="55" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Applicant.php" timestamp="1560258367709">
+        <mark key="'" line="216" column="137" />
+        <mark key="[" line="216" column="182" />
       </file>
       <file name="$USER_HOME$/git/web/studi/vendor/laravel/framework/src/Illuminate/Support/Collection.php" timestamp="1559737938887">
         <mark key="[" line="417" column="0" />
@@ -80,7 +85,6 @@
         <mark key="]" line="82" column="10" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/PanelTraits/Filters.php" timestamp="1559732634185" />
       <file name="$USER_HOME$/git/web/studi/resources/lang/vendor/webfactor/de/abilities.php" timestamp="1559636374807">
         <mark key="[" line="54" column="70" />
       </file>
@@ -119,6 +123,12 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/privacy.blade.php" timestamp="1560258086433">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/git/web/studi/routes/backpack/custom.php" timestamp="1559637956271">
         <mark key="'" line="82" column="27" />
@@ -260,7 +270,6 @@
         <mark key="." line="30" column="7" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/CrudPanel.php" timestamp="1559732382901" />
       <file name="$USER_HOME$/git/web/studi/resources/lang/vendor/webfactor/de/roles.php" timestamp="1559636458062">
         <mark key="[" line="15" column="30" />
       </file>
@@ -290,6 +299,9 @@
         <mark key="]" line="147" column="44" />
         <mark key="." line="147" column="44" />
         <mark key="^" line="147" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/nested/contact.blade.php" timestamp="1560258135163">
+        <mark key="'" line="100" column="29" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Traits/CrudFilterTrait.php" timestamp="1559740031090">
         <mark key="'" line="7" column="6" />
@@ -339,11 +351,8 @@
         <mark key="." line="150" column="8" />
         <mark key="^" line="150" column="8" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/PanelTraits/Query.php" timestamp="1559735213462" />
     </filemarks>
     <jumps>
-      <jump line="267" column="21" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
-      <jump line="53" column="17" filename="$USER_HOME$/git/web/studi/vendor/maatwebsite/excel/src/Concerns/Exportable.php" />
       <jump line="14" column="27" filename="$USER_HOME$/git/web/studi/vendor/maatwebsite/excel/src/Concerns/Exportable.php" />
       <jump line="19" column="88" filename="$USER_HOME$/git/web/studi/vendor/maatwebsite/excel/src/Concerns/Exportable.php" />
       <jump line="31" column="13" filename="$USER_HOME$/git/web/studi/vendor/maatwebsite/excel/src/Concerns/Exportable.php" />
@@ -442,6 +451,8 @@
       <jump line="7" column="6" filename="$USER_HOME$/git/web/studi/app/Traits/CrudFilterTrait.php" />
       <jump line="22" column="80" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/PanelTraits/Search.php" />
       <jump line="26" column="25" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/PanelTraits/Search.php" />
+      <jump line="100" column="29" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/nested/contact.blade.php" />
+      <jump line="216" column="137" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Applicant.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -451,7 +462,7 @@
         <text>contains</text>
       </register>
       <register name="/" type="4">
-        <text>SearchTerm</text>
+        <text>datenschutz</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdHJhbnMoJ3ZhbGlkYXRpb24uYXR0cmlidXRlcy5pZCcpLAo=</text>
@@ -497,9 +508,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SearchTerm</last-search>
+      <last-search>datenschutz</last-search>
       <last-offset />
-      <last-pattern>SearchTerm</last-pattern>
+      <last-pattern>datenschutz</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -507,9 +518,6 @@
     </search>
     <history>
       <history-search>
-        <entry>request</entry>
-        <entry encoding="base64">LT5yZXF1ZXN0</entry>
-        <entry>account</entry>
         <entry>Entry</entry>
         <entry>rapp</entry>
         <entry>rapport(</entry>
@@ -527,6 +535,9 @@
         <entry>export</entry>
         <entry>Filters</entry>
         <entry>SearchTerm</entry>
+        <entry>privac</entry>
+        <entry>privacy</entry>
+        <entry>datenschutz</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
