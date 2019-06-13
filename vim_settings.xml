@@ -82,6 +82,9 @@
         <mark key="]" line="82" column="10" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/app/Exports/SalaryListSheet.php" timestamp="1560434384685">
+        <mark key="[" line="11" column="10" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Settings/VehicleTypeCrudController.php" timestamp="1559549187871">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="77" column="10" />
@@ -136,6 +139,9 @@
         <mark key="]" line="7" column="21" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/SalaryCrudController.php" timestamp="1560434350506">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Requests/Admin/UserAssignmentRequest.php" timestamp="1559660930240">
         <mark key="[" line="42" column="35" />
         <mark key="]" line="42" column="30" />
@@ -179,7 +185,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Listeners/CheckForMissingEmployee.php" timestamp="1560339187888" />
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/BaseCrudController.php" timestamp="1559734122098">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -317,7 +322,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Events/UserAcceptedAssignment.php" timestamp="1560339164721" />
       <file name="$USER_HOME$/git/web/studi/app/Exports/BaseExport.php" timestamp="1559735790195">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="6" column="0" />
@@ -350,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="13" filename="$USER_HOME$/git/web/studi/vendor/maatwebsite/excel/src/Concerns/Exportable.php" />
       <jump line="160" column="41" filename="$USER_HOME$/git/web/mt/tests/TestCase.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" />
       <jump line="32" column="26" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Messages/MessageCrudController.php" />
@@ -450,6 +453,7 @@
       <jump line="216" column="137" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Applicant.php" />
       <jump line="9" column="3" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/buttons/clone.blade.php" />
       <jump line="830" column="22" filename="$USER_HOME$/git/web/studi/vendor/composer/autoload_static.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/SalaryCrudController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -459,7 +463,7 @@
         <text>contains</text>
       </register>
       <register name="/" type="4">
-        <text>Missing</text>
+        <text>Columns</text>
       </register>
       <register name="0" type="4">
         <text>@push('after_scripts')</text>
@@ -505,9 +509,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Missing</last-search>
+      <last-search>Columns</last-search>
       <last-offset />
-      <last-pattern>Missing</last-pattern>
+      <last-pattern>Columns</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -515,8 +519,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rapp</entry>
-        <entry>rapport(</entry>
         <entry>export(</entry>
         <entry>itarbeiter</entry>
         <entry>ser</entry>
@@ -535,6 +537,8 @@
         <entry>privacy</entry>
         <entry>datenschutz</entry>
         <entry>Missing</entry>
+        <entry>Columnd</entry>
+        <entry>Columns</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
