@@ -106,7 +106,8 @@
         <mark key="." line="55" column="34" />
         <mark key="^" line="55" column="34" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1562057326894">
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1562066085671">
+        <mark key="'" line="0" column="0" />
         <mark key="." line="1017" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Exports/SalaryReportDetailsSheet.php" timestamp="1560495829006">
@@ -221,9 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="24" filename="$USER_HOME$/git/web/studi/resources/lang/de/models.php" />
-      <jump line="73" column="6" filename="$USER_HOME$/git/web/studi/resources/lang/de/models.php" />
-      <jump line="113" column="6" filename="$USER_HOME$/git/web/studi/resources/lang/de/models.php" />
       <jump line="587" column="47" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
       <jump line="650" column="0" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
@@ -321,6 +319,9 @@
       <jump line="92" column="43" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/Models/Settings/Office.php" />
       <jump line="36" column="87" filename="$USER_HOME$/git/web/studi/app/Models/Settings/Office.php" />
+      <jump line="700" column="33" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="369" column="25" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -330,7 +331,7 @@
         <text>$cellRange</text>
       </register>
       <register name="/" type="4">
-        <text>employeeDatas</text>
+        <text>start</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGhwIGFydGlzYW4gd2ViZmFjdG9yOnVzZXJtYW5hZ2VyOnNlZWQK</text>
@@ -376,9 +377,9 @@
       </register>
     </registers>
     <search>
-      <last-search>employeeDatas</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern>employeeDatas</last-pattern>
+      <last-pattern>start</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -386,8 +387,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Filters</entry>
-        <entry>SearchTerm</entry>
         <entry>privac</entry>
         <entry>privacy</entry>
         <entry>datenschutz</entry>
@@ -406,6 +405,8 @@
         <entry>create</entry>
         <entry>'visible</entry>
         <entry>employeeDatas</entry>
+        <entry>address</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
