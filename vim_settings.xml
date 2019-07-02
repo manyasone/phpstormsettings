@@ -26,6 +26,9 @@
       <file name="$USER_HOME$/git/web/studi/app/Models/UserAssignmentData.php" timestamp="1560439984295">
         <mark key="'" line="74" column="40" />
       </file>
+      <file name="/a.dummy" timestamp="1560440300945">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/PanelTraits/Access.php" timestamp="1559556975055">
         <mark key="'" line="33" column="23" />
         <mark key="[" line="0" column="6" />
@@ -106,9 +109,12 @@
         <mark key="." line="55" column="34" />
         <mark key="^" line="55" column="34" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1562066085671">
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1562067072408">
         <mark key="'" line="0" column="0" />
-        <mark key="." line="1017" column="0" />
+        <mark key="[" line="242" column="38" />
+        <mark key="]" line="242" column="37" />
+        <mark key="." line="242" column="37" />
+        <mark key="^" line="242" column="37" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Exports/SalaryReportDetailsSheet.php" timestamp="1560495829006">
         <mark key="[" line="17" column="73" />
@@ -123,6 +129,7 @@
         <mark key="." line="44" column="23" />
         <mark key="^" line="7" column="60" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/.env" timestamp="1562067470501" />
       <file name="$USER_HOME$/git/web/studi/app/Traits/HasUserAssignmentData.php" timestamp="1560499190350">
         <mark key="'" line="14" column="29" />
         <mark key="[" line="367" column="56" />
@@ -142,6 +149,9 @@
         <mark key="]" line="48" column="63" />
         <mark key="." line="48" column="63" />
         <mark key="^" line="48" column="63" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/resources/lang/de/mail.php" timestamp="1562066840226">
+        <mark key="[" line="55" column="56" />
       </file>
       <file name="$USER_HOME$/git/web/studi/routes/console.php" timestamp="1562061384491" />
       <file name="$USER_HOME$/git/web/studi/resources/lang/de/validation.php" timestamp="1560438649204">
@@ -207,12 +217,12 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="67" column="20" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/SalaryReportCrudController.php" timestamp="1560495801059">
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/SalaryReportCrudController.php" timestamp="1562067765785">
         <mark key="'" line="86" column="41" />
-        <mark key="[" line="86" column="35" />
-        <mark key="]" line="86" column="41" />
-        <mark key="." line="86" column="41" />
-        <mark key="^" line="86" column="41" />
+        <mark key="[" line="201" column="56" />
+        <mark key="]" line="201" column="56" />
+        <mark key="." line="201" column="56" />
+        <mark key="^" line="185" column="72" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/SalaryCrudController.php" timestamp="1560495568614">
         <mark key="'" line="234" column="22" />
@@ -222,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="587" column="47" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
       <jump line="650" column="0" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
       <jump line="654" column="32" filename="$USER_HOME$/git/web/studi/app/UserManager/UserCrud.php" />
@@ -322,13 +331,14 @@
       <jump line="700" column="33" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="369" column="25" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJGV2ZW50LT5zaGVldC0+Z2V0RGVsZWdhdGUoKS0+Z2V0U3R5bGUoJ0E6VycpLT5nZXRBbGlnbm1lbnQoKS0+c2V0V3JhcFRleHQodHJ1ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>AssignmentClosed</text>
       </register>
       <register name="-" type="4">
-        <text>$cellRange</text>
+        <text>AssignmentClosed</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
