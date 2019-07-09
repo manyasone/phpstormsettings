@@ -112,11 +112,8 @@
         <mark key="." line="55" column="34" />
         <mark key="^" line="55" column="34" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1562569364625">
-        <mark key="'" line="1040" column="23" />
-        <mark key="[" line="707" column="9" />
-        <mark key="]" line="707" column="32" />
-        <mark key="." line="707" column="0" />
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1562668803213">
+        <mark key="'" line="381" column="29" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Exports/SalaryReportDetailsSheet.php" timestamp="1560495829006">
         <mark key="[" line="17" column="73" />
@@ -250,15 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="904" column="15" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
-      <jump line="7" column="6" filename="$USER_HOME$/git/web/studi/app/Traits/CrudFilterTrait.php" />
-      <jump line="22" column="80" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/PanelTraits/Search.php" />
-      <jump line="26" column="25" filename="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/PanelTraits/Search.php" />
-      <jump line="100" column="29" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/nested/contact.blade.php" />
-      <jump line="216" column="137" filename="$USER_HOME$/git/web/ophelo/app/Http/Pagemanager/Presets/Applicant.php" />
-      <jump line="9" column="3" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/buttons/clone.blade.php" />
-      <jump line="830" column="22" filename="$USER_HOME$/git/web/studi/vendor/composer/autoload_static.php" />
-      <jump line="268" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/SalaryCrudController.php" />
       <jump line="94" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/SalaryCrudController.php" />
       <jump line="81" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/SalaryCrudController.php" />
       <jump line="258" column="4" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/SalaryCrudController.php" />
@@ -350,19 +338,28 @@
       <jump line="755" column="13" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="1044" column="9" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
       <jump line="1038" column="23" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="708" column="22" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="230" column="45" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="148" column="45" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="130" column="45" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="386" column="31" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="127" column="21" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="145" column="21" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="228" column="21" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="384" column="29" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW50cnktPnJlZnJlc2goKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYXR0cmlidXRlJyA9PiAnbmFtZScsCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHRoaXMtPmVudHJ5LT5lcXVv</text>
       </register>
       <register name="/" type="4">
-        <text>should</text>
+        <text>on_the</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JHRoaXMtPmVudHJ5LT5lcXVpcG1lbnQtPnBsdWNrKCduYW1lJyktPmltcGxvZGUoJw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYXR0cmlidXRlJyA9PiAnbmFtZScsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW50cnktPnJlZnJlc2goKTsK</text>
@@ -405,9 +402,9 @@
       </register>
     </registers>
     <search>
-      <last-search>should</last-search>
+      <last-search>on_the</last-search>
       <last-offset />
-      <last-pattern>should</last-pattern>
+      <last-pattern>on_the</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -415,7 +412,6 @@
     </search>
     <history>
       <history-search>
-        <entry>assignment_</entry>
         <entry>Filter</entry>
         <entry>salary</entry>
         <entry>Columns</entry>
@@ -435,6 +431,7 @@
         <entry>equipm</entry>
         <entry>shoukd</entry>
         <entry>should</entry>
+        <entry>on_the</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
