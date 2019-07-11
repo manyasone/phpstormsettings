@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="M" line="13" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" protocol="file" />
     </globalmarks>
@@ -11,19 +11,21 @@
       <file name="$USER_HOME$/git/web/studi/app/Console/Kernel.php" timestamp="1562061671026">
         <mark key="[" line="26" column="68" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/StatisticsController.php" timestamp="1562826644089">
-        <mark key="'" line="59" column="10" />
-        <mark key="[" line="54" column="38" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/StatisticsController.php" timestamp="1562830489704">
+        <mark key="'" line="64" column="10" />
+        <mark key="[" line="45" column="76" />
+        <mark key="]" line="45" column="65" />
+        <mark key="." line="45" column="65" />
+        <mark key="^" line="45" column="65" />
       </file>
       <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/PanelTraits/Search.php" timestamp="1559739119899">
         <mark key="'" line="26" column="25" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/backend/statistics/overview.blade.php" timestamp="1562768961393">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/git/web/studi/resources/views/backend/statistics/overview.blade.php" timestamp="1562830524297">
+        <mark key="[" line="20" column="62" />
+        <mark key="]" line="20" column="57" />
+        <mark key="." line="20" column="57" />
+        <mark key="^" line="20" column="57" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Models/UserAssignmentData.php" timestamp="1560439984295">
         <mark key="'" line="74" column="40" />
@@ -61,11 +63,10 @@
         <mark key="]" line="0" column="59" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/resources/js/components/PieTablePair.vue" timestamp="1562826547623">
-        <mark key="[" line="33" column="46" />
-        <mark key="]" line="33" column="44" />
-        <mark key="." line="33" column="44" />
-        <mark key="^" line="33" column="44" />
+      <file name="$USER_HOME$/git/web/studi/resources/js/components/PieTablePair.vue" timestamp="1562831112078">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/git/packages/instantfields/resources/views/fields/inc/button-add.blade.php" timestamp="1562683850554">
         <mark key="[" line="9" column="171" />
@@ -188,17 +189,18 @@
         <mark key="[" line="358" column="0" />
         <mark key="]" line="358" column="73" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/routes/backpack/custom.php" timestamp="1562769413542">
+      <file name="$USER_HOME$/git/web/studi/routes/backpack/custom.php" timestamp="1562828785916">
         <mark key="'" line="38" column="24" />
-        <mark key="[" line="149" column="95" />
-        <mark key="]" line="149" column="95" />
-        <mark key="." line="149" column="95" />
-        <mark key="^" line="149" column="73" />
+        <mark key="[" line="149" column="11" />
+        <mark key="]" line="149" column="14" />
+        <mark key="." line="149" column="14" />
+        <mark key="^" line="149" column="14" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/resources/js/app.js" timestamp="1562768262759">
+      <file name="$USER_HOME$/git/web/studi/resources/js/app.js" timestamp="1562830943988">
         <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="]" line="9" column="67" />
+        <mark key="." line="9" column="67" />
+        <mark key="^" line="9" column="67" />
       </file>
     </filemarks>
     <jumps>
@@ -305,52 +307,56 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFZ1ZS51c2UoVnVlUmFkaW9Ub2dnbGVCdXR0b25zKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>pluck</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>customer(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZmlsdGVyYWJsZScgPT4gdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOmNvbHVtbnM9Int7anNvbl9lbmNvZGUoJGNvbHVtbnMpfX0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFZ1ZS51c2UoVnVlUmFkaW9Ub2dnbGVCdXR0b25zKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBWdWVSYWRpb1RvZ2dsZUJ1dHRvbnMgZnJvbSAndnVlLXJhZGlvLXRvZ2dsZS1idXR0b25zJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBBcHAgZnJvbSAnLi9BcHAudnVlJzsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86IFdIWSBVIE5PIFdPUks/Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtPnNpbXBsZVBhZ2luYXRlKCRlbnRyaWVzLT5jb3VudCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtPnNlbGVjdChhcnJheV9rZXlzKCRjb2x1bW5zKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtPnNpbXBsZVBhZ2luYXRlKDIwMCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnBhZ2UgPSByZXNwb25zZS5kYXRhLmN1cnJlbnRfcGFnZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwZXJQYWdlKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>const {
+                        // Data to display
+                        data: response,
+                        // Get the total number of matched items
+                    } =</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y29sbGVjdCgkY29sdW1uX2lkcyktPm1hcChmdW5jdGlvbiAoJGNvbHVtbikgewogICAgICAgICAgICAgICAgcmV0dXJuIHRyYW5zKCd2YWxpZGF0aW9uLmF0dHJpYnV0ZXMuJyAuICRjb2x1bW4pOwogICAgICAgICAgICB9KQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdvdFRhYmxlRGF0YTogZmFsc2UsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
