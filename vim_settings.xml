@@ -1,43 +1,98 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="M" line="13" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/src/Traits/HandlesAjaxRequest.php" timestamp="1562671273565">
+        <mark key="'" line="31" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Console/Kernel.php" timestamp="1562061671026">
+        <mark key="[" line="26" column="68" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/StatisticsController.php" timestamp="1562826644089">
+        <mark key="'" line="59" column="10" />
+        <mark key="[" line="54" column="38" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/PanelTraits/Search.php" timestamp="1559739119899">
+        <mark key="'" line="26" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/resources/views/backend/statistics/overview.blade.php" timestamp="1562768961393">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Models/UserAssignmentData.php" timestamp="1560439984295">
         <mark key="'" line="74" column="40" />
       </file>
       <file name="/a.dummy" timestamp="1562757027771">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/resources/js/backend/backend.js" timestamp="1562750158111">
+        <mark key="'" line="5" column="17" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/packages/instantfields/resources/views/fields/inc/button-delete.blade.php" timestamp="1562679112809">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/webpack.mix.js" timestamp="1562750169176">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/git/packages/instantfields/resources/views/fields/select2_from_ajax.blade.php" timestamp="1562685598966">
+        <mark key="[" line="41" column="56" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/composer.json" timestamp="1562657933160">
         <mark key="[" line="29" column="58" />
+      </file>
+      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1562824645813" />
+      <file name="$USER_HOME$/git/web/studi/composer.lock" timestamp="1562671453995">
+        <mark key="'" line="3508" column="26" />
       </file>
       <file name="$USER_HOME$/git/packages/instantfields/resources/views/modal/delete.blade.php" timestamp="1562686381128">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/resources/js/components/PieTablePair.vue" timestamp="1562826547623">
+        <mark key="[" line="33" column="46" />
+        <mark key="]" line="33" column="44" />
+        <mark key="." line="33" column="44" />
+        <mark key="^" line="33" column="44" />
+      </file>
       <file name="$USER_HOME$/git/packages/instantfields/resources/views/fields/inc/button-add.blade.php" timestamp="1562683850554">
         <mark key="[" line="9" column="171" />
         <mark key="]" line="9" column="167" />
         <mark key="." line="9" column="167" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Exports/AssignmentExport.php" timestamp="1560499631156">
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/mt/resources/views/vendor/backpack/base/layout.blade.php" timestamp="1562750745932">
         <mark key="'" line="28" column="26" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="39" column="18" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1562741901372">
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1562825677894">
+        <mark key="'" line="678" column="190" />
         <mark key="[" line="383" column="0" />
         <mark key="]" line="383" column="0" />
         <mark key="." line="383" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/resources/js/components/Pie.vue" timestamp="1562752469395">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/git/packages/instantfields/resources/views/fields/inc/button-edit.blade.php" timestamp="1562739781444">
         <mark key="'" line="10" column="83" />
@@ -50,111 +105,24 @@
         <mark key="]" line="26" column="10" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/git/web/mt/package.json" timestamp="1562749571203">
-        <mark key="'" line="28" column="10" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="31" />
-      </file>
-      <file name="$USER_HOME$/git/packages/instantfields/.gitignore" timestamp="1562679029933">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/resources/lang/de/mail.php" timestamp="1562066840226">
-        <mark key="[" line="55" column="56" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/Models/Settings/Office.php" timestamp="1562057358056">
-        <mark key="'" line="36" column="87" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/modal/create.blade.php" timestamp="1562685335908">
-        <mark key="[" line="0" column="48" />
-        <mark key="]" line="0" column="48" />
-        <mark key="." line="0" column="48" />
-      </file>
-      <file name="$USER_HOME$/git/web/mt/resources/js/backend/components/station/fuel_types/FuelTypes.vue" timestamp="1562768634171">
-        <mark key="'" line="107" column="37" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="76" column="10" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/attachment_multiple.blade.php" timestamp="1562074827000">
-        <mark key="[" line="137" column="69" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/layout.blade.php" timestamp="1562751238662">
-        <mark key="'" line="45" column="13" />
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="32" column="17" />
-        <mark key="." line="32" column="17" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/routes/backpack/custom.php" timestamp="1562769413542">
-        <mark key="'" line="38" column="24" />
-        <mark key="[" line="149" column="95" />
-        <mark key="]" line="149" column="95" />
-        <mark key="." line="149" column="95" />
-        <mark key="^" line="149" column="73" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/resources/js/app.js" timestamp="1562768262759">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/src/Traits/HandlesAjaxRequest.php" timestamp="1562671273565">
-        <mark key="'" line="31" column="31" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/Console/Kernel.php" timestamp="1562061671026">
-        <mark key="[" line="26" column="68" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/StatisticsController.php" timestamp="1562770200676">
-        <mark key="[" line="57" column="27" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/PanelTraits/Search.php" timestamp="1559739119899">
-        <mark key="'" line="26" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/resources/views/backend/statistics/overview.blade.php" timestamp="1562768961393">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/resources/js/backend/backend.js" timestamp="1562750158111">
-        <mark key="'" line="5" column="17" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/packages/instantfields/resources/views/fields/inc/button-delete.blade.php" timestamp="1562679112809">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/packages/instantfields/resources/views/fields/select2_from_ajax.blade.php" timestamp="1562685598966">
-        <mark key="[" line="41" column="56" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/composer.lock" timestamp="1562671453995">
-        <mark key="'" line="3508" column="26" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/resources/js/components/PieTablePair.vue" timestamp="1562769508018">
-        <mark key="[" line="38" column="40" />
-        <mark key="]" line="38" column="44" />
-        <mark key="." line="38" column="44" />
-        <mark key="^" line="38" column="44" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/Exports/AssignmentExport.php" timestamp="1560499631156">
-        <mark key="[" line="41" column="29" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/resources/js/components/Pie.vue" timestamp="1562752469395">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="21" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-      </file>
       <file name="$USER_HOME$/git/web/studi/resources/js/components/PieTable.vue" timestamp="1562756266099">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="19" column="30" />
         <mark key="." line="14" column="41" />
         <mark key="^" line="14" column="41" />
       </file>
+      <file name="$USER_HOME$/git/web/mt/package.json" timestamp="1562749571203">
+        <mark key="'" line="28" column="10" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="31" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/modal/edit.blade.php" timestamp="1562684258686">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/packages/instantfields/.gitignore" timestamp="1562679029933">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/web/studi/package.json" timestamp="1562749599140">
         <mark key="[" line="20" column="31" />
@@ -166,8 +134,23 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1562825711393">
+        <mark key="'" line="116" column="23" />
+        <mark key="[" line="475" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/resources/lang/de/mail.php" timestamp="1562066840226">
+        <mark key="[" line="55" column="56" />
+      </file>
       <file name="$USER_HOME$/git/web/mt/routes/backend.php" timestamp="1562765612514">
         <mark key="'" line="21" column="62" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Models/Settings/Office.php" timestamp="1562057358056">
+        <mark key="'" line="36" column="87" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/modal/create.blade.php" timestamp="1562685335908">
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="0" column="48" />
+        <mark key="." line="0" column="48" />
       </file>
       <file name="$USER_HOME$/git/web/studi/app/Models/Settings/AssignmentType.php" timestamp="1562754798384">
         <mark key="[" line="66" column="22" />
@@ -183,24 +166,42 @@
       <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/applicant/nested/contact.blade.php" timestamp="1560258135163">
         <mark key="'" line="100" column="29" />
       </file>
+      <file name="$USER_HOME$/git/web/mt/resources/js/backend/components/station/fuel_types/FuelTypes.vue" timestamp="1562768634171">
+        <mark key="'" line="107" column="37" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="76" column="10" />
+      </file>
       <file name="$USER_HOME$/git/packages/instantfields/resources/views/modal/save.blade.php" timestamp="1562685548501">
         <mark key="'" line="22" column="61" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/fields/attachment_multiple.blade.php" timestamp="1562074827000">
+        <mark key="[" line="137" column="69" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/layout.blade.php" timestamp="1562751238662">
+        <mark key="'" line="45" column="13" />
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="17" />
+        <mark key="." line="32" column="17" />
       </file>
       <file name="$USER_HOME$/git/web/mt/app/Http/Controllers/Admin/StationCrudController.php" timestamp="1562765727323">
         <mark key="'" line="344" column="37" />
         <mark key="[" line="358" column="0" />
         <mark key="]" line="358" column="73" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/routes/backpack/custom.php" timestamp="1562769413542">
+        <mark key="'" line="38" column="24" />
+        <mark key="[" line="149" column="95" />
+        <mark key="]" line="149" column="95" />
+        <mark key="." line="149" column="95" />
+        <mark key="^" line="149" column="73" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/resources/js/app.js" timestamp="1562768262759">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="65" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/inc/button-add.blade.php" />
-      <jump line="13" column="52" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/inc/button-add.blade.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/modal/create.blade.php" />
-      <jump line="45" column="37" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" />
-      <jump line="78" column="14" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" />
-      <jump line="101" column="59" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" />
-      <jump line="114" column="61" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" />
-      <jump line="115" column="61" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" />
       <jump line="132" column="74" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" />
       <jump line="133" column="92" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" />
       <jump line="134" column="94" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" />
@@ -293,64 +294,72 @@
       <jump line="104" column="29" filename="$USER_HOME$/git/web/mt/resources/js/backend/components/station/fuel_types/FuelTypes.vue" />
       <jump line="106" column="28" filename="$USER_HOME$/git/web/mt/resources/js/backend/components/station/fuel_types/FuelTypes.vue" />
       <jump line="107" column="37" filename="$USER_HOME$/git/web/mt/resources/js/backend/components/station/fuel_types/FuelTypes.vue" />
+      <jump line="112" column="6" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
+      <jump line="43" column="115" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
+      <jump line="135" column="75" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="133" column="47" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="762" column="194" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="678" column="190" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" />
+      <jump line="116" column="23" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
+      <jump line="59" column="10" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/StatisticsController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZChBc3NpZ25tZW50OjpsaW1pdCgxKS0+d2l0aChbJ29mZmljZScsICdhc3NpZ25tZW50VHlwZSddKS0+cGx1Y2soWydpZCcsICdvZmZpY2VfaWQnXSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>select</text>
+        <text>pluck</text>
       </register>
       <register name="/" type="4">
-        <text>error</text>
+        <text>customer(</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LT53aXRoKFsnb2ZmaWNlJywgJ2Fzc2lnbm1lbnRUeXBlJ10p</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZmlsdGVyYWJsZScgPT4gdHJ1ZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZChBc3NpZ25tZW50OjpsaW1pdCgxKS0+d2l0aChbJ29mZmljZScsICdhc3NpZ25tZW50VHlwZSddKS0+cGx1Y2soWydpZCcsICdvZmZpY2VfaWQnXSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZW50cmllcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5tb2RlbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IFdIWSBVIE5PIFdPUks/Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtPnNlbGVjdChhcnJheV9rZXlzKCRjb2x1bW5zKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkY29sdW1ucyA9IDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xhc3MgPSByZXF1ZXN0KCktPmlucHV0KCdtb2RlbCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGFibGUtbW9kZWw9Int7XEFwcFxNb2RlbHNcQXNzaWdubWVudDo6Y2xhc3N9fSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGFibGUtbW9kZWw9Int7XEFwcFxNb2RlbHNcQXNzaWdubWVudDo6Y2xhc3N9fSIK</text>
+      <register name="9" type="4">
+        <text encoding="base64">Y29sbGVjdCgkY29sdW1uX2lkcyktPm1hcChmdW5jdGlvbiAoJGNvbHVtbikgewogICAgICAgICAgICAgICAgcmV0dXJuIHRyYW5zKCd2YWxpZGF0aW9uLmF0dHJpYnV0ZXMuJyAuICRjb2x1bW4pOwogICAgICAgICAgICB9KQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>error</last-search>
+      <last-search>customer(</last-search>
       <last-offset />
-      <last-pattern>error</last-pattern>
+      <last-pattern>customer(</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -358,9 +367,6 @@
     </search>
     <history>
       <history-search>
-        <entry>entity</entry>
-        <entry>Label</entry>
-        <entry>attribute</entry>
         <entry>address</entry>
         <entry>Attribute</entry>
         <entry>create</entry>
@@ -378,6 +384,9 @@
         <entry>prices</entry>
         <entry>update</entry>
         <entry>error</entry>
+        <entry>rName</entry>
+        <entry>customer_id</entry>
+        <entry>customer(</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
