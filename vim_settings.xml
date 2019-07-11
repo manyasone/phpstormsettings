@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="M" line="13" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" protocol="file" />
     </globalmarks>
@@ -43,15 +43,18 @@
       <file name="$USER_HOME$/git/web/studi/composer.json" timestamp="1562657933160">
         <mark key="[" line="29" column="58" />
       </file>
+      <file name="$USER_HOME$/git/web/studi/node_modules/vue-rangedate-picker/dist/vue-rangedate-picker.js" timestamp="1562851236966">
+        <mark key="'" line="0" column="23008" />
+      </file>
       <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1562824645813" />
       <file name="$USER_HOME$/git/web/studi/composer.lock" timestamp="1562671453995">
         <mark key="'" line="3508" column="26" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/resources/js/components/PieTablePair.vue" timestamp="1562844430588">
-        <mark key="[" line="37" column="56" />
-        <mark key="]" line="37" column="62" />
-        <mark key="^" line="37" column="62" />
-        <mark key="." line="37" column="62" />
+      <file name="$USER_HOME$/git/web/studi/resources/js/components/PieTablePair.vue" timestamp="1562850914650">
+        <mark key="[" line="89" column="34" />
+        <mark key="]" line="89" column="34" />
+        <mark key="^" line="29" column="158" />
+        <mark key="." line="89" column="34" />
       </file>
       <file name="$USER_HOME$/git/web/mt/resources/views/vendor/backpack/base/layout.blade.php" timestamp="1562750745932">
         <mark key="'" line="28" column="26" />
@@ -164,7 +167,6 @@
       <file name="$USER_HOME$/git/web/studi/resources/js/app.js" timestamp="1562830943988" />
     </filemarks>
     <jumps>
-      <jump line="197" column="26" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/fields/select2_from_ajax.blade.php" />
       <jump line="114" column="4" filename="$USER_HOME$/git/web/studi/app/Models/Customer.php" />
       <jump line="72" column="61" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/modal/create.blade.php" />
       <jump line="75" column="88" filename="$USER_HOME$/git/web/studi/vendor/webfactor/laravel-backpack-instant-fields/resources/views/modal/create.blade.php" />
@@ -264,46 +266,52 @@
       <jump line="143" column="21" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/inc/datatables_logic.blade.php" />
       <jump line="10" column="21" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/inc/datatables_logic.blade.php" />
       <jump line="162" column="16" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/crud/inc/datatables_logic.blade.php" />
+      <jump line="0" column="23008" filename="$USER_HOME$/git/web/studi/node_modules/vue-rangedate-picker/dist/vue-rangedate-picker.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1RPRE86IEFkZCBkZWZhdWx0IGNvbG9ycwo=</text>
+      <register name="&quot;" type="4">
+        <text>Tage auswählen</text>
       </register>
       <register name="-" type="4">
-        <text>,'#FF9900','#109618','#990099','#3B3EAC','#0099C6','#DD4477','#66AA00','#B82E2E','#316395','#994499','#22AA99','#AAAA11','#6633CC','#E67300','#8B0707','#329262','#5574A6','#3B3EAC'</text>
+        <text>Tage auswählen</text>
       </register>
       <register name="/" type="4">
-        <text>v-on</text>
+        <text>preset-ranges</text>
       </register>
-      <register name="0" type="4">
-        <text>'#3366CC','#DC3912','#FF9900','#109618','#990099','#3B3EAC','#0099C6','#DD4477','#66AA00','#B82E2E','#316395','#994499','#22AA99','#AAAA11','#6633CC','#E67300','#8B0707','#329262','#5574A6','#3B3EAC'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb250aHM6IFsKICAgICAgICAgICAgICAgICAgICAgICAgJ0phbnVhcicsICdGZWJydWFyJywgJ03DpHJ6JywgJ0FwcmlsJywgJ01haScsICdKdW5pJywgJ0p1bGknLCAnQXVndXN0JywgJ1NlcHRlbWJlcicsICdOb3ZlbWJlcicsICdEZXplbWJlcicsCiAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICBzaG9ydERheXM6IFsKICAgICAgICAgICAgICAgICAgICAgICAgJ01vJywgJ0RpJywgJ01pJywgJ0RvJywgJ0ZyJywgJ1NhJywgJ1NvJwogICAgICAgICAgICAgICAgICAgIF0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1RPRE86IEFkZCBkZWZhdWx0IGNvbG9ycwo=</text>
+      <register name="1" type="4">
+        <text>:props=&quot;{months: [
+                        'Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'November', 'Dezember',
+                    ],
+                    shortDays: [
+                        'Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa', 'So'
+                    ]}&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpMThuOiAnRU4vRU4nLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKHJlcXVlc3QoKS0+YWxsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHJhbmdlZGF0ZS1waWNrZXI+PC9yYW5nZWRhdGUtcGlja2VyPgo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHJlZ2lzdGVyIGdsb2JhbGx5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBxdWVyeSA9IHRoaXMucXVlcnkgPyB0aGlzLnF1ZXJ5IDoge307CiAgICAgICAgICAgICAgICBxdWVyeS5tb2RlbCA9IHRoaXMubW9kZWw7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhxdWVyeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1RPRE86IEFkZCBkZWZhdWx0IGNvbG9ycwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMucXVlcnkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyZWZyZXNoJyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKHJlcXVlc3QoKS0+YWxsKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -312,16 +320,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJxdWVyeSIsIHRoaXMucXVlcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBxdWVyeSA9IHRoaXMucXVlcnkgPyB0aGlzLnF1ZXJ5IDoge307CiAgICAgICAgICAgICAgICBxdWVyeS5tb2RlbCA9IHRoaXMubW9kZWw7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhxdWVyeSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>v-on</last-search>
+      <last-search>preset-ranges</last-search>
       <last-offset />
-      <last-pattern>v-on</last-pattern>
+      <last-pattern>preset-ranges</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -329,26 +337,26 @@
     </search>
     <history>
       <history-search>
-        <entry>requestData</entry>
-        <entry>edit</entry>
-        <entry>button</entry>
-        <entry>button-</entry>
-        <entry>action</entry>
-        <entry>on_the</entry>
-        <entry>oment</entry>
-        <entry>backend</entry>
-        <entry>cookie</entry>
-        <entry>app</entry>
-        <entry>stati</entry>
-        <entry>prices</entry>
-        <entry>update</entry>
-        <entry>error</entry>
-        <entry>rName</entry>
-        <entry>customer_id</entry>
-        <entry>customer(</entry>
         <entry>ilter</entry>
         <entry>this\.filters</entry>
         <entry>v-on</entry>
+        <entry>component</entry>
+        <entry>picker</entry>
+        <entry>DE</entry>
+        <entry>i18n</entry>
+        <entry>ktober</entry>
+        <entry>Januar</entry>
+        <entry>Januar&quot;</entry>
+        <entry>Oktober</entry>
+        <entry>props</entry>
+        <entry>Today</entry>
+        <entry>toda</entry>
+        <entry>thisMonth</entry>
+        <entry>presetRanges</entry>
+        <entry>today</entry>
+        <entry>presetRangeLabel</entry>
+        <entry>presetRange</entry>
+        <entry>preset-ranges</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
