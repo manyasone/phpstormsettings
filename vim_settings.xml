@@ -5,6 +5,15 @@
       <mark key="M" line="13" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Controlling/AssignmentController.php" timestamp="1563811713595">
+        <mark key="'" line="115" column="58" />
+        <mark key="[" line="129" column="94" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/web/mt/resources/views/backend/crud/edit/station.blade.php" timestamp="1563452671150">
+        <mark key="[" line="24" column="16" />
+      </file>
       <file name="/a.dummy" timestamp="1563809631157">
         <mark key="[" line="0" column="0" />
       </file>
@@ -15,60 +24,6 @@
         <mark key="." line="255" column="40" />
         <mark key="^" line="255" column="40" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/app/User.php" timestamp="1563806038005">
-        <mark key="'" line="229" column="48" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1563808935075">
-        <mark key="'" line="141" column="47" />
-        <mark key="[" line="566" column="0" />
-        <mark key="]" line="566" column="97" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1563379130428">
-        <mark key="'" line="112" column="6" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/Models/Settings/Office.php" timestamp="1563370113756">
-        <mark key="[" line="98" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/web/mt/resources/js/backend_old/components/maindata/mainData.vue" timestamp="1563794080026">
-        <mark key="'" line="37" column="37" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="203" column="14" />
-      </file>
-      <file name="$USER_HOME$/git/web/mt/database/seeds/UsersTableSeeder.php" timestamp="1563792600375">
-        <mark key="[" line="76" column="42" />
-        <mark key="]" line="77" column="23" />
-        <mark key="." line="77" column="23" />
-        <mark key="^" line="77" column="23" />
-      </file>
-      <file name="$USER_HOME$/git/web/mt/resources/js/backend/components/station/overview/Prices.vue" timestamp="1563437589338">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="9" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/web/mt/app/Services/GeoComputing.php" timestamp="1563440091516">
-        <mark key="'" line="25" column="27" />
-        <mark key="[" line="23" column="46" />
-        <mark key="]" line="23" column="71" />
-        <mark key="^" line="23" column="71" />
-        <mark key="." line="23" column="71" />
-      </file>
-      <file name="$USER_HOME$/git/web/mt/resources/js/backend/components/station/main_data/AdditionalData.vue" timestamp="1563795007871">
-        <mark key="a" line="15" column="58" />
-        <mark key="'" line="140" column="8" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="125" column="59" />
-      </file>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Controlling/AssignmentController.php" timestamp="1563811713595">
-        <mark key="'" line="115" column="58" />
-        <mark key="[" line="129" column="94" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/web/mt/resources/views/backend/crud/edit/station.blade.php" timestamp="1563452671150">
-        <mark key="[" line="24" column="16" />
-      </file>
       <file name="$USER_HOME$/git/web/mt/app/Models/Stations/Station.php" timestamp="1563455650017">
         <mark key="'" line="129" column="9" />
       </file>
@@ -78,12 +33,16 @@
       <file name="$USER_HOME$/git/web/mt/database/factories/StationDetailFactory.php" timestamp="1563458447027">
         <mark key="[" line="6" column="46" />
       </file>
+      <file name="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" timestamp="1563861891278" />
       <file name="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" timestamp="1563382952216">
         <mark key="'" line="36" column="65" />
         <mark key="[" line="174" column="71" />
         <mark key="]" line="174" column="97" />
         <mark key="." line="174" column="90" />
         <mark key="^" line="174" column="90" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/User.php" timestamp="1563806038005">
+        <mark key="'" line="229" column="48" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/js/components/PieTablePair.vue" timestamp="1563813281314">
         <mark key="'" line="25" column="43" />
@@ -99,22 +58,32 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/git/web/mt/resources/js/backend/components/station/main_data/MainData.vue" timestamp="1563790798332">
-        <mark key="'" line="3" column="40" />
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="162" column="14" />
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/AssignmentCrudController.php" timestamp="1563808935075">
+        <mark key="'" line="141" column="47" />
+        <mark key="[" line="566" column="0" />
+        <mark key="]" line="566" column="97" />
+      </file>
+      <file name="$USER_HOME$/git/web/mt/resources/js/backend/components/station/main_data/MainData.vue" timestamp="1563862225934">
+        <mark key="'" line="135" column="71" />
+        <mark key="[" line="168" column="47" />
+        <mark key="]" line="68" column="52" />
         <mark key="^" line="165" column="49" />
-        <mark key="." line="165" column="49" />
+        <mark key="." line="68" column="52" />
       </file>
       <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/CrudPanel.php" timestamp="1563804219269">
         <mark key="'" line="62" column="41" />
+      </file>
+      <file name="$USER_HOME$/git/web/studi/app/Models/Assignment.php" timestamp="1563379130428">
+        <mark key="'" line="112" column="6" />
       </file>
       <file name="$USER_HOME$/git/web/studi/resources/js/components/PieChart.vue" timestamp="1563813956979">
         <mark key="[" line="16" column="43" />
         <mark key="]" line="16" column="43" />
         <mark key="." line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/git/web/studi/vendor/backpack/crud/src/app/Http/Controllers/Operations/ListOperation.php" timestamp="1563809197210" />
+      <file name="$USER_HOME$/git/web/studi/app/Models/Settings/Office.php" timestamp="1563370113756">
+        <mark key="[" line="98" column="5" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/resources/lang/de/validation.php" timestamp="1563810246487">
         <mark key="[" line="264" column="9" />
         <mark key="]" line="264" column="9" />
@@ -128,18 +97,49 @@
         <mark key="^" line="39" column="61" />
         <mark key="." line="162" column="0" />
       </file>
+      <file name="$USER_HOME$/git/web/mt/resources/js/backend_old/components/maindata/mainData.vue" timestamp="1563794080026">
+        <mark key="'" line="37" column="37" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="203" column="14" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/config/app.php" timestamp="1563362451570">
         <mark key="[" line="80" column="21" />
       </file>
-      <file name="$USER_HOME$/git/web/mt/app/Http/Controllers/Admin/StationCrudController.php" timestamp="1563793180148">
-        <mark key="'" line="161" column="44" />
+      <file name="$USER_HOME$/git/web/mt/app/Http/Controllers/Admin/StationCrudController.php" timestamp="1563862257637">
+        <mark key="'" line="210" column="43" />
         <mark key="[" line="212" column="32" />
         <mark key="]" line="212" column="64" />
         <mark key="." line="212" column="64" />
         <mark key="^" line="212" column="64" />
       </file>
+      <file name="$USER_HOME$/git/web/mt/database/seeds/UsersTableSeeder.php" timestamp="1563792600375">
+        <mark key="[" line="76" column="42" />
+        <mark key="]" line="77" column="23" />
+        <mark key="." line="77" column="23" />
+        <mark key="^" line="77" column="23" />
+      </file>
       <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Controlling/WorkingHoursController.php" timestamp="1563811918860">
         <mark key="'" line="113" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/web/mt/resources/js/backend/components/station/overview/Prices.vue" timestamp="1563437589338">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/web/mt/app/Services/GeoComputing.php" timestamp="1563440091516">
+        <mark key="'" line="25" column="27" />
+        <mark key="[" line="23" column="46" />
+        <mark key="]" line="23" column="71" />
+        <mark key="^" line="23" column="71" />
+        <mark key="." line="23" column="71" />
+      </file>
+      <file name="$USER_HOME$/git/web/mt/resources/js/backend/components/station/main_data/AdditionalData.vue" timestamp="1563862722774">
+        <mark key="a" line="15" column="58" />
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="77" column="31" />
       </file>
       <file name="$USER_HOME$/git/web/mt/app/Http/Controllers/Backend/Api/StationController.php" timestamp="1563456109175">
         <mark key="'" line="310" column="0" />
@@ -155,12 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Controlling/AssignmentController.php" />
-      <jump line="183" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Controlling/AssignmentController.php" />
-      <jump line="34" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Controlling/AssignmentController.php" />
-      <jump line="10" column="15" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Controlling/BaseController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Controlling/BaseController.php" />
-      <jump line="200" column="4" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
       <jump line="589" column="36" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
       <jump line="36" column="65" filename="$USER_HOME$/git/web/studi/resources/views/vendor/backpack/base/inc/sidebar_content.blade.php" />
       <jump line="112" column="6" filename="$USER_HOME$/git/web/studi/app/Models/Assignment.php" />
@@ -255,64 +249,70 @@
       <jump line="131" column="52" filename="$USER_HOME$/git/web/studi/resources/js/components/PieTablePair.vue" />
       <jump line="11" column="44" filename="$USER_HOME$/git/web/studi/resources/js/components/PieTablePair.vue" />
       <jump line="25" column="43" filename="$USER_HOME$/git/web/studi/resources/js/components/PieTablePair.vue" />
+      <jump line="87" column="48" filename="$USER_HOME$/git/web/mt/resources/js/backend/components/station/main_data/MainData.vue" />
+      <jump line="135" column="71" filename="$USER_HOME$/git/web/mt/resources/js/backend/components/station/main_data/MainData.vue" />
+      <jump line="210" column="43" filename="$USER_HOME$/git/web/mt/app/Http/Controllers/Admin/StationCrudController.php" />
+      <jump line="17" column="26" filename="$USER_HOME$/git/web/mt/resources/js/backend/components/station/main_data/AdditionalData.vue" />
+      <jump line="77" column="31" filename="$USER_HOME$/git/web/mt/resources/js/backend/components/station/main_data/AdditionalData.vue" />
+      <jump line="115" column="0" filename="$USER_HOME$/git/web/mt/resources/js/backend/components/station/main_data/AdditionalData.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.config</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>.config</text>
+        <text encoding="base64">ID09IHRydWU=</text>
       </register>
       <register name="/" type="4">
-        <text>ption</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhKCkgewogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgb3B0aW9uczogewogICAgICAgICAgICAgICAgICAgIGxlZ2VuZDogJ2JvdHRvbSwnLAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucmVuZGVyQ2hhcnQoZGF0YSwgdGhpcy5jb25maWcub3B0aW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZm9ybWF0UGhvbmVOdW1iZXInKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZpZzogewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucmVuZGVyQ2hhcnQoZGF0YSwgdGhpcy5jb25maWcub3B0aW9ucyk7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXFNlZWRlcjsKdXNlIFNwYXRpZVxQZXJtaXNzaW9uXE1vZGVsc1xSb2xlOwoKY2xhc3MgVXNlcnNUYWJsZVNlZWRlciBleHRlbmRzIFNlZWRlcgp7CgogICAgLyoqCiAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVuKCkKICAgIHsKICAgICAgICAkcm9sZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2FkbWluJyA9PiBSb2xlOjpmaW5kQnlOYW1lKCdhZG1pbicpCiAgICAgICAgXSk7CgogICAgICAgICRkZWZhdWx0VXNlcnMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgWydPbGl2ZXInLCAnWmllZ2xlcicsICdvbGl2ZXIuemllZ2xlckB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTYwMTU4NzI5NyddLAogICAgICAgICAgICBbJ01hdXJpY2UnLCAnU3dpbW0nLCAnbWF1cmljZS5zd2ltbUB3ZWJmYWN0b3IuZGUnLCAnKzQ5MTc2MjQ2NzAzODUnXSwKICAgICAgICAgICAgWydUaG9tYXMnLCAnU3dvbmtlJywgJ3Rob21hcy5zd29ua2VAd2ViZmFjdG9yLmRlJywgJys0OTE3OTkwODYzNzQnXSwKICAgICAgICAgICAgWydDaHJpc3RpYW4nLCAnS2FzcGVyYmF1ZXInLCAnY2hyaXN0aWFuLmthc3BlcmJhdWVyQHdlYmZhY3Rvci5kZScsICcrNDkxNzYyMzE1MjgxOSddLAogICAgICAgICAgICBbJ1N2ZW4nLCAnVmFuIEdlbGRlcicsICdzdmVuLnZhbi5nZWxkZXJAd2ViZmFjdG9yLmRlJywgJys0OTE3NjMxMjAxMDkyJ10sCiAgICAgICAgICAgIFsnQXN0cmlkJywgJ0Zpc2NoZXInLCAnYXN0cmlkLmZpc2NoZXJAd2ViZmFjdG9yLmRlJywgJys0OTE1MTE3OTA3MjI4J10sCiAgICAgICAgICAgIFsnUGV0ZXInLCAnV2Fzc2VybWFubicsICdwZXRlci53YXNzZXJtYW5uQHdlYmZhY3Rvci5kZScsICcrNDkxNTEyMzgwNzg3NiddLAogICAgICAgICAgICBbJ1NpbW9uJywgJ0x1ZHdpZycsICdzaW1vbi5sdWR3aWdAd2ViZmFjdG9yLmRlJywgJys0OTE2MzE4NzcyOTQnXSwKICAgICAgICBdKTsKICAgICAgICAka2V5cyA9IGNvbGxlY3QoWydmb3JlbmFtZScsICdzdXJuYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ3Bhc3N3b3JkJywgJ2FjdGl2ZSddKTsKICAgICAgICAkcGFzcyA9IGJjcnlwdCgndGVzdDEyMycpOwoKICAgICAgICAkZGVmYXVsdFVzZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB1c2UgKCRrZXlzLCAkcGFzcykgewogICAgICAgICAgICAkdXNlclsncGFzc3dvcmQnXSA9ICRwYXNzOwogICAgICAgICAgICAkdXNlclsnYWN0aXZlJ10gPSAxOwogICAgICAgICAgICByZXR1cm4gJGtleXMtPmNvbWJpbmUoJHVzZXIpLT50b0FycmF5KCk7CiAgICAgICAgfSktPmVhY2goZnVuY3Rpb24gKCR1c2VyZGF0YSkgdXNlICgkcm9sZXMpIHsKICAgICAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFxBcHBcTW9kZWxzXFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJHVzZXJkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlcmRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICAgICAnZXh0cmFzJyAgID0+IGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICAgICAnZm9yZW5hbWUnID0+ICR1c2VyZGF0YVsnZm9yZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgICAnc3VybmFtZScgID0+ICR1c2VyZGF0YVsnc3VybmFtZSddLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgPT4gJHVzZXJkYXRhWydwaG9uZSddCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hc3NpZ25Sb2xlKCRyb2xlcyk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGRpc3BsYXk6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZpZzogewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvcHRpb25zOiAnLCB0aGlzLm9wdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGRpc3BsYXk6IGZhbHNlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wczogewogICAgICAgICAgICBjaGFydGRhdGE6IHsKICAgICAgICAgICAgICAgIHR5cGU6IE9iamVjdCwKICAgICAgICAgICAgICAgIGRlZmF1bHQ6IG51bGwsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgIHR5cGU6IE9iamVjdCwKICAgICAgICAgICAgICAgIGRlZmF1bHQ6ICgpID0+IHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgICAgICAgICBsZWdlbmQ6ICdib3R0b20sJwogICAgICAgICAgICAgICAgICAgIH07CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9LAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wczogewogICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgICB0eXBlOiBPYmplY3QsCiAgICAgICAgICAgICAgICBkZWZhdWx0OiAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICAgICB9OwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgfSwKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvcHRpb25zOiAnLCB0aGlzLm9wdGlvbnMpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgICAgICBsZWdlbmQ6ICdib3R0b20sJywKICAgICAgICAgICAgICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9wczogewogICAgICAgICAgICBjaGFydGRhdGE6IHsKICAgICAgICAgICAgICAgIHR5cGU6IE9iamVjdCwKICAgICAgICAgICAgICAgIGRlZmF1bHQ6IG51bGwsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgIHR5cGU6IE9iamVjdCwKICAgICAgICAgICAgICAgIGRlZmF1bHQ6ICgpID0+IHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgICAgICAgICBsZWdlbmQ6ICdib3R0b20sJwogICAgICAgICAgICAgICAgICAgIH07CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9LAogICAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/company/job/g</text>
       </register>
     </registers>
     <search>
-      <last-search>ption</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>ption</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>job</last-replace>
       <last-substitute>company</last-substitute>
       <last-dir>1</last-dir>
@@ -320,10 +320,6 @@
     </search>
     <history>
       <history-search>
-        <entry>additional</entry>
-        <entry>parse</entry>
-        <entry>direkt</entry>
-        <entry>filter</entry>
         <entry>phone</entry>
         <entry>all</entry>
         <entry>User</entry>
@@ -340,6 +336,10 @@
         <entry>columns</entry>
         <entry>render</entry>
         <entry>ption</entry>
+        <entry>==</entry>
+        <entry>parse</entry>
+        <entry>!!</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>{</entry>
