@@ -5,11 +5,12 @@
       <mark key="M" line="13" column="65" filename="$USER_HOME$/git/web/ophelo/resources/views/frontend/contact/nested/contact.blade.php" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Controlling/AssignmentController.php" timestamp="1563811713595">
+      <file name="$USER_HOME$/git/web/studi/app/Http/Controllers/Admin/Controlling/AssignmentController.php" timestamp="1563863118706">
         <mark key="'" line="115" column="58" />
-        <mark key="[" line="129" column="94" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
+        <mark key="[" line="121" column="62" />
+        <mark key="]" line="121" column="29" />
+        <mark key="." line="121" column="29" />
+        <mark key="^" line="121" column="29" />
       </file>
       <file name="$USER_HOME$/git/web/mt/resources/views/backend/crud/edit/station.blade.php" timestamp="1563452671150">
         <mark key="[" line="24" column="16" />
@@ -257,11 +258,11 @@
       <jump line="115" column="0" filename="$USER_HOME$/git/web/mt/resources/js/backend/components/station/main_data/AdditionalData.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>$dateIndex ? 'asc' : 'desc'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09IHRydWU=</text>
+        <text>$dateIndex ? 'asc' : 'desc'</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
