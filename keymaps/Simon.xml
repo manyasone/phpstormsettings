@@ -111,7 +111,7 @@
     <keyboard-shortcut first-keystroke="windows" second-keystroke="l" />
   </action>
   <action id="Macro.Create CR">
-    <keyboard-shortcut first-keystroke="windows" second-keystroke="r" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="Macro.Optimize and stage all VCS changed files.">
     <keyboard-shortcut first-keystroke="shift alt s" />
@@ -138,6 +138,7 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="Replace" />
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
