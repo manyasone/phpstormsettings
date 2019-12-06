@@ -7,6 +7,10 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateReviewsToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="g" />
   </action>
@@ -56,6 +60,7 @@
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EditorToggleCase" />
   <action id="EditorUnSelectWord" />
   <action id="EslintImportCodeStyle">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="a" />
@@ -93,6 +98,9 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
@@ -101,6 +109,9 @@
   <action id="IntroduceVariable" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="l" />
+  </action>
+  <action id="Macro.Create CR">
+    <keyboard-shortcut first-keystroke="windows" second-keystroke="r" />
   </action>
   <action id="Macro.Optimize and stage all VCS changed files.">
     <keyboard-shortcut first-keystroke="shift alt s" />
@@ -137,6 +148,7 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
     <keyboard-shortcut first-keystroke="windows" second-keystroke="n" />
@@ -152,6 +164,9 @@
   </action>
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
+  <action id="Upsource.ReviewChanges">
+    <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="VcsShowNextChangeMarker" />

@@ -22,5 +22,10 @@
       <action id="GotoAction" />
       <shortuct text="ENTER" />
     </macro>
+    <macro name="Create CR">
+      <action id="ActivateVersionControlToolWindow" />
+      <shortuct text="HOME" />
+      <action id="Upsource.ReviewChanges" />
+    </macro>
   </component>
 </application>
